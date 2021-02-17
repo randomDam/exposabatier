@@ -1,0 +1,23 @@
+.divFig{
+  transition: 0.5s;
+  position:absolute;
+  display:inline-block;
+  width:400px;
+  height:auto;
+  
+  border:solid 6px black; /*DarkSlateGrey;*/
+}
+
+.imgFig{
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:400px;
+  height:auto;
+  
+  filter: brightness(90%);
+}
+
+.imgFig:hover{
+  filter: brightness(100%);
+}
