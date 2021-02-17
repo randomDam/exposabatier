@@ -3,7 +3,7 @@ var tableCopy;
 //------------------------------------------------------------------
 //HTML Chargé
 //------------------------------------------------------------------
-var mainHTML="__Chap1.html";
+var mainHTML="__Tout.html";
 
 //------------------------------------------------------------------
 // SETUP [ une fois que la page prête ]
@@ -41,7 +41,7 @@ $(document).ready(function() {
     for (var i=0;i<tabC4.length;i++){
       tabC4[i].remove();
       var c3 = tabC4[i].getElementsByClassName("Contents3");
-      
+
       console.log(tabC4[i]);
       console.log(c3.length);
     }
@@ -79,19 +79,19 @@ $(document).ready(function() {
 					} else {
 
 						if(store.length>0){
-              
+
             //wrap(allElem[i].children[0],"ul");
 						var wrapper = document.createElement("ul");
             wrapper.classList.add("lvl3");
-            
+
 						allElem[i].parentNode.insertBefore(wrapper, allElem[i]);
 						wrapper.appendChild(allElem[i].children[0]);
 						allElem[i].remove();
-            
+
 						for (var j = 0; j < store.length; j++) {
 							wrapper.appendChild(store[j]);
 						}
-            
+
             }
 						console.log(store);
 
@@ -113,32 +113,32 @@ $(document).ready(function() {
     //class de repère des images
     //Internet20link
     //
-    
+
   });
-  
+
   console.log("END init");
-  
-  
+
+
   //----------------------------------------------------
   //Routine des images
   //----------------------------------------------------
   //construct
-  
+
   //intervalle / draw
-  setTimeout(function(){ 
+  setTimeout(function(){
       initFig();
       initGalerie();
   },1000);
-    
+
   //intervalle / draw
-  setInterval(function(){ 
+  setInterval(function(){
     refreshFig();
   }, 500);
-  
+
   //----------------------------------------------------
-  
-  
-  setTimeout(function(){ 
+
+
+  setTimeout(function(){
       showGalerie();
       fillGalerie("http://www.fabricesabatier.com/Fig/BD/Chapitre1/complexToken.jpg");
   },1100);
@@ -151,9 +151,9 @@ $(document).ready(function() {
 //-------------------------------------------------------
 function initFig(){
   var allFigures = $(".Internet20link");
-  
+
   console.log(allFigures);
-  
+
   allFigures.click(
     function(e){
       //e.preventDefault();
@@ -161,29 +161,29 @@ function initFig(){
       fillGalerie(this.ref);
       //console.log(this.ref);
   });
-  
+
   for(var i=0;i<allFigures.length;i++){
     //console.log(allFigures[i].href);
     allFigures[i].ref=allFigures[i].href;
     allFigures[i].setAttribute("ref",allFigures[i].href);
     allFigures[i].href="javascript: void(0)";
-    
+
   }
-  
+
 }
 //-------------------------------------------------------
 //GESTION DES FIGURES [ PROCESS GENERAL ]
 //-------------------------------------------------------
 //-------------------------------------------------------
 function refreshFig(){
-  
+
   findAllFigureOnText();
   findAllFigureOnScreen();
-  
+
   compareFig();
   //createMissingFig();
-  
-  //findAllFigure(); 
+
+  //findAllFigure();
   //figuresIsOnScreen();
 }
 //-------------------------------------------------------
@@ -195,15 +195,15 @@ var margeHaute=-1000;
 var margeBasse=1000;
 
 function findAllFigureOnText(){
-    var allFigures = $(".Internet20link");  
+    var allFigures = $(".Internet20link");
     var hScreen = window.innerHeight;
     var lastRef="";
     figuresOnText = [];
-  
+
     for(var i=0;i<allFigures.length;i++){
       var f = allFigures[i];
       var y = f.getBoundingClientRect().y;
-      
+
       if(y>margeHaute && y<hScreen+margeBasse){
           //create img box
           //f.href;
@@ -229,45 +229,45 @@ function findAllFigureOnScreen(){
 //Compare
 //-------------------------------------------------------
 function compareFig(){
-  
+
   //mise a jour des coordonnées
   //ou creation d'un div image
   for(var i=0;i<figuresOnText.length;i++){
     var exist=-1;
-    
+
     for(var j=0;j<allFigOnScreen.length;j++){
       //console.log(figuresOnText[i].href+"  ==   "+allFigOnScreen[j].firstElementChild.src);
       if(figuresOnText[i].ref==allFigOnScreen[j].firstElementChild.src){
-        exist=j;      
+        exist=j;
       }
     }
-    
+
     if(exist>=0){
         allFigOnScreen[exist].style.top = figuresOnText[i].y+"px";
     }else{
         createDivImage(figuresOnText[i].ref,figuresOnText[i].y);
     }
   }
-  
-  
+
+
   //suppression de div image
   for(var j=0;j<allFigOnScreen.length;j++){
     var exist=-1;
-    
+
     for(var i=0;i<figuresOnText.length;i++){
       //console.log(figuresOnText[i].href+"  ==   "+allFigOnScreen[j].firstElementChild.src);
       if(figuresOnText[i].ref==allFigOnScreen[j].firstElementChild.src){
-        exist=i;      
+        exist=i;
       }
     }
-    
+
     if(exist>=0){
     }else{
         allFigOnScreen[j].remove();
     }
   }
-  
-  
+
+
 }
 //-------------------------------------------------------
 //GESTION DES FIGURES
@@ -285,11 +285,11 @@ function figuresIsOnScreen(){
   //hauteur de fenetre
   var hScreen = window.innerHeight;
   var lastRef="";
-  
+
   for(var i=0;i<figures.length;i++){
       var f = figures[i];
       var y = f.getBoundingClientRect().y;
-      
+
       if(y>0 && y<hScreen){
           //create img box
           //f.href;
@@ -319,40 +319,40 @@ var displayedElement = [];
 var help;
 var lastIndex=0;
 
-function createDivImage(_src,posY){  
+function createDivImage(_src,posY){
   var newDiv = document.createElement("div");
   newDiv.classList.add("divFig");
   newDiv.style.top = posY.toString()+"px";
-  
-  
+
+
   var maxWidth = $('#expo')[0].getBoundingClientRect().width;
   newDiv.style.marginLeft =  getRandom(5,maxWidth-400-5)+"px";
-  
+
   //newDiv.style.width = "400px";
-  
+
   newDiv.addEventListener('mouseover', function (e) {
     //console.log(this);
-    
+
     this.style.zIndex = lastIndex;
     lastIndex++;
   });
-  
-  
-  
+
+
+
   var path = _src;
   newDiv.addEventListener('click', function (e) {
     //console.log("click"+path);
     showGalerie();
     fillGalerie(path);
   });
-  
+
   //console.log(posY);
   //console.log(newDiv);
-  
+
   var img = document.createElement('img');
   img.src = _src;
   img.classList.add("imgFig");
-  
+
   newDiv.appendChild(img);
   // ajoute le nouvel élément créé et son contenu dans le DOM
   var currentDiv = document.getElementById('expo');
