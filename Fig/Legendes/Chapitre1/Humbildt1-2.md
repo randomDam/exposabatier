@@ -1,0 +1,2 @@
+*Fig. 1.30 :* Alexander von Humboldt, I. Tableau comparatif de l’etendue territoriale des Intendances de la Nouvelle-Espagne. II. Etendue territoriale et Population des Metropoles et des Colonies en 1804, 1804. Dans l’*Atlas géographique et physique du Royaume de la Nouvelle-Espagne*.  
+Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~1885~170023:Tableau-comparatif-de-l-etendue-ter?qvq=q:author%3D%22Humboldt%2C%2BAlexander%2Bvon%2C%2B1769-1859%22;lc:RUMSEY~8~1&mi=41&trs=118#).

@@ -1,0 +1,2 @@
+*Fig. 1.22 :* François Quesnay, troisième édition du *Tableau économique*, seconde moitié de l’année 1759.  
+Source : Loïc Charles, « The visual history of the Tableau Économique », The European Journal of the History of Economic Thought, 10:4, 2003.

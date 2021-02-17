@@ -1,0 +1,2 @@
+*Fig. 1.43 :* Diverses cartes figuratives d’Emile Cheysson publiées entre 1880 et 1900.  
+Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/view/search?q=cheysson&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&os=200).

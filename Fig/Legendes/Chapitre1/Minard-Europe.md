@@ -1,0 +1,2 @@
+*Fig. 1.40 :* Charles Minard, *Carte Figurative et Approximative du Mouvement des Voyageyrs sur les principaux Chemins de Fer de l’Europe en 1862*, 1865.  
+Source : [gallica.bnf.fr / BnF](https://gallica.bnf.fr/ark:/12148/btv1b53093063v), Domaine public.

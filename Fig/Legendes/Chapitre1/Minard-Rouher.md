@@ -1,0 +1,2 @@
+*Fig. 1.36 :* Carte de Charles Joseph Minard apparaissant en arrière plan du portrait de M. Rouher : *Carte figurative et approximative des tonnages de marchandises qui ont circulé en 1857 sur les voies d’eau et de fer de l’Empire français*, 1858.  
+Source : [gallica.bnf.fr / BnF](https://gallica.bnf.fr/ark:/12148/btv1b53062293k#), Domaine public.

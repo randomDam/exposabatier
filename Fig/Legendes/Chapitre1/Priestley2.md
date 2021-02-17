@@ -1,0 +1,2 @@
+*Fig. 1.17 :* Joseph Priestley, *A Chart of Biography*, 1765.  
+Source : University of Oregon, [Infographics](https://pages.uoregon.edu/infographics/timeline/pages/biography/img/Chart_of_biography.jpg).

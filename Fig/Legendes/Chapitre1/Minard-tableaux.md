@@ -1,0 +1,2 @@
+*Fig. 1.38 :* Charles Minard, *Tableau figuratif du mouvement commercial du Canal du Centre en 1844.*  
+Source : The New York Public Library, [Digital Collections](https://digitalcollections.nypl.org/items/d8979ef0-ee85-0131-9ccb-58d385a7bbd0), Domaine public.

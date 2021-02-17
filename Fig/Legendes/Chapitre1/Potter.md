@@ -1,0 +1,2 @@
+*Fig. 1.10 :* Paulus Potter, *Jeune taureau*, 1647. Mauritshuis, La Haye.  
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/Paulus_Potter#/media/Fichier:Paulus_Potter_-_De_Stier.jpg), Domaine public.

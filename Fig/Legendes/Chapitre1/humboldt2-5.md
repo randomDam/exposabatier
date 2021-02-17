@@ -1,0 +1,2 @@
+*Fig. 1.33 :* Alexander von Humboldt, *Géographie des plantes équinoxiales.*  
+Source : Humboldt State University, Robert A. Paselk Scientific Instrument Museum, [Alexander von Humboldt’s Latin American Expedition (1799–1804)](https://www2.humboldt.edu/scimus/AvH_HSU_Centenial%20Exhibit/AvH_ChimPrnt.htm).

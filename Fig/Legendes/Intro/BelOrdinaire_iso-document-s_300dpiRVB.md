@@ -1,0 +1,2 @@
+*Fig. 0.4 :* Fabrice Sabatier, *Vi(c)e organique*, 2017. VUe de l'exposition .CORP, *Dé-dissimulation*, au Bel Ordinaire de Pau (décembre 2018 - février 2019). Parcours dans les réseaux d'influence européens pour la définition des objectifs environnementaux à l'horizon 2030. Pièce réalisée à partir de données élaborées par Stefano Battiston / SIMPOL Project et Fabrice Sabatier. (Source des données : Transparency Register et autres), développé par Axel Correia et Skoli et soutenu par la Cellule Arts numériques de la Fédération Wallonie-Bruxelles.  
+Source : © iso-document.s.

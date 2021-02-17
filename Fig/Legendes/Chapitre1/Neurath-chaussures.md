@@ -1,0 +1,2 @@
+*Fig. 1.57 :* Une méthode de combinaison de pictogrammes de l’Isotype.  
+Source : Nepthys Zwer, « L’argument visuel et le bonheur : l’Isotype d’Otto Neurath ». [*Visionscarto*](https://visionscarto.net/argument-visuel-et-bonheur).

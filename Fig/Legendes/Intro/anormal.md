@@ -1,0 +1,2 @@
+*Fig. 0.1 :* « Non au retour à l’anormal ». Exemple d’une des nombreuses banderoles qui ont fleuri à Bruxelles au moment du confinement du printemps 2020. Photo prise à Schaerbeek le 3 mai 2020.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

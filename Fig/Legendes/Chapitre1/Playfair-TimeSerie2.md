@@ -1,0 +1,2 @@
+*Fig. 1.15 :* William Playfair, *Exports & Imports to and from North-America*. Dans *Commercial and Political Atlas*, 1786.  
+Source : Princeton University Library, [Sociology and Economics ("Moral Statistics").](https://library.princeton.edu/visual_materials/maps/websites/thematic-maps/quantitative/sociology-economics/sociology-economics.html)

@@ -1,0 +1,2 @@
+*Fig. 1.32 :* Alexander von Humboldt, *Cuadro fisico de las Islas Canarias, Geografia de las Plantas de Tenerife*, 1817. Dans *Atlas geographique et physique des regions equinoxiales du nouveau continent, fonde sur des observations astronomiques, des mesures trigonometriques et des nivellemens barometriques.*  
+Source : Yale University Library, [Digital Collections](https://collections.library.yale.edu/catalog/2030913), Domaine public.

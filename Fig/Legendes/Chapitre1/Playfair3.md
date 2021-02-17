@@ -1,0 +1,2 @@
+*Fig. 1.19 :* William Playfair, *Chart of Universal Commercial History from the Year 1500 before the Christian Era to the present Year 1805*. Dans *An inquiry into the permanent causes of the decline and fall of powerful and wealthy nations*, 1805.  
+Source : Jurgen Symanzik, William Fischetti, Ian Spence, [« Editorial: Commemorating William Playfair’s 250th Birthday »](https://math.usu.edu/~symanzik/papers/2009_cost/editorial.html), *Computational Statistics* 24(4), 2009.

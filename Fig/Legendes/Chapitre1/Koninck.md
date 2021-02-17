@@ -1,0 +1,2 @@
+*Fig. 1.11 :* Philip de Koninck, *Paysage panoramique*, 1665.   
+Source : J. Paul Getty Museum, Los Angeles, [Wikipedia](https://fr.wikipedia.org/wiki/Philips_Koninck#/media/Fichier:A_Panoramic_Landscape_by_Philips_Koninck,_Getty_Center.JPG), Domaine public.

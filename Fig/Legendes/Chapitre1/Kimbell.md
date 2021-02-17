@@ -1,0 +1,2 @@
+*Fig. 1.8 :* Lucy Kimbell et Andrew Barry, *Pindices (Personal Political Indices)*, 2005.  
+Source : Lucy Kimbell, [Pindices (Personal Political Indices)](http://www.lucykimbell.com/LucyKimbell/Pindices.html), © Lucy Kimbell.

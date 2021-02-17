@@ -1,0 +1,2 @@
+*Fig. 1.13 :* John Graunt, *The Table of Casualties from Natural and Political Observations on Bills of Mortality*, 1662.  
+Source : [Wikipedia](https://en.wikipedia.org/wiki/John_Graunt#/media/File:Table_of_Casualties_in_Natural_and_Political_Observations_Made_Upon_the_Bills_of_Mortality.jpg), Domaine public.

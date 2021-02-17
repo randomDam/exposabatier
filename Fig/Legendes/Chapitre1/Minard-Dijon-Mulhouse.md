@@ -1,0 +1,2 @@
+*Fig. 1.39 :* Charles Minard, *Carte de la circulation des voyageurs par Voitures Publiques sur les routes de la contrée où sera placé le Chemin de Fer de Dijon à Mulhouse*, 1845. Première carte de flux de Minard.  
+Source : Sandra Rendgen, « Les cinquante cartes de Charles-Joseph Minard », dans [*visionscarto*](https://visionscarto.net/charles-joseph-minard-cinquante-cartes). Reproduction provenant de l’École nationale des Ponts et Chaussées, Paris.

@@ -1,0 +1,2 @@
+*Fig. 1.6 :* À gauche, tablette avec une ligne de quatre signes circulaires suivie d’une ligne de quatre signes coniques étroits (Godin Tepe). À droite, tablette avec trois grands signes coniques, une marque circulaire peu profonde et quatre marques circulaires profondes (Suse, Iran).  
+Source : Denise Schmandt-Besserat, *How Writing Came About*. Austin : University of Texas Press, 1992. À gauche : © T. Cuyler Young, Jr. À droite : © Musée du Louvre, Département des Antiquités Orienales.

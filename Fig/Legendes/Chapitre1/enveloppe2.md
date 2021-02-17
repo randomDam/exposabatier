@@ -1,0 +1,2 @@
+*Fig. 1.5 :* Bulle-enveloppe et son contenu de Suse, Iran, vers 3300 av. J.-C. Chaque disque lenticulaire représente un troupeau (peutêtre 10 animaux). Les cônes représentent des mesures de grain (grandes ou petites).  
+Source : Frank J. Swetz, [« Mathematical Treasure: Mesopotamian Accounting Tokens »,](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-mesopotamian-accounting-tokens) Mathematical Association of America © Denise Schmandt-Besserat and Musée du Louvre, Département des Antiquités Orientales.

@@ -1,0 +1,2 @@
+*Fig. 1.23 :* François Quesnay, frontispice de *Elements de la philosophie rurale*, 1767.  
+Source : Loïc Charles, « The visual history of the Tableau Économique », The European Journal of the History of Economic Thought, 10:4, 2003.

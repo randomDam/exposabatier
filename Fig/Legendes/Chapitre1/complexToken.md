@@ -1,0 +1,2 @@
+*Fig. 1.3 :* Jetons complexes et jetons perforés. Suse, Iran.  
+Source : Denise Schmandt-Besserat, *How Writing Came About*. Austin : University of Texas Press, 1992, © Musée du Louvre, Département des Antiquités Orientales.

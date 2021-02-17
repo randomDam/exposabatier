@@ -1,0 +1,2 @@
+*Fig. 1.9 :* Golan Levin, Kamal Nigam, and Jonathan Feinberg, *The Dumpster*, 2006.  
+Source : [Whitney Museum of America Art](https://whitney.org/exhibitions/the-dumpster), © Golan Levin, Kamal Nigam, and Jonathan Feinberg.

@@ -1,0 +1,2 @@
+*Fig. 1.12 :* Abraham van Beyeren, *Nature morte avec paysage*, 1650.
+Source : Hohenbuchau Collection, on permanent loan to Liechtenstein, The Princely Collections, Vienna, [Wikimedia](https://commons.wikimedia.org/wiki/Abraham_van_Beijeren#/media/File:'Banquet_Still_Life'_by_Abraham_van_Beyeren.jpg), Domaine public.

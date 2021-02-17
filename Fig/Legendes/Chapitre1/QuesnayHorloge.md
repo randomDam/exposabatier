@@ -1,0 +1,2 @@
+*Fig. 1.25 :* Horloge à bille de Grollier (gravure de Grollier, 1719).  
+Source : Loïc Charles, « The visual history of the Tableau Économique », The European Journal of the History of Economic Thought, 10:4, 2003.

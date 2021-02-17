@@ -1,0 +1,2 @@
+*Fig. 1.67 :* Edward Tufte, *Median number of entries in data matrices for statistical graphics in various publication*, 2003.  
+Source : Edward Tufte, *The Cognitive Style of PowerPoint : Pitching Out Corrupts Within*. Chesrire, Connecticut : Graphics Press LLC, 2006. © Edward Tufte.

@@ -1,0 +1,2 @@
+*Fig. 1.41 :* Florence Nightingale, *Diagram of the causes of mortality in the army in the East*, 1858.  
+Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~327826~90096398:Diagram-of-the-Causes-of-Mortality-?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Florence%20Nightingale;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=1&trs=10#).

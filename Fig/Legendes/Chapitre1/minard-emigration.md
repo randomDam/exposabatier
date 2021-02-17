@@ -1,0 +1,2 @@
+*Fig. 1.54 :* Charles Minard, *Carte figurative et approximative représentant pour l’année 1858 les émigrants du globe.*  
+Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~304729~90075291:Carte-figurative---1858-les-%C3%A9migran?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Minard;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=11&trs=690).

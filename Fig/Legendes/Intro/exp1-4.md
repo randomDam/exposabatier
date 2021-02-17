@@ -1,0 +1,2 @@
+*Fig. 0.3 :* Fabrice Sabatier, *Explore the Lobby Network in Finance and Climate*, 2015. Visualisation du réseau de lobbying formé par les organisations concernées par la régulation financière ou par les objectifs environnementaux, dans les institutions européennes. Projet réalisé à partir de données élaborées par Stefano Battiston, Ann Zeng / SIMPOL Project. (Source des données : Transparency Register, Orbis Database) et développé avec l'aide de Damien Baïs/.CORP.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

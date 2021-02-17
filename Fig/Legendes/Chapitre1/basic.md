@@ -1,0 +1,2 @@
+*Fig. 1.59 :* Otto Neurath, *Basic by Isotype*, 1937.  
+Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 

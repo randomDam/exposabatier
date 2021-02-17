@@ -1,0 +1,2 @@
+*Fig. 1.20 :* William Playfair, *Chart Showing at One View the Price of the Quarter of Wheat, and Wages of Labour by the Week, from 1565 to 1821*. 1821.  
+Source : Yvonne Jansen, [Physical and tangible information visualization](https://www.researchgate.net/publication/281533761_Physical_and_tangible_information_visualization), Thèse, Université Paris Sud - Paris XI, 2014.

@@ -1,0 +1,2 @@
+*Fig. 1.58 :* Otto Neurath et al., Diagrammes sur l’évolution de la Terre et des civilisations.  
+Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.

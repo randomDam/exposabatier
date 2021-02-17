@@ -1,0 +1,2 @@
+*Fig. 1.4 :* Bulle-enveloppe avec sceau et ses jetons de comptabilité, période d’Uruk récent, provenant de Suse.  
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/Bulle-enveloppe#/media/File:Accountancy_clay_envelope_Louvre_Sb1932.jpg), Domaine public.

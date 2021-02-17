@@ -1,0 +1,2 @@
+*Fig. 1.16 :* William Playfair, *Exports and Imports of Scotland to and from different parts for one Year from Christmas 1780 to Christmas 1781*. Dans *The Commercial and Political Atlas,* 1786 (3th ed. edition 1801).  
+Source : [Wikimedia](https://commons.wikimedia.org/wiki/File:1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg), Domaine public.

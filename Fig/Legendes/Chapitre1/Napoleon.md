@@ -1,0 +1,2 @@
+*Fig. 1.37 :* Charles Minard, *Carte figurative des pertes successives en hommes de l’Armée française dans la campagne de Russie en 1812-1813*, 1869. La carte montre le nombre d’hommes au sein de l’armée de Napoléon lors de la campagne de Russie de 1812, leurs mouvements, ainsi que les températures encontrées lors du retour.  
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/Charles_Joseph_Minard#/media/Fichier:Minard.png), Domaine public.

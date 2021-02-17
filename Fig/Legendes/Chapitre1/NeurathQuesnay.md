@@ -1,0 +1,2 @@
+*Fig. 1.65 :* Otto Neurath et al., *Quesnay : Tableau économique*, 1931. Diagramme présenté par Neurath au World Social Economic Planning de La Haye en 1931.  
+Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 

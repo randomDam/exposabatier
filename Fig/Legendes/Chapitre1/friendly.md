@@ -1,0 +1,2 @@
+*Fig. 1.29 :* Michael Friendly, *Milestones: Time course of developments*. Distribution temporelle d’événements considérés comme des jalons dans l’histoire de la visualisation de données.  
+Source :  Michael Friendly, « A Brief History of Data Visualization », Dans Chun-houh Chen, Wolfgang Härdle, Antony Unwin, *Handbook of Data Visualization*, Berlin : Springer, 2008. © Michael Friendly.
