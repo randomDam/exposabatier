@@ -1,170 +1,177 @@
 /* CSS files add styling rules to your content */
 
 body {
-  width: auto; /*ajouté par Fab*/
-  font-family: helvetica, arial, sans-serif;
-  margin: 0em;
-  padding: 0em;
+	width: auto;
+	/*ajouté par Fab*/
+	font-family: helvetica, arial, sans-serif;
+	margin: 0em;
+	padding: 0em;
 }
 
 h1 {
-  /*font-style: italic;
+	/*font-style: italic;
   color: #373fff;*/
 }
 
 #these {
-  position: absolute;
-  display: block;
+	position: absolute;
+	display: block;
 
-  top: 0px;
-  left: 0px;
-  bottom: 0px;
-  width: 50%;/*500px,*/
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	width: 50%;
+	/*500px,*/
 
-  padding: 0px;
+	padding: 0px;
 
-  background-color: white; /*rgb(200, 200, 200);*/
+	background-color: white;
+	/*rgb(200, 200, 200);*/
 }
 
 #these #frameThese {
-  position: absolute;
-  display: block;
-  
-  top: 10px;
-  left: 20px;
-  right: 10px;
-  bottom: 10px;
-  
-  padding: 10px;
-  
-  overflow:auto;
-  
-  background-color: white; /*rgb(240, 240, 230);*/
-  
-  /*border:1px solid black;
+	position: absolute;
+	display: block;
+
+	top: 10px;
+	left: 20px;
+	right: 10px;
+	bottom: 10px;
+
+	padding: 10px;
+
+	overflow: auto;
+
+	background-color: white;
+	/*rgb(240, 240, 230);*/
+
+	/*border:1px solid black;
   */
 }
 
 
-#expo{
-  position: absolute;
-  display: block;
-  
-  top: 10px;
-  right: 10px;
-  bottom: 10px;
-  width:calc(50% - 10px);
-  
-  padding: 0px;
-  
-  overflow:hidden;
-  
-  background-color: rgb(210,210,210);
+#expo {
+	position: absolute;
+	display: block;
+
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	width: calc(50% - 10px);
+
+	padding: 0px;
+
+	overflow: hidden;
+
+	background-color: rgb(210, 210, 210);
 }
 
-#sommaire{
-  transition-duration: 0.5s;
-  position: absolute;
-  display: block;
-  
-  top: 10px;
-  left: -305px;
-  bottom: 10px;
-  width:calc(300px);
-  
-  padding: 20px;
-  /*padding-right: 50px;*/
-  
-  cursor:pointer;
-  
-  overflow-y:scroll;
-  background-color:DarkSlateGrey;
+#sommaire {
+	transition-duration: 0.5s;
+	position: absolute;
+	display: block;
+
+	top: 10px;
+	left: -305px;
+	bottom: 10px;
+	width: calc(300px);
+
+	padding: 20px;
+	/*padding-right: 50px;*/
+
+	cursor: pointer;
+
+	overflow-y: scroll;
+	background-color: DarkSlateGrey;
 }
 
-#sommaire{
-  font-family: "FFaune";
-  /*font-family: helvetica, arial, sans-serif;*/
-  color:white;
+#sommaire {
+	font-family: "FFaune";
+	/*font-family: helvetica, arial, sans-serif;*/
+	color: white;
 }
 
-#sommaire a{
- color:white; 
+#sommaire a {
+	color: white;
 }
 
-#sommaire .lvl3{
-  font-family: "FFaune";
-  /*font-family: helvetica, arial, sans-serif;*/
-  background-color:rgba(0, 0, 0, 0.3);
+#sommaire .lvl3 {
+	font-family: "FFaune";
+	/*font-family: helvetica, arial, sans-serif;*/
+	background-color: rgba(0, 0, 0, 0.3);
 }
 
 #sommaire h1 {
-  color: white;
-  font-family: "FFaune";
-  font-size:30px;
-  font-weight:normal;
+	color: white;
+	font-family: "FFaune";
+	font-size: 30px;
+	font-weight: normal;
 }
 
-#sommaire .Contents3{
-  font-family: "FFaune";
-  /*font-family: helvetica, arial, sans-serif;*/
-  background-color:rgba(0, 0, 0, 0.3);
-  color: red;
+#sommaire .Contents3 {
+	font-family: "FFaune";
+	/*font-family: helvetica, arial, sans-serif;*/
+	background-color: rgba(0, 0, 0, 0.3);
+	color: red;
 }
 
-#galerie{
-  position:absolute;
-  left:0px;
-  right:0px;
-  top:0px;
-  bottom:0px;
-  background-color:rgba(0,0,0,0.8);
-  
-  overflow:hidden;
-  
-  //border:solid 2px green;
-  
-  visibility:hidden;
-  z-index:9999999;
+#galerie {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	background-color: rgba(0, 0, 0, 0.8);
+
+	overflow: hidden;
+
+	/*
+	border:solid 2px green;
+	*/
+
+	visibility: hidden;
+	z-index: 9999999;
 }
 
-#galerie #subGalerie{
-  position:absolute;
-  left:20px;
-  right:220px;
-  top:20px;
-  bottom:20px;
-  
-  overflow:hidden;
-  
-  //border:solid 2px red;
-  
-  background-color:rgba(0,0,0,0);
+#galerie #subGalerie {
+	position: absolute;
+	left: 20px;
+	right: 220px;
+	top: 20px;
+	bottom: 20px;
+
+	overflow: hidden;
+
+	/*
+	border:solid 2px red;
+	*/
+
+	background-color: rgba(0, 0, 0, 0);
 }
 
-#galerieIMG{
-  position:absolute;
+#galerieIMG {
+	position: absolute;
 }
 
-#legende{
-  position:absolute;
-  
-  margin:0px;
-  padding:0px;
-  
-  border:solid 1px grey;
-  
-  overflow-y:auto;
-  overflow-x:hidden;
-  
-  width:200px;
-  top:20px;
-  bottom:20px;
-  right:18px;
+#legende {
+	position: absolute;
+
+	margin: 0px;
+	padding: 5px;
+
+	border: solid 0px grey;
+	color: white;
+
+	overflow-y: auto;
+	overflow-x: hidden;
+
+	width: 200px;
+	top: 20px;
+	bottom: 20px;
+	right: 18px;
 }
 
-#legende #subLegende{
-  margin:0px;
-  padding:0px;
-  
+#legende #subLegende {
+	margin: 0px;
+	padding: 0px;
 }
-
