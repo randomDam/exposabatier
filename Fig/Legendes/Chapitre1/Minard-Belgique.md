@@ -1,2 +1,2 @@
-*Fig. 1.42 :* Charles Minard, *Mouvement des marchandises en Belgique sur les chemins de fer en 1844 et sur les voies navigables en 1834 et en 1844. (Les chemins de fer ont été ouverts de 1835 à 1843)*, 1847.  
+*Fig. 1.43 :* Charles Minard, *Mouvement des marchandises en Belgique sur les chemins de fer en 1844 et sur les voies navigables en 1834 et en 1844. (Les chemins de fer ont été ouverts de 1835 à 1843)*, 1847.  
 Source : [gallica.bnf.fr / BnF](https://gallica.bnf.fr/ark:/12148/btv1b530604909.r=Belgique%20Belgique?rk=42918;4), Domaine public.

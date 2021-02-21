@@ -1,0 +1,2 @@
+*Fig. 48 :* À gauche, courbe du mouvement des corps d'Isaac Newton, 1687 ; à droite, courbe de la loi de la demande de William Stanley Jevons, 1871.   
+Source : Kate Raworth, *La théorie du Donut*. Paris : Plon, 2018. Depuis archive.org.

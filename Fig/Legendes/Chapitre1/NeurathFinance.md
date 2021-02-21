@@ -1,2 +1,2 @@
-*Fig. 1.66 :* Otto Neurath et al., *Interdépendances financières internationales*, 1931. Diagramme présenté par Neurath au World Social Economic Planning de La Haye en 1931.  
+*Fig. 1.73 :* Otto Neurath et al., *Interdépendances financières internationales*, 1931. Diagramme présenté par Neurath au World Social Economic Planning de La Haye en 1931.  
 Source : Nepthys Zwer, « L’argument visuel et le bonheur : l’Isotype d’Otto Neurath ». [*Visionscarto*](https://visionscarto.net/argument-visuel-et-bonheur).

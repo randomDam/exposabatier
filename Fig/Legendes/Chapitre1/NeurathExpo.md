@@ -1,2 +1,2 @@
-*Fig. 1.63 :* Exposition permanente du Gesellschafts-und Wirtschaftsmuseum au Volkshalle du nouvel hôtel de ville de Vienne.  
+*Fig. 1.70 :* Exposition permanente du Gesellschafts-und Wirtschaftsmuseum au Volkshalle du nouvel hôtel de ville de Vienne.  
 Source : En haut : Sophie Hochhäusl, « Otto Neurath et "l’orchestration" de la politique urbaine », dans [visionscarto](https://visionscarto.net/otto-neurath-orchestration-urbaine) ; En bas : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Images : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 

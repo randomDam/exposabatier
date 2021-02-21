@@ -1,2 +1,2 @@
-*Fig. 1.68 :* Edward Tufte, double page de *The Cognitive Style of PowerPoint* où Tufte analyse une slide d’un rapport de la NASA.  
+*Fig. 1.76 :* Edward Tufte, double page de *The Cognitive Style of PowerPoint* où Tufte analyse une slide d’un rapport de la NASA.  
 Source : Edward Tufte, *The Cognitive Style of PowerPoint : Pitching Out Corrupts Within*. Chesrire, Connecticut : Graphics Press LLC, 2006. © Edward Tufte.

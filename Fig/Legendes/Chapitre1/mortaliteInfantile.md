@@ -1,2 +1,2 @@
-*Fig. 1.64 :* Otto Neurath et al, Mortalité infantile et revenus, 1929.  
+*Fig. 1.71 :* Otto Neurath et al, Mortalité infantile et revenus, 1929.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 

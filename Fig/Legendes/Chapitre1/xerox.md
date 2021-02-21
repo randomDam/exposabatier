@@ -1,0 +1,2 @@
+*Fig. 74 :* Publicité Rank Xerox pour le poste de travail 8010 et l'imprimante 8040 avec le slogan : "Vous pouvez maintenant créer des documents avec des mots et des images", 1981.  
+Source : [Wikipedia](https://en.wikipedia.org/wiki/Xerox_Star#/media/File:Rank_Xerox_8010+40_brochure_front.jpg). © Rank Xerox.

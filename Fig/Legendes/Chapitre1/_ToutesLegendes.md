@@ -118,101 +118,125 @@ Source : Sandra Rendgen, « Les cinquante cartes de Charles-Joseph Minard », da
 *Fig. 40 :* Charles Minard, *Carte Figurative et Approximative du Mouvement des Voyageyrs sur les principaux Chemins de Fer de l’Europe en 1862*, 1865.  
 Source : [gallica.bnf.fr / BnF](https://gallica.bnf.fr/ark:/12148/btv1b53093063v), Domaine public.
 
-*Fig. 41 :* Florence Nightingale, *Diagram of the causes of mortality in the army in the East*, 1858.  
+*Fig. 41 :* Charles Minard, *Carte Figurative et approximative de l’importance des Ports Maritimes de l’Empire Français mesurée par les Tonnages effectifs des Navires entrés et sortis en 1857*, 1859.  
+Source : Reproduction provenant de l’École nationale des Ponts et Chaussées, Paris.
+
+*Fig. 42 :* Florence Nightingale, *Diagram of the causes of mortality in the army in the East*, 1858.  
 Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~327826~90096398:Diagram-of-the-Causes-of-Mortality-?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Florence%20Nightingale;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=1&trs=10#).
 
-*Fig. 42 :* Charles Minard, *Mouvement des marchandises en Belgique sur les chemins de fer en 1844 et sur les voies navigables en 1834 et en 1844. (Les chemins de fer ont été ouverts de 1835 à 1843)*, 1847.  
+*Fig. 43 :* Charles Minard, *Mouvement des marchandises en Belgique sur les chemins de fer en 1844 et sur les voies navigables en 1834 et en 1844. (Les chemins de fer ont été ouverts de 1835 à 1843)*, 1847.  
 Source : [gallica.bnf.fr / BnF](https://gallica.bnf.fr/ark:/12148/btv1b530604909.r=Belgique%20Belgique?rk=42918;4), Domaine public.
 
-*Fig. 43 :* Diverses cartes figuratives d’Emile Cheysson publiées entre 1880 et 1900.  
+*Fig. 44 :* Diverses cartes figuratives d’Emile Cheysson publiées entre 1880 et 1900.  
 Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/view/search?q=cheysson&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&os=200).
 
-*Fig. 44 :* Émile Cheysson, *Carte figurative du développement des voies de communication par département au 31 décembre 1878*. Ministère des Travaux Publics. Direction des Cartes, Plans et Archives, et de la Statistique Graphique. Juillet 1880.  
+*Fig. 45 :* Émile Cheysson, *Carte figurative du développement des voies de communication par département au 31 décembre 1878*. Ministère des Travaux Publics. Direction des Cartes, Plans et Archives, et de la Statistique Graphique. Juillet 1880.  
 Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~309764~90078941:Carte-Figurative-du-Developpment-de?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Carte%20Figurative%20du%20Developpment%20des%20Voies%20de%20Communication;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=0&trs=1).
 
-*Fig. 45 :* Émile Cheysson, *Carte figurative du développement des chemins de fer d’intérêt général au 1er, août 1880*. Ministère des Travaux Publics. Direction des Cartes, Plans et Archives, et de la Statistique Graphique. Juillet 1880.  
+*Fig. 46 :* Émile Cheysson, *Carte figurative du développement des chemins de fer d’intérêt général au 1er, août 1880*. Ministère des Travaux Publics. Direction des Cartes, Plans et Archives, et de la Statistique Graphique. Juillet 1880.  
 Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~309124~90078959:Carte-Figurative-du-Developpment-de?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:cheysson%20Carte%20Figurative%20du%20Developpment%20des%20Chemins%20de%20Fer;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=0&trs=1).
 
-*Fig. 46 :* H. L. Gantt, *Record of Work in One Room of a Worsted Mill.*  
+*Fig. 47 :* William Stanley Jevons, loi de la demande, 1871.  
+Source : William Stanley Jevons, *The Theory of Political Economy*, [The Library of Economics and Liberty](https://www.econlib.org/library/YPDBooks/Jevons/jvnPE.html?chapter_num=7#book-reader).
+
+*Fig. 48 :* À gauche, courbe du mouvement des corps d'Isaac Newton, 1687 ; à droite, courbe de la loi de la demande de William Stanley Jevons, 1871.   
+Source : Kate Raworth, *La théorie du Donut*. Paris : Plon, 2018. Depuis archive.org.
+
+*Fig. 49 :* Paul Samuelson, Diagramme du Flux circulaire, 1948.   
+Source : © Paul Samuelson.
+
+*Fig. 50 :* Le Professeur Bill Phillips et le prototype de sa machine, le MONIAC.   
+Source : LSE Library, [Wikipedia](https://de.wikipedia.org/wiki/MONIAC#/media/Datei:Phillips_and_MONIAC_LSE.jpg), No restrictions.
+
+*Fig. 51 :* Le MONIAC au London Science Museum.   
+Source : Tiia Monto, [Wikipedia](https://de.wikipedia.org/wiki/MONIAC#/media/Datei:MONIAC_computer.jpg), licence CC BY-SA 3.0.
+
+*Fig. 52 :* Diagramme du Flux circulaire dérivé de Samuelson.   
+Source : Dessiné par Marcia Mihotich dans Kate Raworth, *La théorie du Donut*. Paris : Plon, 2018. © Kate Raworth.
+
+*Fig. 53 :* H. L. Gantt, *Record of Work in One Room of a Worsted Mill.*  
 Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
 
-*Fig. 47 :* Chart room, dans l’immeuble Du Pont à Wilmington.  
+*Fig. 54 :* Chart room, dans l’immeuble Du Pont à Wilmington.  
 Source : JoAnne Yates, « Graphs as a Managerial Tool : A case Study of Du Pont’s Use of Graphs in the Early Twentieth Century », *The Journal of Business Communication*, 33, n°1, 1985.© Eleutherian Mills Historical Library.
 
-*Fig. 48 :* Michael G. Mulhall, *Food Supply*.  
+*Fig. 55 :* Michael G. Mulhall, *Food Supply*.  
 Source :  Michael G. Mulhall, *The Dictionary of Statistics*, Londres : George Routledge, 1892. 
 
-*Fig. 49 :* Willard Cope Brinton, *Number of Passengers Carried on the Railroads of the United States in 1899 and in 1911 Compared*.  
+*Fig. 56 :* Willard Cope Brinton, *Number of Passengers Carried on the Railroads of the United States in 1899 and in 1911 Compared*.  
 Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
 
-*Fig. 50 :* Otto Neurath et al., *Le chômage à Berlin*, 1929. Un pictogramme vaut pour 10 000 chômeurs.  
+*Fig. 57 :* Otto Neurath et al., *Le chômage à Berlin*, 1929. Un pictogramme vaut pour 10 000 chômeurs.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
 
-*Fig. 51 :* Otto Neurath et al., *Le chômage à Berlin*, 1931. Un pictogramme vaut pour 10 000 chômeurs.  
+*Fig. 58 :* Otto Neurath et al., *Le chômage à Berlin*, 1931. Un pictogramme vaut pour 10 000 chômeurs.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
 
-*Fig. 52 :* Otto Neurath et al., *Le chômage à Berlin*, 1932. Un pictogramme vaut pour 25 000 chômeurs.  
+*Fig. 59 :* Otto Neurath et al., *Le chômage à Berlin*, 1932. Un pictogramme vaut pour 25 000 chômeurs.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
 
-*Fig. 53 :* Otto Neurath et al., *Mouvements de population depuis et vers des pays importants 1920-1927.*  
+*Fig. 60 :* Otto Neurath et al., *Mouvements de population depuis et vers des pays importants 1920-1927.*  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
 
-*Fig. 54 :* Charles Minard, *Carte figurative et approximative représentant pour l’année 1858 les émigrants du globe.*  
+*Fig. 61 :* Charles Minard, *Carte figurative et approximative représentant pour l’année 1858 les émigrants du globe.*  
 Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~304729~90075291:Carte-figurative---1858-les-%C3%A9migran?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Minard;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=11&trs=690).
 
-*Fig. 55 :* Otto Neurath et al., Diagrammes présentant le rapport entre nombre de naissance et de décès à Vienne (pour les deux du haut), en Autriche (en bas à gauche) et Allemagne (ci-contre).  
+*Fig. 62 :* Otto Neurath et al., Diagrammes présentant le rapport entre nombre de naissance et de décès à Vienne (pour les deux du haut), en Autriche (en bas à gauche) et Allemagne (ci-contre).  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
 
-*Fig. 56 :* Gerd Arntz, série de pictogrammes du langage Isotype.  
+*Fig. 63 :* Gerd Arntz, série de pictogrammes du langage Isotype.  
 Source : © Gerd Arntz, [Web Archive](http://www.gerdarntz.org/isotype).
 
-*Fig. 57 :* Une méthode de combinaison de pictogrammes de l’Isotype.  
+*Fig. 64 :* Une méthode de combinaison de pictogrammes de l’Isotype.  
 Source : Nepthys Zwer, « L’argument visuel et le bonheur : l’Isotype d’Otto Neurath ». [*Visionscarto*](https://visionscarto.net/argument-visuel-et-bonheur).
 
-*Fig. 58 :* Otto Neurath et al., Diagrammes sur l’évolution de la Terre et des civilisations.  
+*Fig. 65 :* Otto Neurath et al., Diagrammes sur l’évolution de la Terre et des civilisations.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
 
-*Fig. 59 :* Otto Neurath, *Basic by Isotype*, 1937.  
+*Fig. 66 :* Otto Neurath, *Basic by Isotype*, 1937.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 
 
-*Fig. 60 :* Double page du livre *Tuberculosis: Basic Facts in Picture.*  
+*Fig. 67 :* Double page du livre *Tuberculosis: Basic Facts in Picture.*  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 
 
-*Fig. 61 :* Marie Neurath, *Railways under London*, 1948.  
+*Fig. 68 :* Marie Neurath, *Railways under London*, 1948.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 
 
-Fig. 62 : Pictogrammes dessinés par Olt Aicher pour les Jeux Olympiques de Munich en 1972.  
+Fig. 69 : Pictogrammes dessinés par Olt Aicher pour les Jeux Olympiques de Munich en 1972.  
 Source : © Olt Aicher.
 
-*Fig. 63 :* Exposition permanente du Gesellschafts-und Wirtschaftsmuseum au Volkshalle du nouvel hôtel de ville de Vienne.  
+*Fig. 70 :* Exposition permanente du Gesellschafts-und Wirtschaftsmuseum au Volkshalle du nouvel hôtel de ville de Vienne.  
 Source : En haut : Sophie Hochhäusl, « Otto Neurath et "l’orchestration" de la politique urbaine », dans [visionscarto](https://visionscarto.net/otto-neurath-orchestration-urbaine) ; En bas : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Images : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 
 
-*Fig. 64 :* Otto Neurath et al, Mortalité infantile et revenus, 1929.  
+*Fig. 71 :* Otto Neurath et al, Mortalité infantile et revenus, 1929.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 
 
-*Fig. 65 :* Otto Neurath et al., *Quesnay : Tableau économique*, 1931. Diagramme présenté par Neurath au World Social Economic Planning de La Haye en 1931.  
+*Fig. 72 :* Otto Neurath et al., *Quesnay : Tableau économique*, 1931. Diagramme présenté par Neurath au World Social Economic Planning de La Haye en 1931.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading. 
 
-*Fig. 66 :* Otto Neurath et al., *Interdépendances financières internationales*, 1931. Diagramme présenté par Neurath au World Social Economic Planning de La Haye en 1931.  
+*Fig. 73 :* Otto Neurath et al., *Interdépendances financières internationales*, 1931. Diagramme présenté par Neurath au World Social Economic Planning de La Haye en 1931.  
 Source : Nepthys Zwer, « L’argument visuel et le bonheur : l’Isotype d’Otto Neurath ». [*Visionscarto*](https://visionscarto.net/argument-visuel-et-bonheur).
 
-*Fig. 67 :* Edward Tufte, *Median number of entries in data matrices for statistical graphics in various publication*, 2003.  
+*Fig. 74 :* Publicité Rank Xerox pour le poste de travail 8010 et l'imprimante 8040 avec le slogan : "Vous pouvez maintenant créer des documents avec des mots et des images", 1981.  
+Source : [Wikipedia](https://en.wikipedia.org/wiki/Xerox_Star#/media/File:Rank_Xerox_8010+40_brochure_front.jpg). © Rank Xerox.
+
+*Fig. 75 :* Edward Tufte, *Median number of entries in data matrices for statistical graphics in various publication*, 2003.  
 Source : Edward Tufte, *The Cognitive Style of PowerPoint : Pitching Out Corrupts Within*. Chesrire, Connecticut : Graphics Press LLC, 2006. © Edward Tufte.
 
-*Fig. 68 :* Edward Tufte, double page de *The Cognitive Style of PowerPoint* où Tufte analyse une slide d’un rapport de la NASA.  
+*Fig. 76 :* Edward Tufte, double page de *The Cognitive Style of PowerPoint* où Tufte analyse une slide d’un rapport de la NASA.  
 Source : Edward Tufte, *The Cognitive Style of PowerPoint : Pitching Out Corrupts Within*. Chesrire, Connecticut : Graphics Press LLC, 2006. © Edward Tufte.
 
-*Fig. 69 :* Carte présentée dans un slide PowerPoint au Général Stanley A. McChrystal, leader des forces American et de l’OTAN en Afghanistan. Le Général déclara « Quand nous aurons compris ce slide, nous aurons gagné la guette ». D’après Elisabeth Bumiller, « We Have Met the Enemy and He Is PowerPoint », *New York Times*, 2010.  
+*Fig. 77 :* Carte présentée dans un slide PowerPoint au Général Stanley A. McChrystal, leader des forces American et de l’OTAN en Afghanistan. Le Général déclara « Quand nous aurons compris ce slide, nous aurons gagné la guette ». D’après Elisabeth Bumiller, « We Have Met the Enemy and He Is PowerPoint », *New York Times*, 2010.  
 Source : Elisabeth Bumiller, [« We Have Met the Enemy and He Is PowerPoint »](https://www.nytimes.com/2010/04/27/world/27powerpoint.html), *New York Times*, 26 avril 2010.
 
-*Fig. 70 :* Un écran VisiCalc.  
+*Fig. 78 :* Un écran VisiCalc.  
 Source :  © IBM/1979 SOFTWARE ARTS, INC.
 
-*Fig. 71 :* Eric Maton, *Evolution du rapport annuel de L’Oréal*, 2006.  
+*Fig. 79 :* Eric Maton, *Evolution du rapport annuel de L’Oréal*, 2006.  
 Source : Éric Maton, « Une analyse des diagrammes présents dans les rapports annuels des grandes entreprises françaises en 1980, 1990 et 2001 », *Entreprises et histoire* 2006/3.
 
-*Fig. 72 :* Gapminder. Capture d’écran 2018.  
+*Fig. 80 :* Gapminder. Capture d’écran 2018.  
 Source : © 	Hans Rosling - Fondation Gapminder. 
 
-*Fig. 73* : Fabrice Sabatier, *D’où vient la visualisation de données ?* 2016.  
+*Fig. 81* : Fabrice Sabatier, *D’où vient la visualisation de données ?* 2016.  
 Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.
