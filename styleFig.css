@@ -1,23 +1,65 @@
-.divFig{
-  transition: 0.5s;
-  position:absolute;
-  display:inline-block;
-  width:400px;
-  height:auto;
-  
-  border:solid 6px black; /*DarkSlateGrey;*/
+.divFig {
+	transition: 0.5s;
+	position: absolute;
+	display: inline-block;
+	width: 400px;
+	height: 10px;
+
+	border: solid 6px black;
+	/*DarkSlateGrey;*/
 }
 
-.imgFig{
-  position:absolute;
-  top:0px;
-  left:0px;
-  width:400px;
-  height:auto;
-  
-  filter: brightness(90%);
+.divFig .legendeDiv {
+	transition: 0.2s;
+	z-index: 10;
+	position: relative;
+
+	left: 10px;
+	top: 10px;
+	width: calc(100% - 40px);
+	height: auto;
+
+	padding: 10px;
+
+	font-family: "FFaune";
+
+	background-color: #000;
+	color: #fff;
+
+	opacity: 0;
+	
+	pointer-events: none;
 }
 
-.imgFig:hover{
-  filter: brightness(100%);
+.divFig .legendeDiv a:link{
+	transition:0.2s;
+	color: white;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.divFig .legendeDiv a:visited{
+	color: white;
+}
+.divFig .legendeDiv a:hover{
+	color: black;
+	border-radius: 2px;
+	background-color: white;
+}
+
+.divFig .legendeShow{
+	opacity: 1;
+}
+
+.imgFig {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: auto;
+
+	filter: brightness(100%);
+}
+
+.imgFig:hover {
+	filter: brightness(35%);
 }

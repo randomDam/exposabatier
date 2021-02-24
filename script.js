@@ -3,56 +3,61 @@ var tableCopy;
 //------------------------------------------------------------------
 //HTML Chargé
 //------------------------------------------------------------------
-var mainHTML="__Tout2.html";
+var mainHTML = "__Tout2.html";
 
 //------------------------------------------------------------------
 // SETUP [ une fois que la page prête ]
 //------------------------------------------------------------------
-$(document).ready(function() {
-  console.log("ready!");
+$(document).ready(function () {
+	console.log("ready!");
 
-  //chargement un html dans le html
-  //$("#frameThese").load( "exportHTML_v2.html", function() {
-  $("#frameThese").load(mainHTML, function() {
-    console.log("Load thesis finnish!");
+	//chargement un html dans le html
+	//$("#frameThese").load( "exportHTML_v2.html", function() {
+	$("#frameThese").load(mainHTML, function () {
+		console.log("Load thesis finnish!");
 
-    //----------------------------------------------
-    table = $("#Tabledesmatires1")[0];
-    tableCopy = $("#Tabledesmatires1")[0];
-    table.remove();
-    //console.log(tab.length);
+		//----------------------------------------------
+		table = $("#Tabledesmatires1")[0];
+		tableCopy = $("#Tabledesmatires1")[0];
+		table.remove();
+		//console.log(tab.length);
 
-    $("#sommaire").html(tableCopy);
+		$("#sommaire").html(tableCopy);
 
-    //----------------------------------------------
-    //fonction de action du sommaire
-    //de plie et remplie
-    $("#sommaire").mouseenter(function() {
-      $("#sommaire")[0].style.left = "0px";
-    });
-    $("#sommaire").mouseleave(function() {
-    $("#sommaire")[0].style.left = "-305px" //pour replier le sommaire
-    })
-    //------------------------------------------------
-    //suppression des classes sonctent 4
-    //contents3
-    /*
-    var tabC4 = $("#sommaire .Contents4")
-    for (var i=0;i<tabC4.length;i++){
-      tabC4[i].remove();
-      var c3 = tabC4[i].getElementsByClassName("Contents3");
+		//----------------------------------------------
+		//fonction de action du sommaire
+		//de plie et remplie
+		$("#sommaire").mouseenter(function () {
+			$("#sommaire")[0].style.left = "0px";
+		});
 
-      console.log(tabC4[i]);
-      console.log(c3.length);
-    }
-    */
-    /*
-    var tabC3 = $("#sommaire .Contents3")
-    for (var i=0;i<tabC3.length;i++){
-      tabC3[i].remove();
-    }
-    */
-   var allElem = $("#sommaire li");
+
+		//-------------------------------------------------------------
+		//TABLE DES MATIERE STATIC / comment ligne 39
+		//-------------------------------------------------------------
+		$("#sommaire").mouseleave(function () {
+			$("#sommaire")[0].style.left = "-305px" //pour replier le sommaire
+		})
+		//------------------------------------------------
+		//suppression des classes sonctent 4
+		//contents3
+		/*
+		var tabC4 = $("#sommaire .Contents4")
+		for (var i=0;i<tabC4.length;i++){
+		  tabC4[i].remove();
+		  var c3 = tabC4[i].getElementsByClassName("Contents3");
+
+		  console.log(tabC4[i]);
+		  console.log(c3.length);
+		}
+		*/
+		/*
+		var tabC3 = $("#sommaire .Contents3")
+		for (var i=0;i<tabC3.length;i++){
+		  tabC3[i].remove();
+		}
+		*/
+		var allElem = $("#sommaire li");
 		console.log(allElem);
 		var lastC4;
 		var store = [];
@@ -78,21 +83,21 @@ $(document).ready(function() {
 						store.push(allElem[index]);
 					} else {
 
-						if(store.length>0){
+						if (store.length > 0) {
 
-            //wrap(allElem[i].children[0],"ul");
-						var wrapper = document.createElement("ul");
-            wrapper.classList.add("lvl3");
+							//wrap(allElem[i].children[0],"ul");
+							var wrapper = document.createElement("ul");
+							wrapper.classList.add("lvl3");
 
-						allElem[i].parentNode.insertBefore(wrapper, allElem[i]);
-						wrapper.appendChild(allElem[i].children[0]);
-						allElem[i].remove();
+							allElem[i].parentNode.insertBefore(wrapper, allElem[i]);
+							wrapper.appendChild(allElem[i].children[0]);
+							allElem[i].remove();
 
-						for (var j = 0; j < store.length; j++) {
-							wrapper.appendChild(store[j]);
+							for (var j = 0; j < store.length; j++) {
+								wrapper.appendChild(store[j]);
+							}
+
 						}
-
-            }
 						console.log(store);
 
 						store = [];
@@ -110,38 +115,43 @@ $(document).ready(function() {
 
 		}
 		//----------------------------------------------------
-    //class de repère des images
-    //Internet20link
-    //
+		//class de repère des images
+		//Internet20link
+		//
 
-  });
+	});
 
-  console.log("END init");
-
-
-  //----------------------------------------------------
-  //Routine des images
-  //----------------------------------------------------
-  //construct
-
-  //intervalle / draw
-  setTimeout(function(){
-      initFig();
-      initGalerie();
-  },1000);
-
-  //intervalle / draw
-  setInterval(function(){
-    refreshFig();
-  }, 500);
-
-  //----------------------------------------------------
+	console.log("END init");
 
 
-  setTimeout(function(){
-      showGalerie();
-      fillGalerie("http://www.fabricesabatier.com/Fig/BD/Chapitre1/complexToken.jpg");
-  },1100);
+	//----------------------------------------------------
+	//Routine des images
+	//----------------------------------------------------
+	//construct
+
+	//intervalle / draw
+	setTimeout(function () {
+		initFig();
+		initGalerie();
+	}, 1000);
+
+	//intervalle / draw
+	setInterval(function () {
+		refreshFig();
+	}, 500);
+
+	//----------------------------------------------------
+
+
+	//-------------------------------------------------------------
+	//IMAGE TEST GALERIE
+	//-------------------------------------------------------------
+	/*
+	setTimeout(function () {
+		showGalerie();
+		fillGalerie("http://www.fabricesabatier.com/Fig/BD/Chapitre1/graunt1.png");
+	}, 1100);
+	*/
 });
 
 
@@ -149,160 +159,159 @@ $(document).ready(function() {
 //GESTION DES FIGURES [ CONSTRUTOR ]
 //-------------------------------------------------------
 //-------------------------------------------------------
-function initFig(){
-  var allFigures = $(".Internet20link");
+function initFig() {
+	var allFigures = $(".Internet20link");
 
-  console.log(allFigures);
+	console.log(allFigures);
 
-  allFigures.click(
-    function(e){
-      //e.preventDefault();
-      showGalerie();
-      fillGalerie(this.ref);
-      //console.log(this.ref);
-  });
+	allFigures.click(
+		function (e) {
+			//e.preventDefault();
+			showGalerie();
+			fillGalerie(this.ref);
+			//console.log(this.ref);
+		});
 
-  for(var i=0;i<allFigures.length;i++){
-    //console.log(allFigures[i].href);
-    allFigures[i].ref=allFigures[i].href;
-    allFigures[i].setAttribute("ref",allFigures[i].href);
-    allFigures[i].href="javascript: void(0)";
+	for (var i = 0; i < allFigures.length; i++) {
+		//console.log(allFigures[i].href);
+		allFigures[i].ref = allFigures[i].href;
+		allFigures[i].setAttribute("ref", allFigures[i].href);
+		allFigures[i].href = "javascript: void(0)";
 
-  }
+	}
 
 }
 //-------------------------------------------------------
 //GESTION DES FIGURES [ PROCESS GENERAL ]
 //-------------------------------------------------------
 //-------------------------------------------------------
-function refreshFig(){
+function refreshFig() {
 
-  findAllFigureOnText();
-  findAllFigureOnScreen();
+	findAllFigureOnText();
+	findAllFigureOnScreen();
 
-  compareFig();
-  //createMissingFig();
+	compareFig();
+	//createMissingFig();
 
-  //findAllFigure();
-  //figuresIsOnScreen();
+	//findAllFigure();
+	//figuresIsOnScreen();
 }
 //-------------------------------------------------------
 //GESTION DES FIGURES
 //-------------------------------------------------------
 var figuresOnText = [];
 
-var margeHaute=-1000;
-var margeBasse=1000;
+var margeHaute = -1000;
+var margeBasse = 1000;
 
-function findAllFigureOnText(){
-    var allFigures = $(".Internet20link");
-    var hScreen = window.innerHeight;
-    var lastRef="";
-    figuresOnText = [];
+function findAllFigureOnText() {
+	var allFigures = $(".Internet20link");
+	var hScreen = window.innerHeight;
+	var lastRef = "";
+	figuresOnText = [];
 
-    for(var i=0;i<allFigures.length;i++){
-      var f = allFigures[i];
-      var y = f.getBoundingClientRect().y;
+	for (var i = 0; i < allFigures.length; i++) {
+		var f = allFigures[i];
+		var y = f.getBoundingClientRect().y;
 
-      if(y>margeHaute && y<hScreen+margeBasse){
-          //create img box
-          //f.href;
-        if(lastRef!=f.ref){
-          //createDivImage(f.href,y);
-          f.y = y;
-          figuresOnText.push(f);
-          lastRef=f.ref;
-        }
-      }
-  }
+		if (y > margeHaute && y < hScreen + margeBasse) {
+			//create img box
+			//f.href;
+			if (lastRef != f.ref) {
+				//createDivImage(f.href,y);
+				f.y = y;
+				figuresOnText.push(f);
+				lastRef = f.ref;
+			}
+		}
+	}
 }
 
 //-------------------------------------------------------
 //GESTION DES FIGURES
 //-------------------------------------------------------
-var allFigOnScreen= [];
+var allFigOnScreen = [];
 
-function findAllFigureOnScreen(){
-      allFigOnScreen = $(".divFig");
+function findAllFigureOnScreen() {
+	allFigOnScreen = $(".divFig");
 }
 //-------------------------------------------------------
 //Compare
 //-------------------------------------------------------
-function compareFig(){
+function compareFig() {
 
-  //mise a jour des coordonnées
-  //ou creation d'un div image
-  for(var i=0;i<figuresOnText.length;i++){
-    var exist=-1;
+	//mise a jour des coordonnées
+	//ou creation d'un div image
+	for (var i = 0; i < figuresOnText.length; i++) {
+		var exist = -1;
 
-    for(var j=0;j<allFigOnScreen.length;j++){
-      //console.log(figuresOnText[i].href+"  ==   "+allFigOnScreen[j].firstElementChild.src);
-      if(figuresOnText[i].ref==allFigOnScreen[j].firstElementChild.src){
-        exist=j;
-      }
-    }
+		for (var j = 0; j < allFigOnScreen.length; j++) {
+			//console.log(figuresOnText[i].href+"  ==   "+allFigOnScreen[j].firstElementChild.src);
+			if (figuresOnText[i].ref == allFigOnScreen[j].firstElementChild.src) {
+				exist = j;
+			}
+		}
 
-    if(exist>=0){
-        allFigOnScreen[exist].style.top = figuresOnText[i].y+"px";
-    }else{
-        createDivImage(figuresOnText[i].ref,figuresOnText[i].y);
-    }
-  }
+		if (exist >= 0) {
+			allFigOnScreen[exist].style.top = figuresOnText[i].y + "px";
+		} else {
+			createDivImage(figuresOnText[i].ref, figuresOnText[i].y);
+		}
+	}
 
 
-  //suppression de div image
-  for(var j=0;j<allFigOnScreen.length;j++){
-    var exist=-1;
+	//suppression de div image
+	for (var j = 0; j < allFigOnScreen.length; j++) {
+		var exist = -1;
 
-    for(var i=0;i<figuresOnText.length;i++){
-      //console.log(figuresOnText[i].href+"  ==   "+allFigOnScreen[j].firstElementChild.src);
-      if(figuresOnText[i].ref==allFigOnScreen[j].firstElementChild.src){
-        exist=i;
-      }
-    }
+		for (var i = 0; i < figuresOnText.length; i++) {
+			//console.log(figuresOnText[i].href+"  ==   "+allFigOnScreen[j].firstElementChild.src);
+			if (figuresOnText[i].ref == allFigOnScreen[j].firstElementChild.src) {
+				exist = i;
+			}
+		}
 
-    if(exist>=0){
-    }else{
-        allFigOnScreen[j].remove();
-    }
-  }
+		if (exist >= 0) {} else {
+			allFigOnScreen[j].remove();
+		}
+	}
 
 
 }
 //-------------------------------------------------------
 //GESTION DES FIGURES
 //-------------------------------------------------------
-function createMissingFig(){
-    for(var i=0;i<figuresOnText.length;i++){
-      createDivImage(figuresOnText[i].ref,figuresOnText[i].y);
-    }
+function createMissingFig() {
+	for (var i = 0; i < figuresOnText.length; i++) {
+		createDivImage(figuresOnText[i].ref, figuresOnText[i].y);
+	}
 }
 
 //-------------------------------------------------------
 //TEST DES FIGURES A L'ECRAN
 //-------------------------------------------------------
-function figuresIsOnScreen(){
-  //hauteur de fenetre
-  var hScreen = window.innerHeight;
-  var lastRef="";
+function figuresIsOnScreen() {
+	//hauteur de fenetre
+	var hScreen = window.innerHeight;
+	var lastRef = "";
 
-  for(var i=0;i<figures.length;i++){
-      var f = figures[i];
-      var y = f.getBoundingClientRect().y;
+	for (var i = 0; i < figures.length; i++) {
+		var f = figures[i];
+		var y = f.getBoundingClientRect().y;
 
-      if(y>0 && y<hScreen){
-          //create img box
-          //f.href;
-        if(lastRef!=f.ref){
-          createDivImage(f.ref,y);
-          lastRef=f.ref;
-        }
-      }
-  }
+		if (y > 0 && y < hScreen) {
+			//create img box
+			//f.href;
+			if (lastRef != f.ref) {
+				createDivImage(f.ref, y);
+				lastRef = f.ref;
+			}
+		}
+	}
 }
 
-function removeAllfig(){
-  $(".divFig").remove();
+function removeAllfig() {
+	$(".divFig").remove();
 }
 
 
@@ -317,54 +326,71 @@ function removeAllfig(){
 var displayedElement = [];
 
 var help;
-var lastIndex=0;
+var lastIndex = 0;
 
-function createDivImage(_src,posY){
-  var newDiv = document.createElement("div");
-  newDiv.classList.add("divFig");
-  newDiv.style.top = posY.toString()+"px";
-
-
-  var maxWidth = $('#expo')[0].getBoundingClientRect().width;
-  newDiv.style.marginLeft =  getRandom(5,maxWidth-400-5)+"px";
-
-  //newDiv.style.width = "400px";
-
-  newDiv.addEventListener('mouseover', function (e) {
-    //console.log(this);
-
-    this.style.zIndex = lastIndex;
-    lastIndex++;
-  });
+function createDivImage(_src, posY) {
+	var newDiv = document.createElement("div");
+	newDiv.classList.add("divFig");
+	newDiv.style.top = posY.toString() + "px";
 
 
+	var maxWidth = $('#expo')[0].getBoundingClientRect().width;
+	newDiv.style.marginLeft = getRandom(5, maxWidth - 400 - 5) + "px";
 
-  var path = _src;
-  newDiv.addEventListener('click', function (e) {
-    //console.log("click"+path);
-    showGalerie();
-    fillGalerie(path);
-  });
+	//newDiv.style.width = "400px";
 
-  //console.log(posY);
-  //console.log(newDiv);
+	newDiv.addEventListener('mouseover', function (e) {
+		//console.log(this);
 
-  var img = document.createElement('img');
-  img.src = _src;
-  img.classList.add("imgFig");
+		this.style.zIndex = lastIndex;
+		lastIndex++;
+	});
 
-  newDiv.appendChild(img);
-  // ajoute le nouvel élément créé et son contenu dans le DOM
-  var currentDiv = document.getElementById('expo');
-  currentDiv.appendChild(newDiv);
-  displayedElement.push(newDiv);
-  //document.body.insertBefore(newDiv, currentDiv);
+
+
+	var path = _src;
+	newDiv.addEventListener('click', function (e) {
+		//console.log("click"+path);
+		showGalerie();
+		fillGalerie(path);
+	});
+
+	newDiv.addEventListener('mouseover', function (e) {
+		var t = $(newDiv).find(".legendeDiv")[0];
+		console.log(t);
+		t.classList.add("legendeShow");
+		
+	});
+	newDiv.addEventListener('mouseout', function (e) {
+		var t = $(newDiv).find(".legendeDiv")[0];
+		console.log(t);
+		t.classList.remove("legendeShow");
+		
+	});
+
+	//help = newDiv;
+
+	//console.log(posY);
+	//console.log(newDiv);
+
+	var img = document.createElement('img');
+	img.src = _src;
+	img.classList.add("imgFig");
+
+	newDiv.appendChild(img);
+	// ajoute le nouvel élément créé et son contenu dans le DOM
+	var currentDiv = document.getElementById('expo');
+	currentDiv.appendChild(newDiv);
+	displayedElement.push(newDiv);
+	//document.body.insertBefore(newDiv, currentDiv);
+
+	fillLegendeWithDiv(newDiv,path);
 }
 
 
 
-function getRandom(min,max) {
-  return (Math.random() * (max-min))+min;
+function getRandom(min, max) {
+	return (Math.random() * (max - min)) + min;
 }
 
 //-----------------------------------------------------END

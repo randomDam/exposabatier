@@ -66,6 +66,9 @@ h1 {
 	background-color: rgb(210, 210, 210);
 }
 
+/*==================================================================================
+Sommaires css
+==================================================================================*/
 #sommaire {
 	transition-duration: 0.5s;
 	position: absolute;
@@ -82,7 +85,7 @@ h1 {
 	cursor: pointer;
 
 	overflow-y: scroll;
-	background-color: DarkSlateGrey;
+	background-color: DarkSlateGrey;  
 }
 
 #sommaire {
@@ -95,9 +98,19 @@ h1 {
 	color: white;
 }
 
+#sommaire a:link 
+{ 
+ text-decoration:none; 
+}
+
+#sommaire a:hover{
+	text-decoration:underline; 
+}
+
 #sommaire .lvl3 {
 	font-family: "FFaune";
 	/*font-family: helvetica, arial, sans-serif;*/
+	padding: 0px;
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
@@ -108,20 +121,76 @@ h1 {
 	font-weight: normal;
 }
 
+/*
 #sommaire .Contents3 {
 	font-family: "FFaune";
-	/*font-family: helvetica, arial, sans-serif;*/
 	background-color: rgba(0, 0, 0, 0.3);
 	color: red;
 }
+*/
 
+#sommaire .Contents1 a{
+	position: relative;
+	margin-top : 10px;
+	padding-left: 0 0 0 10px;
+	font-family: "FFaune";
+	font-size: 24px;
+	//background-color: rgba(0, 0, 0, 0.3);
+}
+#sommaire .Contents2 a{
+	position: relative;
+	padding-left: 0 0 0 10px;
+	font-family: "FFaune";
+	font-size: 20px;
+	//background-color: rgba(0, 0, 0, 0.3);
+}
+#sommaire .Contents3 a{
+	position: relative;
+	padding-left: 0 0 0 10px;
+	font-family: "FFaune";
+	font-size: 14px;
+	//background-color: rgba(0, 0, 0, 0.3);
+}
+#sommaire .Contents4 a{
+	position: relative;
+	padding-left: 0 0 0 10px;
+	font-family: "FFaune";
+	font-size: 12px;
+	//background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+#sommaire .lvl3{
+	display: block;
+	transition: 1s;
+	height:0%;
+	max-height: 20px;
+	overflow: hidden;
+	background-color: rgb(255, 255, 0,);
+}
+#sommaire .lvl3:hover{
+	display: block;
+	height: 100%;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+ul{
+	overflow: hidden;
+}
+
+/*==================================================================================
+Galerie css
+==================================================================================*/
 #galerie {
 	position: absolute;
 	left: 0px;
 	right: 0px;
 	top: 0px;
 	bottom: 0px;
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.9);
 
 	overflow: hidden;
 
@@ -136,7 +205,7 @@ h1 {
 #galerie #subGalerie {
 	position: absolute;
 	left: 20px;
-	right: 220px;
+	right: 340px;
 	top: 20px;
 	bottom: 20px;
 
@@ -152,12 +221,17 @@ h1 {
 #galerieIMG {
 	position: absolute;
 }
-
+/*==================================================================================
+Legende css
+==================================================================================*/
 #legende {
 	position: absolute;
 
 	margin: 0px;
 	padding: 5px;
+
+	font-family: "FFaune";
+	font-size: 1.1em;
 
 	border: solid 0px grey;
 	color: white;
@@ -165,12 +239,26 @@ h1 {
 	overflow-y: auto;
 	overflow-x: hidden;
 
-	width: 200px;
+	width: 250px;
 	top: 20px;
 	bottom: 20px;
-	right: 18px;
+	right: 40px;
 }
 
+#legende a:link{
+	transition:0.2s;
+	color: white;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#legende a:visited{
+	color: white;
+}
+#legende a:hover{
+	color: black;
+	border-radius: 2px;
+	background-color: white;
+}
 #legende #subLegende {
 	margin: 0px;
 	padding: 0px;

@@ -2,31 +2,37 @@
 Override des styles de la these (doc par default)
 -------------------------------------------------*/
 @font-face {
- font-family: "FFaune";
- src: url("https://cdn.glitch.com/10b2a554-ba49-46a7-9a41-03aabbf96785%2FFaune-Text_Regular.ttf?v=1605710480554") format("truetype");
+	font-family: "FFaune";
+	src: url("/fonts/FauneText_Regular.ttf") format("truetype");
 }
 
 @font-face {
- font-family: "FFaune";
- font-style: italic;
- src: url("https://cdn.glitch.com/10b2a554-ba49-46a7-9a41-03aabbf96785%2FFaune-Text_Italic.ttf?v=1605710480225") format("truetype");
+	font-family: "FFaune";
+	font-style: italic;
+	src: url("/fonts/FauneText_Italic.ttf") format("truetype");
 }
 
 @font-face {
- font-family: "FFaune";
- font-weight: bold;
- src: url("https://cdn.glitch.com/10b2a554-ba49-46a7-9a41-03aabbf96785%2FFaune-Text_Bold.ttf?v=1605710479136") format("truetype");
+	font-family: "FFaune";
+	font-weight: bold;
+	src: url("/fonts/FauneText_Bold.ttf") format("truetype");
 }
 
+@font-face {
+	font-family: "FFaune";
+	font-weight: bold;
+	font-style: italic;
+	src: url("/fonts/FauneDisplay_Bold_Italic.ttf") format("truetype");
+}
 
 #frameThese .Textbody {
-  font-family: "FFaune";
-  color: rgb(20,20,20);
-  font-size:1.2em;
-  line-height:1.4em;
-  margin-left:120px;
-  margin-right:120px;
-  text-indent:30px
+	font-family: "FFaune";
+	color: rgb(20, 20, 20);
+	font-size: 1.2em;
+	line-height: 1.4em;
+	margin-left: 120px;
+	margin-right: 120px;
+	text-indent: 30px
 }
 
 /*#frameThese i{
@@ -39,210 +45,211 @@ Override des styles de la these (doc par default)
 }*/
 
 
-#frameThese h1 { /*.Title*/  /*#toc27 #toc158*/
-  color: black;
-  font-family: "FFaune";
-  line-height:1.1em;
-  padding : 0px;
-  font-size:3.1em;
-  font-weight:normal;
-  margin-left : 100px;
-  /*text-align: center;*/
-  padding-bottom:50px;
+#frameThese h1 {
+	/*.Title*/
+	/*#toc27 #toc158*/
+	color: black;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	padding: 0px;
+	font-size: 3.1em;
+	font-weight: normal;
+	margin-left: 100px;
+	/*text-align: center;*/
+	padding-bottom: 50px;
 }
 
-#frameThese h2 { /*#toc0*/ /*#toc28*/
-  color: black;
-  font-family: "FFaune";
-  font-size:2em;
-  font-weight: bold;
-  line-height:1.3em;
-  margin-left : 60px;
-  margin-right:60px;
+#frameThese h2 {
+	/*#toc0*/
+	/*#toc28*/
+	color: black;
+	font-family: "FFaune";
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 1.3em;
+	margin-left: 60px;
+	margin-right: 60px;
 }
 
-#frameThese h3 { 
-  color: black;
-  font-family: "FFaune";
-  font-size:1.7em;
-  font-weight: normal;
-  line-height:1.3em;
-  margin-left : 60px;
-  margin-right:60px;
+#frameThese h3 {
+	color: black;
+	font-family: "FFaune";
+	font-size: 1.7em;
+	font-weight: normal;
+	line-height: 1.3em;
+	margin-left: 60px;
+	margin-right: 60px;
 }
 
-#frameThese h4 { 
-  color: black;
-  font-family: "FFaune";
-  font-size:1.2em;
-  font-weight: bold;
-  line-height:1.3em;
-  margin-left : 120px;
-  margin-right:120px;
-  text-decoration: underline;
+#frameThese h4 {
+	color: black;
+	font-family: "FFaune";
+	font-size: 1.2em;
+	font-weight: bold;
+	line-height: 1.3em;
+	margin-left: 120px;
+	margin-right: 120px;
+	text-decoration: underline;
 }
 
 /*epigraphe*/
 #frameThese .Epigraphe {
-	position:relative;
-	display:inline-block;
+	position: relative;
+	display: inline-block;
 	color: black;
 	font-family: "FFaune";
-  font-size:1.3em;
-  line-height: 1.3em;
-  margin-right : 250px;
-  margin-left : 50px;
-  padding-bottom:10px;
+	font-size: 1.3em;
+	line-height: 1.3em;
+	margin-right: 250px;
+	margin-left: 50px;
+	padding-bottom: 10px;
 }
 
-#frameThese .Quotations{
-  color: black;
+#frameThese .Quotations {
+	color: black;
 	font-family: "FFaune";
-  font-size:1.1em;
-  line-height: 1.3em;
-  margin-left : 150px;
-  margin-right:150px;
-  margin-top:15px;
-  margin-bottom:15px;
+	font-size: 1.1em;
+	line-height: 1.3em;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 #frameThese #Tabledesmatires1 {
 	color: black;
 	font-family: "FFaune";
-  font-size:1.3em;
-  line-height: 1.3em;
-  margin-left : 100px;
-  padding-bottom:40px;
+	font-size: 1.3em;
+	line-height: 1.3em;
+	margin-left: 100px;
+	padding-bottom: 40px;
 }
+
 #frameThese .Contents2 {
-  margin-left : 0px;
+	margin-left: 0px;
 }
 
-#frameThese .Title { 
-  color: DarkSlateGrey;
-  font-family: "FFaune";
-  line-height:1.1em;
-  padding : 0px;
-  font-size:6.2em;
-  font-weight:normal;
-  margin-left : 100px;
-  /*text-align: center;*/
-  padding-bottom:50px;
+#frameThese .Title {
+	color: DarkSlateGrey;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	padding: 0px;
+	font-size: 6.2em;
+	font-weight: normal;
+	margin-left: 100px;
+	/*text-align: center;*/
+	padding-bottom: 50px;
 }
 
-#frameThese .Subtitle{ 
-  color: DarkSlateGrey;
-  font-family: "FFaune";
-  line-height:1.1em;
-  padding : 0px;
-  font-size:3.1em;
-  font-weight:normal;
-  margin-left : 100px;
-  /*text-align: center;*/
-  padding-bottom:50px;
+#frameThese .Subtitle {
+	color: DarkSlateGrey;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	padding: 0px;
+	font-size: 3.1em;
+	font-weight: normal;
+	margin-left: 100px;
+	/*text-align: center;*/
+	padding-bottom: 50px;
 }
 
-#frameThese .Footnote{ 
-  color: DarkSlateGrey;
-  font-family: "FFaune";
-  font-size: 0.9em;
-  font-weight:normal;
-  margin-left : 100px;
-  padding-bottom:10px;
-  text-indent:-15px
+#frameThese .Footnote {
+	color: DarkSlateGrey;
+	font-family: "FFaune";
+	font-size: 0.9em;
+	font-weight: normal;
+	margin-left: 100px;
+	padding-bottom: 10px;
+	text-indent: -15px
 }
 
-
-#frameThese #toc27{ /*Titres partie 1*/
-  color: DarkSlateGrey;
-  font-family: "FFaune";
-  line-height:1.1em;
-  padding : 0px;
-  font-size:100px;
-  font-weight:normal;
-  margin-left : 100px;
-  /*text-align: center;*/
-  padding-bottom:50px;
+#frameThese #toc13 {
+	/*Titres partie 1*/
+	color: DarkSlateGrey;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	padding: 0px;
+	font-size: 100px;
+	font-weight: normal;
+	margin-left: 100px;
+	padding-bottom: 50px;
 }
 
-#frameThese #toc129{ /*Titres partie 1*/
-  color: DarkSlateGrey;
-  font-family: "FFaune";
-  line-height:1.1em;
-  padding : 0px;
-  font-size:6.2em;
-  font-weight:normal;
-  margin-left : 100px;
-  /*text-align: center;*/
-  padding-bottom:50px;
+#frameThese #toc113 {
+	/*Titres partie 1*/
+	color: DarkSlateGrey;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	padding: 0px;
+	font-size: 6.2em;
+	font-weight: normal;
+	margin-left: 100px;
+	padding-bottom: 50px;
 }
 
 #frameThese a {
-  color: DarkSlateGrey;
-  line-height:1.4em;
-  padding:2px;
+	color: DarkSlateGrey;
+	line-height: 1.4em;
+	padding: 2px;
 }
 
 #frameThese a:link {
-  color: DarkSlateGrey;
-  line-height:1.4em;
+	color: DarkSlateGrey;
+	line-height: 1.4em;
 }
 
 #frameThese a:visited {
-  color: black;
-  line-height:1.4em;
+	color: black;
+	line-height: 1.4em;
 }
 
 #frameThese a:hover {
-  transition:0.5s;
-  color:white;
-  line-height:1.4em;
-  background-color:black;
+	transition: 0.5s;
+	color: white;
+	line-height: 1.4em;
+	background-color: black;
 }
 
 #frameThese code {
-  transition:0.5s;
-  color:rgb(255,0,255);
-  line-height:1.4em;
-  background-color:black;
+	transition: 0.5s;
+	color: rgb(255, 0, 255);
+	line-height: 1.4em;
+	background-color: black;
 }
 
 /* test adaptation smartphone */
 /* Grand écran */
-@media (min-width: 1200px) { 
-}
+@media (min-width: 1200px) {}
 
 /* Tablette en mode portrait et résolutions inférieures */
-@media (max-width: 768px) { 
-  #frameThese .Textbody {
-  font-size:0.9em;
-  margin-left: 20px;
-  margin-right: 8px;
-  text-indent:10px
-  }
-  
-  #frameThese h1 { 
-  font-size:2.1em;
-  padding-bottom:20px; 
-  }
+@media (max-width: 768px) {
+	#frameThese .Textbody {
+		font-size: 0.9em;
+		margin-left: 20px;
+		margin-right: 8px;
+		text-indent: 10px
+	}
+
+	#frameThese h1 {
+		font-size: 2.1em;
+		padding-bottom: 20px;
+	}
 }
 
 /* Smartphone en mode paysage et résolutions inférieures */
-@media (max-width: 480px) { 
-  #frameThese .Textbody {
-  font-size:0.9em;
-  margin-left: 20px;
-  margin-right: 8px;
-  text-indent:10px
-  }
-  
-  #frameThese h1 { 
-  font-size:2.1em;
-  padding-bottom:20px; 
-  }
+@media (max-width: 480px) {
+	#frameThese .Textbody {
+		font-size: 0.9em;
+		margin-left: 20px;
+		margin-right: 8px;
+		text-indent: 10px
+	}
+
+	#frameThese h1 {
+		font-size: 2.1em;
+		padding-bottom: 20px;
+	}
 }
 
 /* Smartphone en mode portrait */
-@media (max-width: 320px) {  
- 
-}
+@media (max-width: 320px) {}
