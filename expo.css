@@ -1,0 +1,60 @@
+#expo{
+	transition-duration: 0.5s;
+	position: absolute;
+	display: block;
+	
+	overflow: hidden;
+	background: #333;
+
+	z-index: 1;
+}
+
+.expo_hide{
+	top: 0px;
+	left: calc(100% + 20px);
+	bottom: 0px;
+	width: calc(100% - 20px);
+}
+
+.expo_show{
+	top: 0px;
+	left: 20px;
+	bottom: 0px;
+	width: calc(100% - 20px);
+}
+
+#expo #expoInternal{
+	position: absolute;
+	display: block;
+	
+	top: 10px;
+	left: 10px;
+	right: 10px;
+	bottom: 10px;
+	
+	/*
+	border: solid 1px #eee;
+	*/
+}
+
+#expo #expoInternal #part_left{
+	position: absolute;
+	display: block;
+
+	top: 0px;
+	left: 0px;
+	width: 50%;
+	bottom: 0px;
+	//background-color: #0FF;
+}
+#expo #expoInternal #part_right{
+	position: absolute;
+	display: block;
+
+	top: 0px;
+	left: 50%;
+	width: 50%;
+	bottom: 0px;	
+
+	//background-color: #00F;
+}

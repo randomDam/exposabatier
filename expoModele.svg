@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1701"
+   height="821"
+   viewBox="0 0 450.05625 217.22292"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1-alpha (65d249f, 2021-01-17)"
+   sodipodi:docname="expoModele.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#252525"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0.6745098"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.75555669"
+     inkscape:cx="821.91053"
+     inkscape:cy="461.24931"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid831"
+       spacingx="5.2916667"
+       spacingy="5.2916667"
+       color="#67c8ff"
+       opacity="0.1254902"
+       empcolor="#3cffe0"
+       empopacity="0.31372549"
+       originx="-26.326041"
+       originy="-26.326042" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="zone1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.326042,-26.326042)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.458333,26.458333 H 423.33333 v 52.916666 h 52.91666 V 132.29166 H 238.125 V 243.41667 H 185.20833 V 132.29166 H 26.458333 Z"
+       id="path928" />
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131"
+       cx="52.916668"
+       cy="52.916668"
+       r="5.2916665"
+       nom="topographie" />
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1"
+       cx="132.29167"
+       cy="52.916668"
+       r="5.2916665"
+       nom="vice organique" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="zone2"
+     style="display:inline"
+     transform="translate(-26.326042,-26.326042)">
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.29167,26.458333 291.04166,7e-6 26.45834,26.458327 26.45832,26.458339 -52.91665,105.833324 H 291.04167 L 238.125,243.41668 H 185.20833 V 132.29167 l -52.91666,0 z"
+       id="wall2"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="zone3"
+     style="display:inline"
+     transform="translate(-26.326042,-26.326042)" />
+</svg>

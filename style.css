@@ -13,6 +13,22 @@ h1 {
   color: #373fff;*/
 }
 
+#main{
+	position: absolute;
+	display: block;
+
+	padding: 0px;
+	margin: 0px;
+
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+
+	overflow: hidden;
+}
+
+
 #these {
 	position: absolute;
 	display: block;
@@ -40,7 +56,8 @@ h1 {
 
 	padding: 10px;
 
-	overflow: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
 
 	background-color: white;
 	/*rgb(240, 240, 230);*/
@@ -50,7 +67,7 @@ h1 {
 }
 
 
-#expo {
+#expoImage {
 	position: absolute;
 	display: block;
 
@@ -64,6 +81,7 @@ h1 {
 	overflow: hidden;
 
 	background-color: rgb(210, 210, 210);
+	//background-color: rgb(210, 0, 0);
 }
 
 /*==================================================================================

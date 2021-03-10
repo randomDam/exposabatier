@@ -1,6 +1,12 @@
 var tableCopy;
 
 //------------------------------------------------------------------
+//LEVEL OF DEBUG LOGS (all js scripts)
+//------------------------------------------------------------------
+var debugLog_script =false;
+
+
+//------------------------------------------------------------------
 //HTML Chargé
 //------------------------------------------------------------------
 var mainHTML = "__Tout2.html";
@@ -14,7 +20,7 @@ $(document).ready(function () {
 	//chargement un html dans le html
 	//$("#frameThese").load( "exportHTML_v2.html", function() {
 	$("#frameThese").load(mainHTML, function () {
-		console.log("Load thesis finnish!");
+		if(debugLog_script)console.log("Load thesis finnish!");
 
 		//----------------------------------------------
 		table = $("#Tabledesmatires1")[0];
@@ -58,7 +64,7 @@ $(document).ready(function () {
 		}
 		*/
 		var allElem = $("#sommaire li");
-		console.log(allElem);
+		if(debugLog_script)console.log(allElem);
 		var lastC4;
 		var store = [];
 
@@ -67,7 +73,7 @@ $(document).ready(function () {
 			var name = cl[0].getAttribute("class");
 
 			if (name == "Contents3") {
-				console.log("BEGIN PROCESS");
+				if(debugLog_script)console.log("BEGIN PROCESS");
 				var index = i + 1;
 				var continueParse = true;
 
@@ -76,7 +82,7 @@ $(document).ready(function () {
 
 					var currentEl = allElem[index].getElementsByTagName("p");
 					var nameStore = currentEl[0].getAttribute("class");
-					console.log(nameStore);
+					if(debugLog_script)console.log(nameStore);
 
 					if (nameStore == "Contents4") {
 						allElem[index].style.color = "red";
@@ -98,7 +104,7 @@ $(document).ready(function () {
 							}
 
 						}
-						console.log(store);
+						if(debugLog_script)console.log(store);
 
 						store = [];
 						//i = index + 1;
@@ -109,7 +115,7 @@ $(document).ready(function () {
 					if (index > allElem.length) continueParse = false;
 					//continueParse=false;
 				}
-				console.log("END PROCESS");
+				if(debugLog_script)console.log("END PROCESS");
 			}
 
 
@@ -121,7 +127,7 @@ $(document).ready(function () {
 
 	});
 
-	console.log("END init");
+	if(debugLog_script)console.log("END init");
 
 
 	//----------------------------------------------------
@@ -162,7 +168,7 @@ $(document).ready(function () {
 function initFig() {
 	var allFigures = $(".Internet20link");
 
-	console.log(allFigures);
+	if(debugLog_script)console.log(allFigures);
 
 	allFigures.click(
 		function (e) {
@@ -334,7 +340,7 @@ function createDivImage(_src, posY) {
 	newDiv.style.top = posY.toString() + "px";
 
 
-	var maxWidth = $('#expo')[0].getBoundingClientRect().width;
+	var maxWidth = $('#expoImage')[0].getBoundingClientRect().width;
 	newDiv.style.marginLeft = getRandom(5, maxWidth - 400 - 5) + "px";
 
 	//newDiv.style.width = "400px";
@@ -357,13 +363,13 @@ function createDivImage(_src, posY) {
 
 	newDiv.addEventListener('mouseover', function (e) {
 		var t = $(newDiv).find(".legendeDiv")[0];
-		console.log(t);
+		if(debugLog_script)console.log(t);
 		t.classList.add("legendeShow");
 		
 	});
 	newDiv.addEventListener('mouseout', function (e) {
 		var t = $(newDiv).find(".legendeDiv")[0];
-		console.log(t);
+		if(debugLog_script)console.log(t);
 		t.classList.remove("legendeShow");
 		
 	});
@@ -379,7 +385,7 @@ function createDivImage(_src, posY) {
 
 	newDiv.appendChild(img);
 	// ajoute le nouvel élément créé et son contenu dans le DOM
-	var currentDiv = document.getElementById('expo');
+	var currentDiv = document.getElementById('expoImage');
 	currentDiv.appendChild(newDiv);
 	displayedElement.push(newDiv);
 	//document.body.insertBefore(newDiv, currentDiv);
