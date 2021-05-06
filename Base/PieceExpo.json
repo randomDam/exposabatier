@@ -1,29 +1,27 @@
 {
 	"pieceExpo": [{
-			"titre": "Topo d'une crise",
-			"salle": "Désencrouiller l'imaginaire",
+			"titre": "D'où vient la visualisation de données ?",
+			"salle": "Petites percées dans la visualisation de données",
 			"mode": "exploration",
 
-			"date": "2020",
-			"texte": "<h1>hello world cool</h1>",
-			"credit": "Fabrice Sabatier",
+			"date": "2016",
+			"texte": "<p>Ce poster explore les disciplines ou professions des créateurs et théoriciens qui ont marqué l’histoire de la visualisation de données. Aux 18e et 19e siècles, visualiser des données sert à penser l’économie, à découvrir les causes de diffusion d’une maladie, à raconter la déroute militaire d’un empereur. Puis progressivement, des méthodes, des techniques, des principes et des théories vont s’accumuler et construire un corpus qui s’applique désormais à la représentation graphique de données ou à la datavisualisation. En 250 ans, la visualisation de données passe de l’outil à la discipline.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
-			"croquis": "A",
-			"collection": ["0", "1", "fjejfe"]
+			"croquis": ["croqDVVD"],
+			"collection": ["DVVD"]
 		},
 		{
-			"titre": "Topo d'une crise",
-			"salle": "Désencrouiller l'imaginaire",
-			"mode": "exploration",
+			"titre": "Radiologie",
+			"salle": "Petites percées dans la visualisation de données",
+			"mode": "classique",
 
-			"date": "2020",
-			"texte": "<h1>hello world cool</h1>",
-			"credit": "Fabrice Sabatier",
+			"date": "2016-2019",
+			"texte": "<h1>Série de dessin de l'ossature de visualisation de réseaux</h1>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
-			"croquis": "B",
-			"collection": [
-				"0", "1", "fjejfe"
-			]
+			"croquis": "croqRadiolo",
+			"collection": ["0", "1", "fjejfe"]
 		}
 	]
 }

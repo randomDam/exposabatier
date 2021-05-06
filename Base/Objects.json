@@ -1,5 +1,37 @@
 {
 	"datas": [{
+		"id":"croqDVVD",
+		"type":"image",
+		"path": "/Img/Croquis/D-ouVientDataviz.jpg",
+		"titre": "D'où vient la visualisation de données ?",
+		"date": "2016",
+		"texte": "/",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"DVVD",
+		"type":"image",
+		"path": "/Img/DDVD/Expo1/PosterHistoireDatavizHD.jpg",
+		"titre": "D'où vient la visualisation de données ?",
+		"date": "2016",
+		"texte": "/",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"croqRadiolo",
+		"type":"image",
+		"path": "/Img/Croquis/Radiologie.jpg",
+		"titre": "Radiologie",
+		"date": "2016-2019",
+		"texte": "/",
+		"credit": "Fabrice Sabatier"
+	},
+		
+		
+		
+		
+		
+		{
 			"id":"0",
 			"type":"image",
 			"path": "/images/image.png",
