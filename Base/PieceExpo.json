@@ -1,0 +1,29 @@
+{
+	"pieceExpo": [{
+			"titre": "Topo d'une crise",
+			"salle": "Désencrouiller l'imaginaire",
+			"mode": "exploration",
+
+			"date": "2020",
+			"texte": "<h1>hello world cool</h1>",
+			"credit": "Fabrice Sabatier",
+
+			"croquis": "A",
+			"collection": ["0", "1", "fjejfe"]
+		},
+		{
+			"titre": "Topo d'une crise",
+			"salle": "Désencrouiller l'imaginaire",
+			"mode": "exploration",
+
+			"date": "2020",
+			"texte": "<h1>hello world cool</h1>",
+			"credit": "Fabrice Sabatier",
+
+			"croquis": "B",
+			"collection": [
+				"0", "1", "fjejfe"
+			]
+		}
+	]
+}

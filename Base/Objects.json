@@ -1,0 +1,41 @@
+{
+	"datas": [{
+			"id":"0",
+			"type":"image",
+			"path": "/images/image.png",
+			"titre": "Exemple",
+			"date": "2020",
+			"texte": "<h1>hello world cool</h1>",
+			"credit": "Fabrice Sabatier"
+		},
+		{
+			"id":"1",
+			"type":"son",
+			"path": "New",
+			"titre": "Exemple",
+			"date": "2020",
+			"texte": "<h1>hello world cool</h1>",
+			"credit": "Fabrice Sabatier"
+		},
+		{
+			"id":"fjejfe",
+			"type":"gif",
+			"path": "New",
+			"titre": "Exemple",
+			"date": "2020",
+			"texte": "<h1>hello world cool</h1>",
+			"credit": "Fabrice Sabatier"
+		},
+		{
+			"id":"hello",
+			"type":"video",
+			"path": "New",
+			"titre": "Exemple",
+			"date": "2020",
+			"texte": "<h1>hello world cool</h1>",
+			"credit": "Fabrice Sabatier"
+		}
+	]
+}
+
+
