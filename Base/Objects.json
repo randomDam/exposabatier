@@ -1,36 +1,133 @@
 {
 	"datas": [{
-		"id":"croqDVVD",
+		"id":"croqDVVD1",
 		"type":"image",
 		"path": "/Img/Croquis/D-ouVientDataviz.jpg",
-		"titre": "D'où vient la visualisation de données ?",
-		"date": "2016",
-		"texte": "/",
+		"texte": "Scéno : D'où vient la visualisation de données ?",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"DVVD",
 		"type":"image",
 		"path": "/Img/DDVD/Expo1/PosterHistoireDatavizHD.jpg",
-		"titre": "D'où vient la visualisation de données ?",
-		"date": "2016",
-		"texte": "/",
+		"texte": "D'où vient la visualisation de données ?",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"croqRadiolo",
+		"id":"croqRadiolo1",
 		"type":"image",
 		"path": "/Img/Croquis/Radiologie.jpg",
-		"titre": "Radiologie",
-		"date": "2016-2019",
-		"texte": "/",
+		"texte": "Scéno : Radiologie",
 		"credit": "Fabrice Sabatier"
 	},
-		
-		
-		
-		
-		
+	{
+		"id":"rad1",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo1/Radio1.jpg",
+		"texte": "Chart 1: Institutions involved in EU Financial Regulation5 and ways of lobbying them + Chart 2: Deutsche Bank’s Network of EU Lobbying. CEO, Arbeiterkammer and ÖGB, The Fire Power of the Financial Lobby, 2014",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"rad2",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo1/Radio2.jpg",
+		"texte": "George W. Bush, Harken Energy, and Jackson Stephens, c. 1979–90. Mark Lombardi, 1999.",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"rad3",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo1/Radio3.jpg",
+		"texte": "Quesnay : Tableau économique. Otto Neurath, 1931.",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"rad4",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo1/Radio3.jpg",
+		"texte": "Tableau économique. François Quesnay, 1759.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"croqTopo1",
+		"type":"image",
+		"path": "/Img/Croquis/topo.jpg",
+		"texte": "Scéno : Topographie d'une crise",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"topo1",
+		"type":"image",
+		"path": "/Img/Topo/Expo1/expoERG.jpg",
+		"texte": "Installation de Topographie d'une crise à l'ERG en regard de Who Won and Who lose after the crisis. Exposition Petites perceptions de l’économie – données, images, pouvoir",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Topo2",
+		"type":"image",
+		"path": "/Img/Topo/Expo1/Grain.png",
+		"texte": "Détail de la version imprimée en Riso",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Topo3",
+		"type":"image",
+		"path": "/Img/Topo/Expo1/topographic.jpg",
+		"texte": "Version vectorielle",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Topo4",
+		"type":"image",
+		"path": "/Img/Topo/Expo1/topographicDetail.png",
+		"texte": "Détail de la version vectorielle",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Topo5",
+		"type":"image",
+		"path": "/Img/Topo/Expo1/topographicDetail2.png",
+		"texte": "Détail de la version vectorielle",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"croqEcoArt1",
+		"type":"image",
+		"path": "/Img/Croquis/ecoArt.jpg",
+		"texte": "Scéno : Économie de l’art",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Tript1",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo1/Triptyque1.jpg",
+		"texte": "Géopolitique d'une collection #1 États de l'art - Carte explosée et stratification des déplacements",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Tript2",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo1/Triptyque2.jpg",
+		"texte": "Géopolitique d'une collection #2 Le monde de l'art - Géographie des mouvements",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Tript3",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo1/Triptyque3.jpg",
+		"texte": "Géopolitique d'une collection #3 Les routes de l'art - Diagramme de flux",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Iso",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo1/IsometrieFinale.jpg",
+		"texte": "Topographie d'une collection - Paysage isométrique exploratoire",
+		"credit": "Fabrice Sabatier"
+	},	
+
+
+
 		{
 			"id":"0",
 			"type":"image",
