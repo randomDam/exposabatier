@@ -63,28 +63,28 @@
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"Topo2",
+		"id":"topo2",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/Grain.png",
 		"texte": "Détail de la version imprimée en Riso",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"Topo3",
+		"id":"topo3",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/topographic.jpg",
 		"texte": "Version vectorielle",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"Topo4",
+		"id":"topo4",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/topographicDetail.png",
 		"texte": "Détail de la version vectorielle",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"Topo5",
+		"id":"topo5",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/topographicDetail2.png",
 		"texte": "Détail de la version vectorielle",
@@ -124,46 +124,7 @@
 		"path": "/Img/EconomieArt/Expo1/IsometrieFinale.jpg",
 		"texte": "Topographie d'une collection - Paysage isométrique exploratoire",
 		"credit": "Fabrice Sabatier"
-	},	
-
-
-
-		{
-			"id":"0",
-			"type":"image",
-			"path": "/images/image.png",
-			"titre": "Exemple",
-			"date": "2020",
-			"texte": "<h1>hello world cool</h1>",
-			"credit": "Fabrice Sabatier"
-		},
-		{
-			"id":"1",
-			"type":"son",
-			"path": "New",
-			"titre": "Exemple",
-			"date": "2020",
-			"texte": "<h1>hello world cool</h1>",
-			"credit": "Fabrice Sabatier"
-		},
-		{
-			"id":"fjejfe",
-			"type":"gif",
-			"path": "New",
-			"titre": "Exemple",
-			"date": "2020",
-			"texte": "<h1>hello world cool</h1>",
-			"credit": "Fabrice Sabatier"
-		},
-		{
-			"id":"hello",
-			"type":"video",
-			"path": "New",
-			"titre": "Exemple",
-			"date": "2020",
-			"texte": "<h1>hello world cool</h1>",
-			"credit": "Fabrice Sabatier"
-		}
+	}
 	]
 }
 

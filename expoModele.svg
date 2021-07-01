@@ -65,6 +65,7 @@
        cy="52.916668"
        r="5.2916665"
        nom="topographie"
+	    pieceId="Topo1"
        inkscape:label="p:topo" />
     <circle
        style="fill:none;stroke:#02ff06;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"

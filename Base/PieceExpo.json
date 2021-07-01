@@ -1,5 +1,6 @@
 {
 	"pieceExpo": [{
+			"pieceId": "DVVD1",
 			"titre": "D'où vient la visualisation de données ?",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "exploration",
@@ -12,6 +13,7 @@
 			"collection": ["DVVD"]
 		},
 		{
+			"pieceId": "Radiolo1",
 			"titre": "Radiologie",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "classique",
@@ -24,6 +26,7 @@
 			"collection": ["rad1", "rad2", "rad3", "rad4"]
 		},
 		{
+			"pieceId": "Topo1",
 			"titre": "Topographie d'une crise",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "superposition",
@@ -36,6 +39,7 @@
 			"collection": ["topo1", "topo2", "topo3", "topo4"]
 		},
 		{
+			"pieceId": "EcoArt",
 			"titre": "Économie de l’art : cartographie d’une collection",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "exploration",

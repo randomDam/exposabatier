@@ -12,6 +12,7 @@ import {
 
 $(document).ready(function () {
 	console.log("ready script 3D");
+	initDataBase();
 	init3D();
 });
 
@@ -90,6 +91,14 @@ function init3D() {
 		document.ArrayWall = ArrayWall;
 		animate();
 	});
+
+	//-------------------------------------------------------------
+	//AD DEVENT LISCTENR CLICK
+	//-------------------------------------------------------------
+	
+	//window.addEventListener('click', onMouseclick, false);
+	$("#part_left").click(onMouseclick);
+
 }
 
 
@@ -98,9 +107,6 @@ function init3D() {
 //-------------------------------------------------------------
 function animate() {
 	requestAnimationFrame(animate);
-
-
-
 	render();
 	//stats.update();
 }
@@ -401,6 +407,7 @@ function traceCicle(sceneRef, paths, hauteur, salleName) {
 		cylinder.position.x = paths[i].getAttribute("cx");
 		cylinder.position.z = paths[i].getAttribute("cy");
 		cylinder.expoName = paths[i].getAttribute("nom");
+		cylinder.pieceId = paths[i].getAttribute("pieceId")
 		cylinder.type = "expo";
 		cylinder.salleName = salleName;
 
@@ -494,13 +501,21 @@ function onMouseMove(event) {
 	mouseRay.y = -((event.clientY - 10) / renderer.domElement.height) * 2 + 1;
 }
 //-------------------------------------------------------------
-window.addEventListener('click', onMouseclick, false);
+//click global
+//-------------------------------------------------------------
+//window.addEventListener('click', onMouseclick, false);
 
 function onMouseclick(event) {
 	console.log(expoSelected);
 
 	salleSelected = salleOver;
 	expoSelected = expoOver;
+
+	$("#debug")[0].innerText = "debug\n";
+	if(expoSelected.length>0){
+		//$("#debug")[0].innerText += expoSelected[0].pieceId + "\n";
+		drawDataBase(expoSelected[0].pieceId);
+	}
 }
 
 var salleSelected = [];
@@ -551,9 +566,11 @@ function runRayCaster() {
 
 	//if(salleOver.length>0)console.log(salleOver);
 
-	$("#debug")[0].innerText = "debug\n";
-	$("#debug")[0].innerText += expoSelected.length + "\n";
-	$("#debug")[0].innerText += expoSelected.length + "\n";
+	
+	//-------------------------------------------------------------
+	//debug mode in debug view
+	//-------------------------------------------------------------
+	
 
 
 	refreshGraphic();
@@ -688,7 +705,8 @@ function drawOver(refObject) {
 	var meshText = new THREE.Mesh(geometry, material);
 	meshText.name = "titre";
 
-	var pos = refObject.getWorldPosition(pos);
+	var cameraPostion = new THREE.Vector3();
+	var pos = refObject.getWorldPosition(cameraPostion);
 	//console.log(pos);
 
 	meshText.position.x = pos.x;
