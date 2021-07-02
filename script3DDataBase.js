@@ -66,7 +66,7 @@ var selectedObject;
 
 function drawDataBase(pieceId){
 	console.log(pieceId);
-	$("#debug")[0].innerText += pieceId + "\n";
+	//$("#debug")[0].innerText += pieceId + "\n";
 	//------------------------
 	//console.log("pieceId "+pieceId);
 	selectedExpo = findByPieceId(pieceId);
@@ -75,17 +75,27 @@ function drawDataBase(pieceId){
 	ungenAll();
 
 	//a revoir > dispatch entre 3
-	gen_superposition(selectedExpo, selectedObject);
+	if(selectedExpo.mode=="superposition"){
+		gen_superposition(selectedExpo, selectedObject);
+	}else if(selectedExpo.mode=="classique"){
+		gen_classique(selectedExpo, selectedObject);
+	}else if(selectedExpo.mode=="exploration"){
+		gen_exploration(selectedExpo, selectedObject);
+	}
 }
 
 //-------------------------------------------------------------
 //UNGENERATE
 //-------------------------------------------------------------
 function ungenAll(){
-	document.getElementById("part_right").innerHTML = "";
+	//document.getElementById("part_right").innerHTML = "";
+	$("#part_right").empty();
 }
+
+//-------------------------------------------------------------
 //-------------------------------------------------------------
 //SUPERPOSITION 
+//-------------------------------------------------------------
 //-------------------------------------------------------------
 function gen_superposition(_selectedExpo,_selectedObject){
 	var target = $("#part_right");
@@ -96,22 +106,23 @@ function gen_superposition(_selectedExpo,_selectedObject){
 
 	var x = randomRange(30,60);
 	var y = 500;
-	var marginY=500;
+	var marginY=300;
 
 	for(var i=0;i<_selectedObject.length;i++){
-		
-		
 		createSuperpositionElem(i,_selectedObject[i],x,y);
 		
-		x+=randomRange(100,400);
+		if(randomRange(0,10)<4){
+			x+=randomRange(100,100);
+		}else{
+			x+=randomRange(300,500);
+		}
+
 		if(x>w-400){
-			x=randomRange(30,60);
+			x=randomRange(30,200);
 			y+=marginY;
 		}
 	}
 }
-
-var helper;
 
 function createSuperpositionElem(index,element,x,y){
 	
@@ -138,18 +149,10 @@ function createSuperpositionElem(index,element,x,y){
 	//    $(this).remove();
 	//})
 }
-
-
 //-------------------------------------------------------------
-//EXPLORATION
-//-------------------------------------------------------------
-function gen_exploration(_selectedExpo,_selectedObject){
-
-
-	
-}
 //-------------------------------------------------------------
 //CLASSIQUE
+//-------------------------------------------------------------
 //-------------------------------------------------------------
 function gen_classique(_selectedExpo,_selectedObject){
 
@@ -159,11 +162,44 @@ function gen_classique(_selectedExpo,_selectedObject){
 
 
 
+//-------------------------------------------------------------
+//-------------------------------------------------------------
+//EXPLORATION
+//-------------------------------------------------------------
+//-------------------------------------------------------------
+function gen_exploration(_selectedExpo,_selectedObject){
+	var target = $("#part_right");
+	target.css({overflow:"auto"});
+
+	var w = target.width();
+	var h = target.height();
+	
+	
+	for(var i=0;i<_selectedObject.length;i++){
+		createSuperpositionElem(i,_selectedObject[i],0,0);
+	}
+}
+
+
+function createExplorationElem(index,element,x,y){
+	var d = document.createElement('div');
+		$(d).addClass("explorationElement")
+		.html("")
+		//.css({top:y,left:x,position:'absolute'})
+		.appendTo(target)
+		
+		
+		console.log(d);
+		var img = document.createElement('img');
+		img.src = element.path;
+		
+		d.appendChild(img);
+}
 
 
 
 //-------------------------------------------------------------
-//fonction
+//fonction utils
 //-------------------------------------------------------------
 function randomRange(min, max) {
 	return Math.random() * (max - min) + min;

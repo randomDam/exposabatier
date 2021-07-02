@@ -74,6 +74,7 @@
        cy="79.507294"
        r="5.2916665"
        nom="vice organique"
+	   pieceId="AlchBrass"
        inkscape:label="p:vice" />
     <circle
        style="display:inline;fill:none;stroke:#02ff06;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"

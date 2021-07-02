@@ -124,6 +124,97 @@
 		"path": "/Img/EconomieArt/Expo1/IsometrieFinale.jpg",
 		"texte": "Topographie d'une collection - Paysage isométrique exploratoire",
 		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Alch1",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-1.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch2",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-2.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch3",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-3.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch4",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-4.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch5",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-5.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch6",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-6.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch7",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-7.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch8",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-8.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch9",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-9.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch10",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-10.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch11",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-11.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch12",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-12.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Alch13",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo3/Alchi-13.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
 	}
 	]
 }

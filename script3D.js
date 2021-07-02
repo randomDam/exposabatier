@@ -511,7 +511,7 @@ function onMouseclick(event) {
 	salleSelected = salleOver;
 	expoSelected = expoOver;
 
-	$("#debug")[0].innerText = "debug\n";
+	//$("#debug")[0].innerText = "debug\n";
 	if(expoSelected.length>0){
 		//$("#debug")[0].innerText += expoSelected[0].pieceId + "\n";
 		drawDataBase(expoSelected[0].pieceId);
