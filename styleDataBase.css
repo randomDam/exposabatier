@@ -1,12 +1,13 @@
 .superpositionElement{
-	width: 100px;
-	height: 100px;
-
-
+	width: 340px;
+	height: 40px;
 
 	background-color: rgba(0, 0, 0);
 }
 
 .superpositionElement img{
-	width: 100px;
+	position: absolute;
+	width: 300px;
+	bottom: 20px;
+	left: 20px;
 }
