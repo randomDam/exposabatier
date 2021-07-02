@@ -176,12 +176,14 @@ function gen_exploration(_selectedExpo,_selectedObject){
 	
 	
 	for(var i=0;i<_selectedObject.length;i++){
-		createSuperpositionElem(i,_selectedObject[i],0,0);
+		createExplorationElem(i,_selectedObject[i],0,0);
 	}
 }
 
 
 function createExplorationElem(index,element,x,y){
+	var target = $("#part_right");
+	
 	var d = document.createElement('div');
 		$(d).addClass("explorationElement")
 		.html("")
