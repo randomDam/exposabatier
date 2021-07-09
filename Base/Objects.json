@@ -222,6 +222,13 @@
 		"path": "/video/DLF_V3_FINALE.mp4",
 		"texte": "Désorceler la finance",
 		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"QuelLob",
+		"type":"image",
+		"path": "/Img/QuelLobby/Expo3/QuelLobby.jpg",
+		"texte": "Quel lobbyiste es-tu ?",
+		"credit": "Fabrice Sabatier"
 	}
 	]
 }

@@ -39,7 +39,7 @@
 			"collection": ["topo1", "topo2", "topo3", "topo4"]
 		},
 		{
-			"pieceId": "EcoArt",
+			"pieceId": "EcoArt1",
 			"titre": "Économie de l’art : cartographie d’une collection",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "exploration",
@@ -52,7 +52,7 @@
 			"collection": ["Tript1","Tript2","Tript3", "Iso"]
 		},
 		{
-			"pieceId": "AlchBrass",
+			"pieceId": "AlchBrass3",
 			"titre": "Alchimie brassicole",
 			"salle": "Réseaux et formes du liable",
 
@@ -65,6 +65,19 @@
 
 			"croquis": "croqAlchBrass",
 			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
+		},
+		{
+			"pieceId": "QuelLob3",
+			"titre": "Quel lobbyiste es-tu ?",
+			"salle": "Réseaux et formes du liable",
+			"mode": "exploration",
+
+			"date": "2016",
+			"texte": "<h1>Présentation de la pièce</h1>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "croqQuelLob",
+			"collection": ["QuelLob"]
 		}
 	]
 }
