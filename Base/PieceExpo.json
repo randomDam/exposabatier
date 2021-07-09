@@ -91,6 +91,19 @@
 
 			"croquis": ["croqGloss4"],
 			"collection": ["Gloss1", "Gloss2", "Gloss3", "Gloss4", "Gloss5", "Gloss6", "Gloss7", "Gloss8", "Gloss9", "Gloss10", "Gloss11", "Gloss12", "Gloss13", "Gloss14", "Gloss15", "Gloss16", "Gloss17", "Gloss18", "Gloss19",  "Gloss20"]
+		},
+		{
+			"pieceId": "Manif4",
+			"titre": "Manifeste Désorceler la finance",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "superposition",
+
+			"date": "2017-2020",
+			"texte": "<p>Présentation de la pièce.</p>",
+			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+
+			"croquis": ["croqManif4"],
+			"collection": ["Manif1", "Manif2", "Manif3"]
 		}
 	]
 }
