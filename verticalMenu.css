@@ -1,0 +1,77 @@
+/*==================================================================================
+Switch bt
+==================================================================================*/
+#switch{
+	transition: 1s;
+	position: absolute;
+	display: block;
+	width: calc(var(--marginPage) / 2);
+	height: 100%;
+	background-color: DarkSlateGrey;
+}
+
+.switchRight{
+	left: calc( 100% - var(--marginPage) / 2 );
+}
+
+#switch:hover{
+	background-color: #fff;
+}
+
+#switch:hover #titreSwitch p{
+	color: #000;
+}
+
+#titreSwitch{
+	transition: 1s;
+	position: absolute;
+	left: 7px;
+	padding: 0;
+	margin: 0;
+	width:100%;
+	height:100%;
+}
+#titreSwitch p{
+	position: absolute;
+	top: 10px;
+
+	writing-mode: vertical-lr;
+	text-orientation: sideways;
+	transform : rotate(180deg);
+	
+	color: white;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	font-size: 1.5em;
+	font-weight: normal;
+	
+	padding: 0;
+	margin: 0;
+}
+/*==================================================================================
+Switch bt
+==================================================================================*/
+#tabExpo{
+	position: absolute;
+	display: block;
+
+	right: 0px;
+	top: 0px;
+	width: 25%;
+	height: 100%;
+
+	z-index: 10;
+
+	background-color: DarkSlateGrey;
+}
+
+#tabExpo #titreExpo{
+	
+
+	border: solid 1px #ccc;
+}
+#tabExpo #textExpo{
+
+
+}
+

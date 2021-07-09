@@ -1,0 +1,6 @@
+/*
+	Margin de chaque coté de la page
+*/
+:root{
+	--marginPage: 100px;
+}

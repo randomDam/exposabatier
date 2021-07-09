@@ -22,26 +22,55 @@ EXPLORATION ELEMENT
 	position: relative;
 	display: inline-block;
 	
+	left: calc(10%);
 	width: 80%;
 	height: auto;
-
+	
 	min-height: 50px;
-
+	
 	border: 8px solid black;
 	overflow: hidden;
 	background-color: rgba(0, 0, 0);
 }
 
 .explorationElement img{
-	position: absolute;
+	position: relative;
 	/*
 	object-fit: contain;
 	*/
 	width: 100%;
 	max-width: 100%;
-    max-height: 100%;
 }
 
 /* -------------------------------------------------------------  
 CLASSQUE ELEMENT
 -------------------------------------------------------------  */
+.classiqueElement{
+	position: relative;	
+	display: inline-block;
+	
+	max-width: 80%;
+	left: calc(10%);
+	
+	border: 6px solid black;
+	background-color: black;
+
+	padding: 0px;
+
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.classiqueElement img{
+	position: relative;
+	max-width: 100%;
+	
+	max-height: 800px;
+}
+
+.classiqueElement video{
+	position: relative;
+	max-width: 100%;
+	
+	max-height: 800px;
+}

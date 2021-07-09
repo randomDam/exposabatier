@@ -74,7 +74,9 @@ function drawDataBase(pieceId){
 
 	ungenAll();
 
-	//a revoir > dispatch entre 3
+	//-------------------------------------------------------------
+	//DISPATCH ENTRE 3 PIECES
+	//-------------------------------------------------------------
 	if(selectedExpo.mode=="superposition"){
 		gen_superposition(selectedExpo, selectedObject);
 	}else if(selectedExpo.mode=="classique"){
@@ -94,7 +96,7 @@ function ungenAll(){
 
 //-------------------------------------------------------------
 //-------------------------------------------------------------
-//SUPERPOSITION 
+//SUPERPOSITION / image / son / video 
 //-------------------------------------------------------------
 //-------------------------------------------------------------
 function gen_superposition(_selectedExpo,_selectedObject){
@@ -151,20 +153,70 @@ function createSuperpositionElem(index,element,x,y){
 }
 //-------------------------------------------------------------
 //-------------------------------------------------------------
-//CLASSIQUE
+//CLASSIQUE / image / son / video
 //-------------------------------------------------------------
 //-------------------------------------------------------------
 function gen_classique(_selectedExpo,_selectedObject){
-
-
+	var target = $("#part_right");
+	target.css({overflow:"auto"});
 	
+	var w = target.width();
+	var h = target.height();
+	
+	for(var i=0;i<_selectedObject.length;i++){
+		if(_selectedObject[i].type=="image")createClassiqueElem_image(i,_selectedObject[i],0,0,h);
+		if(_selectedObject[i].type=="video")createClassiqueElem_video(i,_selectedObject[i],0,0,h);
+	}
 }
 
+function createClassiqueElem_image(index,element,x,y,maxH){
+	var target = $("#part_right");
+	
+	var d = document.createElement('div');
+	$(d).addClass("classiqueElement")
+	.html("")
+	//.css({top:y,left:x,position:'absolute'})
+	.appendTo(target)
+	
+	
+		//console.log(d);
+		var img = document.createElement('img');
+		img.src = element.path;
+		
+		d.appendChild(img);
+		
+		var prop=(maxH-20)+"px";
+		img.style.maxHeight=prop;
+	}
+	
+function createClassiqueElem_video(index,element,x,y,maxH){
+	var target = $("#part_right");
+	
+	var d = document.createElement('div');
+	$(d).addClass("classiqueElement")
+		.html("")
+		//.css({top:y,left:x,position:'absolute'})
+		.appendTo(target)
+		
+		//console.log(d);
+		var vid = document.createElement('video');
+		vid.src = element.path;
+		vid.controls = false;
+		vid.autoplay=true;
+		vid.onclick = function(){
+			console.log("video in");
+			//openInVideoWindows();
+		};
 
+		d.appendChild(vid);
+
+		var prop=(maxH-20)+"px";
+		vid.style.maxHeight=prop;
+}
 
 //-------------------------------------------------------------
 //-------------------------------------------------------------
-//EXPLORATION
+//EXPLORATION / que image
 //-------------------------------------------------------------
 //-------------------------------------------------------------
 function gen_exploration(_selectedExpo,_selectedObject){
@@ -196,6 +248,8 @@ function createExplorationElem(index,element,x,y){
 		img.src = element.path;
 		
 		d.appendChild(img);
+
+	panzoom(img);
 }
 
 

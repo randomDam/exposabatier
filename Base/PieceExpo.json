@@ -55,14 +55,16 @@
 			"pieceId": "AlchBrass",
 			"titre": "Alchimie brassicole",
 			"salle": "Réseaux et formes du liable",
-			"mode": "superposition",
+
+			"mode réel": "superposition",
+			"mode": "classique",
 
 			"date": "2017",
 			"texte": "<h1>Présentation de la pièce</h1>",
 			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
 
 			"croquis": "croqAlchBrass",
-			"collection": ["Alch1","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
+			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
 		}
 	]
 }

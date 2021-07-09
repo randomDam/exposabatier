@@ -215,6 +215,13 @@
 		"path": "/Img/AlchBrass/Expo3/Alchi-13.jpg",
 		"texte": "Alchimie brassicole",
 		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"vidFinance",
+		"type":"video",
+		"path": "/video/DLF_V3_FINALE.mp4",
+		"texte": "Désorceler la finance",
+		"credit": "Laboratoire Désorceler la finance"
 	}
 	]
 }
