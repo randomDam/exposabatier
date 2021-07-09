@@ -369,6 +369,27 @@
 		"path": "/Img/Gloss/Expo4/Gloss20.jpg",
 		"texte": "Glossaire de la finance et de la sorcellerie",
 		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Manif1",
+		"type":"image",
+		"path": "/Img/Manifeste/Expo4/ManifesteGand.jpg",
+		"texte": "Manifeste Désorceler la finance",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Manif2",
+		"type":"image",
+		"path": "/Img/Manifeste/Expo4/ManifesteNuitBlanche.jpg",
+		"texte": "Manifeste Désorceler la finance",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Manif3",
+		"type":"son",
+		"path": "/Img/Manifeste/Expo4/ManifesteDLF.mp3",
+		"texte": "Lecture du manifeste Désorceler la finance",
+		"credit": "Laboratoire Désorceler la finance"
 	}
 	]
 }
