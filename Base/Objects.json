@@ -229,13 +229,6 @@
 		"path": "/Img/QuelLobby/Expo3/QuelLobby.jpg",
 		"texte": "Quel lobbyiste es-tu ?",
 		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"QuelLob2",
-		"type":"image",
-		"path": "/Img/QuelLobby/Expo3/QuelLobbyiste2.jpg",
-		"texte": "Quel lobbyiste es-tu ?",
-		"credit": "Fabrice Sabatier"
 	}
 	]
 }
