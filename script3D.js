@@ -79,15 +79,15 @@ function init3D() {
 		//-------------------------------------------------------------
 		document.ArrayWall = ArrayWall;
 		animate();
+
+		window.addEventListener('resize', onWindowResize, false);
 	});
 
 	//-------------------------------------------------------------
 	//AD DEVENT LISCTENR CLICK
 	//-------------------------------------------------------------
-	
 	//window.addEventListener('click', onMouseclick, false);
 	$("#part_left").click(onMouseclick);
-
 }
 
 //-------------------------------------------------------------
@@ -107,6 +107,18 @@ function render() {
 	if (time > 30) runRayCaster();
 	time++;
 	renderer.render(scene, camera);
+}
+
+//-------------------------------------------------------------
+//RESIZE for 3D object
+//-------------------------------------------------------------
+function onWindowResize(){
+    container = document.getElementById('part_left');
+	camera.aspect = container.offsetWidth / container.offsetHeight;
+    camera.updateProjectionMatrix();
+    
+	renderer.setPixelRatio(window.devicePixelRatio);
+	renderer.setSize(container.offsetWidth, container.offsetHeight);
 }
 
 var help = "lll";

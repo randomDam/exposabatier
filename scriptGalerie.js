@@ -43,15 +43,15 @@ function fillGalerie(path) {
 	var g = $("#galerieIMG")[0];
 	//console.log(g);
 
-	console.log(path);
+	//console.log(path);
 	path = path.replace('/BD/', '/Original/')
-	console.log(path);
+	//console.log(path);
 
 	g.src = path;
 	//when loading is finnished
 	g.addEventListener('load', (event) => {
-		console.log('image loaded');
-		console.log(g);
+		//console.log('image loaded');
+		//console.log(g);
 		var w = g.naturalWidth;
 		var h = g.naturalHeight;
 
@@ -76,7 +76,7 @@ function fillGalerie(path) {
 
 	});
 
-	if(originalPath!=indefined)fillLegende(originalPath);
+	if(originalPath!=undefined)fillLegende(originalPath);
 }
 //---------------------------------------------
 //remplir la legende
@@ -84,7 +84,7 @@ function fillGalerie(path) {
 function fillLegende(path) {
 	var l = $("#legende")[0];
 
-	console.log(path);
+	//console.log(path);
 
 	//reconstruc the path for legende
 	path = path.replace('/BD/', '/Legendes/')
@@ -92,13 +92,13 @@ function fillLegende(path) {
 	path = path.substring(0, path.length - 4);
 	path += ".md";
 
-	console.log(path);
+	//console.log(path);
 	//get the data
 
 	console.log("----------------------------");
 	$("#legende").load(path, null, function (response, status, xhr) {
-		console.log("status " + status);
-		console.log(response);
+		//console.log("status " + status);
+		//console.log(response);
 		$("#legende").html(converter.makeHtml(response));
 	});
 
@@ -130,8 +130,8 @@ function fillLegendeWithDiv(object,path) {
 
 	//console.log("----------------------------");
 	$(legende).load(path, null, function (response, status, xhr) {
-		console.log("status " + status);
-		console.log(response);
+		//console.log("status " + status);
+		//console.log(response);
 		$(legende).html(converter.makeHtml(response));
 	});
 	//l.load(path);

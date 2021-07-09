@@ -10,6 +10,23 @@ var debugLog_script =false;
 //------------------------------------------------------------------
 var mainHTML = "Tout7.html";
 
+
+// alternative à load
+document.onreadystatechange = function () {
+	if (document.readyState == "complete") {
+	   	
+		
+		$("#introCadre").click(function(){
+			$("#intro").animate({opacity: "0"},1,function(){
+				$("#intro").css({visibility: "hidden"});
+			});
+
+			$("#introCadre").addClass("introCadre_Hide");
+		});
+	}
+}
+
+
 //------------------------------------------------------------------
 // SETUP [ une fois que la page prête ]
 //------------------------------------------------------------------
