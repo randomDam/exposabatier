@@ -13,7 +13,7 @@ var mode="expo";
 
 $(document).ready(function () {
 	console.log("ready gestion Tab");
-	
+
 	//----------------------------------------------------
 	$("#switch").click(function () {
 		console.log("click switch!");
@@ -34,7 +34,9 @@ function changeMode(_mode){
 		
 		document.getElementById('expo').classList.remove("expo_hide");
 		document.getElementById('expo').classList.add("expo_show");
-
+		document.getElementById('tabExpo').classList.remove("tabExpo_hide");
+		//tabExpo_hide
+		
 		$("#switch #titreSwitch p").text("Vers la thèse ↑");
 	}
 	
@@ -43,6 +45,8 @@ function changeMode(_mode){
 		
 		document.getElementById('expo').classList.remove("expo_show");
 		document.getElementById('expo').classList.add("expo_hide");
+
+		document.getElementById('tabExpo').classList.add("tabExpo_hide");
 		
 		$("#switch #titreSwitch p").text("Vers les Expositions ↓");
 	}

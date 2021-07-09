@@ -34,7 +34,7 @@ Switch bt
 #titreSwitch p{
 	position: absolute;
 	top: 10px;
-
+	
 	writing-mode: vertical-lr;
 	text-orientation: sideways;
 	transform : rotate(180deg);
@@ -52,26 +52,80 @@ Switch bt
 Switch bt
 ==================================================================================*/
 #tabExpo{
+	transition: 1s;
 	position: absolute;
 	display: block;
-
-	right: 0px;
+	
+	right:	calc( -25% + (var(--marginPage)/2) );
 	top: 0px;
+
 	width: 25%;
 	height: 100%;
-
+	
 	z-index: 10;
-
+	
 	background-color: DarkSlateGrey;
 }
-
-#tabExpo #titreExpo{
-	
-
-	border: solid 1px #ccc;
+#tabExpo:hover{
+	right: 0px;
 }
+
+.tabExpo_hide{
+	right:	calc( -25% - 50px ) !important;
+}
+/*
+#tabExpo:hover #titreExpo{
+	transition: 1s;
+	background-color: #fff;
+}
+#tabExpo:hover #titreExpo p{
+	color: #000;
+}
+*/
+#tabExpo #titreExpo{
+	position: absolute;
+	
+	top: 0px;
+	left: 0px;
+	width: calc( var(--marginPage) /2 );
+	height: 100%;
+
+	/*
+	border: solid 1px #ccc;
+	*/
+}
+
+#tabExpo #titreExpo p{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+
+	writing-mode: vertical-lr;
+	text-orientation: sideways;
+	transform : rotate(180deg);
+	
+	color: white;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	font-size: 1.5em;
+	font-weight: normal;
+	
+	padding: 0;
+	margin: 0;
+}
+
 #tabExpo #textExpo{
+	position: absolute;
+	
+	top: 0px;
+	left: calc( var(--marginPage) /2 );
+	width: calc( 100% -  var(--marginPage) /2 - 2px);
+	height: calc( 100% - 2px) ;
 
-
+	padding: 10px;
+	padding-top: 5px;
+	/*
+	border: solid 1px #ccc;
+	*/
 }
 

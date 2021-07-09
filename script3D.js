@@ -55,14 +55,16 @@ function init3D() {
 	scene.background = new THREE.Color(0x444444);
 
 	//-------------------------------------------------------------
-	//GEOMETRIE TEST
+	//GEOMETRIE TEST (point zero)
 	//-------------------------------------------------------------
+	/*
 	const geometry = new THREE.BoxGeometry(1, 1, 1);
 	const material = new THREE.MeshBasicMaterial({
 		color: 0x00ff00
 	});
 	const cube = new THREE.Mesh(geometry, material);
 	scene.add(cube);
+	*/
 
 	//-------------------------------------------------------------
 	//SVG
@@ -231,7 +233,7 @@ function traceWall(sceneRef, paths, hauteur, salleName) {
 			transparent: true,
 			opacity: 0.2,
 			emissive: 0x777777,
-			alphaToCoverage: 1.0,
+			//alphaToCoverage: 1.0,
 			color: 0x888888,
 			side: THREE.DoubleSide,
 			depthTest: true
@@ -346,7 +348,8 @@ function interCylindre(sceneRef) {
 		depthTest: true
 	});
 
-	var pos0 = ArrayCylinderCopy[0].getWorldPosition();
+	var cameraPos = new THREE.Vector3();
+	var pos0 = ArrayCylinderCopy[0].getWorldPosition(cameraPos);
 	const points = [];
 
 	points.push(new THREE.Vector3(pos0.x, pos0.y, pos0.z));
@@ -356,11 +359,13 @@ function interCylindre(sceneRef) {
 		//console.log(ArrayCylinder[i].getWorldPosition());
 		if (ArrayCylinderCopy[0] != undefined && ArrayCylinderCopy[i] != undefined) {
 			if (ArrayCylinderCopy[0].expoName == ArrayCylinderCopy[i].expoName) {
-				console.log("fond!");
+				//console.log("fond!");
+				var cameraPos = new THREE.Vector3();
+
 				points.push(new THREE.Vector3(
-					ArrayCylinderCopy[i].getWorldPosition().x,
-					ArrayCylinderCopy[i].getWorldPosition().y,
-					ArrayCylinderCopy[i].getWorldPosition().z,
+					ArrayCylinderCopy[i].getWorldPosition(cameraPos).x,
+					ArrayCylinderCopy[i].getWorldPosition(cameraPos).y,
+					ArrayCylinderCopy[i].getWorldPosition(cameraPos).z,
 					//ArrayCylinderCopy[i].position.y,
 					//ArrayCylinderCopy[i].position.z
 				));

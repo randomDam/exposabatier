@@ -73,7 +73,6 @@ function drawDataBase(pieceId){
 	selectedObject = getObjectByCollections(selectedExpo.collection);
 
 	ungenAll();
-
 	//-------------------------------------------------------------
 	//DISPATCH ENTRE 3 PIECES
 	//-------------------------------------------------------------
@@ -84,6 +83,8 @@ function drawDataBase(pieceId){
 	}else if(selectedExpo.mode=="exploration"){
 		gen_exploration(selectedExpo, selectedObject);
 	}
+
+	fillCartel();
 }
 
 //-------------------------------------------------------------
@@ -253,7 +254,37 @@ function createExplorationElem(index,element,x,y){
 }
 
 
+//-------------------------------------------------------------
+//FILL CARTEL
+//-------------------------------------------------------------
+function fillCartel() {
+	var target = $("#textExpo");
 
+	//titre
+	var el1 = document.createElement('div');
+		$(el1).addClass("cartelTitre")
+		.html(selectedExpo.titre)
+		.appendTo(target)
+
+	//date
+	var el2 = document.createElement('div');
+		$(el2).addClass("cartelTexte")
+		.html(selectedExpo.date)
+		.appendTo(target)
+
+	//texte
+	var el3 = document.createElement('div');
+		$(el3).addClass("cartelTexte")
+		.html(selectedExpo.texte)
+		.appendTo(target)
+
+	//credit
+	var el4 = document.createElement('div');
+		$(el4).addClass("cartelCredit")
+		.html(selectedExpo.credit)
+		.appendTo(target)
+
+}
 //-------------------------------------------------------------
 //fonction utils
 //-------------------------------------------------------------

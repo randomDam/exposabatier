@@ -111,7 +111,7 @@ function fillLegendeWithDiv(object,path) {
 	
 	var l = $(legende)[0];
 
-	console.log(path);
+	//console.log(path);
 
 	//reconstruc the path for legende
 	path = path.replace('/BD/', '/Legendes/')
