@@ -390,6 +390,307 @@
 		"path": "/Img/Manifeste/Expo4/ManifesteDLF.mp3",
 		"texte": "Lecture du manifeste Désorceler la finance",
 		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte1",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte2",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes2.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte3",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes3.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte4",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes4.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte5",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes5.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte6",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes6.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte7",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes7.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte8",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes8.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte9",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes9.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte10",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes10.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte11",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes11.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte12",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes12.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte13",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes13.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte14",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes14.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte15",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes15.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte16",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes16.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte17",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes17.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte18",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes18.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte19",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes19.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte20",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes20.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte21",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes21.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte22",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes22.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte23",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes23.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte24",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes24.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte25",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes25.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte26",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes26.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte27",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes27.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte28",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes28.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte29",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes29.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte30",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes30.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte31",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes31.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte32",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes32.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte33",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes33.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte34",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes34.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte35",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes35.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte36",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes36.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte37",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes37.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte38",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes38.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte39",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes39.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte40",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes40.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte41",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes41.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte42",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes42.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Carte43",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo4/cartes43.png",
+		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
 	}
 	]
 }

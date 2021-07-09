@@ -104,6 +104,19 @@
 
 			"croquis": ["croqManif4"],
 			"collection": ["Manif1", "Manif2", "Manif3"]
+		},
+		{
+			"pieceId": "Carto4",
+			"titre": "Cartomancie – Ré-ouvrir les horizons",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "superposition",
+
+			"date": "2018",
+			"texte": "<p>Présentation de la pièce.</p>",
+			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+
+			"croquis": ["croqCarto4"],
+			"collection": ["Carte1", "Carte2", "Carte3", "Carte4", "Carte5", "Carte6", "Carte7", "Carte8", "Carte9", "Carte10", "Carte11", "Carte12", "Carte13", "Carte14", "Carte15", "Carte16", "Carte17", "Carte18", "Carte19", "Carte20", "Carte21", "Carte22", "Carte23", "Carte24", "Carte25", "Carte26", "Carte27", "Carte28", "Carte29", "Carte30", "Carte31", "Carte32", "Carte33", "Carte34", "Carte35", "Carte36", "Carte37", "Carte38", "Carte39", "Carte41", "Carte42", "Carte43"]
 		}
 	]
 }
