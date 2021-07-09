@@ -229,6 +229,146 @@
 		"path": "/Img/QuelLobby/Expo3/QuelLobby.jpg",
 		"texte": "Quel lobbyiste es-tu ?",
 		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss1",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss1.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss2",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss2.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss3.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss4",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss4.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss5",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss5.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss6",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss6.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss7",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss7.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss8",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss8.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss9",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss9.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss10",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss10.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss11",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss11.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss12",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss12.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss13",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss13.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss14",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss14.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss15",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss15.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss16",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss16.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss17",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss17.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss18",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss18.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss19",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss19.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
+	},	
+	{
+		"id":"Gloss20",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss20.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Fabrice Sabatier"
 	}
 	]
 }

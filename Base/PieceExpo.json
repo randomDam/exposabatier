@@ -67,7 +67,7 @@
 			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
 		},
 		{
-			"pieceId": "QuelLob3",
+			"pieceId": "QuelLobby3",
 			"titre": "Quel lobbyiste es-tu ?",
 			"salle": "Réseaux et formes du liable",
 			"mode": "exploration",
@@ -78,6 +78,19 @@
 
 			"croquis": "croqQuelLob",
 			"collection": ["QuelLob"]
-		}
+		},
+		{
+			"pieceId": "Gloss4",
+			"titre": "Glossaire de la finance et de la sorcellerie",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "superposition",
+
+			"date": "2020",
+			"texte": "<p>Présentation de la pièce.</p>",
+			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+
+			"croquis": ["croqGloss4"],
+			"collection": ["Gloss1", "Gloss2", "Gloss3", "Gloss4", "Gloss5", "Gloss6", "Gloss7", "Gloss8", "Gloss9", "Gloss10", "Gloss11", "Gloss12", "Gloss13", "Gloss14", "Gloss15", "Gloss16", "Gloss17", "Gloss18", "Gloss19",  "Gloss20"]
+		},
 	]
 }
