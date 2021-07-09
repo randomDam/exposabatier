@@ -1,0 +1,2 @@
+*Fig. 2.48 :* À partir de la capture des cent premiers résultats de la recherche « budget état », délimitation des surfaces en fonction du type d'imags(visualisation de données quali- ou quantitatives).  
+Source : Fabrice Sabatier.

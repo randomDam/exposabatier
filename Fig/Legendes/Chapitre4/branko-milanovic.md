@@ -1,0 +1,2 @@
+*Fig. 4.44 :* *Global Income Growth, 1988-2008*, diagramme publié dans *The American Prospect*, à partir des données de Branko Milanovic. Miles Corak, « Worlds of Inequality », 2016.  
+Source : [The American Prospect](https://prospect.org/power/worlds-inequality/).

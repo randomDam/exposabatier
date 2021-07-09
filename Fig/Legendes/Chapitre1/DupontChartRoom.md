@@ -1,2 +1,2 @@
 *Fig. 1.54 :* Chart room, dans l’immeuble Du Pont à Wilmington.  
-Source : JoAnne Yates, « Graphs as a Managerial Tool : A case Study of Du Pont’s Use of Graphs in the Early Twentieth Century », *The Journal of Business Communication*, 33, n°1, 1985.© Eleutherian Mills Historical Library.
+Source : JoAnne Yates, « Graphs as a Managerial Tool : A case Study of Du Pont’s Use of Graphs in the Early Twentieth Century », *The Journal of Business Communication*, 33, n°1, 1985. © Eleutherian Mills Historical Library.

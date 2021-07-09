@@ -1,0 +1,2 @@
+*Fig. 3.32 :* *Vi(c)e organique*, 2017. Les agrégats alliés/rivaux avec survol de l’agrégat rival.  
+Source : Fabrice Sabatier, [Vi(c)e organique](https://www.viceorganique.com), licence CC BY-NC-SA 4.0.

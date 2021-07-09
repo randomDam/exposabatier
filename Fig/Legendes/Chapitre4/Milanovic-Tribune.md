@@ -1,0 +1,2 @@
+*Fig. 4.43 :* *L'éléphant des inégalités*, diagramme publié dans *La Tribune* à partir des données de Branko Milanovic. Philippe Mabille, « Du mur de Berlin au mur de Trump », 2016.  
+Source : [La Tribune](https://www.latribune.fr/opinions/editos/du-mur-de-berlin-au-mur-de-trump-622970.html).

@@ -1,0 +1,2 @@
+*Fig. 4.65 :* Zezhong Wang et *al.* Comparaison de l’efficacité de trois structures de visualisation de données : texte illustré (en haut à gauche), infographie (en bas à gauche), *comic* (à droite).  
+Source : Zezhong Wang et *al.*, [Comparing Effectiveness and Engagement of Data Comics and Infographics](https://datacomics925658343.wordpress.com/study/). © Zezhong Wang et *al.*

@@ -1,0 +1,2 @@
+*Fig. 4.95 :* « One Report, Diverging Perspectives », *The New York Times*, 5 octobre 2012. Affichage après un clic sur le bouton « How a Republican Might See Things ».  
+Source : Mike Bostock, Shan Carter, Amanda Cox et Kevin Quealy [« One Report, Diverging Perspectives »](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html). © The New York Times.

@@ -1,0 +1,1 @@
+*Fig. 3.47 :* Récapitulatif des propriétés des liens.  

@@ -1,0 +1,2 @@
+*Fig. 6.22 :* Liste des ingrédients proposés pour la composition des potions avec la description de leurs propriétés, Festival international de théâtre de rue d’Aurillac, 2019.  
+Source : Désorceler la finance, licence CC BY-NC-SA 4.0.

@@ -1,0 +1,2 @@
+*Fig. 3.9 :* *Explore the lobby network in finance and climate* (détail), 2015. Sélection d’EDF et focus sur les liens de propriété. Survol d’Edison.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

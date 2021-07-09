@@ -1,0 +1,2 @@
+*Fig. 3.24 :* Exemple de visualisation créée sur le Modèle 2 : « Scientific Proof that Americans are Completely Addicted to Trucks », *Bloomberg*, 15 janvier 2015.  
+Source : Adam Pearce, Blacki Migliozzi and David Ingold, [« Scientific Proof that Americans are Completely Addicted to Trucks »](https://www.bloomberg.com/graphics/2015-auto-sales/), © Bloomberg.

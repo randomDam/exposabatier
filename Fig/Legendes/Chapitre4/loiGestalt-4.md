@@ -1,0 +1,1 @@
+*Fig. 4.26 :* Illustration de la loi de la clôture. 

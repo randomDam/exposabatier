@@ -1,0 +1,2 @@
+*Fig. 3.6 :* *Explore the lobby network in finance and climate*, 2015. Différentes phases de déploiement du réseau à partir du secteur des organisations.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

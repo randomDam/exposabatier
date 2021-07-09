@@ -1,0 +1,2 @@
+*Fig. 2.7 :* Charles Minard, *Carte figurative et approximative des quantités de viande de boucherie envoyées sur pied par les Départemens et consommées à Paris*, 1858.  
+Source : [gallica.bnf.fr / BnF](https://gallica.bnf.fr/ark:/12148/btv1b52510176m/f1.item#), Domaine public.

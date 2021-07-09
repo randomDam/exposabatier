@@ -1,0 +1,2 @@
+*Fig. 3.4 :* Préfiguration d’un réseau de 12 banques liées par leur capital, par leurs associés et des controverses. Conçu avec Graph Commons, dans le cadre du SIMPOL project, 2015.  
+Source : © SIMPOL project.

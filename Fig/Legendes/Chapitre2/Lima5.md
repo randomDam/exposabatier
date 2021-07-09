@@ -1,0 +1,2 @@
+*Fig. 2.45 :* Peter Apian, Carte du monde, XVIe siècle. Carte extraite de *Cosmographia* du cartographe et mathématicien allemand Peter Apian
+Source : *Ibid*. Provenant de Beinecke Rare Book and Manuscript Library, Yale University.

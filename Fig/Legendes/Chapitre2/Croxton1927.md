@@ -1,0 +1,2 @@
+*Fig. 2.21 :* Frederick E. Croxton, comparaison de la performance des camemberts par rapport aux diagrammes à barres segmentées.  
+Source : Frederick E. Croxton, « Further studies in the graphic use of circles and bar II: Some additional data ». *Journal of the American Statistical Association*, 22, 1927. © Frederick E. Croxton.

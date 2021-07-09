@@ -1,0 +1,2 @@
+*Fig. 3.69 :* Page extraite du *Annual Report on the operations of the Transparency Register 2019*.  
+Source : Secretaries-General of the European Parliament and the European Commission, [Transparency Register](https://ec.europa.eu/transparencyregister/public/staticPage/displayStaticPage.do?locale=en&reference=ANNUAL_REPORT).

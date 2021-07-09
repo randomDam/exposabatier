@@ -1,0 +1,2 @@
+*Fig. 3.61 :* *Explore the lobby network in finance and climate* (détail), 2015. Mouvement d’attraction des noeuds pouvant s'apparenter à une fécondation.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

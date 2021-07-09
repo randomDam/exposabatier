@@ -1,0 +1,2 @@
+*Fig. 2.44 :* Anonyme, *La roue de la lutte morale*, XVIIIe siècle. La roue est composée de paires de vertus et de vices. Elle provient du *Speculum theologiae* qui vise à la mémorisation des principes moraux.
+Source : *Ibid*. Provenant de Beinecke Rare Book and Manuscript Library, Yale University.

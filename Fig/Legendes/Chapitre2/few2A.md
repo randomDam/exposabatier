@@ -1,0 +1,2 @@
+*Fig. 2.26 :* Stephen Few, comparaison d’un camembert et d’un diagramme à barres parallèles.  
+Source : Stephen Few, « Save the Pies for Dessert », [*Perceptual Edge Visual Business Intelligence*](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf), 2007. © Stephen Few.

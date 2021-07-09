@@ -1,0 +1,2 @@
+*Fig. 2.18 :* Walter Crosby Eells, comparaison de la performance des camemberts par rapport aux diagrammes à barres segmentées.  
+Source : Walter Crosby Eells, « The relative merits of circles and bars for representing component parts ». *Journal of the American Statistical Association*, 21, 1926. © Walter C. Eells.

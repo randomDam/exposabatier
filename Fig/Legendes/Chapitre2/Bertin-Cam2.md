@@ -1,0 +1,2 @@
+*Fig. 2.12 :* Jacques Bertin, comparaison de quatre séries de diagrammes, pochées de noir, pour visualiser la masse des salaires répartie suivant les branches d'activité et la dimension des entreprises.  
+Source : *Ibid*, p144. © Jacques Bertin.

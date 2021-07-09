@@ -1,0 +1,2 @@
+*Fig. 2.38 :* Représentation tridimensionnelle de la pyramide des âges (stéréogramme) à partir des données du recensement suédois (1750-1875), par Luigi Perozzo, inventeur de la méthode, 1879.  
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/Luigi_Perozzo#/media/Fichier:Stereogram_(three-dimensional_population_pyramid)_modeled_on_actual_data_(Swedish_census,_1750-1875).jpg), Domaine public.

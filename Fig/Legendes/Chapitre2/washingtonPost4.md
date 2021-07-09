@@ -1,0 +1,2 @@
+*Fig. 2.57 :* Visualisation complémentaire au diagramme de Sankey permettant d'observer, à travers un histogramme, les déficits ou excédents budgétaires depuis 1930.   
+Source :*Ibid*. © The Washington Post.

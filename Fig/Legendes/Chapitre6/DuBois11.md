@@ -1,0 +1,2 @@
+*Fig. 6.47 :* W. E. B. Du Bois, *Valeur estimée des équipements de cuisine et du mobilier domestique des foyers nègres de Géorgie*, 1900.  
+Source : [Library of Congress](https://www.loc.gov/item/2013650445/).

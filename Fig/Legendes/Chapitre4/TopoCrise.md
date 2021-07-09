@@ -1,0 +1,2 @@
+*Fig. 4.49* : *Topographie d’une crise – Carte du territoire économique européen – Évolution du relief en quatre latitudes*, 2015 (Données : ECB Statistical Data Warehouse / Élaborées par Stefano Battiston et Marco D'Errico).  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

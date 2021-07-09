@@ -1,0 +1,2 @@
+*Fig. 6.78 :* Fabrice Sabatier, *Topographie d'une collection - Paysage isométrique exploratoire*, 2017, extrait de la série de 4 posters *Géopolitique d'une collection*. Vue de l’exposition *Souvenir de Mwene Mutapa – Cartographie exotique d’une collection*, La Box, Bourges, 2017 (Commisariat : Nicolas de Ribou). La carte est une exploration de la base de données d'une collection d'art contemporain privée.
+Source : © Pascal Vanneau.

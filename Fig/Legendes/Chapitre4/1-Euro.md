@@ -1,0 +1,2 @@
+*Fig. 4.85 :* Reproduction du graphique présenté par Marine Le Pen durant le *Grand débat de la présidentielle*, sur TF1 : *Production industrielle - Allemagne, France, Espagne, Italie*, 2017.  
+Source : Données OCDE.

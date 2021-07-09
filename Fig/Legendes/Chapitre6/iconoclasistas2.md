@@ -1,0 +1,2 @@
+*Fig. 6.71 :* Iconoclasistas, *Mega-mining in the dry Andes*, 2010. Carte des méga-mines à ciel ouvert d'Argentine.  
+Source : kollektiv orangotango+ (ed.), [*This is not an atlas*](https://www.transcript-verlag.de/shopMedia/openaccess/pdf/oa9783839445198.pdf). Bielefeld : transcript Verlag, 2018, p. 86. © Iconoclasistas.

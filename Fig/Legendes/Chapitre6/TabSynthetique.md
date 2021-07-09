@@ -1,0 +1,2 @@
+*Fig. 6.76 :* Tableau synthétique des trois figures caractérisant des attitudes types de designers dans un processus de visualisation de données économiques.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

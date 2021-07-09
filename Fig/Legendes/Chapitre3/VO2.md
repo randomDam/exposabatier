@@ -1,0 +1,2 @@
+*Fig. 3.62 :* *Vi(c)e organique*, 2017. Différentes étapes du questionnaire où les camemberts se divisent, se déploient et se transforment en boutons circulaires pour effectuer des choix et traverser la base de données.  
+Source : Fabrice Sabatier, [Vi(c)e organique](https://www.viceorganique.com), licence CC BY-NC-SA 4.0.

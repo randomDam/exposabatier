@@ -1,0 +1,2 @@
+*Fig. 2.8 :* Charles Minard, *Carte Figurative et approximative de l’importance des Ports Maritimes de l’Empire Français mesurée par les Tonnages effectifs des Navires entrés et sortis en 1857*, 1859.  
+Source : Sandra Rendgen, « Les cinquante cartes de Charles-Joseph Minard », dans [*visionscarto*](https://visionscarto.net/charles-joseph-minard-cinquante-cartes). Reproduction provenant de l’École nationale des Ponts et Chaussées, Paris. 

@@ -1,0 +1,2 @@
+*Fig. 6.49 :* Flyer distribué sur l'étal de l’Atelier potions et de l’Atelier purin d’orties qui l’accompagnait. Texte de Denis Hertz. Festival international de théâtre de rue d’Aurillac, 2019.  
+Source : Désorceler la finance, licence CC BY-NC-SA 4.0.

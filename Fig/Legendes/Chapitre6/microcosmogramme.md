@@ -1,0 +1,2 @@
+*Fig. 6.4 :* Laboratoire Désorceler la finance, *Microcosmogramme des forces contraires - Fonction capitaliste et fonction sociale du logement à Bruxelles* (titre provisoire), 2021, travail en cours.  
+Source : Désorceler la finance, licence CC BY-NC-SA 4.0.

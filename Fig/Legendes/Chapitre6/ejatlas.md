@@ -1,0 +1,2 @@
+*Fig. 6.73 :* Leah Temper, Joan Martinez Alier, Daniela Del Bene, *EJAtlas – Global Atlas of Environmental Justice*, 2015.  
+Source : [Global Atlas of Environmental Justice](https://ejatlas.org/). © EJAtlas.

@@ -1,0 +1,2 @@
+*Fig. 2.9 :* Diagramme provenant du rapport annuel aux actionnaires de l'American Telephone and Telegraph Company, 1911. Publié par Brinton dans *Graphic methods for presenting facts*.  
+Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914, p5. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).

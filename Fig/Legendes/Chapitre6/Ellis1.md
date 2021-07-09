@@ -1,0 +1,2 @@
+*Fig. 6.53 :* Anti-Eviction Mapping Project, *Ellis Act Evictions – San Francisco Households Forced Out of Their Homes, 1994-2000*.  
+Source : [*Anti-Eviction Mapping Project*](http://www.antievictionmappingproject.net/ellis.html). © AEMP.

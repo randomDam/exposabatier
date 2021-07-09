@@ -1,0 +1,2 @@
+*Fig. 4.90 :* *Production manufacturière, base 100 en 2007*, *Marianne*, 23 mars 2017.  
+Source :[Marianne](https://www.marianne.net/economie/graphique-de-marine-le-pen-sur-tf1-decodeurs-ou-deconneurs), données OCDE.

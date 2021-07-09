@@ -1,0 +1,2 @@
+*Fig. 2.3 :* William Playfair, *Chart representing the Extent Population and Revenue of the Principal Nation in Europe*. Dans *The Statistical Breviary,* édition de 1802.  
+Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323093~90092186:Carte-statistique-repr%C3%A9sentant-l-%C3%A9t?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:William%20Playfair;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=4&trs=10#).

@@ -1,2 +1,2 @@
-*Fig. 47 :* William Stanley Jevons, loi de la demande, 1871.  
+*Fig. 1.47 :* William Stanley Jevons, loi de la demande, 1871.  
 Source : William Stanley Jevons, *The Theory of Political Economy*, [The Library of Economics and Liberty](https://www.econlib.org/library/YPDBooks/Jevons/jvnPE.html?chapter_num=7#book-reader).

@@ -1,0 +1,2 @@
+*Fig. 4.59* : *Who won and who lost after the crisis?* 2015, séquence 1.  
+Source :  Fabrice Sabatier, [Who won and who lost after the crisis?](http://www.corp-lab.com/simpol/), licence CC BY-NC-SA 4.0.

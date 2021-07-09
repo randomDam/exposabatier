@@ -8,8 +8,8 @@
 //MODE LVL
 //-------------------------------------------------------------
 //these or expo
-//var mode="these";
-var mode="expo";
+var mode="these";
+//var mode="expo";
 
 $(document).ready(function () {
 	console.log("ready gestion Tab");
@@ -25,6 +25,12 @@ $(document).ready(function () {
 	});
 	
 	changeMode(mode);
+
+	window.addEventListener("hashchange", function () {
+		console.log("hash!");
+		$("#main").scrollTop(0);
+		//window.scrollTo(window.scrollX, window.scrollY - 100);
+	});
 });
 
 function changeMode(_mode){

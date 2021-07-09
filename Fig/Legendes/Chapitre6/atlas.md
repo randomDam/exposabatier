@@ -1,0 +1,2 @@
+*Fig. 6.58 :* Ricardo Hausmann et *al.* (Harvard’s Growth Lab), *The Atlas of Economic Complexity*.  
+Source : [*The Atlas of Economic Complexity*](https://atlas.cid.harvard.edu/explore). © Harvard’s Growth Lab.

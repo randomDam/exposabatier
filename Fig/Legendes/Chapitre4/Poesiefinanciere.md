@@ -1,0 +1,2 @@
+*Fig. 4.10 :* Fabrice Sabatier, *Img d’éco #3 Un été rue du mur*. Poème composé à partir des titres du *Point* entre le 8 juillet et 26 septembre 2014.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

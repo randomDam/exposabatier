@@ -1,0 +1,2 @@
+*Fig. 4.57 :* Capture d'écran du site *A Good Life For All Within Planetary Boundaries*, University of Leeds.  
+Source : [*A Good Life For All Within Planetary Boundaries*](https://goodlife.leeds.ac.uk/), © University of Leeds.

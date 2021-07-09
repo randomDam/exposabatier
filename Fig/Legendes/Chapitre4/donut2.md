@@ -1,0 +1,2 @@
+*Fig. 4.55 :* Kate Raworth, *Imaginer un espace propice au développement durable*, 2012.  
+Source : Kate Raworth, [« Un espace sûr et juste pour l’humanité. Le concept du "donut" »](https://www.oxfam.org/sites/www.oxfam.org/files/dp-a-safe-and-just-space-for-humanity-130212-fr.pdf), © Kate Raworth.

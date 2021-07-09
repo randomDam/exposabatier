@@ -1,0 +1,1 @@
+*Fig. 3.23 :* Modèle 2 : visualisations et commentaires sur deux colonnes distinctes. La colonne texte défile alors que la visualisation se reconfigure sur place.  

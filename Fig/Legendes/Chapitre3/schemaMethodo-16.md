@@ -1,0 +1,1 @@
+*Fig. 3.42 :* Réseau : connexion de noeuds par des liens.  

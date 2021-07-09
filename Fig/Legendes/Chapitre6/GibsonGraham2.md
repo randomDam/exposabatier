@@ -1,0 +1,2 @@
+*Fig. 6.56 :* J.K. Gibson-Graham, Représentation des différences d'occupation dans une journée de travail, entre un homme et une femme, 2013.  
+Source : J.K. Gibson-Graham, Jenny Cameron, Stephen Healy, *Take Back the Economy. An Ethical Guide for Transforming Our Communities*. Minneapolis : University of Minnesota Press, 2013, p. 23-25. © Gibson-Graham.

@@ -1,0 +1,2 @@
+*Fig. 2.60 :* Direction du Budget, *Les dépenses de l’État par nature*, 2019.  
+Source : *Ibid*. © Philippe Ricard, Dominique-Henri Simon et Alain Salesse, secrétariat Général des ministères économique et financier.

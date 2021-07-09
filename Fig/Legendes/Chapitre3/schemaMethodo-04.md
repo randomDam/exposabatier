@@ -1,0 +1,1 @@
+*Fig. 3.17 :* Structure du tableau des organisations, de leurs profil et positions.  

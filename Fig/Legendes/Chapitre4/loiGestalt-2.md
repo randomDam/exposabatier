@@ -1,0 +1,1 @@
+*Fig. 4.16 :* Illustration de la loi de la similitude. 

@@ -1,0 +1,1 @@
+*Fig. 4.33 :* Illustration de la loi de symétrie.  

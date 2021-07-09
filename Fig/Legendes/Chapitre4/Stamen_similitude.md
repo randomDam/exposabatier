@@ -1,0 +1,2 @@
+*Fig. 4.19 :* Stamen, *Visualizing a day of financial transactions on NASDAQ*, 2012.  
+Source : [Stamen Design](https://hi.stamen.com/visualizing-a-day-of-financial-transactions-on-nasdaq-part-2-83e8a3048fbb), © Stamen.

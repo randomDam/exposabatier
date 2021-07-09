@@ -1,0 +1,2 @@
+*Fig. 3.5 :* *Explore the lobby network in finance and climate* (détails), 2015. Image 1 : Entrée par les secteurs industriels ; Image 2 : Entrée par les types d’organisation ; Image 3 : Entrée par les types d’intérêts (privés ou publics).  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

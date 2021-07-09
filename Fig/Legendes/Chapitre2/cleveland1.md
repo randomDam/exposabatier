@@ -1,0 +1,2 @@
+*Fig. 2.15 :* Illustration des « tâches élémentaires perceptuelles » identifiées par Cleveland et McGill : la position sur une même échelle, la position sur des échelles non-alignées, la longueur, la direction, l’angle, l’aire, le volume, la courbure, les hachures ou l’opacité et la saturation des couleurs.  
+Source : William S. Cleveland et Robert McGill, « Graphical perception: Theory, experimentation, and application to the development of graphical methods », *Journal of the American Statistical Association*, 79/387, 1984, p532. © William S. Cleveland et Robert McGill.

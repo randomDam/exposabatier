@@ -1,0 +1,1 @@
+*Fig. 3.31 :* Schéma d'un *packed circle chart*.  

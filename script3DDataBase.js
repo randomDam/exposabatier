@@ -261,6 +261,8 @@ function createExplorationElem(index,element,x,y){
 //-------------------------------------------------------------
 function fillCartel() {
 	var target = $("#textExpo");
+	target.html("");
+
 
 	//titre
 	var el1 = document.createElement('div');
@@ -270,7 +272,7 @@ function fillCartel() {
 
 	//date
 	var el2 = document.createElement('div');
-		$(el2).addClass("cartelTexte")
+		$(el2).addClass("cartelDate")
 		.html(selectedExpo.date)
 		.appendTo(target)
 

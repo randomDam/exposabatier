@@ -1,0 +1,1 @@
+*Fig. 3.45 :* Structure des liens d’affiliation.  

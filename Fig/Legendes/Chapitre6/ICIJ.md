@@ -1,0 +1,2 @@
+*Fig. 6.64 :* Site de l'ICIJ, distinguant et reliant des agents, entités et intermédiaires cités dans les *Offshore Leaks*.  
+Source : [The International Consortium of Investigative Journalists](https://offshoreleaks.icij.org/). © ICIJ.

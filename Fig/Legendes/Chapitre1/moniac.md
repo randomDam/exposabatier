@@ -1,2 +1,2 @@
-*Fig. 50 :* Le Professeur Bill Phillips et le prototype de sa machine, le MONIAC.   
+*Fig. 1.50 :* Le Professeur Bill Phillips et le prototype de sa machine, le MONIAC.   
 Source : LSE Library, [Wikipedia](https://de.wikipedia.org/wiki/MONIAC#/media/Datei:Phillips_and_MONIAC_LSE.jpg), No restrictions.

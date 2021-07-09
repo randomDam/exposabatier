@@ -1,0 +1,1 @@
+*Fig. 4.32 :* Illustration de la loi de familiarité.  

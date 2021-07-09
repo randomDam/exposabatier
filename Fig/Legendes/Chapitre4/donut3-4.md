@@ -1,0 +1,2 @@
+*Fig. 4.56 :* Kate Raworth et  Christian Guthier, *Manque et dépassement dans le donut*, 2017.  
+Source : Kate Raworth, « A Doughnut for the Anthropocene: humanity's compass in the 21st century », [*The Lancet Planetary Health*](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196%2817%2930028-1/fulltext#articleInformation), vol.1, issue2, 2017. © Kate Raworth et Christian Guthier/The Lancet Planetary Health.

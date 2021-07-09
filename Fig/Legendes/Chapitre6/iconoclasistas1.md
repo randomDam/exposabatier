@@ -1,0 +1,2 @@
+*Fig. 6.70 :* Iconoclasistas, session de travail de cartographie collective, Argentine.  
+Source : kollektiv orangotango+ (ed.), [*This is not an atlas*](https://www.transcript-verlag.de/shopMedia/openaccess/pdf/oa9783839445198.pdf). Bielefeld : transcript Verlag, 2018, p. 88. © Iconoclasistas.

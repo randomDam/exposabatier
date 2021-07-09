@@ -1,0 +1,2 @@
+*Fig. 2.5 :* Couverture de D. F. Donnant, *Statistical Account of the United States of America*, 1805, traduit par William Playfair et « illustré par un cercle divisé représentant la superficie proportionnelle des différents États, de l'Est et du territoire nouvellement acquis de la Louisiane ».  
+Source : [Lehigh University Omeka](https://omeka.lehigh.edu/items/show/3204), Domaine public.

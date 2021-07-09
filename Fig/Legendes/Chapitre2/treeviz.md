@@ -1,0 +1,2 @@
+*Fig. 2.51 :* Une des premières représentations sous la forme d'un *treemap*, développé par Ben Shneiderman et Brian Johnson, pour visualiser l’espace d’un disque dur, à partir de 1991.
+Source : Ben Shneiderman, « Treemaps for space-constrained visualization of hierarchies. Including the History of Treemap Research at the University of Maryland », [HCIL Archive](https://www.cs.umd.edu/hcil/treemap-history/index.shtml). © Shneiderman.

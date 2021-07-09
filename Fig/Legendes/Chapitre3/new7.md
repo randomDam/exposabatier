@@ -1,0 +1,2 @@
+*Fig. 3.44 :* *Vi(c)e organique*, 2017. Affichage du réseau avec les liens d’affiliation. Clic sur Shell (détail).  
+Source : Fabrice Sabatier, [Vi(c)e organique](https://www.viceorganique.com), licence CC BY-NC-SA 4.0.

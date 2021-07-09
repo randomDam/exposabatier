@@ -1,0 +1,2 @@
+*Fig. 4.52 :* « The Jobless Rate for People Like You », *The New York Times*, 6 novembre 2009.   
+Source : Shan Carter, Amanda Cox et Kevin Quealy (direction artistique :  Steve Duenes) [« The Jobless Rate for People Like You »](https://archive.nytimes.com/www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html?_r=1). © The New York Times.

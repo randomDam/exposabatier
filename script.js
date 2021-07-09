@@ -8,7 +8,7 @@ var debugLog_script =false;
 //------------------------------------------------------------------
 //HTML Chargé
 //------------------------------------------------------------------
-var mainHTML = "__Tout2.html";
+var mainHTML = "Tout7.html";
 
 //------------------------------------------------------------------
 // SETUP [ une fois que la page prête ]
@@ -28,21 +28,6 @@ $(document).ready(function () {
 		//console.log(tab.length);
 
 		$("#sommaire").html(tableCopy);
-
-		//----------------------------------------------
-		//fonction de action du sommaire
-		//de plie et remplie
-		$("#sommaire").mouseenter(function () {
-			$("#sommaire")[0].style.left = "0px";
-		});
-
-
-		//-------------------------------------------------------------
-		//TABLE DES MATIERE STATIC / comment ligne 39
-		//-------------------------------------------------------------
-		$("#sommaire").mouseleave(function () {
-			$("#sommaire")[0].style.left = "-305px" //pour replier le sommaire
-		})
 		//------------------------------------------------
 		//suppression des classes sonctent 4
 		//contents3

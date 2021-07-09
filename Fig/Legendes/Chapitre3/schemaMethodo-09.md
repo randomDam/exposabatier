@@ -1,0 +1,1 @@
+*Fig. 3.26 :* Programmation des transitions avec d3.js.  

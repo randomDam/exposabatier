@@ -14,7 +14,6 @@ h1 {
 }
 */
 
-
 #main{
 	position: absolute;
 	display: block;
@@ -26,6 +25,8 @@ h1 {
 	right: 0px;
 	top: 0px;
 	bottom: 0px;
+
+
 
 	overflow: hidden;
 }
@@ -42,6 +43,7 @@ h1 {
 	/*500px,*/
 
 	padding: 0px;
+	height: 100%;
 
 	background-color: white;
 	/*rgb(200, 200, 200);*/
@@ -91,29 +93,83 @@ h1 {
 /*==================================================================================
 Sommaires css
 ==================================================================================*/
-#sommaire {
-	transition-duration: 0.5s;
+/*==================================================================================
+SOMMAIRE
+==================================================================================*/
+#sommaireTab{
+	transition: 1s;
 	position: absolute;
 	display: block;
+	height: calc( 100% );
 
-	top: 10px;
-	left: -305px;
-	bottom: 10px;
-	width: calc(300px);
+	width: 25%;
+	
+	left: calc( -25% + var(--marginPage) / 2 );
 
-	padding: 20px;
-	/*padding-right: 50px;*/
+	top: 0px;
+	height: 100%;
 
+	padding: 0px;
 	cursor: pointer;
 
-	overflow-y: scroll;
-	background-color: DarkSlateGrey;  
+	overflow: hidden;
+	background-color: DarkSlateGrey;
+}
+
+.sommaireRight{
+	left: calc( 100% - var(--marginPage) / 2 );
+}
+
+#sommaireTab:hover{
+	left: 0px;
+}
+
+#sommaireTitre{
+	position: absolute;
+	
+	top: 10px;
+	right: -10px;
+	width: calc( var(--marginPage) / 2 );
+	height: 100%;
+
+	/*
+	border: solid 1px white;
+	*/
+}
+
+#sommaireTitre p{
+	writing-mode: vertical-lr;
+	text-orientation: sideways;
+	transform : rotate(180deg);
+	
+	color: white;
+	font-family: "FFaune";
+	line-height: 1.1em;
+	font-size: 1.5em;
+	font-weight: normal;
+	
+	left: 10px;
+
+	padding: 0;
+	margin: 0;
 }
 
 #sommaire {
+	position: absolute;
+	display: block;
+	
+	top: 10px;
+	left: 10px;
+	right: calc(var(--marginPage)/2 + 10px);
+	bottom: 10px;
+
+	overflow-y: scroll;
+	padding: 10px;
+
 	font-family: "FFaune";
-	/*font-family: helvetica, arial, sans-serif;*/
 	color: white;
+
+	border: 1px solid rgba(255, 255, 255,0);
 }
 
 #sommaire a {

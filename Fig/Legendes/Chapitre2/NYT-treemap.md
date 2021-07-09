@@ -1,0 +1,2 @@
+*Fig. 2.52 :* Capture d’écran du *treemap* « Obama’s 2011 Budget Proposal: How It’s Spent » représentant le budget fédéral américain 2011, *The New York Times*, 2010.   
+Source : Shan Carter et Amanda Cox, [« Obama’s 2011 Budget Proposal: How It’s Spent »](https://archive.nytimes.com/www.nytimes.com/interactive/2010/02/01/us/budget.html?_r=0). © The New York Times.

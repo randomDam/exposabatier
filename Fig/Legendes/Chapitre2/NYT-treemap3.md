@@ -1,0 +1,2 @@
+*Fig. 2.53 :* Mise-à-jour de la visualisation après un clic sur « Show 2010 Budget ». Les couleurs disparaissent puiqu’elles servaient à montrer l’évolution des données de 2011 par rapport à 2010.
+Source : *Ibid*. © The New York Times.

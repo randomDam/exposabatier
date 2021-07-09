@@ -1,0 +1,1 @@
+*Fig. 3.19 :* Structure des données, au format *json*, concernant les « histoires et révélations ».  

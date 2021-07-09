@@ -1,0 +1,1 @@
+*Fig. 4.30 :* Illustration de la loi de destin commun.  

@@ -1,0 +1,2 @@
+*Fig. 6.2 :* Vue de l'exposition *Cabinet de curiosités économiques*, du Laboratoire sauvage Désorceler la Finance, à la Biennale de l'Image Possible (BIP), Liège, 2020. L'exposition proposait, en trois chapitres, « un parcours utopique et fictionnel sur les ruines du capitalisme ». Au premier plan : Alexandra Arènes, Cartogénèse du territoire de Belval, 2014.  
+Source : © Dimitri Tutle.

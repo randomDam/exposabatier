@@ -1,0 +1,2 @@
+*Fig. 3.56 :* Pedro Cruz, *An ecosystem of corporate politicians Portugal 1975-2013*.  
+Source : Pedro Cruz, [*An ecosystem of corporate politicians Portugal 1975-2013*](http://pmcruz.com/eco/), © Pedro Cruz.

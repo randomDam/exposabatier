@@ -1,0 +1,1 @@
+*Fig. 3.39 :* Schéma des *clustered force layout*.  

@@ -1,0 +1,2 @@
+*Fig. 3.50 :* William Playfair, *Exports and Imports to and from Denmark & Norway from 1700 to 1780*. Dans *Commercial and Political Atlas*, 1786. 
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/William_Playfair#/media/Fichier:Playfair_TimeSeries.png), Domaine public.

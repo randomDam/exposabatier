@@ -1,0 +1,2 @@
+*Fig. 4.5 :* Fabrice Sabatier, *Img d’éco #1 Image manquante*, 2016. Vue de l’exposition *Petites perceptions de l’économie – données, images, pouvoir*, Galerie de l’erg, Bruxelles, 2016.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

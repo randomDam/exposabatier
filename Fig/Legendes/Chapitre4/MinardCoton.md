@@ -1,0 +1,2 @@
+*Fig. 4.64 :* Charles Minard, *Carte figurative et approximative des quantités de coton brut importées en Europe en 1858, en 1864 et en 1865*, 1866.  
+Source : [Library of Congress](https://www.loc.gov/resource/g3201j.ct002136/?r=0.247,0.307,0.372,0.222,0), Geography and Map Division.

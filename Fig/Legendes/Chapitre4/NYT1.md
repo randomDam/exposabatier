@@ -1,0 +1,2 @@
+*Fig. 4.93 :* « One Report, Diverging Perspectives », *The New York Times*, 5 octobre 2012. Affichage par défaut en arrivant sur la page.  
+Source : Mike Bostock, Shan Carter, Amanda Cox et Kevin Quealy [« One Report, Diverging Perspectives »](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html). © The New York Times.

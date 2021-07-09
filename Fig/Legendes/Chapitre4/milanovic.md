@@ -1,0 +1,2 @@
+*Fig. 4.42 :* Couverture du livre de Branko Milanovic, *Inégalités mondiales. Le destin des classes moyennes, les ultra-riches et l'égalité des chances*, Paris : La Découverte, 2019.  
+Source : [Éditions La Découverte](https://www.editionsladecouverte.fr/inegalites_mondiales-9782348040450) © ADGP / Branko Milanovic.

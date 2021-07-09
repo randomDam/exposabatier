@@ -1,0 +1,2 @@
+*Fig. 2.36 :* Diagramme diffusé par le département de l'information du réseau de télévision américain NBC.  
+Source : Image tweetée par @scottmcmorrow, le 23 février 2020, [Twitter](https://twitter.com/scottmcmorrow/status/1231676309358743553), © Scott McMorrow

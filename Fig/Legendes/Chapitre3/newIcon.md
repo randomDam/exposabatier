@@ -1,0 +1,2 @@
+*Fig. 3.3 :* Extrait d’un jeu d’icônes et d’un système graphique pour la visualisation de réseaux de lobbying financier réalisés dans le cadre du SIMPOL project, 2015.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

@@ -1,0 +1,2 @@
+*Fig. 2.11 :* Jacques Bertin, comparaison de quatre séries de diagrammes pour visualiser la masse des salaires répartie suivant les branches d'activité et la dimension des entreprises.  
+Source : Jacques Bertin, *Sémiologie graphique. Les diagrammes, les réseaux, les cartes*. Paris : Gauthier-Villars, Mouton & Cie, École Pratique des Hautes Etudes, 1967, p143. © Jacques Bertin.

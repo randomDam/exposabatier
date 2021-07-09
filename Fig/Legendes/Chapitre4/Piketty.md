@@ -1,0 +1,2 @@
+*Fig. 4.81 :* Thomas Piketty, *Le rapport capital/revenu en Europe, 1870-2010*, 2013.  
+Source : Thomas Piketty, *Le Capital au XXIe siècle*. Paris : Seuil, 2013. [Graphiques et tableaux de l'ouvrage](http://piketty.pse.ens.fr/fr/capital21c), © Thomas Piketty.

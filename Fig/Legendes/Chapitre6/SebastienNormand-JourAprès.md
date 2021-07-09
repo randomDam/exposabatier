@@ -1,0 +1,2 @@
+*Fig. 6.8 :* Collage et lecture des *Nouvelles du Jour d'après*, conclusion des *Rituels de désenvoûtement de la finance*, Festival international de théâtre de rue d’Aurillac, 2019.  
+Source : © Sébastien Normand.

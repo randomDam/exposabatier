@@ -1,0 +1,1 @@
+*Fig. 4.22 :* Illustration de la loi de la continuité.  

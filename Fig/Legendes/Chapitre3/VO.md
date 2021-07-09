@@ -1,0 +1,2 @@
+*Fig. 3.2 :* *Vi(c)e organique*, 2017. Images 1 à 3 : Premier volet, l’identification ; Images 4 à 8 : Deuxième volet, l’exploration guidée ; Image 9 : Troisième volet, l’exploration libre.  
+Source : Fabrice Sabatier, [Vi(c)e organique](https://www.viceorganique.com), licence CC BY-NC-SA 4.0.

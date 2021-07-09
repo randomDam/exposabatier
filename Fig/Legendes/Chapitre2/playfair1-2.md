@@ -1,0 +1,2 @@
+*Fig. 2.2 :* Détail du diagramme à secteurs de William Playfair dans *Chart representing the Extent Population and Revenue of the Principal Nation in Europe*.  
+Source : *Ibid*. © Thomas Fisher Rare Book Library, University of Toronto.

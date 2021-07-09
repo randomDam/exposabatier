@@ -1,0 +1,2 @@
+*Fig. 2.50 :* À partir de la capture des cent premiers résultats de la recherche « budget état », délimitation des surfaces en fonction de la provenance des images (sites de presse, blogs économiques ou sites gérés par des autorités publiques).  
+Source : Fabrice Sabatier.

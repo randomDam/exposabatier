@@ -1,0 +1,1 @@
+*Fig. 3.18 :* Structure du tableau des liens d’affiliation entre organisations.  

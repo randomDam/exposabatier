@@ -1,0 +1,1 @@
+*Fig. 4.36 :* Illustration de la domination de la loi de connectivité sur la loi de proximité et la loi de similitude.  

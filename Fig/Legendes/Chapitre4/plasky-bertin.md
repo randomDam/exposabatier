@@ -1,0 +1,2 @@
+*Fig. 4.70 :* Gilles Palsky, *Nombre de citations des ouvrages classiques de cartographie dans « Google Scholar » pour la période 2000-2017*, 2017.  
+Source : Gilles Palsky, « La Sémiologie de Jacques Bertin a cinquante ans ! ». [*Visionscarto*](https://visionscarto.net/la-semiologie-graphique-a-50-ans). © Gilles Palsky.

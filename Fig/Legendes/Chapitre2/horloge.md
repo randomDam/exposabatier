@@ -1,0 +1,1 @@
+*Fig. 2.40 :* Horloges avec et sans chiffres. Si nous en avons appris le code de lecture, la présence ou non des chiffres ne change pas notre capacité à décoder l’heure.

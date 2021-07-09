@@ -1,0 +1,2 @@
+*Fig. 6.75 :* Le collectif W.I.T.C.H. devant la bourse de New-York où les sorcières en noir et chapeau pointu appelaient au déclin du Dow Jones (ce qui est effectivement advenu, avec une chute de cinq points de l'indice le lendemain de la manifestation).  
+Source : Laura Tanenbaum and Mark Engler, « Feminist Organizing After the Women’s March: Lessons from the Second Wave ». [*Dissent*](https://www.dissentmagazine.org/online_articles/lessons-second-wave-radical-feminism-womens-liberation-movement).

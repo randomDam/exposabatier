@@ -1,0 +1,2 @@
+*Fig. 6.3 :* *Glossaire de la finance et de la sorcellerie* dans l'exposition *Le Cabinet de curiosités économiques*, du Laboratoire sauvage Désorceler la Finance, à la Biennale de l'Image Possible (BIP), Liège, 2020.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

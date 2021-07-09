@@ -1,2 +1,2 @@
-*Fig. 0.8 :* Cartomancie participative avec le jeu *Ré-ouvrir les horizons* du Laboratoire Désorceler la finance, lors d'une séance du Design Fiction Club de Max Mollon à la Gaîté Lyrique de Paris, et sur une proposition de Typhaine Kazy-Tani, avril 2018.  
+*Fig. 0.8 :* Cartomancie participative avec le jeu *Ré-ouvrir les horizons* du Laboratoire Désorceler la finance, lors d'une séance du Design Fiction Club de Max Mollon à la Gaîté Lyrique de Paris, et sur une proposition de Tiphaine Kazy-Tani, avril 2018.  
 Source : © Max Mollon.

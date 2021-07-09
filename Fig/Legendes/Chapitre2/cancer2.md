@@ -1,0 +1,2 @@
+*Fig. 2.29 :* Reconfiguration du diagramme circulaire à partir d'une question étroite où il sera aisé d'évaluer que les deux cancers les plus fréquents représentent environ un quart de l'ensemble, idem pour les quatre suivants.  
+Source : Fabrice Sabatier.

@@ -1,0 +1,1 @@
+*Fig. 3.22 :* Modèle 1 : visualisations et commentaires sont entremêlés dans une même colonne à défiler.  

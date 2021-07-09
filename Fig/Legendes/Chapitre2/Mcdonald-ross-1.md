@@ -1,0 +1,2 @@
+*Fig. 2.23 :* Michael Macdonald-Ross, comparaison de la performance des camemberts par rapport aux diagrammes à barres parallèles et à barre segmentée.  
+Source : Michael Macdonald-Ross, « How numbers are shown », *AV Communications Review*, 25, 1977. © Michael Macdonald-Ross.

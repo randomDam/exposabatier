@@ -1,0 +1,2 @@
+*Fig. 6.72 :* Iconoclasistas, *Radiografía del corazón del modelo sojero*, 2010. Carte du modèle de l'agri-business argentain et des conséquences de la monoculture transgénique.  
+Source : kollektiv orangotango+ (ed.), [*This is not an atlas*](https://www.transcript-verlag.de/shopMedia/openaccess/pdf/oa9783839445198.pdf). Bielefeld : transcript Verlag, 2018, p. 90. © Iconoclasistas.

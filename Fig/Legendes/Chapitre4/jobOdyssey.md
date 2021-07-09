@@ -1,0 +1,2 @@
+*Fig. 4.68 :* Alessandro Dallafina, Francesco Faggiano, Stefano Greco, Marco La Mantia, Simone Paoli, *A Job odyssey*, 2010.  
+Source : Density design, © Alessandro Dallafina, Francesco Faggiano, Stefano Greco, Marco La Mantia, Simone Paoli.

@@ -1,0 +1,2 @@
+*Fig. 2.46 :* Louis Agassiz, *La croûte terrestre en relation avec la zoologie*, 1851. Frontispice d'un ouvrage du biologiste suisse Louis Agassiz.
+Source : *Ibid*. Provenant de Biodiversity Heritage Library.

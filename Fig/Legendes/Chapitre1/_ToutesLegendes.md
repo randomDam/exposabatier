@@ -53,7 +53,7 @@ Source : University of Oregon, [Infographics](https://pages.uoregon.edu/infograp
 Source : [Wikipedia](https://en.wikipedia.org/wiki/A_Chart_of_Biography#/media/File:PriestleyChart.gif), Domaine public.
 
 *Fig. 19 :* William Playfair, *Chart of Universal Commercial History from the Year 1500 before the Christian Era to the present Year 1805*. Dans *An inquiry into the permanent causes of the decline and fall of powerful and wealthy nations*, 1805.  
-Source : Jurgen Symanzik, William Fischetti, Ian Spence, [« Editorial: Commemorating William Playfair’s 250th Birthday »](https://math.usu.edu/~symanzik/papers/2009_cost/editorial.html), *Computational Statistics* 24(4), 2009.
+Source : Jurgen Symanzik, William Fischetti, Ian Spence, [« Editorial: Commemorating William Playfair’s 250th Birthday »](https://math.usu.edu/~symanzik/papers/2009_cost/editorial.html), *Computational Statistics* 24(4), 2009, Internet Archive Western Historical Manuscript Collection, University of Missouri-St. Louis.
 
 *Fig. 20 :* William Playfair, *Chart Showing at One View the Price of the Quarter of Wheat, and Wages of Labour by the Week, from 1565 to 1821*. 1821.  
 Source : Yvonne Jansen, [Physical and tangible information visualization](https://www.researchgate.net/publication/281533761_Physical_and_tangible_information_visualization), Thèse, Université Paris Sud - Paris XI, 2014.
@@ -155,16 +155,16 @@ Source : Tiia Monto, [Wikipedia](https://de.wikipedia.org/wiki/MONIAC#/media/Dat
 Source : Dessiné par Marcia Mihotich dans Kate Raworth, *La théorie du Donut*. Paris : Plon, 2018. © Kate Raworth.
 
 *Fig. 53 :* H. L. Gantt, *Record of Work in One Room of a Worsted Mill.*  
-Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
+Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914, p52. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
 
 *Fig. 54 :* Chart room, dans l’immeuble Du Pont à Wilmington.  
-Source : JoAnne Yates, « Graphs as a Managerial Tool : A case Study of Du Pont’s Use of Graphs in the Early Twentieth Century », *The Journal of Business Communication*, 33, n°1, 1985.© Eleutherian Mills Historical Library.
+Source : JoAnne Yates, « Graphs as a Managerial Tool : A case Study of Du Pont’s Use of Graphs in the Early Twentieth Century », *The Journal of Business Communication*, 33, n°1, 1985. © Eleutherian Mills Historical Library.
 
 *Fig. 55 :* Michael G. Mulhall, *Food Supply*.  
 Source :  Michael G. Mulhall, *The Dictionary of Statistics*, Londres : George Routledge, 1892. 
 
 *Fig. 56 :* Willard Cope Brinton, *Number of Passengers Carried on the Railroads of the United States in 1899 and in 1911 Compared*.  
-Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
+Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914, p39. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
 
 *Fig. 57 :* Otto Neurath et al., *Le chômage à Berlin*, 1929. Un pictogramme vaut pour 10 000 chômeurs.  
 Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
@@ -235,8 +235,8 @@ Source :  © IBM/1979 SOFTWARE ARTS, INC.
 *Fig. 79 :* Eric Maton, *Evolution du rapport annuel de L’Oréal*, 2006.  
 Source : Éric Maton, « Une analyse des diagrammes présents dans les rapports annuels des grandes entreprises françaises en 1980, 1990 et 2001 », *Entreprises et histoire* 2006/3.
 
-*Fig. 80 :* Gapminder. Capture d’écran 2018.  
+*Fig. 80 :* *Gapminder*. Capture d’écran 2018.  
 Source : © 	Hans Rosling - Fondation Gapminder. 
 
-*Fig. 81* : Fabrice Sabatier, *D’où vient la visualisation de données ?* 2016.  
+*Fig. 81* : *D’où vient la visualisation de données ?* Poster, 2016.  
 Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

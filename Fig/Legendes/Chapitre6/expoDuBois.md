@@ -1,0 +1,2 @@
+*Fig. 6.36 :* W. E. B. Du Bois, *Exposition des Nègres d'Amerique*, Exposition Universelle, Paris 1900.  
+Source : W. E. B. Du Bois Papers (MS 312). [Special Collections and University Archives, University of Massachusetts Amherst Libraries](https://credo.library.umass.edu/view/full/mums312-i0397).

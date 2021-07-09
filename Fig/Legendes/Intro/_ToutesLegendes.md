@@ -19,7 +19,7 @@ Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.
 *Fig. 0.7 :* Laboratoire Désorceler la finance, *Rituels de désenvoûtement de la finance* au Festival international de théâtre de rue d’Aurillac, 21-24 août 2019.  
 Source : © SebastienNormand.
 
-*Fig. 0.8 :* Cartomancie participative avec le jeu *Ré-ouvrir les horizons* du Laboratoire Désorceler la finance, lors d'une séance du Design Fiction Club de Max Mollon à la Gaîté Lyrique de Paris, et sur une proposition de Typhaine Kazy-Tani, avril 2018.  
+*Fig. 0.8 :* Cartomancie participative avec le jeu *Ré-ouvrir les horizons* du Laboratoire Désorceler la finance, lors d'une séance du Design Fiction Club de Max Mollon à la Gaîté Lyrique de Paris, et sur une proposition de Tiphaine Kazy-Tani, avril 2018.  
 Source : © Max Mollon.
 
 *Fig. 0.9 :* Atelier Potions en marge des *Rituels de désenvoûtement de la finance* au Festival international de théâtre de rue d’Aurillac, 21-24 août 2019.  

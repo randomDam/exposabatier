@@ -1,0 +1,2 @@
+*Fig. 4.21 :* Dustin Cable, *The Racial Dot Map* (détail), 2013.  
+Source : [*The Racial Dot Map*](http://demographics.virginia.edu/DotMap/index.html), © Dustin Cable, University of Virginia’s Weldon Cooper Center for Public Service.

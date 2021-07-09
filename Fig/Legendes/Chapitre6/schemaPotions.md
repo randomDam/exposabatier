@@ -1,0 +1,2 @@
+*Fig. 6.33 :* Dispositif de duplication des recettes pour conservation par le ou la participante et le *Grimoire*, Festival international de théâtre de rue d’Aurillac, 2019.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

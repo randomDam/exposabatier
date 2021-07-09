@@ -1,0 +1,1 @@
+*Fig. 3.29 :* Schéma d'une structure narrative pour les visualisations de données, définie par Edward Segel et Jeffrey Heer et baptisée *Martini Glass Structure*.  

@@ -1,0 +1,1 @@
+Les mises-à-jour d'image ou de légende et du texte html, l'ont été directement dans filezilla mais pas dans Github

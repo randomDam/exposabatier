@@ -1,0 +1,2 @@
+*Fig. 4.34 :* Émile Cheysson, *Commerce Spécial de la France de 1857 à 1900*, 1906.  
+Source : [David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~309749~90079603:II--Commerce-Special-de-la-France-d?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:cheysson%20commerce%20sp%C3%A9cial%20de%20la%20France;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=6&trs=10).

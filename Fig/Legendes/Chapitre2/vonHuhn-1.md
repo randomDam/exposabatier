@@ -1,0 +1,2 @@
+*Fig. 2.20 :* R. Von Huhn, comparaison de la performance des camemberts par rapport aux diagrammes à barres segmentées.  
+Source : R. von Huhn, « A discussion of the Eells’ experiment », *Journal of the American Statistical Association*, 22, 1927. © R. Von Huhn.

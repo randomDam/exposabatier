@@ -1,0 +1,2 @@
+*Fig. 2.33 :* Diagramme extrait d'un rapport de la plateforme d'analyse technologique CB Insights sur la stratégie numérique de Goldman Sachs.  
+Source : CB Insights, « Goldman Sachs Strategy Teardown: Goldman Attacks Lending Club & Prosper, Courts Main Street », [Rapport en ligne](https://www.cbinsights.com/research/report/goldman-sachs-strategy-teardown/). © CB Insights.

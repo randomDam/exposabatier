@@ -1,0 +1,1 @@
+*Fig. 3.41 :* Structure d’une cellule et exemple de déformations.  

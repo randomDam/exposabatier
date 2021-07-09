@@ -1,0 +1,2 @@
+*Fig. 2.4 :* Diagrammes logiques de Llull, Bruno, Leibniz et Euler.  
+Source : Ian Spence, « No Humble Pie : The Origins and Usage of a Statistical Chart », *Journal of Educational and Behavioral Statistics*, 2005. © Ian Spence.

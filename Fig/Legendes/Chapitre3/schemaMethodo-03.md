@@ -1,0 +1,1 @@
+*Fig. 3.55 :* Tableau récapitulatif des rapports entre propriétés biologiques des cellules et les applications, usages ou significations dans *Vi(c)e organique*.  

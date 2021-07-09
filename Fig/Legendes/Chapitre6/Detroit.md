@@ -1,0 +1,2 @@
+*Fig. 6.57 :* Gwendolyn Warren et *al.*, *Où les banlieusards qui rentrent du boulot écrasent les enfants noirs*, 1971.  
+Source : The Detroit Geographical Expedition and Institute, [*Field Notes III : Geography of the Children of Detroit*](https://freeuniversitynyc.org/files/2012/09/Detroit-Geographical-Expedition-and-Institute-1971.pdf). © The Detroit Geographical Expedition and Institute.

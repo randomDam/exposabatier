@@ -1,0 +1,2 @@
+*Fig. 2.6 :* William Playfair, *Statistical Representation of the United States of America*. Dans D. F. Donnant, *Statistical Account of the United States of America*, 1805.    
+Source : [Lehigh University Omeka](https://omeka.lehigh.edu/items/show/3204), Domaine public.

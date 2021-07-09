@@ -1,0 +1,2 @@
+*Fig. 6.34 :* Josh On, *Exxon Secrets*, 2005. Utilisant la technologie Flash qui n'est plus supportée par les navigateurs, le site n'est plus accessible.  
+Source : Greenpeace, [*Exxon Secrets*](https://exxonsecrets.org/maps.php), © Josh On.

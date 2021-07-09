@@ -1,0 +1,2 @@
+*Fig. 3.30 :* *Vi(c)e organique*, 2017. Une des histoires et révélations : *Quand les entreprises les plus polluantes prennent le contrôle du lobby des énergies renouvelables*.  
+Source : Fabrice Sabatier, [Vi(c)e organique](https://www.viceorganique.com), licence CC BY-NC-SA 4.0.

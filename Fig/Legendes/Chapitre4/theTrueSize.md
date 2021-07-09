@@ -1,0 +1,2 @@
+*Fig. 4.72 :* Capture d'écran du site *The True Size* avec une comparaison de la superficie cumulée des États-Unis, de la Chine et de l’Europe par rapport à l’Afrique.  
+Source : [*The True Size*](https://thetruesize.com), © James Talmage et Damon Maneice.

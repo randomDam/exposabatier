@@ -1,0 +1,1 @@
+*Fig. 3.33 :* Schéma des agrégats patatoïdes.  

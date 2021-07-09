@@ -1,0 +1,2 @@
+*Fig. 3.63 :* *Vi(c)e organique*, 2017. Différences d’affichage en fonction des écrans lors de la navigation dans le premier volet. L'image du haut correspond à l'affichage sur l’écran pilote (ce que voit et manipule l'utilisateur.rice). L'image du bas correspond à ce qui s'affiche sur le deuxième écran (vidéoprojection ou grand écran en hauteur).  
+Source : Fabrice Sabatier, [Vi(c)e organique](https://www.viceorganique.com), licence CC BY-NC-SA 4.0.

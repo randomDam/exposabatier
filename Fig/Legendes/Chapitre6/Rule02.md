@@ -1,0 +1,2 @@
+*Fig. 6.35 :* Josh On, *They Rule*, 2001. Utilisant la technologie Flash qui n'est plus supportée par les navigateurs, le site n'est plus accessible.  
+Source : Josh On, [*They Rule*](http://theyrule.net/), © Josh On.

@@ -1,0 +1,2 @@
+*Fig. 6.77 :* Fabrice Sabatier, *Who won and who lost after the crisis?* et *Topographie d'une crise*. Vue de l’exposition *Petites perceptions de l’économie – données, images, pouvoir*, Galerie de l’erg, Bruxelles, 2016.  
+Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.
