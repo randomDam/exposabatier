@@ -78,6 +78,19 @@
 
 			"croquis": "croqQuelLob",
 			"collection": ["QuelLob"]
-		}
+		},
+		{
+			"pieceId": "Gloss4",
+			"titre": "Glossaire de la finance et de la sorcellerie",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "superposition",
+
+			"date": "2020",
+			"texte": "<p>Présentation de la pièce.</p>",
+			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+
+			"croquis": ["croqGloss4"],
+			"collection": ["DVVD"]
+		},
 	]
 }
