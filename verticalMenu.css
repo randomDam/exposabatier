@@ -62,7 +62,7 @@ Switch bt
 	width: 25%;
 	height: 100%;
 	
-	z-index: 10;
+	z-index: 1010;
 	
 	background-color: DarkSlateGrey;
 }

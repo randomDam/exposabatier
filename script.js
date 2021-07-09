@@ -183,7 +183,10 @@ function initFig() {
 		});
 
 	for (var i = 0; i < allFigures.length; i++) {
+		
+		allFigures[i].href=allFigures[i].href.replace("http://www.fabricesabatier.com","");
 		//console.log(allFigures[i].href);
+
 		allFigures[i].ref = allFigures[i].href;
 		allFigures[i].setAttribute("ref", allFigures[i].href);
 		allFigures[i].href = "javascript: void(0)";
@@ -354,6 +357,7 @@ function createDivImage(_src, posY) {
 
 		this.style.zIndex = lastIndex;
 		lastIndex++;
+		if(lastIndex >1000)lastIndex = 0;
 	});
 
 

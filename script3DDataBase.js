@@ -28,6 +28,8 @@ function initDataBase(){
 		ObjectExpo = json.datas;
 	});
 	console.log("------------------------------------------")
+	console.log("LAOD FINISH")
+	console.log("------------------------------------------")
 }
 
 

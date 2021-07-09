@@ -1,6 +1,12 @@
 //---------------------------------------------
 //constructor la gallerie
 //---------------------------------------------
+
+//for local :
+var pathWWW = "";
+//for server :
+//var pathWWW = "";
+
 var converter;
 
 function initGalerie() {
@@ -70,7 +76,7 @@ function fillGalerie(path) {
 
 	});
 
-	fillLegende(originalPath);
+	if(originalPath!=indefined)fillLegende(originalPath);
 }
 //---------------------------------------------
 //remplir la legende
