@@ -386,8 +386,8 @@
 	},	
 	{
 		"id":"Manif3",
-		"type":"son",
-		"path": "/Img/Manifeste/Expo4/ManifesteDLF.mp3",
+		"type":"video",
+		"path": "/Img/Manifeste/Expo4/out2.mp4",
 		"texte": "Lecture du manifeste Désorceler la finance",
 		"credit": "Laboratoire Désorceler la finance"
 	},	

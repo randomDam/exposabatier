@@ -14,15 +14,19 @@ var mainHTML = "Tout7.html";
 // alternative à load
 document.onreadystatechange = function () {
 	if (document.readyState == "complete") {
-	   	
-		
-		$("#introCadre").click(function(){
-			$("#intro").animate({opacity: "0"},1,function(){
-				$("#intro").css({visibility: "hidden"});
-			});
 
-			$("#introCadre").addClass("introCadre_Hide");
-		});
+		if($("#introCadre").length>0){	
+			$("#introCadre").click(function(){
+				$("#intro").animate({opacity: "0"},1,function(){
+					$("#intro").css({visibility: "hidden"});
+				});
+				
+				$("#introCadre").addClass("introCadre_Hide");
+			});
+		}else{
+			console.log("intro not found");
+		}
+		
 	}
 }
 
