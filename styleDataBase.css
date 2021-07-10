@@ -15,6 +15,13 @@ SUPERPOSITION ELEMENT
 	left: 20px;
 }
 
+.superpositionElement video{
+	position: absolute;
+	width: 300px;
+	bottom: 20px;
+	left: 20px;
+}
+
 /* -------------------------------------------------------------  
 EXPLORATION ELEMENT
 -------------------------------------------------------------  */

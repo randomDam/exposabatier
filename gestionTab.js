@@ -8,13 +8,15 @@
 //MODE LVL
 //-------------------------------------------------------------
 //these or expo
-var mode="these";
-//var mode="expo";
+//var mode="these";
+var mode="expo";
 
 $(document).ready(function () {
 	console.log("ready gestion Tab");
 
-	//----------------------------------------------------
+	//-------------------------------------------------------------
+	//Switch to expo and these
+	//-------------------------------------------------------------
 	$("#switch").click(function () {
 		console.log("click switch!");
 		if(mode=="these"){
@@ -26,13 +28,25 @@ $(document).ready(function () {
 	
 	changeMode(mode);
 
+	//-------------------------------------------------------------
+	//Correction des décalage des liens hash #
+	//-------------------------------------------------------------
 	window.addEventListener("hashchange", function () {
 		console.log("hash!");
 		$("#main").scrollTop(0);
 		//window.scrollTo(window.scrollX, window.scrollY - 100);
 	});
+
+	//-------------------------------------------------------------
+	//deboger gestion
+	//-------------------------------------------------------------
+	document.addEventListener('keydown', switchDebug);
 });
 
+
+//-------------------------------------------------------------
+//EXPO OR THESE / FUNCTION
+//-------------------------------------------------------------
 function changeMode(_mode){
 	mode=_mode;
 	if(mode=="expo"){
@@ -56,5 +70,23 @@ function changeMode(_mode){
 		
 		$("#switch #titreSwitch p").text("Vers les Expositions ↓");
 	}
-
 }
+
+//-------------------------------------------------------------
+//DEBOGER FONCTION
+//-------------------------------------------------------------
+function switchDebug(e){
+	if(e.key=="d"){
+		console.log("switch debug");
+		if($("#debug").css("visibility")=="hidden"){
+			$("#debug").css("visibility","visible");
+		}else{
+			$("#debug").css("visibility","hidden");
+		}
+	}
+}
+
+function addToDebug(text,place){
+	$("#deb"+place).html(text);
+}
+

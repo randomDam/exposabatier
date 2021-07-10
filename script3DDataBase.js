@@ -68,11 +68,32 @@ var selectedObject;
 
 function drawDataBase(pieceId){
 	console.log(pieceId);
+	addToDebug("pieceId : "+pieceId,1);
 	//$("#debug")[0].innerText += pieceId + "\n";
 	//------------------------
 	//console.log("pieceId "+pieceId);
 	selectedExpo = findByPieceId(pieceId);
-	selectedObject = getObjectByCollections(selectedExpo.collection);
+	selectedObject = null;
+
+	try {
+		selectedObject = getObjectByCollections(selectedExpo.collection);
+	}catch(e) {
+		selectedObject=null;
+	}
+
+	if(selectedObject == null) {
+		addToDebug("",2);	
+		addToDebug("",3);	
+	}else{
+		addToDebug("salle : "+selectedExpo.salle,2);
+		//-------------------
+		var allId = "";
+		for (var i = 0; i <selectedObject.length; i++) {
+			allId += selectedObject[i].id+"<br>";
+		}
+		addToDebug("all ids : <br>"+allId,3);
+	}
+	//------------------
 
 	ungenAll();
 	//-------------------------------------------------------------
@@ -114,7 +135,10 @@ function gen_superposition(_selectedExpo,_selectedObject){
 	var marginY=300;
 
 	for(var i=0;i<_selectedObject.length;i++){
-		createSuperpositionElem(i,_selectedObject[i],x,y);
+		//createSuperpositionElem(i,_selectedObject[i],x,y);
+
+		if(_selectedObject[i].type=="image")createSuperpositionElem_image(i,_selectedObject[i],x,y);
+		if(_selectedObject[i].type=="video")createSuperpositionElem_video(i,_selectedObject[i],x,y);
 		
 		if(randomRange(0,10)<4){
 			x+=randomRange(100,100);
@@ -129,7 +153,7 @@ function gen_superposition(_selectedExpo,_selectedObject){
 	}
 }
 
-function createSuperpositionElem(index,element,x,y){
+function createSuperpositionElem_image(index,element,x,y){
 	
 	//zone de remplissage
 	var target = $("#part_right");
@@ -148,6 +172,34 @@ function createSuperpositionElem(index,element,x,y){
 		console.log(d);
 		var img = document.createElement('img');
 		img.src = element.path;
+		
+		d.appendChild(img);
+	//.click(function () {
+	//    $(this).remove();
+	//})
+}
+
+function createSuperpositionElem_video(index,element,x,y){
+	
+	//zone de remplissage
+	var target = $("#part_right");
+	var w = target.width();
+	var h = target.height();
+	
+	//{top: 200, left: 200, position:'absolute'}
+
+	var d = document.createElement('div');
+		$(d).addClass("superpositionElement")
+		.html("")
+		.css({top:y,left:x,position:'absolute'})
+		.appendTo(target)
+		
+		
+		console.log(d);
+		var img = document.createElement('video');
+		img.src = element.path;
+		img.autoplay = true;
+		img.controls = true;
 		
 		d.appendChild(img);
 	//.click(function () {
