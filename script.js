@@ -8,7 +8,7 @@ var debugLog_script =false;
 //------------------------------------------------------------------
 //HTML Chargé
 //------------------------------------------------------------------
-var mainHTML = "Tout7.html";
+var mainHTML = "Tout8.html";
 
 
 // alternative à load
