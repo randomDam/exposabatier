@@ -1,2 +1,2 @@
-*Fig. 4.59* : *Who won and who lost after the crisis?* 2015, séquence 1.  
+*Fig. 4.59* : *Who won and who lost after the crisis?* 2015, séquence 1. (Données : ECB Statistical Data Warehouse / Élaborées par Stefano Battiston et Marco D'Errico).  
 Source :  Fabrice Sabatier, [Who won and who lost after the crisis?](http://www.corp-lab.com/simpol/), licence CC BY-NC-SA 4.0.
