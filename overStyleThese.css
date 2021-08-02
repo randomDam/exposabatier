@@ -47,7 +47,6 @@ Override des styles de la these (doc par default)
 
 #frameThese h1 {
 	/*.Title*/
-	/*#toc27 #toc158*/
 	color: black;
 	font-family: "FFaune";
 	line-height: 1.1em;
@@ -60,8 +59,6 @@ Override des styles de la these (doc par default)
 }
 
 #frameThese h2 {
-	/*#toc0*/
-	/*#toc28*/
 	color: black;
 	font-family: "FFaune";
 	font-size: 2em;
@@ -163,8 +160,7 @@ Override des styles de la these (doc par default)
 	text-indent: -15px
 }
 
-#frameThese #toc13 {
-	/*Titres partie 1*/
+/*#frameThese #toc13 {
 	color: DarkSlateGrey;
 	font-family: "FFaune";
 	line-height: 1.1em;
@@ -176,7 +172,6 @@ Override des styles de la these (doc par default)
 }
 
 #frameThese #toc113 {
-	/*Titres partie 1*/
 	color: DarkSlateGrey;
 	font-family: "FFaune";
 	line-height: 1.1em;
@@ -185,7 +180,7 @@ Override des styles de la these (doc par default)
 	font-weight: normal;
 	margin-left: 100px;
 	padding-bottom: 50px;
-}
+}*/
 
 #frameThese a {
 	color: DarkSlateGrey;
