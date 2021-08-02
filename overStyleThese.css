@@ -217,7 +217,7 @@ Override des styles de la these (doc par default)
 	background-color: black;
 }
 
-#frameThese Emphasis {
+#frameThese .Emphasis {
 	font-family: "FFaune";
 	color: rgb(20, 20, 20);
 	font-size: 1.2em;
