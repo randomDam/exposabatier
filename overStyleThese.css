@@ -217,6 +217,16 @@ Override des styles de la these (doc par default)
 	background-color: black;
 }
 
+#frameThese Emphasis {
+	font-family: "FFaune";
+	color: rgb(20, 20, 20);
+	font-size: 1.2em;
+	line-height: 1.4em;
+	margin-left: 120px;
+	margin-right: 120px;
+	text-indent: 30px
+}
+
 /* test adaptation smartphone */
 /* Grand écran */
 @media (min-width: 1200px) {}
