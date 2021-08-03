@@ -1,2 +1,2 @@
 *Fig. 4.77 :* Jacques Bertin, *Sémiologie graphique*, 1999. Double-page introductive de l’exercice visant à produire une centaine de cartes et diagrammes à partir du même jeu de données.  
-Source : Jacques Bertin, *Sémiologie graphique. Les diagrammes, les réseaux, les cartes*. Paris : Gauthier-Villars, Mouton & Cie, École Pratique des Hautes Etudes, 1967, p100. © Jacques Bertin.
+Source : Jacques Bertin, *Sémiologie graphique. Les diagrammes, les réseaux, les cartes*. Paris : Gauthier-Villars, Mouton & Cie, École Pratique des Hautes Etudes, 1967, p. 100. © Jacques Bertin.

@@ -1,2 +1,2 @@
 *Fig. 1.27 :* Graphique statistique d’Adolphe Quetelet (1835) : « courbe en cloche » (Homme moyen) ; Courbe indiquant le penchant au crime chez l'homme et chez la femme.  
-Source : Zohreh Bayatrizi et Thomas Kemple, [« Un problème de chiffres : l’utilisation des connaissances empiriques en statistique dans la théorie sociale classique »](https://www.erudit.org/fr/revues/socsoc/2012-v44-n2-socsoc0335/1012920ar/),  *Sociologie et sociétés*, Vol. 44, N° 2, 2012, p. 45–73.
+Source : Zohreh Bayatrizi, Thomas Kemple, [« Un problème de chiffres : l’utilisation des connaissances empiriques en statistique dans la théorie sociale classique »](https://www.erudit.org/fr/revues/socsoc/2012-v44-n2-socsoc0335/1012920ar/), *Sociologie et sociétés*, vol. 44, n° 2, 2012.

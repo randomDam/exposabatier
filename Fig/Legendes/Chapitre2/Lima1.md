@@ -1,2 +1,2 @@
 *Fig. 2.41 :* Disque de Phaistos, vers 1700 avant J.-C. Dessin de Sir Arthur Evans du disque d'argile cuite découvert en 1908 par l'archéologue italien Luigi Pernier. Il est recouvert de 241 symboles disposés en spirale.  
-Source : Manuel Lima, *The book of circles. Visualizing spheres of knowledge*, New York : Princeton Architectural Press, 2017.  © Gareth Owens
+Source : Manuel Lima, *The book of circles. Visualizing spheres of knowledge*. New York : Princeton Architectural Press, 2017.  © Gareth Owens

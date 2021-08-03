@@ -1,2 +1,2 @@
 *Fig. 2.28 :* Distribution des types de tumeurs parmi les cas séquencés avec succès à partir de 10 336 patient.e.s.  
-Source : Ahmet Zehir et al. « Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients », *Nature medecine*, 2017. © Ahmet Zehir et *al*.
+Source : Ahmet Zehir et *al.*, « Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients ». *Nature medecine*, 2017. © Ahmet Zehir et *al*.

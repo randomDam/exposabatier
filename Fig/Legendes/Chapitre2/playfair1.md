@@ -1,2 +1,2 @@
 *Fig. 2.1 :* William Playfair, *Chart representing the Extent Population and Revenue of the Principal Nation in Europe*. Dans *The Statistical Breviary,* édition de 1805.  
-Source : Jurgen Symanzik, William Fischetti, Ian Spence, [« Editorial: Commemorating William Playfair’s 250th Birthday »](https://math.usu.edu/~symanzik/papers/2009_cost/editorial.html), *Computational Statistics* 24(4), 200. © Thomas Fisher Rare Book Library, University of Toronto.
+Source : Jurgen Symanzik, William Fischetti, Ian Spence, [« Editorial: Commemorating William Playfair’s 250th Birthday »](https://math.usu.edu/~symanzik/papers/2009_cost/editorial.html). *Computational Statistics*, vol. 24, n°4, 2009. © Thomas Fisher Rare Book Library, University of Toronto.

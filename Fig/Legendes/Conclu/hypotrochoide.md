@@ -1,0 +1,1 @@
+*Fig. 8.1 :* La recherche comme une danse hypotrochoïdame : schéma de la méthode*.  

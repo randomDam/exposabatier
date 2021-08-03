@@ -1,2 +1,2 @@
 *Fig. 4.38 :* *Prix du terrain dans la France de l’Est*, publié par *Elle*, 1959.  
-Source : Jacques Bertin, *Sémiologie graphique. Les diagrammes, les réseaux, les cartes*. Paris : Gauthier-Villars, Mouton & Cie, École Pratique des Hautes Etudes, 1967, p34. © Jacques Bertin.
+Source : Jacques Bertin, *Sémiologie graphique. Les diagrammes, les réseaux, les cartes*. Paris : Gauthier-Villars, Mouton & Cie, École Pratique des Hautes Etudes, 1967, p. 34. © Jacques Bertin.

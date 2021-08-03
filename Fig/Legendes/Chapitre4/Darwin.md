@@ -1,2 +1,2 @@
 *Fig. 4.53 :* Charles Darwin, *Troisième diagramme de l'évolution* tiré du *Notebook B*, 1837.  
-Source : Horst Bredekamp, *Les coraux de Darwin*, Dijon : Les presses du réel, 2008. Image : Cambridge, University Library, Dar. Ms 121, Fol. 36.
+Source : Horst Bredekamp, *Les coraux de Darwin*. Dijon : Les presses du réel, 2008. Image : Cambridge, University Library, Dar. Ms 121, Fol. 36.

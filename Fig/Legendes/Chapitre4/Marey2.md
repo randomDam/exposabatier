@@ -1,2 +1,2 @@
 *Fig. 4.67 :* Étienne-Jules Marey, *Graphique de la marche des trains sur un chemin de fer, d’après la méthode de Ibry*, 1878.  
-Source : Étienne-Jules Marey, *La méthode graphique dans les sciences expérimentales et principalement en physiologie et en médecine*, Paris : G. Masson, 1885, p20. [Internet Archive](https://archive.org/details/lamthodegraphiq00maregoog/page/n51/mode/2up).
+Source : Étienne-Jules Marey, *La méthode graphique dans les sciences expérimentales et principalement en physiologie et en médecine*. Paris : G. Masson, 1885, p. 20. [Internet Archive](https://archive.org/details/lamthodegraphiq00maregoog/page/n51/mode/2up).

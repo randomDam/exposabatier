@@ -1,2 +1,2 @@
 *Fig. 4.35 :* Otto Neurath et al., *La structure de la population de Vienne en fonction de l’âge*, 1926.
-Source : Marie Neurath et Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
+Source : Marie Neurath, Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.

@@ -1,2 +1,2 @@
 *Fig. 2.22 :* Frederick E. Croxton et Roy E. Stryker, comparaison de la performance des camemberts par rapport aux diagrammes à barres segmentées.  
-Source : Frederick E. Croxton et Roy E. Stryker, « Bar charts versus circle diagrams », *Journal of the American Statistical Association*, 22, 1927. © Frederick E. Croxton et Roy E. Stryker.
+Source : Frederick E. Croxton, Roy E. Stryker, « Bar charts versus circle diagrams ». *Journal of the American Statistical Association*, vol. 22, n°160, 1927. © Frederick E. Croxton et Roy E. Stryker.

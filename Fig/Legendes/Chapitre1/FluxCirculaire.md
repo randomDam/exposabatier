@@ -1,2 +1,2 @@
 *Fig. 1.52 :* Diagramme du Flux circulaire dérivé de Samuelson.   
-Source : Dessiné par Marcia Mihotich dans Kate Raworth, *La théorie du Donut*. Paris : Plon, 2018. © Kate Raworth.
+Source : Dessiné par Marcia Mihotich dans Kate Raworth, *La théorie du Donut*. L’économie de demain en 7 principes. Paris : Plon, 2018. © Kate Raworth.

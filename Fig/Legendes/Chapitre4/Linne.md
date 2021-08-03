@@ -1,2 +1,2 @@
 *Fig. 4.78 :* Carl von Linné, *Gladiolus foliis linearibus*, 1737. « Dessinée par Geoges Dionysius Ehret et gravée par Jan Wandelaar sous le strict contrôle de Linné ».  
-Source : Lorraine Daston et Peter Galison, *Objectivité*. Les presses du réel, Paris : 2012. p70. Image : Staats- und Universitäts-bibliothek de Göttingen.
+Source : Lorraine Daston, Peter Galison, *Objectivité*. Paris : Les presses du réel, 2012, p. 70. Image : Staats- und Universitäts-bibliothek de Göttingen.

@@ -1,2 +1,2 @@
 *Fig. 1.14 :* Oresme, illustration graphique des variations de fonctions. Dans *Tractatus de latitudinibus formarum*, 1486.  
-Source : H. Gray Funkhouser, « Historical Development of the Graphical Representation of Statistical Data », *Osiris*, Vol. 3, 1937.
+Source : H. Gray Funkhouser, « Historical Development of the Graphical Representation of Statistical Data ». *Osiris*, vol. 3, 1937.

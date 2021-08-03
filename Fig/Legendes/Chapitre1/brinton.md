@@ -1,2 +1,2 @@
 *Fig. 1.56 :* Willard Cope Brinton, *Number of Passengers Carried on the Railroads of the United States in 1899 and in 1911 Compared*.  
-Source :   Willard Cope Brinton, *Graphic methods for presenting facts*. New York: The Engineering Magazine Company, 1914, p39. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
+Source : Willard C. Brinton, *Graphic methods for presenting facts*. New York : The Engineering Magazine Company, 1914, p. 39. [Internet Archive](https://archive.org/details/graphicmethodsfo00brinrich).
