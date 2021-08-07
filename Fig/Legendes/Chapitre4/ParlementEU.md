@@ -1,2 +1,2 @@
 *Fig. 4.18 :* Composition politique du Parlement européen en 2021.  
-Source :  [Wikipédia](https://fr.wikipedia.org/wiki/Parlement_europ%C3%A9en#/media/Fichier:Union_europenne_Parlement_monocameral_2019.svg), Domaine public.
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/Parlement_europ%C3%A9en#/media/Fichier:Union_europenne_Parlement_monocameral_2019.svg), Domaine public.

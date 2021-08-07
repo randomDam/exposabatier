@@ -1,2 +1,2 @@
 *Fig. 4.88 :* *Production industrielle du Royaume-Uni, de l’Allemagne et de la France*, Base 100 = 1999. *LeMonde.fr*, 21 mars 2017.  
-Source :[Les Décodeurs](https://www.lemonde.fr/les-decodeurs/article/2017/03/21/les-manipulations-graphiques-de-marine-le-pen-sur-l-euro_5098439_4355770.html), données Federal Reserve Economic Data. © Le Monde.
+Source : [Les Décodeurs](https://www.lemonde.fr/les-decodeurs/article/2017/03/21/les-manipulations-graphiques-de-marine-le-pen-sur-l-euro_5098439_4355770.html), données Federal Reserve Economic Data. © Le Monde.

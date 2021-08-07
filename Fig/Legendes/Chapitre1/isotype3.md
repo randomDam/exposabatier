@@ -1,2 +1,2 @@
 *Fig. 1.59 :* Otto Neurath et al., *Le chômage à Berlin*, 1932. Un pictogramme vaut pour 25 000 chômeurs.  
-Source : Marie Neurath, Robin Kinross, *Le Transformateur. Principes de création des diagrammes Isotype*. Paris : B42, 2013. Image : Otto et Marie Neurath Isotype Collection, Département de typographie et de communication de l'Université de Reading.
+Source : *Ibid*.

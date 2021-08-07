@@ -1,2 +1,2 @@
-*Fig. 4.51 :* Stefano Battiston et Marco D'Errico, *Évolution de l'excédent d'exploitation par secteur institutionnel (zone euro total). Séries d'origine (données trimestrielles, à partir de l'ECB Statistical Data Warehouse). Ce graphique permet de visualiser les mêmes données que celles de *Topographie d’une crise*.  
+*Fig. 4.51 :* Stefano Battiston et Marco D'Errico, *Évolution de l'excédent d'exploitation par secteur institutionnel (zone euro total)*. Séries d'origine (données trimestrielles, à partir de l'ECB Statistical Data Warehouse). Ce graphique permet de visualiser les mêmes données que celles de *Topographie d’une crise*.  
 Source : © Stefano Battiston et Marco D'Errico.

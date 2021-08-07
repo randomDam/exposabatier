@@ -1,2 +1,2 @@
 *Fig. 4.86 :* *Production industrielle en Europe*, Base 100 = 2010. *LeMonde.fr*, 21 mars 2017.  
-Source :[Les Décodeurs](https://www.lemonde.fr/les-decodeurs/article/2017/03/21/les-manipulations-graphiques-de-marine-le-pen-sur-l-euro_5098439_4355770.html), données OCDE. © Le Monde.
+Source : [Les Décodeurs](https://www.lemonde.fr/les-decodeurs/article/2017/03/21/les-manipulations-graphiques-de-marine-le-pen-sur-l-euro_5098439_4355770.html), données OCDE. © Le Monde.

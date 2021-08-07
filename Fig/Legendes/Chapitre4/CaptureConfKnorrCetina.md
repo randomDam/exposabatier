@@ -1,2 +1,2 @@
 *Fig. 4.69 :* Visuel présenté par Karin Knorr Cetina pour illustrer le « monde en écran » des traders (capture d'écran).  
-Source : Conférence de Karin Knorr Cetina ["Algorithms as Market Players"](https://www.youtube.com/watch?v=YdEzbidxjtM), Dictionary of Now #9, HKW, Berlin, 2017. © Karin Knorr Cetina.
+Source : Conférence de Karin Knorr Cetina, ["Algorithms as Market Players"](https://www.youtube.com/watch?v=YdEzbidxjtM), Dictionary of Now #9, HKW, Berlin, 2017. © Karin Knorr Cetina.

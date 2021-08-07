@@ -1,2 +1,2 @@
-*Fig. 4.1 :* Le magazine *Burning Issue", dans l'exposition *Le Cabinet de curiosités économiques*, du Laboratoire sauvage Désorceler la Finance, à la Biennale de l'Image Possible (BIP), Liège, 2020. [*Burning Issue*](https://www.burningissue.net) est le "premier magazine au monde exclusivement destiné aux brûleur.euse.s de billets".  
+*Fig. 4.1 :* Le magazine *Burning Issue*, dans l'exposition *Le Cabinet de curiosités économiques*, du Laboratoire sauvage Désorceler la Finance, à la Biennale de l'Image Possible (BIP), Liège, 2020. [*Burning Issue*](https://www.burningissue.net) est le "premier magazine au monde exclusivement destiné aux brûleur.euse.s de billets".  
 Source : Fabrice Sabatier, licence CC BY-NC-SA 4.0.

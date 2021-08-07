@@ -1,2 +1,2 @@
 *Fig. 1.31 :* William Playfair, *Chart of the National Debt of England.* Dans *Commercial and Political Atlas*, 1786.  
-Source : Andrea Wulf, ¨[« The invention of nature »](https://geographical.co.uk/places/mapping/item/1542-the-invention-of-nature), *Geographical*, 2016.
+Source : Andrea Wulf, [« The invention of nature »](https://geographical.co.uk/places/mapping/item/1542-the-invention-of-nature), *Geographical*, 2016.

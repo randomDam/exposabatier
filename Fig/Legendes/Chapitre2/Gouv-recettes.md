@@ -1,2 +1,2 @@
-*Fig. 2.61 :* Direction du Budget, Répartition des effectifs de l'État*, 2019.  
+*Fig. 2.61 :* Direction du Budget, *Répartition des effectifs de l'État*, 2019.  
 Source : *Ibid*. © Philippe Ricard, Dominique-Henri Simon et Alain Salesse, secrétariat Général des ministères économique et financier.

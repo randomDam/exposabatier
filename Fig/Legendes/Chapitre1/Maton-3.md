@@ -1,2 +1,2 @@
-*Fig. 1.79 :* Eric Maton, *Evolution du rapport annuel de L’Oréal*, 2006.  
+*Fig. 1.79 :* Eric Maton, *Évolution du rapport annuel de L’Oréal*, 2006.  
 Source : Éric Maton, « Une analyse des diagrammes présents dans les rapports annuels des grandes entreprises françaises en 1980, 1990 et 2001 ». *Entreprises et histoire*, vol. 3, n° 44, 2006.
