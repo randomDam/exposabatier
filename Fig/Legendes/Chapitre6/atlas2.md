@@ -1,2 +1,2 @@
-*Fig. 6.59 :* Owen Cornec et Romain Vuillemot, *The Globe of Economic Complexity*, 2015.
+*Fig. 6.59 :* Owen Cornec et Romain Vuillemot, *The Globe of Economic Complexity*, 2015.  
 Source : [*The Globe of Economic Complexity*](https://cid-harvard.github.io/atlas-dot-map/WorldProductSpace/). © Cornec, Vuillemot.
