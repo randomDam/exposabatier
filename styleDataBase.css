@@ -3,7 +3,8 @@ SUPERPOSITION ELEMENT
 -------------------------------------------------------------  */
 .superpositionElement{
 	width: 340px;
-	height: 40px;
+	height: 10px;
+	border: solid 6px black;
 
 	background-color: rgba(0, 0, 0);
 }
