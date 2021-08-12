@@ -52,6 +52,22 @@
 			"collection": ["Tript1","Tript2","Tript3", "Iso"]
 		},
 		{
+			"pieceId": "ImgDeco1-2",
+			"titre": "Img d’éco #1 Image manquante - étapes préparatoires et détails",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "superposition",
+
+			"date": "2015-2016",
+			"texte": "<h1>A faire</h1>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["schema","crise","croissance", "emploi", "champLexi3", "finance", "financeDetail", "FinanceRadF", "h_champLexi1", "HueAout", "HueDecembre", "HueJanvier", "HueJuillet", "HueNovembre", "HueSeptembre", "champLexi2", "precarite", "TransportsRadF"]
+		},
+
+
+
+		{
 			"pieceId": "AlchBrass3",
 			"titre": "Alchimie brassicole",
 			"salle": "Réseaux et formes du liable",

@@ -124,7 +124,133 @@
 		"path": "/Img/EconomieArt/Expo1/IsometrieFinale.jpg",
 		"texte": "Topographie d'une collection - Paysage isométrique exploratoire",
 		"credit": "Fabrice Sabatier"
-	},	
+	},
+	{
+		"id":"schema",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/schema.JPG",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"crise",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/crise.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"croissance",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/croissance.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"emploi",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/emploi.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"champLexi3",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/f_champLexi3.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"finance",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/finance.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"financeDetail",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/financeDetail.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"FinanceRadF",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/FinanceRadF.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"h_champLexi1",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/h_champLexi1.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"HueAout",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/HueAout.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"HueDecembre",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/HueDecembre.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"HueJanvier",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/HueJanvier.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"HueJuillet",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/HueJuillet.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"HueNovembre",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/HueNovembre.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"HueSeptembre",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/HueSeptembre.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"champLexi2",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/m_champLexi2.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"precarite",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/precarite.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"TransportsRadF",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/TransportsRadF.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
 	{
 		"id":"Alch1",
 		"type":"image",
