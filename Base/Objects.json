@@ -156,7 +156,7 @@
 	{
 		"id":"champLexi3",
 		"type":"image",
-		"path": "/Img/ImgDEco1/Expo2/f_champLexi3.jpg",
+		"path": "/Img/ImgDEco1/Expo2/champLexi3.jpg",
 		"texte": "Réseau des champs lexicaux des titres des articles. Analyse sémantique effectuée avec le logiciel Tropes et prévisualisation avec Gephi.",
 		"credit": "Fabrice Sabatier"
 	},
@@ -179,13 +179,6 @@
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/FinanceRadF.jpg",
 		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de la finance. Juillet 2014-janvier 2016, organisation radiale des images selon leur teinte dominante (périmètre) et leur luminosité (rayon).",
-		"credit": "Fabrice Sabatier"
-	},
-	{
-		"id":"h_champLexi1",
-		"type":"image",
-		"path": "/Img/ImgDEco1/Expo2/h_champLexi1.jpg",
-		"texte": "Réseau des champs lexicaux des titres des articles. Analyse sémantique effectuée avec le logiciel Tropes et prévisualisation avec Gephi.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
@@ -228,13 +221,6 @@
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/HueSeptembre.jpg",
 		"texte": "Classement par teintes des dominantes de couleur des images pour le mois de septembre 2014.",
-		"credit": "Fabrice Sabatier"
-	},
-	{
-		"id":"champLexi2",
-		"type":"image",
-		"path": "/Img/ImgDEco1/Expo2/m_champLexi2.jpg",
-		"texte": "Réseau des champs lexicaux des titres des articles. Analyse sémantique effectuée avec le logiciel Tropes et prévisualisation avec Gephi.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
