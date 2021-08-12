@@ -129,126 +129,126 @@
 		"id":"schema",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/schema.JPG",
-		"texte": "",
+		"texte": "Processus de création des posters <i>Img d’éco #1 Image manquante</i>",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"crise",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/crise.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de la crise. Juillet 2014-janvier 2016, classement par teintes.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"croissance",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/croissance.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de la croissance. Juillet 2014-janvier 2016, classement par teintes.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"emploi",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/emploi.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de l'emploi. Juillet 2014-janvier 2016, classement par teintes.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"champLexi3",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/f_champLexi3.jpg",
-		"texte": "",
+		"texte": "Réseau des champs lexicaux des titres des articles. Analyse sémantique effectuée avec le logiciel Tropes et prévisualisation avec Gephi.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"finance",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/finance.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de la finance. Juillet 2014-janvier 2016, classement par teintes.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"financeDetail",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/financeDetail.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de la finance. Juillet 2014-janvier 2016, classement par teintes. Détail.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"FinanceRadF",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/FinanceRadF.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de la finance. Juillet 2014-janvier 2016, organisation radiale des images selon leur teinte dominante (périmètre) et leur luminosité (rayon).",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"h_champLexi1",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/h_champLexi1.jpg",
-		"texte": "",
+		"texte": "Réseau des champs lexicaux des titres des articles. Analyse sémantique effectuée avec le logiciel Tropes et prévisualisation avec Gephi.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"HueAout",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/HueAout.jpg",
-		"texte": "",
+		"texte": "Classement par teintes des dominantes de couleur des images pour le mois d'août 2014.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"HueDecembre",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/HueDecembre.jpg",
-		"texte": "",
+		"texte": "Classement par teintes des dominantes de couleur des images pour le mois de décembre 2014.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"HueJanvier",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/HueJanvier.jpg",
-		"texte": "",
+		"texte": "Classement par teintes des dominantes de couleur des images pour le mois de janvier 2015.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"HueJuillet",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/HueJuillet.jpg",
-		"texte": "",
+		"texte": "Classement par teintes des dominantes de couleur des images pour le mois de juillet 2014.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"HueNovembre",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/HueNovembre.jpg",
-		"texte": "",
+		"texte": "Classement par teintes des dominantes de couleur des images pour le mois de novembre 2014.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"HueSeptembre",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/HueSeptembre.jpg",
-		"texte": "",
+		"texte": "Classement par teintes des dominantes de couleur des images pour le mois de septembre 2014.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"champLexi2",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/m_champLexi2.jpg",
-		"texte": "",
+		"texte": "Réseau des champs lexicaux des titres des articles. Analyse sémantique effectuée avec le logiciel Tropes et prévisualisation avec Gephi.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"precarite",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/precarite.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical de la précarité. Juillet 2014-janvier 2016, classement par teintes.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"TransportsRadF",
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo2/TransportsRadF.jpg",
-		"texte": "",
+		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical des transports. Juillet 2014-janvier 2016, organisation radiale des images selon leur teinte dominante (périmètre) et leur luminosité (rayon).",
 		"credit": "Fabrice Sabatier"
 	},
 	{
