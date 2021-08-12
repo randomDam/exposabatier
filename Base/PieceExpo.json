@@ -58,11 +58,11 @@
 			"mode": "superposition",
 
 			"date": "2015-2016",
-			"texte": "<h1>A faire</h1>",
+			"texte": "<h1><i>Img d’éco</i> est un programme, développé avec Processing, lancé en juillet 2014, qui a téléchargé et compilé quotidiennement jusqu’en janvier 2016 les « images à la une », les titres, dates et adresses URL, des articles postés dans les rubriques « économie » de quatre sites d’information français : LeMonde.fr, LePoint.fr, LeParisien.fr, Rue89.com. La base de données ainsi constituée de plus de 13000 images a été à l’origine de plusieurs pièces et expérimentations. Ici, ce ne sont pas les pièces finales qui sont présentées mais les tâtonnements qui les ont précédées, à partir d’analyses sémantiques des titres des articles et de classifications d’images selon la colorimétrie ou autres méta-données. Au départ d’une recherche sur la visualisation des données économiques, <i>Img d’éco</i> a répondu a un besoin préalable de questionner (par la visualisation de données) les images qui servent quotidiennement à parler d’économie. Parmi les axes d’exploration de la base de données, la couleur transforme ces images en matière picturale ou en série de pixels, n’accentuant que légèrement leur usage original : peu importe si on les voit ou ce qu’on y voit, seule leur présence compte.</h1>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
 			"croquis": "",
-			"collection": ["schema","crise","croissance", "emploi", "champLexi3", "finance", "financeDetail", "FinanceRadF", "h_champLexi1", "HueAout", "HueDecembre", "HueJanvier", "HueJuillet", "HueNovembre", "HueSeptembre", "champLexi2", "precarite", "TransportsRadF"]
+			"collection": ["schema","crise","croissance", "emploi", "champLexi3", "finance", "financeDetail", "FinanceRadF", "h_champLexi1", "HueJuillet", "HueAout", "HueSeptembre", "HueNovembre", "HueDecembre", "HueJanvier", "champLexi2", "precarite", "TransportsRadF"]
 		},
 
 

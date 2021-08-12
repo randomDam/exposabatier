@@ -2,7 +2,7 @@
 SUPERPOSITION ELEMENT
 -------------------------------------------------------------  */
 .superpositionElement{
-	width: 340px;
+	width: 303px;
 	height: 10px;
 	border: solid 6px black;
 
@@ -12,15 +12,15 @@ SUPERPOSITION ELEMENT
 .superpositionElement img{
 	position: absolute;
 	width: 300px;
-	bottom: 20px;
-	left: 20px;
+	bottom: 0px;
+	left: 0px;
 }
 
 .superpositionElement video{
 	position: absolute;
 	width: 300px;
-	bottom: 20px;
-	left: 20px;
+	bottom: 0px;
+	left: 0px;
 }
 
 /* -------------------------------------------------------------  
