@@ -62,7 +62,7 @@
 			"credit": "Fabrice Sabatier. Développement Img d’éco : Fabrice Sabatier, Vincent Gobber & Damien Baïs/.CORP. Licence CC BY-NC-SA 4.0",
 
 			"croquis": "",
-			"collection": ["schema","crise","croissance", "emploi", "champLexi3", "finance", "financeDetail", "FinanceRadF", "h_champLexi1", "HueJuillet", "HueAout", "HueSeptembre", "HueNovembre", "HueDecembre", "HueJanvier", "champLexi2", "precarite", "TransportsRadF"]
+			"collection": ["schema", "champLexi3", "crise","finance", "financeDetail", "FinanceRadF", "emploi", "precarite", "TransportsRadF", "croissance", "HueJuillet", "HueAout", "HueSeptembre", "HueNovembre", "HueDecembre", "HueJanvier"]
 		},
 
 
