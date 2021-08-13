@@ -490,7 +490,7 @@
        cy="174.75728"
        r="5.2916665"
        nom="Vi(c)e organique"
-       pieceId="VO1"
+       pieceId="VO4"
        inkscape:label="p:Vi(c)e organique" />
     <circle
        style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -498,7 +498,7 @@
        cx="219.20731"
        cy="217.09062"
        nom="Traité - Déclaration relative au design et à la visualisation des données"
-       pieceId="Traite1"
+       pieceId="Traite1-4"
        inkscape:label="p:Traité - Déclaration relative au design et à la visualisation des données"
        r="5.2916665" />
     <circle
@@ -508,7 +508,7 @@
        cy="116.54894"
        r="5.2916665"
        nom="Microcosmogramme des forces contraires"
-       pieceId="Microco2"
+       pieceId="Microco4"
        inkscape:label="p:Microcosmogramme des forces contraires" />
     <circle
        style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -544,7 +544,7 @@
        cy="143.00728"
        r="5.2916665"
        nom="Rituels de désenvoûtement de la finance"
-       pieceId="Rituel3"
+       pieceId="Rituel4"
        inkscape:label="p:Rituels de désenvoûtement de la finance" />
     <circle
        style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -598,7 +598,7 @@
        cy="139.83232"
        r="5.2916665"
        nom="Topographie d'une crise"
-       pieceId="Topo1"
+       pieceId="Topo4"
        inkscape:label="p:Topographie d'une crise" />
     <path
        style="fill:none;stroke:#ff2500;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
