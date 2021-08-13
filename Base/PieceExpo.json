@@ -32,7 +32,7 @@
 			"mode": "superposition",
 
 			"date": "2015",
-			"texte": "<h1>Texte sur la narration et relation à who won who lose</h1>",
+			"texte": "<p>Texte sur la narration et relation à who won who lose</p>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
 			"croquis": "croqTopo1",
@@ -45,7 +45,7 @@
 			"mode": "exploration",
 
 			"date": "2017",
-			"texte": "<h1>Texte sur le caractère exploratoire de la pièce</h1>",
+			"texte": "<p>Texte sur le caractère exploratoire de la pièce</p>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
 			"croquis": "croqEcoArt",
@@ -59,42 +59,12 @@
 			"mode": "superposition",
 
 			"date": "2015-2016",
-			"texte": "<h1><i>Img d’éco</i> est un programme, développé avec Processing, lancé en juillet 2014, qui a téléchargé et compilé quotidiennement jusqu’en janvier 2016 les « images à la une », les titres, dates et adresses URL, des articles postés dans les rubriques « économie » de quatre sites d’information français : LeMonde.fr, LePoint.fr, LeParisien.fr, Rue89.com. La base de données ainsi constituée de plus de 13000 images a été à l’origine de plusieurs pièces et expérimentations. Ici, ce ne sont pas les pièces finales qui sont présentées mais les tâtonnements qui les ont précédées, à partir d’analyses sémantiques des titres des articles et de classifications d’images selon la colorimétrie ou autres méta-données. Au départ d’une recherche sur la visualisation des données économiques, <i>Img d’éco</i> a répondu a un besoin préalable de questionner (par la visualisation de données) les images qui servent quotidiennement à parler d’économie. Parmi les axes d’exploration de la base de données, la couleur transforme ces images en matière picturale ou en série de pixels, n’accentuant que légèrement leur usage original : peu importe si on les voit ou ce qu’on y voit, seule leur présence compte.</h1>",
+			"texte": "<p><i>Img d’éco</i> est un programme, développé avec Processing, lancé en juillet 2014, qui a téléchargé et compilé quotidiennement jusqu’en janvier 2016 les « images à la une », les titres, dates et adresses URL, des articles postés dans les rubriques « économie » de quatre sites d’information français : LeMonde.fr, LePoint.fr, LeParisien.fr, Rue89.com. La base de données ainsi constituée de plus de 13000 images a été à l’origine de plusieurs pièces et expérimentations. Ici, ce ne sont pas les pièces finales qui sont présentées mais les tâtonnements qui les ont précédées, à partir d’analyses sémantiques des titres des articles et de classifications d’images selon la colorimétrie ou autres méta-données. Au départ d’une recherche sur la visualisation des données économiques, <i>Img d’éco</i> a répondu a un besoin préalable de questionner (par la visualisation de données) les images qui servent quotidiennement à parler d’économie. Parmi les axes d’exploration de la base de données, la couleur transforme ces images en matière picturale ou en série de pixels, n’accentuant que légèrement leur usage original : peu importe si on les voit ou ce qu’on y voit, seule leur présence compte.</p>",
 			"credit": "Fabrice Sabatier. Développement du logiciel : Fabrice Sabatier, Vincent Gobber & Damien Baïs/.CORP. Licence CC BY-NC-SA 4.0",
 
 			"croquis": "",
 			"collection": ["schema", "champLexi3", "crise","finance", "financeDetail", "FinanceRadF", "emploi", "precarite", "TransportsRadF", "croissance", "HueJuillet", "HueAout", "HueSeptembre", "HueNovembre", "HueDecembre", "HueJanvier","imgdeco0"]
 		},
-
-		{
-			"pieceId": "AlchBrass3",
-			"titre": "Alchimie brassicole",
-			"salle": "Réseaux et formes du liable",
-
-			"mode réel": "superposition",
-			"mode": "classique",
-
-			"date": "2017",
-			"texte": "<h1>Présentation de la pièce</h1>",
-			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
-
-			"croquis": "croqAlchBrass",
-			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
-		},
-		{
-			"pieceId": "QuelLobby3",
-			"titre": "Quel lobbyiste es-tu ?",
-			"salle": "Réseaux et formes du liable",
-			"mode": "exploration",
-
-			"date": "2016",
-			"texte": "<h1>Présentation de la pièce</h1>",
-			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
-
-			"croquis": "croqQuelLob",
-			"collection": ["QuelLob"]
-		},
-
 		{
 			"pieceId": "ImgDeco1-4",
 			"titre": "<i>Img d’éco #1 Image manquante</i>",
@@ -107,6 +77,35 @@
 
 			"croquis": [""],
 			"collection": ["affiche1", "affiche2","affiche3","affiche4","affiche5","affiche6","affiche7","affiche8","affiche9","affiche10","affiche11","imgdeco0"]
+		},
+
+		{
+			"pieceId": "AlchBrass3",
+			"titre": "Alchimie brassicole",
+			"salle": "Réseaux et formes du liable",
+
+			"mode réel": "superposition",
+			"mode": "classique",
+
+			"date": "2017",
+			"texte": "<p>Présentation de la pièce</p>",
+			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "croqAlchBrass",
+			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
+		},
+		{
+			"pieceId": "QuelLobby3",
+			"titre": "Quel lobbyiste es-tu ?",
+			"salle": "Réseaux et formes du liable",
+			"mode": "exploration",
+
+			"date": "2016",
+			"texte": "<p>Présentation de la pièce</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "croqQuelLob",
+			"collection": ["QuelLob"]
 		},
 		{
 			"pieceId": "Gloss4",
