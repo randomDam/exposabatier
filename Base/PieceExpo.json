@@ -1,7 +1,7 @@
 {
 	"pieceExpo": [{
 			"pieceId": "DVVD1",
-			"titre": "D'où vient la visualisation de données ?",
+			"titre": "<i>D'où vient la visualisation de données ?</i>",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "exploration",
 
@@ -14,7 +14,7 @@
 		},
 		{
 			"pieceId": "Radiolo1",
-			"titre": "Radiologie",
+			"titre": "<i>Radiologie</i>",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "classique",
 
@@ -27,7 +27,7 @@
 		},
 		{
 			"pieceId": "Topo1",
-			"titre": "Topographie d'une crise",
+			"titre": "<i>Topographie d'une crise</i>",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "superposition",
 
@@ -40,7 +40,7 @@
 		},
 		{
 			"pieceId": "EcoArt1",
-			"titre": "Économie de l’art : cartographie d’une collection",
+			"titre": "<i>Économie de l’art : cartographie d’une collection</i>",
 			"salle": "Petites percées dans la visualisation de données",
 			"mode": "exploration",
 
@@ -54,7 +54,7 @@
 
 		{
 			"pieceId": "ImgDeco1-2",
-			"titre": "Img d’éco #1 Image manquante - étapes préparatoires et détails",
+			"titre": "<i>Img d’éco #1 Image manquante</i> - étapes préparatoires et détails",
 			"salle": "Chercher du regard et trouver par la main",
 			"mode": "superposition",
 
@@ -65,6 +65,20 @@
 			"croquis": "",
 			"collection": ["schema", "champLexi3", "crise","finance", "financeDetail", "FinanceRadF", "emploi", "precarite", "TransportsRadF", "croissance", "HueJuillet", "HueAout", "HueSeptembre", "HueNovembre", "HueDecembre", "HueJanvier","imgdeco0"]
 		},
+		{
+			"pieceId": "ImgDeco2-2",
+			"titre": "<i>Img d’éco #2 Image manquante</i> et <i>Img d’éco #3 Un été rue du mur</i>.",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "superposition",
+
+			"date": "2016",
+			"texte": "<p><i>Img d’éco #2 Wall Street engourdie par la torpeur de l’été</i> ne traite qu’un fragment de la base de données <i>Img d’éco</i> et se concentre sur les images et titres des articles mentionnant « Wall Street » et publiés dans LePoint.fr entre juillet 2014 et mai 2015. Les images choisies pour évoquer la bourse américaine montrent soit des écrans de données, soit des hommes interagissant avec des écrans de données. À travers l’accumulation de ces images, il apparaît une situation de cohabitation entre les hommes et les marchés financiers, un système sous contrôle ou, du moins, aux mains d’experts équipés d’outils de maintenance, capables de décrypter les signaux ou les indices. Les marchés forment une structure mécanique à gérer. Cependant, les titres associés aux photographies (<i>Img d’éco #3 Un été rue du mur</i>) transforment le regard qui sera porté sur elles. Ces métaphores accordent le don de vie aux marchés financiers, vitalité qui entre immédiatement en confrontation avec la mécanisation que façonnent les photographies. Associées aux titres, les images ne commentent plus seulement une situation de maîtrise ou de supervision d’un système mais créent et fondent les « forces invisibles » de la finance, dont le système technique permet de mesurer et comprendre les signes. Nous ne voyons plus, dès lors, sur ces images, des traders ou des techniciens contrôlant le système ou, du moins, nous voyons également des hommes, dans un rituel, tenter d’interagir ou de négocier avec ces forces invisibles vivantes, à travers leurs gestes et leurs interfaces techniques.</p>",
+			"credit": "Fabrice Sabatier. Développement du logiciel : Fabrice Sabatier, Vincent Gobber & Damien Baïs/.CORP. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["imgdeco3","imgdeco4","Poesiefinanciere"]
+		},
+
 		{
 			"pieceId": "ImgDeco1-4",
 			"titre": "<i>Img d’éco #1 Image manquante</i>",
@@ -81,7 +95,7 @@
 
 		{
 			"pieceId": "AlchBrass3",
-			"titre": "Alchimie brassicole",
+			"titre": "<i>Alchimie brassicole</i>",
 			"salle": "Réseaux et formes du liable",
 
 			"mode réel": "superposition",
@@ -96,7 +110,7 @@
 		},
 		{
 			"pieceId": "QuelLobby3",
-			"titre": "Quel lobbyiste es-tu ?",
+			"titre": "<i>Quel lobbyiste es-tu ?</i>",
 			"salle": "Réseaux et formes du liable",
 			"mode": "exploration",
 
@@ -109,7 +123,7 @@
 		},
 		{
 			"pieceId": "Gloss4",
-			"titre": "Glossaire de la finance et de la sorcellerie",
+			"titre": "<i>Glossaire de la finance et de la sorcellerie</i>",
 			"salle": "Désencrouiller l’imaginaire",
 			"mode": "superposition",
 
@@ -122,7 +136,7 @@
 		},
 		{
 			"pieceId": "Manif4",
-			"titre": "Manifeste Désorceler la finance",
+			"titre": "<i>Manifeste</i> Désorceler la finance",
 			"salle": "Désencrouiller l’imaginaire",
 			"mode": "superposition",
 
@@ -135,7 +149,7 @@
 		},
 		{
 			"pieceId": "Carto4",
-			"titre": "Cartomancie – Ré-ouvrir les horizons",
+			"titre": "<i>Cartomancie – Ré-ouvrir les horizons</i>",
 			"salle": "Désencrouiller l’imaginaire",
 			"mode": "superposition",
 

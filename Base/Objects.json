@@ -322,12 +322,27 @@
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"affiche1",
+		"id":"imgdeco3",
 		"type":"image",
-		"path": "/Img/ImgDEco1/Expo4/affiche1.jpg",
-		"texte": "Finance : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"path": "/Img/ImgDEco2/Expo2/imgdeco3.jpg",
+		"texte": "<i>Img d’éco #2 Wall Street engourdie par la torpeur de l’été</i> dans l’exposition <i>Petites perceptions de l’économie – données, images, pouvoir</i>, Galerie de l’erg, Bruxelles, 2016.",
 		"credit": "Fabrice Sabatier"
 	},
+	{
+		"id":"imgdeco4",
+		"type":"image",
+		"path": "/Img/ImgDEco2/Expo2/imgdeco4.JPG",
+		"texte": "<i>Img d’éco #2 Wall Street engourdie par la torpeur de l’été</i> dans l’exposition <i>Petites perceptions de l’économie – données, images, pouvoir</i>, Galerie de l’erg, Bruxelles, 2016.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Poesiefinanciere",
+		"type":"image",
+		"path": "/Img/ImgDEco2/Expo2/Poesiefinanciere.jpg",
+		"texte": "<i>Img d’éco #3 Un été rue du mur</i>",
+		"credit": "Fabrice Sabatier"
+	},
+
 	{
 		"id":"Alch1",
 		"type":"image",
