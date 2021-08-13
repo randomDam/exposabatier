@@ -342,6 +342,13 @@
 		"texte": "<i>Img d’éco #3 Un été rue du mur</i>",
 		"credit": "Fabrice Sabatier"
 	},
+	{
+		"id":"videoImgDEco",
+		"type":"video",
+		"path": "/Img/ImgDEco2/Expo4/CompoReexportKdenlive.mp4",
+		"texte": "",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+	},
 
 	{
 		"id":"Alch1",
