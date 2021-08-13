@@ -21,39 +21,46 @@
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"rad1",
+		"id":"Cadre_Quesnay",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Radio1.jpg",
-		"texte": "Chart 1: Institutions involved in EU Financial Regulation5 and ways of lobbying them + Chart 2: Deutsche Bank’s Network of EU Lobbying. CEO, Arbeiterkammer and ÖGB, The Fire Power of the Financial Lobby, 2014",
-		"credit": "Fabrice Sabatier. D'après Finance Watch ??"
+		"path": "/Img/Radiologie/Expo1/Cadre_Quesnay.jpg",
+		"texte": "<i>Tableau économique</i>. François Quesnay, 1759.",
+		"credit": "Fabrice Sabatier. D'après François Quesnay"
 	},
 	{
-		"id":"rad2",
+		"id":"Cadre_Neurath",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Radio2.jpg",
-		"texte": "George W. Bush, Harken Energy, and Jackson Stephens, c. 1979–90. Mark Lombardi, 1999.",
-		"credit": "Fabrice Sabatier. D'après Mark Lombardi ??"
-	},	
-	{
-		"id":"rad3",
-		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Radio3.jpg",
-		"texte": "Quesnay : Tableau économique. Otto Neurath, 1931.",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"rad4",
-		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Radio3.jpg",
-		"texte": "Tableau économique. François Quesnay, 1759.",
-		"credit": "Fabrice Sabatier"
+		"path": "/Img/Radiologie/Expo1/Cadre_Neurath.jpg",
+		"texte": "<i>Quesnay : Tableau économique.</i>.  Otto Neurath, 1931.",
+		"credit": "Fabrice Sabatier. D'après Otto Neurath"
 	},
 	{
-		"id":"testCadre",
+		"id":"CadreCEO",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo2/testCadre.jpg",
-		"texte": "Chart 1: Institutions involved in EU Financial Regulation5 and ways of lobbying them + Chart 2: Deutsche Bank’s Network of EU Lobbying. CEO, Arbeiterkammer and ÖGB, The Fire Power of the Financial Lobby, 2014",
-		"credit": "Fabrice Sabatier"
+		"path": "/Img/Radiologie/Expo1/CadreCEO.jpg",
+		"texte": "<i>Chart 1: Institutions involved in EU Financial Regulation5 and ways of lobbying them</i> et <i>Chart 2: Deutsche Bank’s Network of EU Lobbying.</i> CEO, Arbeiterkammer and ÖGB, <i>The Fire Power of the Financial Lobby</i>, 2014.",
+		"credit": "Fabrice Sabatier. D'après CEO, Arbeiterkammer and ÖGB"
+	},
+	{
+		"id":"Cadre_Samuelson",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo1/Cadre_Samuelson.jpg",
+		"texte": "Diagramme du Flux circulaire. Paul Samuelson, 1948.",
+		"credit": "Fabrice Sabatier. D'après Paul Samuelson"
+	},
+	{
+		"id":"Cadre_DensityDesign",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo1/Cadre_DensityDesign.jpg",
+		"texte": "<i>A Job Odyssey</i>. Alessandro Dallafina, Francesco Faggiano, Stefano Greco, Marco La Mantia, Simone Paoli, 2010.",
+		"credit": "Fabrice Sabatier. D'après Alessandro Dallafina, Francesco Faggiano, Stefano Greco, Marco La Mantia et Simone Paoli"
+	},
+	{
+		"id":"Cadre_lombardi",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo1/Cadre_lombardi.jpg",
+		"texte": "<i>George W. Bush, Harken Energy, and Jackson Stephens, c. 1979–90</i>. Mark Lombardi, 1999.",
+		"credit": "Fabrice Sabatier. D'après Mark Lombardi"
 	},
 	{
 		"id":"croqTopo1",
