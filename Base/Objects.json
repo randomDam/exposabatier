@@ -23,42 +23,42 @@
 	{
 		"id":"Cadre_Quesnay",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Cadre_Quesnay.jpg",
+		"path": "/Img/Radiologie/Expo3/Cadre_Quesnay.jpg",
 		"texte": "<i>Tableau économique</i>. François Quesnay, 1759.",
 		"credit": "Fabrice Sabatier. D'après François Quesnay"
 	},
 	{
 		"id":"Cadre_Neurath",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Cadre_Neurath.jpg",
+		"path": "/Img/Radiologie/Expo3/Cadre_Neurath.jpg",
 		"texte": "<i>Quesnay : Tableau économique.</i>.  Otto Neurath, 1931.",
 		"credit": "Fabrice Sabatier. D'après Otto Neurath"
 	},
 	{
 		"id":"CadreCEO",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/CadreCEO.jpg",
+		"path": "/Img/Radiologie/Expo3/CadreCEO.jpg",
 		"texte": "<i>Chart 1: Institutions involved in EU Financial Regulation5 and ways of lobbying them</i> et <i>Chart 2: Deutsche Bank’s Network of EU Lobbying.</i> CEO, Arbeiterkammer and ÖGB, <i>The Fire Power of the Financial Lobby</i>, 2014.",
 		"credit": "Fabrice Sabatier. D'après CEO, Arbeiterkammer and ÖGB"
 	},
 	{
 		"id":"Cadre_Samuelson",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Cadre_Samuelson.jpg",
+		"path": "/Img/Radiologie/Expo3/Cadre_Samuelson.jpg",
 		"texte": "Diagramme du Flux circulaire. Paul Samuelson, 1948.",
 		"credit": "Fabrice Sabatier. D'après Paul Samuelson"
 	},
 	{
 		"id":"Cadre_DensityDesign",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Cadre_DensityDesign.jpg",
+		"path": "/Img/Radiologie/Expo3/Cadre_DensityDesign.jpg",
 		"texte": "<i>A Job Odyssey</i>. Alessandro Dallafina, Francesco Faggiano, Stefano Greco, Marco La Mantia, Simone Paoli, 2010.",
 		"credit": "Fabrice Sabatier. D'après Alessandro Dallafina, Francesco Faggiano, Stefano Greco, Marco La Mantia et Simone Paoli"
 	},
 	{
 		"id":"Cadre_lombardi",
 		"type":"image",
-		"path": "/Img/Radiologie/Expo1/Cadre_lombardi.jpg",
+		"path": "/Img/Radiologie/Expo3/Cadre_lombardi.jpg",
 		"texte": "<i>George W. Bush, Harken Energy, and Jackson Stephens, c. 1979–90</i>. Mark Lombardi, 1999.",
 		"credit": "Fabrice Sabatier. D'après Mark Lombardi"
 	},
