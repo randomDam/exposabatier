@@ -237,6 +237,13 @@
 		"texte": "Images de la base de données illustrant un article dont un mot du titre renvoie au champ lexical des transports. Juillet 2014-janvier 2016, organisation radiale des images selon leur teinte dominante (périmètre) et leur luminosité (rayon).",
 		"credit": "Fabrice Sabatier"
 	},
+		{
+		"id":"imgdeco0",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo2/imgdeco0.jpg",
+		"texte": "<i>Img d’éco #1 Image manquante</i> dans l’exposition <i>Petites perceptions de l’économie – données, images, pouvoir</i>, Galerie de l’erg, Bruxelles, 2016.",
+		"credit": "Fabrice Sabatier"
+	},
 	{
 		"id":"affiche1",
 		"type":"image",
@@ -312,13 +319,6 @@
 		"type":"image",
 		"path": "/Img/ImgDEco1/Expo4/affiche11.jpg",
 		"texte": "Précarité : poster de la série <i>Img d’éco #1 Image manquante</i>.",
-		"credit": "Fabrice Sabatier"
-	},
-	{
-		"id":"imgdeco0",
-		"type":"image",
-		"path": "/Img/ImgDEco1/Expo4/imgdeco0.jpg",
-		"texte": "<i>Img d’éco #1 Image manquante</i> dans l’exposition <i>Petites perceptions de l’économie – données, images, pouvoir</i>, Galerie de l’erg, Bruxelles, 2016.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
