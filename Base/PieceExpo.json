@@ -92,6 +92,19 @@
 			"croquis": [""],
 			"collection": ["affiche1", "affiche2","affiche3","affiche4","affiche5","affiche6","affiche7","affiche8","affiche9","affiche10","affiche11"]
 		},
+		{
+			"pieceId": "ImgDeco2-4",
+			"titre": "<i>Img d’éco #2 Image manquante</i> et <i>Img d’éco #3 Un été rue du mur</i>.",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "classique",
+
+			"date": "2016",
+			"texte": "<p><i>Img d’éco</i> met en lumière des images qui ne sont pas faites pour être regardées mais seulement pour être vues, leur répétition et leur interchangeabilité en atteste. Fixer ces photographies et ces titres d’articles dans le temps long nous oblige à regarder véritablement ces images qui, d’ordinaire, n’impliquent pas, ou si peu, le regard, qui lui font barrage. Mais sous-estimer ces images en raison de leur « insignifiance » individuelle serait une erreur. Celles-ci fonctionnent en escadrilles ou en essaims, qui contournent le regard mais fabriquent du regard. C’est là qu’opère leur magie, que les images finissent par s’animer, par agir. Plutôt que de nous permettre de saisir, par l’image, l’invisible économique, ce sont les images qui agissent sur nos regards. Elles paralysent l’imagination positionnant l’économie comme ensemble sacré, inatteignable sur laquelle nous n’aurions pas ou peu de prises.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Voix : Alix Denambride",
+
+			"croquis": [""],
+			"collection": ["videoImgDEco"]
+		},
 
 		{
 			"pieceId": "AlchBrass3",
