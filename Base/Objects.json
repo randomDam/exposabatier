@@ -238,6 +238,97 @@
 		"credit": "Fabrice Sabatier"
 	},
 	{
+		"id":"affiche1",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche1.jpg",
+		"texte": "Finance : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche2",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche2.jpg",
+		"texte": "Droit : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche3",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche3.jpg",
+		"texte": "Commerce : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche4",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche4.jpg",
+		"texte": "Crise : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche5",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche5.jpg",
+		"texte": "Croissance : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche6",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche6.jpg",
+		"texte": "Emploi : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche7",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche7.jpg",
+		"texte": "Transports : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche8",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche8.jpg",
+		"texte": "Politique : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche9",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche9.jpg",
+		"texte": "Télécommunication : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche10",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche10.jpg",
+		"texte": "Énergie : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche11",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche11.jpg",
+		"texte": "Précarité : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"imgdeco0",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/imgdeco0.jpg",
+		"texte": "<i>Img d’éco #1 Image manquante</i> dans l’exposition <i>Petites perceptions de l’économie – données, images, pouvoir</i>, Galerie de l’erg, Bruxelles, 2016.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiche1",
+		"type":"image",
+		"path": "/Img/ImgDEco1/Expo4/affiche1.jpg",
+		"texte": "Finance : poster de la série <i>Img d’éco #1 Image manquante</i>.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
 		"id":"Alch1",
 		"type":"image",
 		"path": "/Img/AlchBrass/Expo3/Alchi-1.jpg",

@@ -51,6 +51,7 @@
 			"croquis": "croqEcoArt",
 			"collection": ["Tript1","Tript2","Tript3", "Iso"]
 		},
+
 		{
 			"pieceId": "ImgDeco1-2",
 			"titre": "Img d’éco #1 Image manquante - étapes préparatoires et détails",
@@ -59,11 +60,12 @@
 
 			"date": "2015-2016",
 			"texte": "<h1><i>Img d’éco</i> est un programme, développé avec Processing, lancé en juillet 2014, qui a téléchargé et compilé quotidiennement jusqu’en janvier 2016 les « images à la une », les titres, dates et adresses URL, des articles postés dans les rubriques « économie » de quatre sites d’information français : LeMonde.fr, LePoint.fr, LeParisien.fr, Rue89.com. La base de données ainsi constituée de plus de 13000 images a été à l’origine de plusieurs pièces et expérimentations. Ici, ce ne sont pas les pièces finales qui sont présentées mais les tâtonnements qui les ont précédées, à partir d’analyses sémantiques des titres des articles et de classifications d’images selon la colorimétrie ou autres méta-données. Au départ d’une recherche sur la visualisation des données économiques, <i>Img d’éco</i> a répondu a un besoin préalable de questionner (par la visualisation de données) les images qui servent quotidiennement à parler d’économie. Parmi les axes d’exploration de la base de données, la couleur transforme ces images en matière picturale ou en série de pixels, n’accentuant que légèrement leur usage original : peu importe si on les voit ou ce qu’on y voit, seule leur présence compte.</h1>",
-			"credit": "Fabrice Sabatier. Développement Img d’éco : Fabrice Sabatier, Vincent Gobber & Damien Baïs/.CORP. Licence CC BY-NC-SA 4.0",
+			"credit": "Fabrice Sabatier. Développement du logiciel : Fabrice Sabatier, Vincent Gobber & Damien Baïs/.CORP. Licence CC BY-NC-SA 4.0",
 
 			"croquis": "",
 			"collection": ["schema", "champLexi3", "crise","finance", "financeDetail", "FinanceRadF", "emploi", "precarite", "TransportsRadF", "croissance", "HueJuillet", "HueAout", "HueSeptembre", "HueNovembre", "HueDecembre", "HueJanvier"]
 		},
+
 		{
 			"pieceId": "AlchBrass3",
 			"titre": "Alchimie brassicole",
@@ -91,6 +93,20 @@
 
 			"croquis": "croqQuelLob",
 			"collection": ["QuelLob"]
+		},
+
+		{
+			"pieceId": "ImgDeco1-4",
+			"titre": "<i>Img d’éco #1 Image manquante</i>",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "exploration",
+
+			"date": "2016",
+			"texte": "<p>La série de posters <i>Img d’éco #1 Image manquante</i> est basée sur une analyse sémantique des titres d’articles d’économie, publiés sur des sites d’information entre juillet 2014 et janvier 2016, qui a permis de détecter les principaux champs lexicaux. Sur chaque poster se trouvent la liste des mots issus des titres et renvoyant à l’univers de référence ainsi que les images illustrant les articles dont le titre comporte un de ces mots.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": [""],
+			"collection": ["affiche1", "affiche2","affiche3","affiche4","affiche5","affiche6","affiche7","affiche8","affiche9","affiche10","affiche11","imgdeco0"]
 		},
 		{
 			"pieceId": "Gloss4",
