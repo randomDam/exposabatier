@@ -64,9 +64,6 @@
 			"croquis": "",
 			"collection": ["schema", "champLexi3", "crise","finance", "financeDetail", "FinanceRadF", "emploi", "precarite", "TransportsRadF", "croissance", "HueJuillet", "HueAout", "HueSeptembre", "HueNovembre", "HueDecembre", "HueJanvier"]
 		},
-
-
-
 		{
 			"pieceId": "AlchBrass3",
 			"titre": "Alchimie brassicole",
