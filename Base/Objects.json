@@ -25,14 +25,14 @@
 		"type":"image",
 		"path": "/Img/Radiologie/Expo1/Radio1.jpg",
 		"texte": "Chart 1: Institutions involved in EU Financial Regulation5 and ways of lobbying them + Chart 2: Deutsche Bank’s Network of EU Lobbying. CEO, Arbeiterkammer and ÖGB, The Fire Power of the Financial Lobby, 2014",
-		"credit": "Fabrice Sabatier"
+		"credit": "Fabrice Sabatier. D'après Finance Watch ??"
 	},
 	{
 		"id":"rad2",
 		"type":"image",
 		"path": "/Img/Radiologie/Expo1/Radio2.jpg",
 		"texte": "George W. Bush, Harken Energy, and Jackson Stephens, c. 1979–90. Mark Lombardi, 1999.",
-		"credit": "Fabrice Sabatier"
+		"credit": "Fabrice Sabatier. D'après Mark Lombardi ??"
 	},	
 	{
 		"id":"rad3",
@@ -46,6 +46,13 @@
 		"type":"image",
 		"path": "/Img/Radiologie/Expo1/Radio3.jpg",
 		"texte": "Tableau économique. François Quesnay, 1759.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"testCadre",
+		"type":"image",
+		"path": "/Img/Radiologie/Expo2/testCadre.jpg",
+		"texte": "Chart 1: Institutions involved in EU Financial Regulation5 and ways of lobbying them + Chart 2: Deutsche Bank’s Network of EU Lobbying. CEO, Arbeiterkammer and ÖGB, The Fire Power of the Financial Lobby, 2014",
 		"credit": "Fabrice Sabatier"
 	},
 	{

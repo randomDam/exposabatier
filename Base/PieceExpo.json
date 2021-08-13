@@ -26,6 +26,20 @@
 			"collection": ["rad1", "rad2", "rad3", "rad4"]
 		},
 		{
+			"pieceId": "Radiolo2",
+			"titre": "<i>Radiologie</i>",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "classique",
+
+			"date": "2016-2019",
+			"texte": "<p>Série de dessin de l'ossature de visualisations de réseaux</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["testCadre.jpg"]
+		},
+
+		{
 			"pieceId": "Topo1",
 			"titre": "<i>Topographie d'une crise</i>",
 			"salle": "Petites percées dans la visualisation de données",
