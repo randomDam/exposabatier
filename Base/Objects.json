@@ -106,40 +106,83 @@
 	},
 
 	{
-		"id":"ouverture_gif",
+		"id":"secteurOuverture",
 		"type":"image",
-		"path": "/Img/Explore/Expo2/ouverture.gif",
-		"texte": "",
+		"path": "/Img/Explore/Expo2/secteurOuverture.gif",
+		"texte": "Entrée par les secteurs industriels : Phase 1 (Aperçu macro des secteurs industriels)",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"secteur2_gif",
+		"id":"secteurStep1-2",
 		"type":"image",
-		"path": "/Img/Explore/Expo2/secteur2.gif",
-		"texte": "",
+		"path": "/Img/Explore/Expo2/secteurStep1-2.gif",
+		"texte": "Entrée par les secteurs industriels : Transition Phase 1 à Phase 2 (Aperçu meso des secteurs industriels)",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"ouverture2",
-		"type":"video",
-		"path": "/Img/Explore/Expo2/ouverture2.mp4",
-		"texte": "",
+		"id":"secteurStep2-3",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/secteurStep2-3.gif",
+		"texte": "Entrée par les secteurs industriels : Transition Phase 2 à Phase 3 (Aperçu micro des organisations par secteur)",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"secteur",
-		"type":"video",
-		"path": "/Img/Explore/Expo2/secteur.mp4",
-		"texte": "",
+		"id":"secteurBudget",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/secteurBudget.gif",
+		"texte": "Entrée par les secteurs industriels : Phase 3 (Visualisation des budgets des organisations)",
 		"credit": "Fabrice Sabatier"
 	},
 	{
-		"id":"ouverture3",
-		"type":"video",
-		"path": "/Img/Explore/Expo2/ouverture.mp4",
-		"texte": "",
+		"id":"secteurStep3-2",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/secteurStep3-2.gif",
+		"texte": "Entrée par les secteurs industriels : Transition Phase 3 à Phase 2",
 		"credit": "Fabrice Sabatier"
 	},
+	{
+		"id":"secteurStep2-1",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/secteurStep2-1.gif",
+		"texte": "Entrée par les secteurs industriels : Transition Phase 2 à Phase 1",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"typeOuverture",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/typeOuverture.gif",
+		"texte": "Entrée par les types d’organisations : Phase 1 (Aperçu des types d’organisations)",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"typeStep2-3",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/typeStep2-3.gif",
+		"texte": "Entrée par les types d’organisations : Transition Phase 1 à Phase 2 (Aperçu micro des organisations par type)",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"interetOuverture",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/interetOuverture.gif",
+		"texte": "Entrée par les intérêts publics vs intérêts privés  : Phase 1 (Aperçu du nombre d’organisations par type d’intérêts)",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"interetStep2-3",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/interetStep2-3.gif",
+		"texte": "Entrée par les intérêts publics vs intérêts privés  : Transition Phase 1 à Phase 2 (Aperçu micro des organisations par intérêt)",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"interetStep2-2Budget",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/interetStep2-2Budget.gif",
+		"texte": "Entrée par les intérêts publics vs intérêts privés  : Transition Phase 2 à Phase 1 (Aperçu des budgets par intérêt)",
+		"credit": "Fabrice Sabatier"
+	},
+
 
 	{
 		"id":"croqTopo1",

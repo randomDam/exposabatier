@@ -50,7 +50,7 @@
 			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
 
 			"croquis": "",
-			"collection": ["ouverture_gif","secteur2_gif","ouverture2","secteur","ouverture3"]
+			"collection": ["secteurOuverture","secteurStep1-2","secteurStep2-3","secteurBudget","secteurStep3-2","secteurStep2-1","typeOuverture","typeStep2-3","interetOuverture","interetStep2-3","interetStep2-2Budget"]
 		},
 
 		{
