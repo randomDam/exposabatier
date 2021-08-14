@@ -133,6 +133,13 @@
 		"texte": "",
 		"credit": "Fabrice Sabatier"
 	},
+	{
+		"id":"ouverture3",
+		"type":"video",
+		"path": "/Img/Explore/Expo2/ouverture.mp4",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
 
 	{
 		"id":"croqTopo1",
