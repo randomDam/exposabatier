@@ -40,6 +40,20 @@
 		},
 
 		{
+			"pieceId": "Explore2",
+			"titre": "<i>Explore the lobby network in finance and climate</i>",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "superposition",
+
+			"date": "2015",
+			"texte": "<p></p>",
+			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
+
+			"croquis": "",
+			"collection": ["ouverture_gif","secteur2_gif","ouverture2","secteur"]
+		},
+
+		{
 			"pieceId": "Topo1",
 			"titre": "<i>Topographie d'une crise</i>",
 			"salle": "Petites percées dans la visualisation de données",

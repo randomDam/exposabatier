@@ -105,6 +105,34 @@
 		"credit": "Fabrice Sabatier. D'après Mark Lombardi"
 	},
 
+	{
+		"id":"ouverture_gif",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/ouverture.gif",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"secteur2_gif",
+		"type":"image",
+		"path": "/Img/Explore/Expo2/secteur2.gif",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"ouverture2",
+		"type":"video",
+		"path": "/Img/Explore/Expo2/ouverture2.mp4",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"secteur",
+		"type":"video",
+		"path": "/Img/Explore/Expo2/secteur.mp4",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
 
 	{
 		"id":"croqTopo1",
