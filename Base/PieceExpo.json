@@ -46,12 +46,39 @@
 			"mode": "superposition",
 
 			"date": "2015",
-			"texte": "<p></p>",
+			"texte": "<p><i>Explore the lobby network in finance and climate</i> est la visualisation du réseau de lobbying des organisations concernées par la régulation financière ou par les objectifs environnementaux, dans les institutions européennes. Pensée et développée comme un projet en soi, la pièce a finalement joué le rôle de prototype de <i>Vi(c)e organique</i>. Elle a principalement permis d’expérimenter les modes de navigation dans différentes échelles de données (des données agrégées aux données désagrégées) et d’initier des parcours scénarisés dans la base de données pour en apercevoir diverses facettes. En effet, l’exploration progressive du réseau est scénarisée à travers trois parcours. Le premier permet de découvrir le réseau par le filtre des secteurs industriels, le deuxième par les types d’organisations (entreprises, associations professionnelles, ONG, etc.) et le troisième en fonction de la propension des organisations à défendre des intérêts publics ou privés. Qu’il choisisse l’une ou l’autre de ces entrées, l’usager.ère va découvrir les acteurs en dévoilant progressivement le réseau. En deux ou trois étapes, les grandes familles formées d’organisations de même type, secteur ou intérêt passe d’ensembles agrégés à des unités désagrégées représentant chacune une organisation lobbyiste, à laquelle il est possible d’attribuer un diamètre proportionnel aux moyens financiers qu’elle consacre, par an, à cette activité.</p>",
 			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
 
 			"croquis": "",
 			"collection": ["secteurOuverture","secteurStep1-2","secteurStep2-3","secteurBudget","interetStep2-3"]
 		},
+		{
+			"pieceId": "Explore3",
+			"titre": "<i>Explore the lobby network in finance and climate</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "classique",
+
+			"date": "2015",
+			"texte": "<p>Voir les liens. Pour voir les lobbies de la finance et du climat, et percevoir leur action, il faut identifier les organisations ayant accès aux institutions, connaître leur statut, les moyens qu’elles engagent, les liens qu’elles tissent entre elles. En cartographiant le réseau, nous faisons apparaître les disproportions de quantité et de moyens financiers entre les organisations préoccupées par les intérêts publics et celles défendant des intérêts privés. Une lecture plus attentive permet d’observer la nature de l’imbrication des entreprises polluantes et de la finance, de comprendre la cohésion des groupes d’intérêts et d’évaluer l’efficacité d’influence des lobbies. Les liens dessinés dans <i>Explore the lobby network in finance and climate</i> sont de trois ordres : des liens d’affiliation lorsqu’une organisation adhère à une autre (comme Shell affiliée à l’European Chemical Industry Council) des liens de propriété lorsqu’une entreprise possède des parts dans une autre (comme EDF propriétaire de 98 % d’Edison spa) ou des liens d’imbrication lorsque deux entreprises partagent un membre de leur conseil d’administration (comme Total et BNP Paribas ou Total et Renault).</p>",
+			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
+
+			"croquis": "",
+			"collection": ["vidPresentation","affiliation","affiliation2","propriete","imbrication"]
+		},
+		{
+			"pieceId": "Explore5",
+			"titre": "<i>Explore the lobby network in finance and climate</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2015",
+			"texte": "<p>À la différence de <i>Vi(c)e organique</i> qui se concentre sur les organisations intervenant dans les politiques environnementales européennes, <i>Explore the lobby network in finance and climate</i> croise ces organisations avec celles faisant du lobbying sur les politiques financières. Ainsi apparaît, au cœur du réseau, un cluster d’entreprises et d’organisations financièrement puissantes, révélant l’interconnexion et les intérêts communs de ces organisations impliquées dans les enjeux environnementaux et de régulation financière.</p>",
+			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
+
+			"croquis": "",
+			"collection": ["phase1","phase2","phase3","phase3_physique","phase3_budget","phase3_survol"]
+		},
+
 
 		{
 			"pieceId": "Topo1",

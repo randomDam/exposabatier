@@ -183,6 +183,84 @@
 		"credit": "Fabrice Sabatier"
 	},
 
+	{
+		"id":"vidPresentation",
+		"type":"video",
+		"path": "/Img/Explore/Expo3/truc.mp4",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiliation",
+		"type":"image",
+		"path": "/Img/Explore/Expo3/affiliation.jpg",
+		"texte": "Sélection de Shell et focus sur les liens d’affiliation",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"affiliation2",
+		"type":"image",
+		"path": "/Img/Explore/Expo3/affiliation2.jpg",
+		"texte": "Sélection de l'European Banking Federation et focus sur les liens d’affiliation",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"propriete",
+		"type":"image",
+		"path": "/Img/Explore/Expo3/propriete.jpg",
+		"texte": "Sélection d’EDF et focus sur les liens de propriété. Survol d’Edison",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"imbrication",
+		"type":"image",
+		"path": "/Img/Explore/Expo3/imbrication.jpg",
+		"texte": "Sélection de Total et focus sur les liens d’imbrication. Survol de BNP Paribas",
+		"credit": "Fabrice Sabatier"
+	},
+
+	{
+		"id":"phase1",
+		"type":"image",
+		"path": "/Img/Explore/Expo5/phase1.jpg",
+		"texte": "Phase 1 : Aperçu macro des secteurs industriels",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"phase2",
+		"type":"image",
+		"path": "/Img/Explore/Expo5/phase2.jpg",
+		"texte": "Phase 2 : Aperçu meso des secteurs industriels",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"phase3",
+		"type":"image",
+		"path": "/Img/Explore/Expo5/phase3.jpg",
+		"texte": "Phase 3 : Aperçu micro des organisations",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"phase3_physique",
+		"type":"image",
+		"path": "/Img/Explore/Expo5/phase3_physique.jpg",
+		"texte": "La physique permet aux nœuds de se positionner progressivement",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"phase3_budget",
+		"type":"image",
+		"path": "/Img/Explore/Expo5/phase3_budget.jpg",
+		"texte": "Le diamètre est proportionnel aux moyens financiers que les organisations consacrent au lobbying eurpoéen par an",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"phase3_survol",
+		"type":"image",
+		"path": "/Img/Explore/Expo5/phase3_survol.jpg",
+		"texte": "Le nom des organisations apparaît au survol et leurs dépenses de lobbying apparaissent dans la légende. L’European Banking Federation : 4,375 millions d’€/an",
+		"credit": "Fabrice Sabatier"
+	},
 
 	{
 		"id":"croqTopo1",
