@@ -99,17 +99,19 @@ function drawDataBase(pieceId){
 	//-------------------------------------------------------------
 	//DISPATCH ENTRE 3 PIECES
 	//-------------------------------------------------------------
-	if(selectedExpo.mode=="superposition"){
-		gen_superposition(selectedExpo, selectedObject);
-	}else if(selectedExpo.mode=="superpositionInverse"){
-		gen_superpositionInvert(selectedExpo, selectedObject);
-	}else if(selectedExpo.mode=="classique"){
-		gen_classique(selectedExpo, selectedObject);
-	}else if(selectedExpo.mode=="exploration"){
-		gen_exploration(selectedExpo, selectedObject);
+	if(selectedExpo!=null){
+		if(selectedExpo.mode=="superposition"){
+			gen_superposition(selectedExpo, selectedObject);
+		}else if(selectedExpo.mode=="superpositionInverse"){
+			gen_superpositionInvert(selectedExpo, selectedObject);
+		}else if(selectedExpo.mode=="classique"){
+			gen_classique(selectedExpo, selectedObject);
+		}else if(selectedExpo.mode=="exploration"){
+			gen_exploration(selectedExpo, selectedObject);
+		}
+		
+		fillCartel();
 	}
-
-	fillCartel();
 }
 
 //-------------------------------------------------------------

@@ -52,7 +52,7 @@ function init3D() {
 	//SCENE
 	//-------------------------------------------------------------
 	scene = new THREE.Scene();
-	scene.background = new THREE.Color(0x444444);
+	scene.background = new THREE.Color(0x222222);
 
 	//-------------------------------------------------------------
 	//GEOMETRIE TEST (point zero)
@@ -174,10 +174,11 @@ function parseMySVG(url) {
 //-------------------------------------------------------------
 var ArrayLineWall = [];
 var ArrayWall = [];
+var ArrayTitre = [];
 
 function traceWall(sceneRef, paths, hauteur, salleName) {
 	const matLine = new THREE.LineDashedMaterial({
-		color: 0xaaaaaa,
+		color: defaultColor_wall,
 		linewidth: 0.2,
 		scale: 1,
 		opacity: 0.1,
@@ -273,11 +274,13 @@ function traceWall(sceneRef, paths, hauteur, salleName) {
 	//geometry.center();
 
 	var matText = new THREE.MeshBasicMaterial({
-		color: 0xffffff, 
+		color: defaultColor_titre, 
 		side: THREE.DoubleSide
 	});
 	var meshText = new THREE.Mesh(titre, matText);
 	meshText.name = salleName;
+
+	ArrayTitre.push(meshText);
 
 	//var pos = refObject.getWorldPosition(pos);
 	//console.log(pos);
@@ -313,7 +316,7 @@ function traceCicle(sceneRef, paths, hauteur, salleName) {
 		const geometry = new THREE.CylinderGeometry(10, 10, 3, 16);
 		//const geometry = new THREE.BoxGeometry( 10,10,10 );
 		const material = new THREE.MeshBasicMaterial({
-			color: 0xffffff
+			color: defaultColor_point
 		});
 		const cylinder = new THREE.Mesh(geometry, material);
 
@@ -426,17 +429,20 @@ function onMouseMove(event) {
 //-------------------------------------------------------------
 //window.addEventListener('click', onMouseclick, false);
 
-function onMouseclick(event) {
-	console.log(expoSelected);
-
+function onMouseclick(event) {	
 	salleSelected = salleOver;
 	expoSelected = expoOver;
+
+	console.log(salleSelected);
+	console.log(expoSelected);
 
 	//$("#debug")[0].innerText = "debug\n";
 	if(expoSelected.length>0){
 		//$("#debug")[0].innerText += expoSelected[0].pieceId + "\n";
 		drawDataBase(expoSelected[0].pieceId);
 	}
+
+	console.log(ArrayTitre);
 }
 
 var salleSelected = [];
@@ -499,16 +505,34 @@ function runRayCaster() {
 var colorHover = 0xffff00;
 var colorSelected = 0x00ffff;
 
+var defaultColor_point = 0x777777;
+var defaultColor_wall = 0x888888;
+
+var defaultColor_titre = 0xffffff
+
 function refreshGraphic() {
-	//rebootColor
+	//--------------------------------------------------------
+	//reboot color
+	//--------------------------------------------------------
+
+	//reboot cylinder
 	for (let j = 0; j < ArrayCylinder.length; j++) {
-		ArrayCylinder[j].material.color.set(0xffffff);
+		ArrayCylinder[j].material.color.set(defaultColor_point);
 	}
+	
+	//reboot wall
 	for (let j = 0; j < ArrayLineWall.length; j++) {
-		ArrayLineWall[j].material.color.set(0xffffff);
+		ArrayLineWall[j].material.color.set(defaultColor_wall);
 	}
-	for (let j = 0; j < ArrayLineWall.length; j++) {
+
+	//array wall
+	for (let j = 0; j < ArrayWall.length; j++) {
 		ArrayWall[j].material.color.set(0x777777);
+	}
+
+	//array wall
+	for (let j = 0; j < ArrayTitre.length; j++) {
+		ArrayTitre[j].material.color.set(defaultColor_titre);
 	}
 
 	//--------------------------------------------------------
@@ -518,6 +542,12 @@ function refreshGraphic() {
 		//document.help = salleOver[0];
 		salleOver[0].children[0].material.color.set(colorHover);
 		salleOver[0].children[1].material.color.set(0x999999);
+
+		//nom de la salle
+		console.log(salleOver[0].salleName);
+		lightTitre(salleOver[0].salleName);
+
+		lightExpo(salleOver[0].salleName);
 	}
 
 	if (salleOver.length > 0 && expoOver.length > 0) {
@@ -533,6 +563,8 @@ function refreshGraphic() {
 			}
 		}
 		//salleOver[0].children[1].material.color.set(0x999999);
+		lightTitre(salleOver[0].salleName);
+		
 	}
 
 	//--------------------------------------------------------
@@ -542,6 +574,8 @@ function refreshGraphic() {
 		//document.help = salleOver[0];
 		salleSelected[0].children[0].material.color.set(colorSelected);
 		salleSelected[0].children[1].material.color.set(colorSelected);
+
+		lightTitre(salleSelected[0].salleName);
 	}
 
 	if (salleSelected.length > 0 && expoSelected.length > 0) {
@@ -555,9 +589,34 @@ function refreshGraphic() {
 			}
 		}
 		//salleOver[0].children[1].material.color.set(0x999999);
+		lightTitre(salleSelected[0].salleName);
 	}
 }
 
+function lightTitre(titre){
+	for(var i=0; i<ArrayTitre.length; i++){
+		ArrayTitre[i].material.color.set(0x444444);
+	}
+
+
+	for(var i=0; i<ArrayTitre.length; i++){
+		if(ArrayTitre[i].name == titre){
+			ArrayTitre[i].material.color.set(0xFFFFFF);
+		}
+	}
+
+}
+
+function lightExpo(expo){
+	console.log(ArrayCylinder);
+	
+	for(var i=0; i<ArrayCylinder.length; i++){
+		if(ArrayCylinder[i].salleName == expo){
+			ArrayCylinder[i].material.color.set(0xdddddd);
+		}
+	}
+	
+}
 
 //-------------------------------------------------------------
 /*
