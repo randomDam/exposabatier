@@ -22,6 +22,30 @@ SUPERPOSITION ELEMENT
 	bottom: 0px;
 	left: 0px;
 }
+/* -------------------------------------------------------------  
+SUPERPOSITION ELEMENT
+-------------------------------------------------------------  */
+.superpositionElementInvert{
+	width: 340px;
+	height: 40px;
+
+	background-color: rgba(0, 0, 0);
+}
+
+.superpositionElementInvert img{
+	position: absolute;
+	width: 300px;
+	top: 20px;
+	left: 20px;
+}
+
+.superpositionElementInvert video{
+	position: absolute;
+	width: 300px;
+	top: 20px;
+	left: 20px;
+}
+
 
 /* -------------------------------------------------------------  
 EXPLORATION ELEMENT

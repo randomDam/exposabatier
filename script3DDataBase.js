@@ -101,6 +101,8 @@ function drawDataBase(pieceId){
 	//-------------------------------------------------------------
 	if(selectedExpo.mode=="superposition"){
 		gen_superposition(selectedExpo, selectedObject);
+	}else if(selectedExpo.mode=="superpositionInverse"){
+		gen_superpositionInvert(selectedExpo, selectedObject);
 	}else if(selectedExpo.mode=="classique"){
 		gen_classique(selectedExpo, selectedObject);
 	}else if(selectedExpo.mode=="exploration"){
@@ -174,6 +176,13 @@ function createSuperpositionElem_image(index,element,x,y){
 		img.src = element.path;
 		
 		d.appendChild(img);
+
+		d.addEventListener('mouseover', function (e) {
+			//console.log(this);
+			this.style.zIndex = lastIndex;
+			lastIndex++;
+			if(lastIndex >1000)lastIndex = 0;
+		});
 	//.click(function () {
 	//    $(this).remove();
 	//})
@@ -202,6 +211,115 @@ function createSuperpositionElem_video(index,element,x,y){
 		img.controls = true;
 		
 		d.appendChild(img);
+
+		d.addEventListener('mouseover', function (e) {
+			//console.log(this);
+			this.style.zIndex = lastIndex;
+			lastIndex++;
+			if(lastIndex >1000)lastIndex = 0;
+		});
+	//.click(function () {
+	//    $(this).remove();
+	//})
+}
+//-------------------------------------------------------------
+//-------------------------------------------------------------
+//SUPERPOSITION INERVSÉ / image / video 
+//-------------------------------------------------------------
+//-------------------------------------------------------------
+function gen_superpositionInvert(_selectedExpo,_selectedObject){
+	var target = $("#part_right");
+	target.css({overflow:"auto"});
+
+	var w = target.width();
+	var h = target.height();
+
+	var x = randomRange(30,60);
+	var y = 100;
+	var marginY=300;
+
+	for(var i=0;i<_selectedObject.length;i++){
+		//createSuperpositionElem(i,_selectedObject[i],x,y);
+
+		if(_selectedObject[i].type=="image")createSuperpositionInvertElem_image(i,_selectedObject[i],x,y);
+		if(_selectedObject[i].type=="video")createSuperpositionInvertElem_video(i,_selectedObject[i],x,y);
+		
+		if(randomRange(0,10)<4){
+			x+=randomRange(100,100);
+		}else{
+			x+=randomRange(300,500);
+		}
+
+		if(x>w-400){
+			x=randomRange(30,200);
+			y+=marginY;
+		}
+	}
+}
+
+function createSuperpositionInvertElem_image(index,element,x,y){
+	
+	//zone de remplissage
+	var target = $("#part_right");
+	var w = target.width();
+	var h = target.height();
+	
+	//{top: 200, left: 200, position:'absolute'}
+
+	var d = document.createElement('div');
+		$(d).addClass("superpositionElementInvert")
+		.html("")
+		.css({top:y,left:x,position:'absolute'})
+		.appendTo(target)
+		
+		
+		console.log(d);
+		var img = document.createElement('img');
+		img.src = element.path;
+		
+		d.appendChild(img);
+
+		d.addEventListener('mouseover', function (e) {
+			//console.log(this);
+			this.style.zIndex = lastIndex;
+			lastIndex++;
+			if(lastIndex >1000)lastIndex = 0;
+		});
+	//.click(function () {
+	//    $(this).remove();
+	//})
+}
+
+function createSuperpositionInvertElem_video(index,element,x,y){
+	
+	//zone de remplissage
+	var target = $("#part_right");
+	var w = target.width();
+	var h = target.height();
+	
+	//{top: 200, left: 200, position:'absolute'}
+
+	var d = document.createElement('div');
+		$(d).addClass("superpositionElementInvert")
+		.html("")
+		.css({top:y,left:x,position:'absolute'})
+		.appendTo(target)
+		
+		
+		console.log(d);
+		var img = document.createElement('video');
+		img.src = element.path;
+		img.autoplay = true;
+		img.controls = true;
+		
+		d.appendChild(img);
+
+		d.addEventListener('mouseover', function (e) {
+			//console.log(this);
+			this.style.zIndex = lastIndex;
+			lastIndex++;
+			if(lastIndex >1000)lastIndex = 0;
+		});
 	//.click(function () {
 	//    $(this).remove();
 	//})
@@ -256,7 +374,7 @@ function createClassiqueElem_video(index,element,x,y,maxH){
 		//console.log(d);
 		var vid = document.createElement('video');
 		vid.src = element.path;
-		vid.controls = false;
+		vid.controls = true;
 		vid.autoplay=true;
 		vid.onclick = function(){
 			console.log("video in");

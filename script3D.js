@@ -417,8 +417,9 @@ function onMouseMove(event) {
 	*/
 	var canvasTarget = $("#part_left canvas")[0].getBoundingClientRect();
 	
-	mouseRay.x = ((event.clientX - canvasTarget.x) / renderer.domElement.width) * 2 - 1;
-	mouseRay.y = -((event.clientY - canvasTarget.y) / renderer.domElement.height) * 2 + 1;
+	var pixelDens = window.devicePixelRatio;
+	mouseRay.x = ((event.clientX*pixelDens - canvasTarget.x*pixelDens) / (renderer.domElement.width)) * 2 - 1;
+	mouseRay.y = -((event.clientY*pixelDens - canvasTarget.y*pixelDens) / (renderer.domElement.height)) * 2 + 1;
 }
 //-------------------------------------------------------------
 //click global

@@ -6,6 +6,7 @@ body {
 	font-family: helvetica, arial, sans-serif;
 	margin: 0em;
 	padding: 0em;
+	overflow: hidden;
 }
 
 /*
@@ -25,9 +26,7 @@ h1 {
 	right: 0px;
 	top: 0px;
 	bottom: 0px;
-
-
-
+	
 	overflow: hidden;
 }
 
@@ -302,6 +301,40 @@ Galerie css
 }
 
 #galerieIMG {
+	position: absolute;
+}
+/*==================================================================================
+GalerieVideo css
+==================================================================================*/
+#galerieVideo {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	background-color: rgba(0, 0, 0, 0.9);
+
+	overflow: hidden;
+
+	visibility: hidden;
+	z-index: 9999999;
+}
+
+#galerieVideo #subGalerieVideo {
+	position: absolute;
+	left: 20px;
+	right: 20px;
+	top: 20px;
+	bottom: 20px;
+
+	overflow: hidden;
+	/*
+	border:solid 2px red;
+	*/
+	background-color: rgba(0, 0, 0, 0);
+}
+
+#galerieVIDEO {
 	position: absolute;
 }
 /*==================================================================================

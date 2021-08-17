@@ -193,7 +193,7 @@
 			"pieceId": "Gloss4",
 			"titre": "<i>Glossaire de la finance et de la sorcellerie</i>",
 			"salle": "Désencrouiller l’imaginaire",
-			"mode": "superposition",
+			"mode": "superpositionInverse",
 
 			"date": "2020",
 			"texte": "<p>Présentation de la pièce.</p>",
