@@ -57,14 +57,14 @@ function init3D() {
 	//-------------------------------------------------------------
 	//GEOMETRIE TEST (point zero)
 	//-------------------------------------------------------------
-	/*
+	
 	const geometry = new THREE.BoxGeometry(1, 1, 1);
 	const material = new THREE.MeshBasicMaterial({
 		color: 0x00ff00
 	});
 	const cube = new THREE.Mesh(geometry, material);
 	scene.add(cube);
-	*/
+	
 
 	//-------------------------------------------------------------
 	//SVG
@@ -178,7 +178,7 @@ var ArrayTitre = [];
 
 function traceWall(sceneRef, paths, hauteur, salleName) {
 	const matLine = new THREE.LineDashedMaterial({
-		color: defaultColor_wall,
+		color: defaultColor_linewall,
 		linewidth: 0.2,
 		scale: 1,
 		opacity: 0.1,
@@ -507,6 +507,7 @@ var colorSelected = 0x00ffff;
 
 var defaultColor_point = 0x777777;
 var defaultColor_wall = 0x888888;
+var defaultColor_linewall = 0x888888;
 
 var defaultColor_titre = 0xffffff
 
@@ -520,17 +521,18 @@ function refreshGraphic() {
 		ArrayCylinder[j].material.color.set(defaultColor_point);
 	}
 	
-	//reboot wall
+	//reboot line wall
 	for (let j = 0; j < ArrayLineWall.length; j++) {
-		ArrayLineWall[j].material.color.set(defaultColor_wall);
+		ArrayLineWall[j].material.color.set(defaultColor_linewall);
 	}
 
 	//array wall
 	for (let j = 0; j < ArrayWall.length; j++) {
 		ArrayWall[j].material.color.set(0x777777);
+		ArrayWall[j].material.opacity = 0.1;
 	}
 
-	//array wall
+	//array titre
 	for (let j = 0; j < ArrayTitre.length; j++) {
 		ArrayTitre[j].material.color.set(defaultColor_titre);
 	}
@@ -542,6 +544,8 @@ function refreshGraphic() {
 		//document.help = salleOver[0];
 		salleOver[0].children[0].material.color.set(colorHover);
 		salleOver[0].children[1].material.color.set(0x999999);
+		
+		salleOver[0].children[1].material.opacity = 0.5;
 
 		//nom de la salle
 		console.log(salleOver[0].salleName);
@@ -554,6 +558,9 @@ function refreshGraphic() {
 		document.help = expoOver[0];
 
 		expoOver[0].material.color.set(colorHover);
+
+		salleOver[0].children[1].material.opacity = 0.5;
+
 		drawOver(expoOver[0]);
 
 		for (var i = 0; i < salleOver.length; i++) {
