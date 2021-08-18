@@ -183,7 +183,7 @@ function traceWall(sceneRef, paths, hauteur, salleName) {
 		scale: 1,
 		opacity: 0.1,
 		dashSize: 10,
-		gapSize: 5,
+		gapSize: 4,
 		depthTest: true
 	});
 
@@ -286,9 +286,9 @@ function traceWall(sceneRef, paths, hauteur, salleName) {
 	//console.log(pos);
 	//meshText.rotation.x += 3.14 / 2;
 	
-	meshText.position.y = hauteur;
-	meshText.position.z = -30;
-	meshText.position.x = -30;
+	meshText.position.y = hauteur+5;
+	meshText.position.z = -10;
+	meshText.position.x = -50;
 	
 	//meshText.rotation.x = -45;
 
@@ -354,13 +354,13 @@ function interCylindre(sceneRef) {
 
 	const matLine2 = new THREE.LineDashedMaterial({
 		color: 0x00ddaa,
-		linewidth: 1,
-		scale: 3,
-		dashSize: 10,
-		gapSize: 10,
-		//opacity: 0.6,
-		//transparent :true,
-		depthTest: true
+		linewidth: 0.5,
+		scale: 2,
+		dashSize: 1,
+		gapSize: 1,
+		opacity: 0.3,
+		transparent :true,
+		depthTest: false
 	});
 
 	var cameraPos = new THREE.Vector3();
@@ -390,7 +390,10 @@ function interCylindre(sceneRef) {
 	}
 
 	const geometry = new THREE.BufferGeometry().setFromPoints(points);
+	
 	const line = new THREE.Line(geometry, matLine2);
+	line.computeLineDistances();
+	
 	sceneRef.add(line);
 	ArrayCylinderCopy.splice(0, 1);
 
@@ -537,6 +540,8 @@ function refreshGraphic() {
 		ArrayTitre[j].material.color.set(defaultColor_titre);
 	}
 
+	drawOff();
+
 	//--------------------------------------------------------
 	//over
 	//--------------------------------------------------------
@@ -635,6 +640,11 @@ function lightExpo(expo){
 //-------------------------------------------------------------
 var meshText;
 
+function drawOff(){
+	delete3DOBJ('titre');
+}
+
+
 function drawOver(refObject) {
 	//console.log(refObject);
 
@@ -645,7 +655,7 @@ function drawOver(refObject) {
 
 	const geometry = new THREE.TextGeometry(refObject.expoName, {
 		font: fontFaune,
-		size: 6,
+		size: 5,
 		height: 0,
 		curveSegments: 12,
 		bevelEnabled: false
