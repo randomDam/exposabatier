@@ -186,3 +186,17 @@ CARTEL
 
 	font-size: 14px;
 }
+
+.cartelTexte a:link{
+	color: white;
+	text-decoration:none; 
+}
+
+.cartelTexte a:visited{
+	color: white;
+	text-decoration:none; 
+}
+
+.cartelTexte a:hover{
+	text-decoration:underline; 
+}
