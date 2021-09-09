@@ -2,29 +2,69 @@
 	"pieceExpo": [{
 			"pieceId": "DVVD1",
 			"titre": "<i>D'où vient la visualisation de données ?</i>",
-			"salle": "Petites percées dans la visualisation de données",
+			"salle": "Visualisation studies",
 			"mode": "exploration",
 
 			"date": "2016",
-			"texte": "<p>Ce poster explore les disciplines ou professions des créateurs et théoriciens qui ont marqué l’histoire de la visualisation de données. Aux 18e et 19e siècles, visualiser des données sert à penser l’économie, à découvrir les causes de diffusion d’une maladie, à raconter la déroute militaire d’un empereur. Puis progressivement, des méthodes, des techniques, des principes et des théories vont s’accumuler et construire un corpus qui s’applique désormais à la représentation graphique de données ou à la datavisualisation. En 250 ans, la visualisation de données passe de l’outil à la discipline.</p>",
+			"texte": "<p>Ce poster explore les disciplines ou professions des créateurs et théoriciens qui ont marqué l’histoire de la visualisation de données. Aux 18<sup>e</sup> et 19<sup>e</sup> siècles, visualiser des données sert à penser l’économie, à découvrir les causes de diffusion d’une maladie, à raconter la déroute militaire d’un empereur. Puis progressivement, des méthodes, des techniques, des principes et des théories vont s’accumuler et construire un corpus qui s’applique désormais à la représentation graphique de données ou à la datavisualisation. En 250 ans, la visualisation de données passe de l’outil à la discipline.</p>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
 			"croquis": ["croqDVVD1"],
 			"collection": ["DVVD"]
 		},
 		{
-			"pieceId": "Radiolo3",
-			"titre": "<i>Radiologie</i>",
-			"salle": "Petites percées dans la visualisation de données",
+			"pieceId": "VO1",
+			"titre": "<i>Vi(c)e organique</i>",
+			"salle": "Visualisation studies",
 			"mode": "classique",
 
-			"date": "2016-2019",
-			"texte": "<p><i>Radiologie</i> est une série de dessins reproduisant l'ossature de six visualisations de réseaux publiées entre le XVIIIe siècle et aujourd’hui. Chercher par le dessin, sans hypothèse préalable clairement définie. Dessiner pour mieux voir. Tracer les flux, les nœuds et les liens, les mouvements d’un point à un autre. Telles ont été les intentions implicites à l’origine de ces dessins.</p>",
+			"date": "2017",
+			"texte": "<p><i>Vi(c)e organique</i> est un site web qui devient une installation en exposition. Il propose un parcours à la découverte de réseaux d’influence informels qui se sont constitués autour de la consultation européenne de 2013 sur les objectifs environnementaux à l’horizon 2030. À l’arrivée sur le site, l’internaute est invité.e à se glisser dans le costume d’un ou une lobbyiste pour observer, depuis cette position privilégiée, les rapports de force qui ont opéré dans les coulisses de la Commission européenne pour définir le cadre des politiques en matière de réduction des émissions de GES, d’efficacité énergétique, d’énergies renouvelables et de production de gaz de schiste. Il sera alors possible d’observer, de l’intérieur, les rapports de force, découvrir progressivement les organisations lobbyistes, d’abord agrégées dans de grands ensembles d’alliés et rivaux, puis subdivisées en diverses catégories, jusqu’à l’échelle des ONG, des entreprises ou des think tank. Lorsque les liens s’affichent, c’est la centralité des acteurs dans le réseau qui apparaît ainsi que leur puissance financière directe et indirecte. Enfin, la navigation se conclut par l’accès à une documentation complémentaire pour observer les réseaux à partir d’autres histoires de lobbying. Ainsi, bien que les données utilisées soient principalement ouvertes et publiques, <i>Vi(c)e organique</i> rend visible quelque chose d’ordinairement invisible et rend sensible la place du lobbying dans ce processus décisionnel européen.<br><a href='http://www.viceorganique.com/'>Cliquez ici pour explorer <i>Vi(c)e organique</i>.</a></p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Développement : Axel Correia + Skoli. Élaboration des données : Stefano Battiston / SIMPOL Project + Fabrice Sabatier. Partenaire : <i>Vi(c)e organique</i> a reçu le soutien de la cellule Arts numériques de la Fédération Wallonie-Bruxelles",
+
+			"croquis": "",
+			"collection": ["ViceBelO","Vice1","Vice2","Vice3","Vice4","Vice5","Vice6","Vice7","Vice8","Vice9"]
+		},
+		{
+			"pieceId": "Topo1",
+			"titre": "<i>Topographie d'une crise</i>",
+			"salle": "Visualisation studies",
+			"mode": "superposition",
+
+			"date": "2015",
+			"texte": "<p>Le diagramme rend visible l’évolution de l’excédent d’exploitation, pour la Zone Euro, de trois secteurs institutionnels (sociétés financières, sociétés non financières, ménages) et de l’économie globale de la zone. Contrairement à <i>Who won and who lost after the crisis?</i> qui propose une expérience interactive à travers le déploiement progressif de séquences balisées, la forme narrative de <i>Topographie d’une crise</i> passe par l’image fixe. L’affiche raconte l’histoire de la submersion de l’économie réelle et du destin idyllique de la finance. Elle est racontée par la traduction, dans l’espace, de données « historiques ». La narration se construit le long d’un parcours visuel suivant un trajet métaphorique, pas nécessairement linéaire, s’apparentant à une croisière sur la « Mer des Perdants » et autour de « l’Île des gagnants ». <br> Installées en regard l’une de l’autre <i>Who won and who lost after the crisis?</i> et <i>Topographie d’une crise</i> semblent interroger ce qui change fondamentalement d’une pièce à l’autre et nous demander d’en comparer les effets. Les détails présentées ici, soulignant des éléments narratifs ou le grain que produit l’impression Riso par rapport aux aplats RVB, attire encore le regard vers ce qui façonne la visualisation de données au-delà des données.</p>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
-			"croquis": "croqRadiolo1",
-			"collection": ["Cadre_Quesnay", "Cadre_Neurath", "Cadre_Samuelson","Cadre_lombardi", "Cadre_DensityDesign", "CadreCEO"]
+			"croquis": "croqTopo1",
+			"collection": ["topo3", "topo4", "topo2", "topo1"]
 		},
+		{
+			"pieceId": "EcoArt1",
+			"titre": "<i>Économie de l’art : cartographie d’une collection</i>",
+			"salle": "Visualisation studies",
+			"mode": "exploration",
+
+			"date": "2017",
+			"texte": "<p><i>Économie de l’art : cartographie d’une collection</i> est composée d’un triptyque exploratoire et d’un poster expérimental réalisés à partir de la base de données d’une collection privée d’art contemporain. Ces données concernent les artistes (leur pays d’origine et de résidence, leur année de naissance et, le cas échéant, de décès), et les œuvres (leur genre, les lieux où elles ont été découvertes et les pays dans lesquels elles ont été acquises). À travers trois méthodes de visualisation différentes, le triptyque explore le mouvement des artistes et des œuvres et révèle un déplacement sous-jacent, du Sud au Nord, qui structure la collection. Avec <i>Topographie d’une collection</i> l’expérience visuelle est différente car les artistes et les œuvres sont devenus à la fois des parcelles de territoires et des acteur·rice·s d’un réseau. L’objectif, ici, est moins de dévoiler une information le plus efficacement possible que de proposer un parcours dans un paysage où le mouvement crée des espaces. </p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "croqEcoArt",
+			"collection": ["Tript1","Tript2","Tript3", "Iso"]
+		},
+		{
+			"pieceId": "CartoData1",
+			"titre": "<i>La bonne aventure – le jeu de la data-divination</i>",
+			"salle": "Visualisation studies",
+			"mode": "superposition",
+
+			"date": "2018",
+			"texte": "<p><i>La bonne aventure – le jeu de la data-divination</i> est un kit pédagogique développé dans le cadre d’un cours de data visualisation, dont l’objectif est de développer la capacité des étudiant·e·s à porter regard critique sur la visualisation de données. Sur le modèle de la cartomancie <i>Ré-ouvrir les horizons</i> du laboratoire sauvage Désorceler la finance, le kit est composé d’un jeu de cartes, d’une règle du jeu et de divers objets voués à installer une atmosphère propice à la concentration et la réflexion. Par groupes de 5 à 8, les étudiant·e·s retournent progressivement des cartes qui orientent leur enquête et critique d’une visualisation de données ou d’information. La première carte dévoilée détermine donc la visualisation (contemporaine ou historique, interactive ou statique) qui fera l’objet de l’analyse. Les cartes suivantes précisent progressivement l’axe de lecture autour des caractéristiques de la représentation, de ses effets sur l’usager·ère et des méthodes qui rendent sensibles les données. Par ailleurs, chaque étudiant·e pioche, au début du jeu, une carte lui octroyant un rôle spécifique dans la « quête » : maître·sse de cérémonie, cartographe, ressourcier·ère, scripte, preneur·euse de recul, diseur·euse de bonne aventure, jeteur·euse d’idées.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["BonneAv_sceno1","BonneAv_sceno2","BonneAv_student","BonneAv_carte2","BonneAv_carte1","BonneAv_carte3","BonneAv_carte4","BonneAv_carte5","BonneAv_carte6","BonneAv_carte7","BonneAv_carte8","BonneAv_carte9","BonneAv_carte10","BonneAv_carte11","BonneAv_carte12","BonneAv_carte13","BonneAv_carte14","BonneAv_carte15","BonneAv_carte16","BonneAv_carte17","BonneAv_carte18","BonneAv_carte19","BonneAv_carte20","BonneAv_carte21","BonneAv_carte22","BonneAv_carte23","BonneAv_carte24","BonneAv_carte25","BonneAv_regle1","BonneAv_regle2"]
+		},
+
 		{
 			"pieceId": "Radiolo2",
 			"titre": "<i>Radiologie</i>",
@@ -38,7 +78,19 @@
 			"croquis": "",
 			"collection": ["rad_Quesnay","Rad_Neurath","rad_Samuelson","rad_lombardi","rad_DensityDesign","radCEO"]
 		},
+		{
+			"pieceId": "VO2",
+			"titre": "<i>Vi(c)e organique</i>",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "superposition",
 
+			"date": "2017",
+			"texte": "<p>Les travaux qui ont précédé <i>Vi(c)e organique</i> ont permis d’expérimenter des modes de navigation, de narration et de représentation. Leur utilité ne s’est donc pas limitée au travail iconographique ni au choix de la métaphore visuelle. Cette pièce se concentre cependant sur les esquisses graphiques et techniques qui ont déterminé le traitement visuel organique du réseau. La métaphore des cellulaire a plusieurs fonctions dans <i>Vi(c)e organique</i>. Par exemple, la déformation des nœuds du réseau n’a pas seulement pour objectif de leur donner l’apparence de cellules. L’irrégularité de la forme de la membrane est, elle-même, une information indiquant que les données utilisées ne sont que des estimations renseignées sous forme de fourchette et justifiant des formes imparfaites, hésitantes ou irrégulières qui varient, au fil du temps, entre un minimum et un maximum. Par ailleurs, la métaphore apporte un éclairage sur la nature du lobbying. L’analogie permet de rapprocher les réseaux d’influence d’un système neuronal reposant sur l’échange d’informations. Elle dessine un système qui n’est pas figé dans des positions mais possède, au contraire, une grande plasticité et une capacité d’adaptation aux <i>stimuli</i> politiques qu’il capte. Dans les ruminations graphiques présentées ici sont articulées des reproductions d’images scientifiques qui se libèrent progressivement de leurs modèles réalistes pour intégrer le geste et le mouvement du vivant ou intégrer des fonctions utiles à la visualisation du réseau de lobbying. <br><a href='http://www.viceorganique.com/'>Cliquez ici pour explorer <i>Vi(c)e organique</i>.</a></p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Développement : Axel Correia + Skoli. Élaboration des données : Stefano Battiston / SIMPOL Project + Fabrice Sabatier. Partenaire : <i>Vi(c)e organique</i> a reçu le soutien de la cellule Arts numériques de la Fédération Wallonie-Bruxelles",
+
+			"croquis": "",
+			"collection": ["dessinVO1","dessinVO8","dessinVO9","dessinVO10","dessinVO11","dessinVO12","dessinVO2","dessinVO3","dessinVO4","dessinVO5","dessinVO6","dessinVO7","dessinVO13","dessinVO14","dessinVO15","dessinVO16","dessinVO17"]
+		},
 		{
 			"pieceId": "Explore2",
 			"titre": "<i>Explore the lobby network in finance and climate</i>",
@@ -52,61 +104,6 @@
 			"croquis": "",
 			"collection": ["secteurOuverture","secteurStep1-2","secteurStep2-3","secteurBudget","interetStep2-3"]
 		},
-		{
-			"pieceId": "Explore3",
-			"titre": "<i>Explore the lobby network in finance and climate</i>",
-			"salle": "Réseaux et formes du liable",
-			"mode": "classique",
-
-			"date": "2015",
-			"texte": "<p>Voir les liens. Pour voir les lobbies de la finance et du climat, et percevoir leur action, il faut identifier les organisations ayant accès aux institutions, connaître leur statut, les moyens qu’elles engagent, les liens qu’elles tissent entre elles. En cartographiant le réseau, nous faisons apparaître les disproportions de quantité et de moyens financiers entre les organisations préoccupées par les intérêts publics et celles défendant des intérêts privés. Une lecture plus attentive permet d’observer la nature de l’imbrication des entreprises polluantes et de la finance, de comprendre la cohésion des groupes d’intérêts et d’évaluer l’efficacité d’influence des lobbies. Les liens dessinés dans <i>Explore the lobby network in finance and climate</i> sont de trois ordres : des liens d’affiliation lorsqu’une organisation adhère à une autre (comme Shell affiliée à l’European Chemical Industry Council) des liens de propriété lorsqu’une entreprise possède des parts dans une autre (comme EDF propriétaire de 98 % d’Edison spa) ou des liens d’imbrication lorsque deux entreprises partagent un membre de leur conseil d’administration (comme Total et BNP Paribas ou Total et Renault).</p>",
-			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
-
-			"croquis": "",
-			"collection": ["vidPresentation","affiliation","affiliation2","propriete","imbrication"]
-		},
-		{
-			"pieceId": "Explore5",
-			"titre": "<i>Explore the lobby network in finance and climate</i>",
-			"salle": "Faire déborder l'économie",
-			"mode": "superposition",
-
-			"date": "2015",
-			"texte": "<p>À la différence de <i>Vi(c)e organique</i> qui se concentre sur les organisations intervenant dans les politiques environnementales européennes, <i>Explore the lobby network in finance and climate</i> croise ces organisations avec celles faisant du lobbying sur les politiques financières. Ainsi apparaît, au cœur du réseau, un cluster d’entreprises et d’organisations financièrement puissantes, révélant l’interconnexion et les intérêts communs de ces organisations impliquées dans les enjeux environnementaux et de régulation financière.</p>",
-			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
-
-			"croquis": "",
-			"collection": ["phase1","phase2","phase3","phase3_physique","phase3_budget","phase3_survol"]
-		},
-
-
-		{
-			"pieceId": "Topo1",
-			"titre": "<i>Topographie d'une crise</i>",
-			"salle": "Petites percées dans la visualisation de données",
-			"mode": "superposition",
-
-			"date": "2015",
-			"texte": "<p>Texte sur la narration et relation à who won who lose</p>",
-			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
-
-			"croquis": "croqTopo1",
-			"collection": ["topo1", "topo2", "topo3", "topo4"]
-		},
-		{
-			"pieceId": "EcoArt1",
-			"titre": "<i>Économie de l’art : cartographie d’une collection</i>",
-			"salle": "Petites percées dans la visualisation de données",
-			"mode": "exploration",
-
-			"date": "2017",
-			"texte": "<p>Texte sur le caractère exploratoire de la pièce</p>",
-			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
-
-			"croquis": "croqEcoArt",
-			"collection": ["Tript1","Tript2","Tript3", "Iso"]
-		},
-
 		{
 			"pieceId": "ImgDeco1-2",
 			"titre": "<i>Img d’éco #1 Image manquante</i> - étapes préparatoires et détails",
@@ -132,6 +129,100 @@
 
 			"croquis": "",
 			"collection": ["imgdeco3","imgdeco4","Poesiefinanciere"]
+		},
+		{
+			"pieceId": "QuelLobby2",
+			"titre": "<i>Quel lobbyiste es-tu ?</i>",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "superpositionInverse",
+
+			"date": "2016",
+			"texte": "<p><i>Quel lobbyiste es-tu ?</i> est une visualisation qui précède la création de <i>Vi(c)e organique</i> et utilise les mêmes données sur les réseaux de lobbying européens. La reproduction miniature et annotée, qui est présentée ici, repositionne ce poster comme une étape de travail expérimentant spécifiquement un scénario participatif orienté vers la découverte et la navigation progressive dans les données. Les défauts relevés concernent moins la structure narrative que l’esthétique mécanique où chaque pièce, chaque acteur semble avoir une place définie dans un système fermé où se neutralisent les rapports de force. <i>Vi(c)e organique</i> a tenté de corriger ces problèmes de représentation.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["QuelLob_notes"]
+		},
+
+		{
+			"pieceId": "Explore3",
+			"titre": "<i>Explore the lobby network in finance and climate</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "classique",
+
+			"date": "2015",
+			"texte": "<p><i>Voir les liens</i>. Pour voir les lobbies de la finance et du climat, et percevoir leur action, il faut identifier les organisations ayant accès aux institutions, connaître leur statut, les moyens qu’elles engagent, les liens qu’elles tissent entre elles. En cartographiant le réseau, nous faisons apparaître les disproportions de quantité et de moyens financiers entre les organisations préoccupées par les intérêts publics et celles défendant des intérêts privés. Une lecture plus attentive permet d’observer la nature de l’imbrication des entreprises polluantes et de la finance, de comprendre la cohésion des groupes d’intérêts et d’évaluer l’efficacité d’influence des lobbies. Les liens dessinés dans <i>Explore the lobby network in finance and climate</i> sont de trois ordres : des liens d’affiliation lorsqu’une organisation adhère à une autre (comme Shell affiliée à l’European Chemical Industry Council) des liens de propriété lorsqu’une entreprise possède des parts dans une autre (comme EDF propriétaire de 98 % d’Edison spa) ou des liens d’imbrication lorsque deux entreprises partagent un membre de leur conseil d’administration (comme Total et BNP Paribas ou Total et Renault).</p>",
+			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
+
+			"croquis": "",
+			"collection": ["vidPresentation","affiliation","affiliation2","propriete","imbrication"]
+		},
+		{
+			"pieceId": "Radiolo3",
+			"titre": "<i>Radiologie</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "classique",
+
+			"date": "2016-2019",
+			"texte": "<p><i>Chercher le lien.</i> <i>Radiologie</i> est une série de dessins reproduisant l'ossature de six visualisations de réseaux publiées entre le XVIII<sup>e</sup> siècle et aujourd’hui. Chercher par le dessin, sans hypothèse préalable clairement définie. Dessiner pour mieux voir. Tracer les flux, les nœuds et les liens, les mouvements d’un point à un autre. Telles ont été les intentions implicites à l’origine de ces dessins.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "croqRadiolo1",
+			"collection": ["Cadre_Quesnay", "Cadre_Neurath", "Cadre_Samuelson","Cadre_lombardi", "Cadre_DensityDesign", "CadreCEO"]
+		},
+		{
+			"pieceId": "VO3",
+			"titre": "<i>Vi(c)e organique</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "classique",
+
+			"date": "2017",
+			"texte": "<p><i>Naviguer au fil des liens</i>. Au-delà de la représentation des liens entre les acteurs du réseau, <i>Vi(c)e organique</i> scénarise le lien entre des informations. À l’opposé de la fragmentation et de la simplification de l’information à laquelle conduit les diagrammes isolés, le projet cherche à accompagner dans la complexité. Cela passe par la dimension narrative, par la progressivité et la contextualisation, étape par étape, de l’information, mais également par la possibilité de suivre du regard la transformation et le déplacement des formes qui contiennent les données. Les liens que la visualisation de données peut révéler ou produire sont de multiples natures.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Développement : Axel Correia + Skoli. Élaboration des données : Stefano Battiston / SIMPOL Project + Fabrice Sabatier. Partenaire : <i>Vi(c)e organique</i> a reçu le soutien de la cellule Arts numériques de la Fédération Wallonie-Bruxelles",
+
+			"croquis": "",
+			"collection": ["demoVO"]
+		},
+		{
+			"pieceId": "Rituel3",
+			"titre": "<i>Rituels de désenvoûtement de la finance</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "classique",
+
+			"date": "2019",
+			"texte": "<p><i>Couper le lien.</i> Les <i>Rituels de désenvoûtement de la finance</i> du laboratoire sauvage de recherches expérimentales Désorceler la finance tendent vers le moment fatidique de la coupure symbolique du lien avec la finance. Rompre avec cette emprise, ce lien qui enchaîne, permet de libérer l’imagination et de penser le <i>Jour d’après</i> sur lequel se concluent les rituels. <br> Extrait de la vidéo <i>Rituels de désenvoûtement de la finance / Festival d’Aurillac</i> de Mendori Productions.</p>",
+			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance. Prise d'image et création vidéo : Mendori Productions, Arthur David et Sebastien Houllemare.",
+
+			"croquis": "",
+			"collection": ["rituelCoupure"]
+		},
+		{
+			"pieceId": "AlchBrass3",
+			"titre": "<i>Alchimie brassicole</i>",
+			"salle": "Réseaux et formes du liable",
+
+			"mode réel": "superposition",
+			"mode": "classique",
+
+			"date": "2017",
+			"texte": "<p>Présentation de la pièce</p>",
+			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "croqAlchBrass",
+			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
+		},
+		{
+			"pieceId": "QuelLobby3",
+			"titre": "<i>Quel lobbyiste es-tu ?</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "exploration",
+
+			"date": "2016",
+			"texte": "<p><i>Suivre le lien.</i> <i>Quel lobbyiste es-tu ?</i> est une étude préparatoire à <i>Vi(c)e organique</i>qui visualise la nature et les positions des organisations qui ont répondu à la Consultation européenne sur la politique climatique et énergétique à l’horizon 2030. Elle matérialise des choix scénaristiques sous forme de liens à suivre le long d’un poster qui déroule un récit dont on est le héro. Les liens visuels s’établissent entre des étapes d’un scénario que l’on suit, entre des acteurs d’un réseau que l’on tente de percer à jour et entre des données abstraites et des éléments de contexte. Les liens se présentent ici comme des fils de connaissance mais également comme de potentiels pièges dans lesquels il est possible de s’emmêler ou de se perdre.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["QuelLob"]
 		},
 
 		{
@@ -160,34 +251,31 @@
 			"croquis": [""],
 			"collection": ["videoImgDEco"]
 		},
-
 		{
-			"pieceId": "AlchBrass3",
-			"titre": "<i>Alchimie brassicole</i>",
-			"salle": "Réseaux et formes du liable",
-
-			"mode réel": "superposition",
+			"pieceId": "VO4",
+			"titre": "<i>Vi(c)e organique</i>",
+			"salle": "Désencrouiller l’imaginaire",
 			"mode": "classique",
 
 			"date": "2017",
-			"texte": "<p>Présentation de la pièce</p>",
-			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+			"texte": "<p>Comme le décrit Susan Buck-Morss dans <i>Voir le capital</i>, l’histoire de la représentation de l’économie bascule à la fin du XVIII<sup>e</sup> siècle lorsque l’on passe des <i>Tableaux économiques</i> de François Quesnay aux diagrammes de William Playfair. Alors que Quesnay présentent une analogie au monde physique à travers des échanges organiques entre trois secteurs de l’économie, dans les diagrammes de Playfair l’économie cesse d’apparaître comme un système de relations entre des acteurs, se détachent de considérations humaines ou sociales pour devenir principalement des variables dont il faut observer l’évolution et l’articulation à distance.<i>Vi(c)e organique</i> rejoue, à l’envers, cette évolution historique par la transition et la rupture rhétorique entre le premier volet construit sur des camemberts qui agrègent les données, et le second volet où des acteurs et leurs relations sont identifiables. Des diagrammes <i>gestionnaires</i>, la visualisation passe à un réseau <i>organique</i>.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Développement : Axel Correia + Skoli. Élaboration des données : Stefano Battiston / SIMPOL Project + Fabrice Sabatier. Partenaire : <i>Vi(c)e organique</i> a reçu le soutien de la cellule Arts numériques de la Fédération Wallonie-Bruxelles",
 
-			"croquis": "croqAlchBrass",
-			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
+			"croquis": "",
+			"collection": ["cadre_quesnay","cadre_playfair","cadre_VO"]
 		},
 		{
-			"pieceId": "QuelLobby3",
-			"titre": "<i>Quel lobbyiste es-tu ?</i>",
-			"salle": "Réseaux et formes du liable",
+			"pieceId": "Topo4",
+			"titre": "<i>Topographie d'une crise</i>",
+			"salle": "Désencrouiller l’imaginaire",
 			"mode": "exploration",
 
-			"date": "2016",
-			"texte": "<p>Présentation de la pièce</p>",
+			"date": "2015",
+			"texte": "<p>Dans <i>Topographie d’une crise</i>, la mobilisation de l’imagination est explicite. Le lexique, les formes et les couleurs convergent vers une invitation au voyage dans ce paysage insulaire où la finance a fait sécession. L’imagination est nécessaire car le récit n’est qu’esquissé, c’est à celui ou celle qui regarde de le compléter. On est alors invité à participer, non pas seulement au décodage de l’image et à l’interprétation des données, mais aussi à la création d’un sens plus large à relier à des émotions, des souvenirs, des connaissances extérieures. Le savoir se complète par l’imagination. Dans sa version imprimée en Riso, le grain que produit la technique d’impression ainsi que certains éléments graphiques et typographiques, situent la visualisation dans la famille des cartes à explorer, à l’instar des anciens atlas que l’on prend le temps d’observer, qui nous attirent pour leur potentiel narratif et où le trajet compte davantage que la destination. </p>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
 
-			"croquis": "croqQuelLob",
-			"collection": ["QuelLob"]
+			"croquis": "croqTopo1",
+			"collection": ["topoRiso"]
 		},
 		{
 			"pieceId": "Gloss4",
@@ -196,11 +284,11 @@
 			"mode": "superpositionInverse",
 
 			"date": "2020",
-			"texte": "<p>Présentation de la pièce.</p>",
+			"texte": "<p>Depuis décembre 2019, et dans le cadre d’un projet de recherche FrART/FNRS (Fonds de la recherche en art), des membres du Laboratoire sauvage de recherches expérimentales Désorceler la finance travaillent sur le pouvoir performatif des mots de la finance et de la sorcellerie. La parole, les formules et le lexique sont examinés et modelés au regard de leur puissance spéculative. Ainsi est né ce <i>Glossaire</i> contenant des mots mutants, des mots réappropriés et redéfinis, des mots détournés ou conjurés pour en écarter les influences néfastes, des mots subversifs et des néologismes qui viennent pallier des manques. Les mots contenus dans le glossaire appartiennent, pour la plupart, à l’une de ces trois catégories : la magie ou la sorcellerie, où l'on découvre des méthodes, des protocoles, des idées, des images et des mots pour se défaire d’une emprise (<i>potion, incantation, amulette, brouillarge, Murdurula, rituel, conjuration,</i> etc.) ; la finance, où l'on comprend la nature de son emprise, sa logique de fonctionnement, ses objectifs ainsi que ses méthodes pour « nous embrouiller » (<i>dette, tauxicomane, Wall Street, Hedge fund, banque, brouilleur d’idée, accumulation, paradis (fiscal),</i> etc.) ; l’action, la création et la lutte, où l'on explore des pratiques collaboratives, créatives et contestataires pour se réapproprier nos propres imaginaires et capacités d'agir (<i>grêver, occupation, (nous) débrouiller, interférences, vernaculaire, blob,</i> etc.).</p>",
 			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
 
-			"croquis": ["croqGloss4"],
-			"collection": ["Gloss1", "Gloss2", "Gloss3", "Gloss4", "Gloss5", "Gloss6", "Gloss7", "Gloss8", "Gloss9", "Gloss10", "Gloss11", "Gloss12", "Gloss13", "Gloss14", "Gloss15", "Gloss16", "Gloss17", "Gloss18", "Gloss19",  "Gloss20"]
+			"croquis": [""],
+			"collection": ["Gloss37", "Gloss27", "Gloss21", "vidDette", "Gloss3", "Gloss7", "Gloss8", "Gloss9", "Gloss1", "Gloss10", "Gloss12", "Gloss14",  "Gloss38", "vidPotions", "Gloss22", "Gloss25", "Gloss26", "Gloss32",  "Gloss34",  "Gloss35",  "Gloss47", "vidBlob", "Gloss49",  "Gloss53",  "Gloss56",  "Gloss57",  "Gloss2",  "Gloss4",  "Gloss5",  "Gloss6",  "Gloss11",  "Gloss13",  "Gloss17",  "Gloss20",  "Gloss23", "Gloss29", "Gloss33",  "Gloss36",  "Gloss39",  "Gloss40",  "Gloss41",  "Gloss42",  "Gloss43", "vidCapitalo",  "Gloss44",  "Gloss45",  "Gloss46",  "Gloss48",  "Gloss50",  "Gloss51",  "Gloss52",  "Gloss54",  "Gloss59",  "Gloss60",  "Gloss61",  "Gloss62",  "Gloss63",  "Gloss15", "Gloss16", "Gloss18", "Gloss19"]
 		},
 		{
 			"pieceId": "Manif4",
@@ -227,6 +315,87 @@
 
 			"croquis": ["croqCarto4"],
 			"collection": ["Carte1", "Carte2", "Carte3", "Carte4", "Carte5", "Carte6", "Carte7", "Carte8", "Carte9", "Carte10", "Carte11", "Carte12", "Carte13", "Carte14", "Carte15", "Carte16", "Carte17", "Carte18", "Carte19", "Carte20", "Carte21", "Carte22", "Carte23", "Carte24", "Carte25", "Carte26", "Carte27", "Carte28", "Carte29", "Carte30", "Carte31", "Carte32", "Carte33", "Carte34", "Carte35", "Carte36", "Carte37", "Carte38", "Carte39", "Carte41", "Carte42", "Carte43"]
+		},
+		{
+			"pieceId": "Potion4",
+			"titre": "<i>Atelier Potions</i>",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "superposition",
+
+			"date": "2019",
+			"texte": "<p>Présentation de la pièce.</p>",
+			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance. Prise d'image : Mendori Productions, Arthur David et Sebastien Houllemare.",
+
+			"croquis": [""],
+			"collection": ["potion_Frag1", "potion_Frag2", "potion_Frag3","potion_Frag4","potion_Frag5"]
+		},
+
+		{
+			"pieceId": "Explore5",
+			"titre": "<i>Explore the lobby network in finance and climate</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2015",
+			"texte": "<p>À la différence de <i>Vi(c)e organique</i> qui se concentre sur les organisations intervenant dans les politiques environnementales européennes, <i>Explore the lobby network in finance and climate</i> croise ces organisations avec celles faisant du lobbying sur les politiques financières. Ainsi apparaît, au cœur du réseau, un cluster d’entreprises et d’organisations financièrement puissantes, révélant l’interconnexion et les intérêts communs de ces organisations impliquées dans les enjeux environnementaux et de régulation financière.</p>",
+			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
+
+			"croquis": "",
+			"collection": ["phase1","phase2","phase3","phase3_physique","phase3_budget","phase3_survol"]
+		},
+		{
+			"pieceId": "VO5",
+			"titre": "<i>Vi(c)e organique</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2017",
+			"texte": "<p>L’accent est mis ici sur deux types de débordement que tente de provoquer <i>Vi(c)e organique</i>. D’une part, deux des « Histoires et révélations » qui concluent le parcours dans le site, sont présentées. Celles-ci apportent des clés supplémentaires sur le lobbying européen et éclaircissent certaines connexions surprenantes qui auraient pu être observées dans les étapes précédentes. Mais ces ressources constituent aussi une ouverture vers des plate-formes d’information ou d’engagement extérieures au projet (ONG et groupes de recherche) afin qu’une suite soit possible. Faire déborder l’économie, correspond ici à la tentative de relier le moment d’analyse ou de critique avec l’engagement et l’action. <br> D’autre part, la scénographie de <i>Vi(c)e organique</i>, lorsque la pièce est présentée en exposition, tente également de faire déborder l’exploration et la réflexion individuelle vers une expérience et un échange collectif. Un grand écran émerge au sommet d’une tige en métal et retransmet un échantillon de ce que découvre, sur un plus petit écran, celui ou celle qui est installé·e au bureau. Ainsi les visiteur·euse·s sont attiré·e·s par le grand écran orienté vers eux et elles et la personne qui navigue est alors sollicitée pour partager son expérience, reformuler ce qu’elle voit, échanger sur le sujet. Dans l’espace d’exposition, peut s’ouvrir un espace politique qui déborde de l’écran.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Développement : Axel Correia + Skoli. Élaboration des données : Stefano Battiston / SIMPOL Project + Fabrice Sabatier. Partenaire : <i>Vi(c)e organique</i> a reçu le soutien de la cellule Arts numériques de la Fédération Wallonie-Bruxelles",
+
+			"croquis": "",
+			"collection": ["storie","storie2","VOBelO1","VOBelO2","bureau","VOBelO3"]
+		},
+		{
+			"pieceId": "EcoArt5",
+			"titre": "<i>Économie de l’art : cartographie d’une collection</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2017",
+			"texte": "<p><i>Souvenir de Mwene Mutapa – Cartographie exotique d’une collection</i> est une exposition d’art contemporain, en trois volets, présentée à la Box Bourges entre janvier et avril 2017. Les œuvres qui la composent font toutes parties de la Collection Famille Servais (Bruxelles). Sur proposition du commissaire Nicolas de Ribou, la base de données de la collection a donné lieu à une exploration et une expérimentation graphique qui prend la forme d’une série de posters affichés dans l’espace de recherche qui introduit l’exposition. Avec cette mise en perspective, l’exposition se demande ce que c’est que <i>faire collection</i>. De plus, les œuvres de la collection provenant principalement d’Amérique Centrale ou du Sud, d’Asie du Sud et d’Afrique, leur articulation aux visualisations de données qui soulignent leur mouvement vers l’Amérique du Nord et l’Europe, en fait déborder les rapports de pouvoir économiques, sociaux ou coloniaux.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["ExpoBox1","ExpoBox2","ExpoBoxCom","ExpoBox3", "ExpoBox4"]
+		},
+		{
+			"pieceId": "Rituel5",
+			"titre": "<i>Rituels de désenvoûtement de la finance</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "classique",
+
+			"date": "2019",
+			"texte": "<p>Les <i>Rituels de désenvoûtement de la finance</i> du laboratoire sauvage de recherche expérimentales Désorceler la finance se déploient sous la forme d’une occupation temporaire de l’espace public, s’adaptent à chaque lieu et se construisent en fonction des problématiques locales et avec les personnes du territoire <i>prises par les sorts financiers</i>. Par exemple, à l’invitation du Festival international de théâtre de rue d’Aurillac, le Laboratoire a orienté ses rituels sur le marché de l’agriculture, la vidéo présentée ici condense un de ces rituels. L’agriculture est centrale dans l’économie de cette région rurale et l’emprise de la finance qui donne un prix aux céréales, au lait, à la viande, aux semences, qui façonne les terres agricoles et leur usage et détermine notre façon d’accéder à l’alimentation, est très concrète pour la population. Les six rituels qui ont été effectués durant trois jours de festival ont abordé chacun un aspect de la problématique et ciblé un marché spécifique : le marché de la terre, de la dette des agriculteurs et agricultrices, des semences, des céréales, des bovins, des produits laitiers. Si le capitalisme et, en son cœur, la finance peuvent avoir « l’allure d’un fonctionnement automatique, dont la logique échappe au politique », les rituels cherchent à « (re)créer de la politique sur un mode nouveau »  (Stengers et Pignarre, <i>La sorcellerie capitaliste</i>).</p>",
+			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance. Prise d'image et création vidéo : Mendori Productions, Arthur David et Sebastien Houllemare.",
+
+			"croquis": "",
+			"collection": ["rituelVid"]
+		},
+		{
+			"pieceId": "Gloss5",
+			"titre": "<i>Glossaire de la finance et de la sorcellerie</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superpositionInverse",
+
+			"date": "2020",
+			"texte": "<p>Le <i>Glossaire de la finance et de la sorcellerie</i> n’est pas le résultat figé d’un travail d’écriture solitaire. Il est, à l’inverse, un processus participatif qui change de forme au gré des occasions. Au sein du Laboratoire sauvage de recherches expérimentales Désorceler la finance, il constitue une boîte à outils lexicale, narrative et conceptuelle qui s’augmente lors de séances de travail régulière. L’enregistrement sonore diffusé ici est une captation d’une de ces séances où des chercheur.euse.s du Laboratoire dérivent dans le <i>Glossaire</i> en suivant les renvois d’un mot à l’autre (par exemple, le mot <i>Potion</i> dérive vers <i>S’empotionner, Ingérer, Élixir, Pleine lune</i> et <i>Sasseratou</i>). Mais le caractère libérateur de cette reprise en main des mots de la finance et de la sorcellerie ne s’accomplit réellement que lorsqu’il est partagé. C’est pourquoi le <i>Glossaire</i> prend également la forme d’ateliers participatifs, autour de sujets spécifiques (finance et logement, finance et vieillesse, finance et alimentation, etc) et avec des personnes concernées. Certains d’entre eux donneront lieu à une série d’émissions radio.</p>",
+			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+
+			"croquis": [""],
+			"collection": ["nommer", "faconner", "infiltrer", "mapGloss","glossBIP", "vidParadisRelanceTaux"]
 		}
+
+		
 	]
 }

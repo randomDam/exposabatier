@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.75555668"
-     inkscape:cx="-171.3968"
-     inkscape:cy="291.8378"
+     inkscape:zoom="1.5111134"
+     inkscape:cx="27.794076"
+     inkscape:cy="271.65401"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -69,7 +69,7 @@
     <circle
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-51"
-       cx="219.20732"
+       cx="222.38229"
        cy="217.09062"
        nom="Traité - Déclaration relative au design et à la visualisation des données"
        pieceId="Traite1"
@@ -277,9 +277,9 @@
        cx="343.03226"
        cy="169.46564"
        r="5.2916665"
-       nom="Cartomancie – La bonne aventure"
+       nom="La bonne aventure – le jeu de data-divination"
        pieceId="CartoData1"
-       inkscape:label="p:Cartomancie – La bonne aventure" />
+       inkscape:label="p:La bonne aventure – le jeu de data-divination" />
     <circle
        style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-0-8"
@@ -319,8 +319,8 @@
     <path
        style="display:inline;fill:none;stroke:#fc00ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 185.34063,201.21562 169.33333,1e-5 V 100.67396 l -111.125,-10e-6 V 42.465617 h -31.75001 l 1e-5,116.416673 h -26.45833 z"
-       inkscape:label="Petites percées dans la visualisation de données"
-       salle="Petites percées dans la visualisation de données"
+       inkscape:label="Visualisation studies"
+       salle="Visualisation studies"
        id="Expo1"
        sodipodi:nodetypes="ccccccccc" />
   </g>
@@ -328,7 +328,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Expo2"
-     style="display:none"
+     style="display:inline"
      transform="translate(-185.20834,-42.333326)">
     <circle
        style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -423,7 +423,7 @@
        cy="174.75729"
        r="5.2916665"
        nom="Vi(c)e organique"
-       pieceId="VO1"
+       pieceId="VO3"
        inkscape:label="p:Vi(c)e organique" />
     <circle
        style="display:inline;fill:none;stroke:#ffff00;stroke-width:0.79375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -481,7 +481,7 @@
        inkscape:label="p:Explore the lobby network in finance and climate" />
     <path
        style="fill:none;stroke:#ffff00;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 26.590626,185.34063 H 211.79896 l 0,-52.91667 h 63.5 l 0,-52.916667 h -89.95833 l 0.11533,21.166667 h -53.032 V 42.465626 h -31.75 V 127.13229 H 26.590626 Z"
+       d="M 26.590626,185.34063 H 211.79896 v -52.91667 h 63.5 V 79.507293 h -89.95833 l 0.11533,21.166667 h -53.032 V 42.465626 h -31.75 V 127.13229 H 26.590626 Z"
        id="Expo3"
        inkscape:label="Réseaux et formes du liable"
        salle="Réseaux et formes du liable"
@@ -491,7 +491,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Expo4"
-     style="display:none"
+     style="display:inline"
      transform="translate(-185.20834,-42.333326)">
     <circle
        style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -505,7 +505,7 @@
     <circle
        style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-51-5"
-       cx="219.20731"
+       cx="222.38229"
        cy="217.09062"
        nom="Traité - Déclaration relative au design et à la visualisation des données"
        pieceId="Traite1-4"
@@ -622,7 +622,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Expo5"
-     style="display:none"
+     style="display:inline"
      transform="translate(-185.20834,-42.333326)">
     <circle
        style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -705,9 +705,18 @@
        nom="Économie de l’art : cartographie d’une collection"
        pieceId="EcoArt5"
        inkscape:label="p:Économie de l’art : cartographie d’une collection" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7-5-5-6"
+       cx="195.92404"
+       cy="174.75729"
+       r="5.2916665"
+       nom="Vi(c)e organique"
+       pieceId="VO5"
+       inkscape:label="p:Vi(c)e organique" />
     <path
        style="fill:none;stroke:#f7871b;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 26.590626,127.13229 v 26.45834 H 148.29896 v 116.41666 h 37.04167 v -142.875 h 158.75 47.625 V 100.67396 H 317.6323 132.42396 V 42.465626 h -31.75 v 84.666664 z"
+       d="m 26.590626,127.13229 v 26.45834 H 148.29896 v 116.41666 h 63.5 v -142.875 h 132.29167 47.625 V 100.67396 H 317.6323 132.42396 V 42.465626 h -31.75 v 84.666664 z"
        id="Expo5"
        inkscape:label=" Faire déborder l’économie"
        salle=" Faire déborder l’économie"
@@ -717,12 +726,12 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Expo6"
-     style="display:none"
+     style="display:inline"
      transform="translate(-185.20834,-42.333326)">
     <circle
        style="display:inline;fill:#6a27dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-51-0"
-       cx="219.20731"
+       cx="222.38229"
        cy="217.09062"
        nom="Traité - Déclaration relative au design et à la visualisation des données"
        pieceId="Traite6"
@@ -757,7 +766,7 @@
        inkscape:label="p:Glossaire de la finance et de la sorcellerie" />
     <path
        style="fill:none;stroke:#00ba00;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 148.29896,232.96563 h 37.04167 v 37.04166 h 47.625 v -68.79166 h -47.625 V 100.67396 h -37.04167 z"
+       d="m 148.29896,232.96563 h 37.04167 v 37.04166 h 52.91666 V 201.21563 H 185.34063 V 100.67396 h -37.04167 z"
        id="Expo6"
        inkscape:label="Quand visualiser c’est faire"
        salle="Quand visualiser c’est faire"
@@ -767,12 +776,12 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Expo7"
-     style="display:none"
+     style="display:inline"
      transform="translate(-185.20834,-42.333326)">
     <circle
        style="display:inline;fill:#6a2732;fill-opacity:1;stroke:#ff44ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-51-02"
-       cx="219.20728"
+       cx="222.38229"
        cy="217.09062"
        nom="Traité - Déclaration relative au design et à la visualisation des données"
        pieceId="Traite6"

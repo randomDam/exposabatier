@@ -13,6 +13,494 @@
 		"texte": "D'où vient la visualisation de données ?",
 		"credit": "Fabrice Sabatier"
 	},
+
+	{
+		"id":"BonneAv_sceno1",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/sceno1.jpg",
+		"texte": "<i>La bonne aventure - Le jeu de la data-divination</i>, matériel pédagogique",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_sceno2",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/sceno2.jpg",
+		"texte": "<i>La bonne aventure - Le jeu de la data-divination</i>, matériel pédagogique",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_student",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/etudiants.jpg",
+		"texte": "<i>La bonne aventure - Le jeu de la data-divination</i>, séance de travail",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte1",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-01.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte2",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-02.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte3",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-03.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte4",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-04.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte5",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-05.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte6",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-06.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte7",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-07.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte8",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-08.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte9",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-09.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte10",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-10.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte11",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-11.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte12",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-12.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte13",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-13.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte14",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-14.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte15",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-15.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte16",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-16.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte17",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-17.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte18",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-18.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte19",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-19.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte20",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-20.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte21",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-21.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte22",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-22.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte23",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-23.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte24",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-24.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_carte25",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/cartes-25.png",
+		"texte": "Carte de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_regle1",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/regles1-01.png",
+		"texte": "Règle du jeu de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"BonneAv_regle2",
+		"type":"image",
+		"path": "/Img/BonneAv/Expo1/regles2-01.png",
+		"texte": "Règle du jeu de <i>La bonne aventure - Le jeu de la data-divination</i>",
+		"credit": "Fabrice Sabatier"
+	},
+
+	{
+		"id":"Vice1",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step1.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : contextualisation et mise en situation.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice2",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step2.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : identification (choix de la thématique).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice3",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step3.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : identification (recrutement).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice4",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step4.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : exploration guidée (alliés vs adversaires).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice5",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step5.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : exploration guidée (types d'organisation).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice6",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step6.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : exploration guidée (organisations par secteurs).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice7",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step7.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : exploration guidée (liens d'affiliation).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice8",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step8.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : exploration guidée (sélection).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Vice9",
+		"type":"image",
+		"path": "/Img/VO/Expo1/vo_step9.png",
+		"texte": "Les grandes étapes de l'exploration de <i>Vi(c)e organique</i> : exploration libre (documentation).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"ViceBelO",
+		"type":"image",
+		"path": "/Img/VO/Expo1/ViceOrganique_iso.jpg",
+		"texte": "<i>Vi(c)e organique</i> dans l’exposition <i>Dé-dissimulation</i> de .CORP au Bel ordinaire de Pau, décembre 2018 - Février 2019.",
+		"credit": "© iso-document.s"
+	},
+	{
+		"id":"dessinVO1",
+		"type":"image",
+		"path": "/Img/VO/Expo2/dessinVO1.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>. Reproduction d'image scientifique",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO2",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10122061.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>. Reproduction d'image scientifique",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO3",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10014314.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO4",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10165684.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO5",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10032833.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO6",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10101847.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO7",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10135717.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO8",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10240954.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO9",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10184052.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO10",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10070850.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO11",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10203073.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO12",
+		"type":"image",
+		"path": "/Img/VO/Expo2/img20200813_10222013.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO13",
+		"type":"image",
+		"path": "/Img/VO/Expo2/schemaMethodo-11.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO14",
+		"type":"image",
+		"path": "/Img/VO/Expo2/schemaMethodo-12.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO15",
+		"type":"image",
+		"path": "/Img/VO/Expo2/schemaMethodo-13.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO16",
+		"type":"image",
+		"path": "/Img/VO/Expo2/schemaMethodo-14.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"dessinVO17",
+		"type":"image",
+		"path": "/Img/VO/Expo2/schemaMethodo-17.jpg",
+		"texte": "Esquisses préparatoires à <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"demoVO",
+		"type":"video",
+		"path": "/Img/VO/Expo3/DemoVO720.mp4",
+		"texte": "Démo commentée <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"cadre_quesnay",
+		"type":"image",
+		"path": "/Img/VO/Expo4/cadre_quesnay.jpg",
+		"texte": "François Quesnay, deuxième édition du Tableau économique, début 1759.",
+		"credit": "Domaine public"
+	},
+	{
+		"id":"cadre_playfair",
+		"type":"image",
+		"path": "/Img/VO/Expo4/cadre_playfair.jpg",
+		"texte": "William Playfair, <i>Exports and Imports to and from Denmark & Norway from 1700 to 1780</i>. Dans <i>Commercial and Political Atlas</i>, 1786.",
+		"credit": "Domaine public"
+	},
+	{
+		"id":"cadre_VO",
+		"type":"image",
+		"path": "/Img/VO/Expo4/cadre_VO.jpg",
+		"texte": "Captures du premier et du second volet de <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"storie",
+		"type":"image",
+		"path": "/Img/VO/Expo5/storie.jpg",
+		"texte": "Une des <i>Histoires et révélations</i> à lire et explorer à l'issue du parcours de <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"storie2",
+		"type":"image",
+		"path": "/Img/VO/Expo5/storie2.jpg",
+		"texte": "Une des <i>Histoires et révélations</i> à lire et explorer à l'issue du parcours de <i>Vi(c)e organique</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"VOBelO1",
+		"type":"image",
+		"path": "/Img/VO/Expo5/BelOrdinaire_Costes2.jpg",
+		"texte": "<i>Vi(c)e organique</i> dans l’exposition <i>Dé-dissimulation</i> de .CORP au Bel ordinaire de Pau, décembre 2018 - Février 2019.",
+		"credit": "© Philippe Costes"
+	},
+	{
+		"id":"VOBelO2",
+		"type":"image",
+		"path": "/Img/VO/Expo5/Dé-dissimulation_iso.jpg",
+		"texte": "<i>Vi(c)e organique</i> dans l’exposition <i>Dé-dissimulation</i> de .CORP au Bel ordinaire de Pau, décembre 2018 - Février 2019.",
+		"credit": "© iso-document.s"
+	},
+	{
+		"id":"bureau",
+		"type":"image",
+		"path": "/Img/VO/Expo5/3D.jpg",
+		"texte": "Plan 3D du bureau conçu pour l’exposition <i>Dé-dissimulation</i> de .CORP au Bel ordinaire de Pau.",
+		"credit": "3D : Damien Baïs"
+	},
+	{
+		"id":"VOBelO3",
+		"type":"image",
+		"path": "/Img/VO/Expo5/BelOrdinaire_Costes2.jpg",
+		"texte": "<i>Vi(c)e organique</i> dans l’exposition <i>Dé-dissimulation</i> de .CORP au Bel ordinaire de Pau, décembre 2018 - Février 2019.",
+		"credit": "© Philippe Costes"
+	},
+
+	{
+		"id":"rituelCoupure",
+		"type":"video",
+		"path": "/Img/Rituel/Expo3/Coupurelien.mp4",
+		"texte": "Extrait de la vidéo <i>Rituels de désenvoûtement de la finance / Festival d’Aurillac</i>.",
+		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
+	},
+	{
+		"id":"rituelVid",
+		"type":"video",
+		"path": "/Img/Rituel/Expo5/DlfV3Finale720.mp4",
+		"texte": "Capture des <i>Rituels de désenvoûtement de la finance / Festival d’Aurillac</i>.",
+		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
+	},
+
+
 	{
 		"id":"croqRadiolo1",
 		"type":"image",
@@ -273,37 +761,45 @@
 		"id":"topo1",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/expoERG.jpg",
-		"texte": "Installation de Topographie d'une crise à l'ERG en regard de Who Won and Who lose after the crisis. Exposition Petites perceptions de l’économie – données, images, pouvoir",
+		"texte": "Installation de <i>Topographie d'une crise</i> à l'ERG en regard de <i>Who Won and Who lose after the crisis</i>. Exposition <i>Petites perceptions de l’économie – données, images, pouvoir</i>",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"topo2",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/Grain.png",
-		"texte": "Détail de la version imprimée en Riso",
+		"texte": "<i>Topographie d'une crise</i>. Détail de la version imprimée en Riso",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"topo3",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/topographic.jpg",
-		"texte": "Version vectorielle",
+		"texte": "<i>Topographie d'une crise</i>. Version vectorielle",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"topo4",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/topographicDetail.png",
-		"texte": "Détail de la version vectorielle",
+		"texte": "<i>Topographie d'une crise</i>. Détail de la version vectorielle",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"topo5",
 		"type":"image",
 		"path": "/Img/Topo/Expo1/topographicDetail2.png",
-		"texte": "Détail de la version vectorielle",
+		"texte": "<i>Topographie d'une crise</i>. Détail de la version vectorielle",
 		"credit": "Fabrice Sabatier"
 	},
+	{
+		"id":"topoRiso",
+		"type":"image",
+		"path": "/Img/Topo/Expo4/TopoScan.jpg",
+		"texte": "Version imprimée en Riso par Bernadette Éditions",
+		"credit": "Fabrice Sabatier"
+	},
+	
 	{
 		"id":"croqEcoArt1",
 		"type":"image",
@@ -315,28 +811,63 @@
 		"id":"Tript1",
 		"type":"image",
 		"path": "/Img/EconomieArt/Expo1/Triptyque1.jpg",
-		"texte": "Géopolitique d'une collection #1 États de l'art - Carte explosée et stratification des déplacements",
+		"texte": "<i>Géopolitique d'une collection #1 États de l'art - Carte explosée et stratification des déplacements</i>",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"Tript2",
 		"type":"image",
 		"path": "/Img/EconomieArt/Expo1/Triptyque2.jpg",
-		"texte": "Géopolitique d'une collection #2 Le monde de l'art - Géographie des mouvements",
+		"texte": "<i>Géopolitique d'une collection #2 Le monde de l'art - Géographie des mouvements</i>",
 		"credit": "Fabrice Sabatier"
 	},
 	{
 		"id":"Tript3",
 		"type":"image",
 		"path": "/Img/EconomieArt/Expo1/Triptyque3.jpg",
-		"texte": "Géopolitique d'une collection #3 Les routes de l'art - Diagramme de flux",
+		"texte": "<i>Géopolitique d'une collection #3 Les routes de l'art - Diagramme de flux</i>",
 		"credit": "Fabrice Sabatier"
 	},	
 	{
 		"id":"Iso",
 		"type":"image",
 		"path": "/Img/EconomieArt/Expo1/IsometrieFinale.jpg",
-		"texte": "Topographie d'une collection - Paysage isométrique exploratoire",
+		"texte": "<i>Topographie d'une collection - Paysage isométrique exploratoire</i>",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"ExpoBox1",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo5/Lile-de-la-mémoire-by-PascalVANNEAU.jpg",
+		"texte": "Vue de l'exposition <i>Souvenir de Mwene Mutapa - cartographie exotique d'une collection</i> (commissaire Nicolas de Ribou), à la Box Bourges, du 5 janvier au 15 avril 2017.",
+		"credit": "© Pascal Vanneau"
+	},
+	{
+		"id":"ExpoBox2",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo5/Lile-de-la-mémoire-by-PascalVANNEAU2.jpg",
+		"texte": "Vue de l'exposition <i>Souvenir de Mwene Mutapa - cartographie exotique d'une collection</i> (commissaire Nicolas de Ribou), à la Box Bourges, du 5 janvier au 15 avril 2017.",
+		"credit": "© Pascal Vanneau"
+	},
+	{
+		"id":"ExpoBox3",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo5/L'ile de la mémoire by PascalVANNEAU__PVU7788NX.jpg",
+		"texte": "Vue de l'exposition <i>Souvenir de Mwene Mutapa - cartographie exotique d'une collection</i> (commissaire Nicolas de Ribou), à la Box Bourges, du 5 janvier au 15 avril 2017.",
+		"credit": "© Pascal Vanneau"
+	},
+	{
+		"id":"ExpoBox4",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo5/L'ile de la mémoire by PascalVANNEAU__PVU7776NX.jpg",
+		"texte": "Vue de l'exposition <i>Souvenir de Mwene Mutapa - cartographie exotique d'une collection</i> (commissaire Nicolas de Ribou), à la Box Bourges, du 5 janvier au 15 avril 2017.",
+		"credit": "© Pascal Vanneau"
+	},
+	{
+		"id":"ExpoBoxCom",
+		"type":"image",
+		"path": "/Img/EconomieArt/Expo5/CartoCollecAff.jpg",
+		"texte": "Affiche-dépliant annonçant l'exposition <i>Souvenir de Mwene Mutapa - cartographie exotique d'une collection</i>.",
 		"credit": "Fabrice Sabatier"
 	},
 	{
@@ -559,9 +1090,45 @@
 	{
 		"id":"videoImgDEco",
 		"type":"video",
-		"path": "/Img/ImgDEco2/Expo4/CompoReexportKdenlive.mp4",
+		"path": "/Img/ImgDEco2/Expo4/Imddeco2alix_720.mp4",
 		"texte": "",
 		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+	},
+
+	{
+		"id":"potion_Frag1",
+		"type":"video",
+		"path": "/Img/Potions/Expo4/PotionFragment1_720.mp4",
+		"texte": "",
+		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
+	},
+	{
+		"id":"potion_Frag2",
+		"type":"video",
+		"path": "/Img/Potions/Expo4/PotionFragment2_720.mp4",
+		"texte": "",
+		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
+	},
+	{
+		"id":"potion_Frag3",
+		"type":"video",
+		"path": "/Img/Potions/Expo4/PotionFragment3_720.mp4",
+		"texte": "",
+		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
+	},
+	{
+		"id":"potion_Frag4",
+		"type":"video",
+		"path": "/Img/Potions/Expo4/PotionFragment4_720.mp4",
+		"texte": "",
+		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
+	},
+	{
+		"id":"potion_Frag5",
+		"type":"video",
+		"path": "/Img/Potions/Expo4/PotionFragment5_720.mp4",
+		"texte": "",
+		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
 	},
 
 	{
@@ -670,145 +1237,13 @@
 		"credit": "Fabrice Sabatier"
 	},	
 	{
-		"id":"Gloss1",
+		"id":"QuelLob_notes",
 		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss1.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
+		"path": "/Img/QuelLobby/Expo2/quelLobbyNotes.jpg",
+		"texte": "Annotation du poster <i>Quel lobbyiste es-tu ?</i>en préparation de <i>Vi(c)e organique</i>",
 		"credit": "Fabrice Sabatier"
 	},	
-	{
-		"id":"Gloss2",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss2.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss3.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss4",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss4.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss5",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss5.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss6",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss6.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss7",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss7.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss8",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss8.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss9",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss9.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss10",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss10.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss11",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss11.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss12",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss12.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss13",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss13.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss14",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss14.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss15",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss15.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss16",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss16.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss17",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss17.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss18",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss18.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss19",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss19.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
-	{
-		"id":"Gloss20",
-		"type":"image",
-		"path": "/Img/Gloss/Expo4/Gloss20.jpg",
-		"texte": "Glossaire de la finance et de la sorcellerie",
-		"credit": "Fabrice Sabatier"
-	},	
+	
 	{
 		"id":"Manif1",
 		"type":"image",
@@ -1129,6 +1564,498 @@
 		"type":"image",
 		"path": "/Img/Cartomancie/Expo4/cartes43.png",
 		"texte": "Cartomancie",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+
+	{
+		"id":"nommer",
+		"type":"image",
+		"path": "/Img/Gloss/Expo5/nommer.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie. Protocole, étape 1.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"faconner",
+		"type":"image",
+		"path": "/Img/Gloss/Expo5/faconner.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie. Protocole, étape 3.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"infiltrer",
+		"type":"image",
+		"path": "/Img/Gloss/Expo5/infiltrer.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie. Protocole, étape 3.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"mapGloss",
+		"type":"image",
+		"path": "/Img/Gloss/Expo5/MapJuin20.png",
+		"texte": "Cartographie du réseau lexical du Glossaire de la finance et de la sorcellerie. Les mots non reliés sont ceux qui n'ont pas encore intégrés le Glossaire.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"glossBIP",
+		"type":"image",
+		"path": "/Img/Gloss/Expo5/GlossaireBIP_GregoryEdelein.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie dans l'exposition <i>Le Cabinet de curiosités économiques</i>, du Laboratoire sauvage Désorceler la Finance, à la Biennale de l'Image Possible (BIP), Liège, 2020.",
+		"credit": "© GregoryEdelein"
+	},
+
+	{
+		"id":"vidBlob",
+		"type":"video",
+		"path": "/Img/Gloss/Expo4/blobSon.mp4",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"vidCapitalo",
+		"type":"video",
+		"path": "/Img/Gloss/Expo4/capitalobsceneSon.mp4",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"vidDette",
+		"type":"video",
+		"path": "/Img/Gloss/Expo4/detteSon.mp4",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"vidPotions",
+		"type":"video",
+		"path": "/Img/Gloss/Expo4/potionsSon.mp4",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"vidParadisRelanceTaux",
+		"type":"video",
+		"path": "/Img/Gloss/Expo4/paradis-relance-tauxSon.mp4",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Gloss1",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss1.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss2",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss2.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss3.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss4",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss4.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss5",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss5.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss6",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss6.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss7",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss7.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss8",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss8.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss9",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss9.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss10",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss10.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss11",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss11.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss12",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss12.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss13",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss13.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss14",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss14.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss15",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss15.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss16",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss16.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss17",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss17.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss18",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss18.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss19",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss19.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss20",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss20.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss21",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss21.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss22",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss22.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss23",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss23.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss24",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss24.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss25",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss25.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss26",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss26.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss27",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss27.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss29",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss29.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss31",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss31.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss32",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss32.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss33",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss33.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss34",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss34.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss35",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss35.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss36",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss36.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss37",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss37.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss38",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss38.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss39",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss39.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss40",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss40.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss41",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss41.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss42",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss42.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss43",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss43.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss44",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss44.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss45",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss45.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss46",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss46.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss47",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss47.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss48",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss48.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss49",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss49.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss50",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss50.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss51",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss51.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss52",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss52.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss53",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss53.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss54",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss54.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss56",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss56.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss57",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss57.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss59",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss59.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss60",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss60.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss61",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss61.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss62",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss62.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss63",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss63.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"Gloss64",
+		"type":"image",
+		"path": "/Img/Gloss/Expo4/Gloss64.jpg",
+		"texte": "Glossaire de la finance et de la sorcellerie",
 		"credit": "Laboratoire Désorceler la finance"
 	}
 	]
