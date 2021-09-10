@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.5111134"
-     inkscape:cx="27.794076"
-     inkscape:cy="271.65401"
+     inkscape:zoom="0.7555567"
+     inkscape:cx="148.89683"
+     inkscape:cy="384.48471"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
@@ -56,7 +56,8 @@
      id="g1320"
      inkscape:label="Toutes les pièces sur le meme calque"
      style="display:inline"
-     transform="translate(-185.20834,-42.333326)">
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63"
@@ -147,6 +148,15 @@
        nom="Cartomancie – La bonne aventure"
        pieceId="CartoData1"
        inkscape:label="p:Cartomancie – La bonne aventure" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-3-8"
+       cx="305.99057"
+       cy="169.99487"
+       r="5.2916665"
+       nom="Fragrance budgétaire"
+       pieceId="Budget1"
+       inkscape:label="p:Fragrance budgétaire" />
     <circle
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-9"
@@ -274,12 +284,21 @@
     <circle
        style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-3-9"
-       cx="343.03226"
+       cx="343.03223"
        cy="169.46564"
        r="5.2916665"
        nom="La bonne aventure – le jeu de data-divination"
        pieceId="CartoData1"
        inkscape:label="p:La bonne aventure – le jeu de data-divination" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-3-9-9"
+       cx="305.99057"
+       cy="169.99487"
+       r="5.2916665"
+       nom="Fragrance budgétaire"
+       pieceId="Budget1"
+       inkscape:label="p:Fragrance budgétaire" />
     <circle
        style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-0-8"
@@ -329,7 +348,8 @@
      id="layer2"
      inkscape:label="Expo2"
      style="display:inline"
-     transform="translate(-185.20834,-42.333326)">
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-13"
@@ -415,7 +435,8 @@
      id="layer3"
      inkscape:label="Expo3"
      style="display:inline"
-     transform="translate(-185.20834,-42.333326)">
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:none;stroke:#ffff00;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-48"
@@ -492,7 +513,8 @@
      id="layer4"
      inkscape:label="Expo4"
      style="display:inline"
-     transform="translate(-185.20834,-42.333326)">
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-72"
@@ -623,7 +645,8 @@
      id="layer5"
      inkscape:label="Expo5"
      style="display:inline"
-     transform="translate(-185.20834,-42.333326)">
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-18-0"
@@ -727,7 +750,8 @@
      id="layer6"
      inkscape:label="Expo6"
      style="display:inline"
-     transform="translate(-185.20834,-42.333326)">
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#6a27dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-51-0"
@@ -777,7 +801,8 @@
      id="layer7"
      inkscape:label="Expo7"
      style="display:inline"
-     transform="translate(-185.20834,-42.333326)">
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#6a2732;fill-opacity:1;stroke:#ff44ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-51-02"
@@ -798,9 +823,10 @@
        inkscape:label="p:Traité - Déclaration relative au désenvoûtement de la finance [...]" />
     <path
        style="fill:none;stroke:#bf95f3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 206.5073,206.50729 v 26.45834 h 26.45833 l 158.75,-105.83334 v -26.45833 h -26.45834 z"
+       d="m 206.5073,206.50729 v 26.45834 h 26.45833 l 59.44685,-39.63123 4.05315,-34.45211 37.48397,6.76069 57.76603,-38.51069 v -26.45833 h -26.45834 z"
        id="Expo7"
        inkscape:label="Traité"
-       salle="Traité" />
+       salle="Traité"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>

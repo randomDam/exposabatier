@@ -64,6 +64,19 @@
 			"croquis": "",
 			"collection": ["BonneAv_sceno1","BonneAv_sceno2","BonneAv_student","BonneAv_carte2","BonneAv_carte1","BonneAv_carte3","BonneAv_carte4","BonneAv_carte5","BonneAv_carte6","BonneAv_carte7","BonneAv_carte8","BonneAv_carte9","BonneAv_carte10","BonneAv_carte11","BonneAv_carte12","BonneAv_carte13","BonneAv_carte14","BonneAv_carte15","BonneAv_carte16","BonneAv_carte17","BonneAv_carte18","BonneAv_carte19","BonneAv_carte20","BonneAv_carte21","BonneAv_carte22","BonneAv_carte23","BonneAv_carte24","BonneAv_carte25","BonneAv_regle1","BonneAv_regle2"]
 		},
+		{
+			"pieceId": "Budget1",
+			"titre": "<i>Fragrance budgétaire</i>",
+			"salle": "Visualisation studies",
+			"mode": "exploration",
+
+			"date": "2017",
+			"texte": "<p>L’élaboration du budget d’un État est un exercice concentrant des enjeux économiques et politiques essentiels pour un gouvernement. Sa communication aux citoyen·ne·s est un moment important de l’agenda des exécutifs. Sous quelles formes graphiques ces décisions nous parviennent-elles ? La recherche dans Google Images donne une réponse éloquente, comme le montrent les cent premiers résultats présentés ici où la moitié font apparaître un diagramme à secteurs (camembert ou donut, 2D ou 3D). Or, un camembert ne peut transmettre qu’une information extrêmement simple (au-delà de 6 ou 7 chiffres, il devient illisible). Il n’offre aucune profondeur dans laquelle il serait possible de pousser la recherche, fouiller les données et extraire des informations pour aborder ce sujet complexe. La visualisation de données dont une fonction essentielle est pourtant d’outiller la navigation ou l’exploration de données complexes et d’ouvrir sur diverses interprétations possibles semble davantage ici servir à simplifier l’information à l’extrême. Cette pièce invite alors les visiteur·euse·s à s’intéresser, au-delà de ce que montrent les diagrammes, à ce qu’ils ne montrent pas, à ce qu’ils invisibilisent en réduisant ainsi les questions et donc les analyses qu’un sujet pourrait permettre de poser.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["budget"]
+		},
 
 		{
 			"pieceId": "Radiolo2",
