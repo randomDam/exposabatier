@@ -409,3 +409,21 @@ debug
 	font-family: monospace;
 	font-size: 11px;
 }
+
+.textExpo{
+	position: absolute;
+	display: block;
+	min-width: 50px;
+	max-width: 200px;
+	width: auto;
+	height: auto;
+	margin: 5px;
+	padding: 10px;
+
+	z-index: 10000;
+
+	background-color: rgba(0,0,0,0.7);
+	color: white;
+	font-family: "FFaune";
+	font-size: 1.1em;
+}

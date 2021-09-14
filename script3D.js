@@ -552,6 +552,8 @@ function refreshGraphic() {
 		
 		salleOver[0].children[1].material.opacity = 0.5;
 
+		$(".textExpo").remove();
+
 		//nom de la salle
 		console.log(salleOver[0].salleName);
 		lightTitre(salleOver[0].salleName);
@@ -559,14 +561,15 @@ function refreshGraphic() {
 		lightExpo(salleOver[0].salleName);
 	}
 
-	if (salleOver.length > 0 && expoOver.length > 0) {
+	else if (salleOver.length > 0 && expoOver.length > 0) {
 		document.help = expoOver[0];
 
 		expoOver[0].material.color.set(colorHover);
 
 		salleOver[0].children[1].material.opacity = 0.5;
 
-		drawOver(expoOver[0]);
+		//drawOver(expoOver[0]);
+		drawOver2D(expoOver[0]);
 
 		for (var i = 0; i < salleOver.length; i++) {
 			if (expoOver[0].salleName == salleOver[i].salleName) {
@@ -577,6 +580,10 @@ function refreshGraphic() {
 		//salleOver[0].children[1].material.color.set(0x999999);
 		lightTitre(salleOver[0].salleName);
 		
+	} else{
+
+		$(".textExpo").remove();
+
 	}
 
 	//--------------------------------------------------------
@@ -683,3 +690,61 @@ function delete3DOBJ(objName) {
 	var selectedObject = scene.getObjectByName(objName);
 	scene.remove(selectedObject);
 }
+
+//-------------------------------------------------------------
+//drawOver2D(expoOver[0]);
+//-------------------------------------------------------------
+var lastRefObject=null;
+
+function drawOver2D(refObject){
+	//console.log(refObject);
+	
+	if(refObject!=null){
+		$(".textExpo").remove();
+
+		var cameraPostion = new THREE.Vector3();
+		var pos = refObject.getWorldPosition(cameraPostion);
+		var pos2D = toScreenXY(pos,
+			camera,
+			$("#part_left canvas")[0]
+		);
+
+		//console.log(pos)
+
+		var text2 = document.createElement('div');
+		
+		text2.innerHTML = refObject.expoName;
+		text2.setAttribute("class", "textExpo");
+		text2.style.top = pos2D.y + "px";
+		text2.style.left = pos2D.x + 'px';
+		document.body.appendChild(text2);
+
+		lastRefObject=refObject;
+	}
+}
+
+function toScreenXY( position, camera, div ) {
+	var pos = position.clone();
+	var projScreenMat = new THREE.Matrix4();
+	projScreenMat.multiply( camera.projectionMatrix, camera.matrixWorldInverse );
+	projScreenMat.multiplyVector3( pos );
+
+	var offset = findOffset(div);
+
+	return { x: ( pos.x + 1 ) * div.width / 2 + offset.left,
+		 y: ( - pos.y + 1) * div.height / 2 + offset.top };
+
+}
+function findOffset(element) { 
+  var pos = new Object();
+  pos.left = pos.top = 0;        
+  if (element.offsetParent)  
+  { 
+	do  
+	{ 
+	  pos.left += element.offsetLeft; 
+	  pos.top += element.offsetTop; 
+	} while (element = element.offsetParent); 
+  } 
+  return pos;
+} 
