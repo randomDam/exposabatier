@@ -19,7 +19,7 @@
 			"mode": "classique",
 
 			"date": "2017",
-			"texte": "<p><i>Vi(c)e organique</i> est un site web qui devient une installation en exposition. Il propose un parcours à la découverte de réseaux d’influence informels qui se sont constitués autour de la consultation européenne de 2013 sur les objectifs environnementaux à l’horizon 2030. À l’arrivée sur le site, l’internaute est invité.e à se glisser dans le costume d’un ou une lobbyiste pour observer, depuis cette position privilégiée, les rapports de force qui ont opéré dans les coulisses de la Commission européenne pour définir le cadre des politiques en matière de réduction des émissions de GES, d’efficacité énergétique, d’énergies renouvelables et de production de gaz de schiste. Il sera alors possible d’observer, de l’intérieur, les rapports de force, découvrir progressivement les organisations lobbyistes, d’abord agrégées dans de grands ensembles d’alliés et rivaux, puis subdivisées en diverses catégories, jusqu’à l’échelle des ONG, des entreprises ou des think tank. Lorsque les liens s’affichent, c’est la centralité des acteurs dans le réseau qui apparaît ainsi que leur puissance financière directe et indirecte. Enfin, la navigation se conclut par l’accès à une documentation complémentaire pour observer les réseaux à partir d’autres histoires de lobbying. Ainsi, bien que les données utilisées soient principalement ouvertes et publiques, <i>Vi(c)e organique</i> rend visible quelque chose d’ordinairement invisible et rend sensible la place du lobbying dans ce processus décisionnel européen.<br><a href='http://www.viceorganique.com/'>Cliquez ici pour explorer <i>Vi(c)e organique</i>.</a></p>",
+			"texte": "<p><i>Vi(c)e organique</i> est un site web qui devient une installation en exposition. Il propose un parcours à la découverte de réseaux d’influence informels qui se sont constitués autour de la consultation européenne de 2013 sur les objectifs environnementaux à l’horizon 2030. À l’arrivée sur le site, l’internaute est invité.e à se glisser dans le costume d’un ou une lobbyiste pour observer, depuis cette position privilégiée, les rapports de force qui ont opéré dans les coulisses de la Commission européenne pour définir le cadre des politiques en matière de réduction des émissions de GES, d’efficacité énergétique, d’énergies renouvelables et de production de gaz de schiste. Il sera alors possible d’observer, de l’intérieur, les rapports de force, découvrir progressivement les organisations lobbyistes, d’abord agrégées dans de grands ensembles d’alliés et rivaux, puis subdivisées en diverses catégories, jusqu’à l’échelle des ONG, des entreprises ou des think tank. Lorsque les liens s’affichent, c’est la centralité des acteurs dans le réseau qui apparaît ainsi que leur puissance financière directe et indirecte. Enfin, la navigation se conclut par l’accès à une documentation complémentaire pour observer les réseaux à partir d’autres histoires de lobbying. Ainsi, bien que les données utilisées soient principalement ouvertes et publiques, <i>Vi(c)e organique</i> rend visible quelque chose d’ordinairement invisible et rend sensible la place du lobbying dans ce processus décisionnel européen.<br><a href='http://www.viceorganique.com/' target='_blank'>Cliquez ici pour explorer <i>Vi(c)e organique</i>.</a></p>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Développement : Axel Correia + Skoli. Élaboration des données : Stefano Battiston / SIMPOL Project + Fabrice Sabatier. Partenaire : <i>Vi(c)e organique</i> a reçu le soutien de la cellule Arts numériques de la Fédération Wallonie-Bruxelles",
 
 			"croquis": "",
@@ -77,6 +77,19 @@
 			"croquis": "",
 			"collection": ["budget"]
 		},
+		{
+			"pieceId": "WinLose1",
+			"titre": "<i>Who won and who lost after the crisis?</i>",
+			"salle": "Visualisation studies",
+			"mode": "superposition",
+
+			"date": "2015",
+			"texte": "<p>Alors que <i>Topographie d’une crise</i> met l’accent sur la narration, <i>Who won and who lost after the crisis?</i>, qui utilise le même jeu de données, mise sur la scénarisation de l’information en différentes séquences. Les données révèlent progressivement comment, à la suite de la crise financière de 2008, la finance a rebondi rapidement alors que l’économie réelle a plongé dans une crise durable.<br><a href='http://fabricesabatier.com/Winners-Losers_financial-crisis' target='_blank'>Cliquez ici pour explorer <i>Who won and who lost after the crisis?</i>.</a></p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["winLose1", "winLose2", "winLose3", "winLose4"]
+		},
 
 		{
 			"pieceId": "Radiolo2",
@@ -98,7 +111,7 @@
 			"mode": "superposition",
 
 			"date": "2017",
-			"texte": "<p>Les travaux qui ont précédé <i>Vi(c)e organique</i> ont permis d’expérimenter des modes de navigation, de narration et de représentation. Leur utilité ne s’est donc pas limitée au travail iconographique ni au choix de la métaphore visuelle. Cette pièce se concentre cependant sur les esquisses graphiques et techniques qui ont déterminé le traitement visuel organique du réseau. La métaphore des cellulaire a plusieurs fonctions dans <i>Vi(c)e organique</i>. Par exemple, la déformation des nœuds du réseau n’a pas seulement pour objectif de leur donner l’apparence de cellules. L’irrégularité de la forme de la membrane est, elle-même, une information indiquant que les données utilisées ne sont que des estimations renseignées sous forme de fourchette et justifiant des formes imparfaites, hésitantes ou irrégulières qui varient, au fil du temps, entre un minimum et un maximum. Par ailleurs, la métaphore apporte un éclairage sur la nature du lobbying. L’analogie permet de rapprocher les réseaux d’influence d’un système neuronal reposant sur l’échange d’informations. Elle dessine un système qui n’est pas figé dans des positions mais possède, au contraire, une grande plasticité et une capacité d’adaptation aux <i>stimuli</i> politiques qu’il capte. Dans les ruminations graphiques présentées ici sont articulées des reproductions d’images scientifiques qui se libèrent progressivement de leurs modèles réalistes pour intégrer le geste et le mouvement du vivant ou intégrer des fonctions utiles à la visualisation du réseau de lobbying. <br><a href='http://www.viceorganique.com/'>Cliquez ici pour explorer <i>Vi(c)e organique</i>.</a></p>",
+			"texte": "<p>Les travaux qui ont précédé <i>Vi(c)e organique</i> ont permis d’expérimenter des modes de navigation, de narration et de représentation. Leur utilité ne s’est donc pas limitée au travail iconographique ni au choix de la métaphore visuelle. Cette pièce se concentre cependant sur les esquisses graphiques et techniques qui ont déterminé le traitement visuel organique du réseau. La métaphore des cellulaire a plusieurs fonctions dans <i>Vi(c)e organique</i>. Par exemple, la déformation des nœuds du réseau n’a pas seulement pour objectif de leur donner l’apparence de cellules. L’irrégularité de la forme de la membrane est, elle-même, une information indiquant que les données utilisées ne sont que des estimations renseignées sous forme de fourchette et justifiant des formes imparfaites, hésitantes ou irrégulières qui varient, au fil du temps, entre un minimum et un maximum. Par ailleurs, la métaphore apporte un éclairage sur la nature du lobbying. L’analogie permet de rapprocher les réseaux d’influence d’un système neuronal reposant sur l’échange d’informations. Elle dessine un système qui n’est pas figé dans des positions mais possède, au contraire, une grande plasticité et une capacité d’adaptation aux <i>stimuli</i> politiques qu’il capte. Dans les ruminations graphiques présentées ici sont articulées des reproductions d’images scientifiques qui se libèrent progressivement de leurs modèles réalistes pour intégrer le geste et le mouvement du vivant ou intégrer des fonctions utiles à la visualisation du réseau de lobbying. <br><a href='http://www.viceorganique.com/' target='_blank'>Cliquez ici pour explorer <i>Vi(c)e organique</i>.</a></p>",
 			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Développement : Axel Correia + Skoli. Élaboration des données : Stefano Battiston / SIMPOL Project + Fabrice Sabatier. Partenaire : <i>Vi(c)e organique</i> a reçu le soutien de la cellule Arts numériques de la Fédération Wallonie-Bruxelles",
 
 			"croquis": "",
@@ -111,7 +124,7 @@
 			"mode": "superposition",
 
 			"date": "2015",
-			"texte": "<p><i>Explore the lobby network in finance and climate</i> est la visualisation du réseau de lobbying des organisations concernées par la régulation financière ou par les objectifs environnementaux, dans les institutions européennes. Pensée et développée comme un projet en soi, la pièce a finalement joué le rôle de prototype de <i>Vi(c)e organique</i>. Elle a principalement permis d’expérimenter les modes de navigation dans différentes échelles de données (des données agrégées aux données désagrégées) et d’initier des parcours scénarisés dans la base de données pour en apercevoir diverses facettes. En effet, l’exploration progressive du réseau est scénarisée à travers trois parcours. Le premier permet de découvrir le réseau par le filtre des secteurs industriels, le deuxième par les types d’organisations (entreprises, associations professionnelles, ONG, etc.) et le troisième en fonction de la propension des organisations à défendre des intérêts publics ou privés. Qu’il choisisse l’une ou l’autre de ces entrées, l’usager.ère va découvrir les acteurs en dévoilant progressivement le réseau. En deux ou trois étapes, les grandes familles formées d’organisations de même type, secteur ou intérêt passe d’ensembles agrégés à des unités désagrégées représentant chacune une organisation lobbyiste, à laquelle il est possible d’attribuer un diamètre proportionnel aux moyens financiers qu’elle consacre, par an, à cette activité.</p>",
+			"texte": "<p><i>Explore the lobby network in finance and climate</i> est la visualisation du réseau de lobbying des organisations concernées par la régulation financière ou par les objectifs environnementaux, dans les institutions européennes. Pensée et développée comme un projet en soi, la pièce a finalement joué le rôle de prototype de <i>Vi(c)e organique</i>. Elle a principalement permis d’expérimenter les modes de navigation dans différentes échelles de données (des données agrégées aux données désagrégées) et d’initier des parcours scénarisés dans la base de données pour en apercevoir diverses facettes. En effet, l’exploration progressive du réseau est scénarisée à travers trois parcours. Le premier permet de découvrir le réseau par le filtre des secteurs industriels, le deuxième par les types d’organisations (entreprises, associations professionnelles, ONG, etc.) et le troisième en fonction de la propension des organisations à défendre des intérêts publics ou privés. Qu’il choisisse l’une ou l’autre de ces entrées, l’usager·ère va découvrir les acteurs en dévoilant progressivement le réseau. En deux ou trois étapes, les grandes familles formées d’organisations de même type, secteur ou intérêt passe d’ensembles agrégés à des unités désagrégées représentant chacune une organisation lobbyiste, à laquelle il est possible d’attribuer un diamètre proportionnel aux moyens financiers qu’elle consacre, par an, à cette activité.</p>",
 			"credit": "Fabrice Sabatier. Développement : Fabrice Sabatier, Damien Baïs/.CORP. Élaboration des données : Stefano Battiston, Ann Zeng / SIMPOL Project. Sources des données : Transparency Register, Orbis Database.",
 
 			"croquis": "",
@@ -213,16 +226,14 @@
 			"pieceId": "AlchBrass3",
 			"titre": "<i>Alchimie brassicole</i>",
 			"salle": "Réseaux et formes du liable",
-
-			"mode réel": "superposition",
 			"mode": "classique",
 
 			"date": "2017",
-			"texte": "<p>Présentation de la pièce</p>",
-			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+			"texte": "<p><i>Faire le lien.</i> <i>Alchimie brassicole</i> est une série de 13 posters articulés autour de l'étoile des brasseurs, elle-même composée à partir des symboles alchimiques des 4 éléments. Ils auscultent l'empire industriel et financier de l'entreprise belgo-brésilienne AB InBev et lui opposent la nuée de brasseries indépendantes qui résistent à son emprise. « Faire le lien » renvoie ici autant au travail de d’enquête, de récolte et de visualisation des données qui permet de rassembler des informations disparates et de les mettre en réseaux ou en relation visuellement, qu’au travail des regardeur·euse·s qui vont faire le lien entre les marques de bière qu’ils ou elles connaissent et consomment et le géant qui les détient. Faire le lien contribue ainsi à faire de la bière une actrice politique.</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
 
-			"croquis": "croqAlchBrass",
-			"collection": ["Alch1","vidFinance","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
+			"croquis": "",
+			"collection": ["Alch1","Alch2","Alch3", "Alch4","Alch5","Alch6","Alch7","Alch8","Alch9","Alch10","Alch11","Alch12","Alch13"]
 		},
 		{
 			"pieceId": "QuelLobby3",
@@ -278,6 +289,19 @@
 			"collection": ["cadre_quesnay","cadre_playfair","cadre_VO"]
 		},
 		{
+			"pieceId": "TraiteDLF4",
+			"titre": "<i>Traité - Déclaration relative au désenvoûtement de la finance [...]</i>",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "classique",
+
+			"date": "2019",
+			"texte": "<p>Ce texte est le résultat d’une carte-blanche accordée au Laboratoire Désorceler la finance par la revue de recherche en design <i>Azimuts</i> pour son numéro intitulé « Négocier les futurs ». Le Laboratoire a pris la thématique au mot et a rédigé la première version de ce qui pourrait être un <i>Traité</i> entre entités humaines et non-humaines pour une meilleure co-habitabilité de la planète. Ce <i>draft</i> a pour but d’ouvrir les négociations et constitue la première Déclaration d’un ensemble à venir : la <i>Déclaration relative au désenvoûtement de la finance et aux conditions d’existence des alternatives</i>. Une <i>Déclaration relative au design et à la visualisation des données</i> a, par la suite, été rédigée dans le cadre de cette thèse et d’autres déclarations verront le jour, produites par le Laboratoire, par d’autres artistes ou d’autres entités, à travers des formes écrites ou toutes autres formes.</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0. Voix : Brune Campos. Prise de son : Vincent Matyn.",
+
+			"croquis": "",
+			"collection": ["couvTraiteDLF","TxtTraiteDLF1","TxtTraiteDLF2","TxtTraiteDLF3","TxtTraiteDLF4","TxtTraiteDLF5","TxtTraiteDLF6","TxtTraiteDLF7","TxtTraiteDLF8"]
+		},
+		{
 			"pieceId": "Topo4",
 			"titre": "<i>Topographie d'une crise</i>",
 			"salle": "Désencrouiller l’imaginaire",
@@ -298,7 +322,7 @@
 
 			"date": "2020",
 			"texte": "<p>Depuis décembre 2019, et dans le cadre d’un projet de recherche FrART/FNRS (Fonds de la recherche en art), des membres du Laboratoire sauvage de recherches expérimentales Désorceler la finance travaillent sur le pouvoir performatif des mots de la finance et de la sorcellerie. La parole, les formules et le lexique sont examinés et modelés au regard de leur puissance spéculative. Ainsi est né ce <i>Glossaire</i> contenant des mots mutants, des mots réappropriés et redéfinis, des mots détournés ou conjurés pour en écarter les influences néfastes, des mots subversifs et des néologismes qui viennent pallier des manques. Les mots contenus dans le glossaire appartiennent, pour la plupart, à l’une de ces trois catégories : la magie ou la sorcellerie, où l'on découvre des méthodes, des protocoles, des idées, des images et des mots pour se défaire d’une emprise (<i>potion, incantation, amulette, brouillarge, Murdurula, rituel, conjuration,</i> etc.) ; la finance, où l'on comprend la nature de son emprise, sa logique de fonctionnement, ses objectifs ainsi que ses méthodes pour « nous embrouiller » (<i>dette, tauxicomane, Wall Street, Hedge fund, banque, brouilleur d’idée, accumulation, paradis (fiscal),</i> etc.) ; l’action, la création et la lutte, où l'on explore des pratiques collaboratives, créatives et contestataires pour se réapproprier nos propres imaginaires et capacités d'agir (<i>grêver, occupation, (nous) débrouiller, interférences, vernaculaire, blob,</i> etc.).</p>",
-			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
 
 			"croquis": [""],
 			"collection": ["Gloss37", "Gloss27", "Gloss21", "vidDette", "Gloss3", "Gloss7", "Gloss8", "Gloss9", "Gloss1", "Gloss10", "Gloss12", "Gloss14",  "Gloss38", "vidPotions", "Gloss22", "Gloss25", "Gloss26", "Gloss32",  "Gloss34",  "Gloss35",  "Gloss47", "vidBlob", "Gloss49",  "Gloss53",  "Gloss56",  "Gloss57",  "Gloss2",  "Gloss4",  "Gloss5",  "Gloss6",  "Gloss11",  "Gloss13",  "Gloss17",  "Gloss20",  "Gloss23", "Gloss29", "Gloss33",  "Gloss36",  "Gloss39",  "Gloss40",  "Gloss41",  "Gloss42",  "Gloss43", "vidCapitalo",  "Gloss44",  "Gloss45",  "Gloss46",  "Gloss48",  "Gloss50",  "Gloss51",  "Gloss52",  "Gloss54",  "Gloss59",  "Gloss60",  "Gloss61",  "Gloss62",  "Gloss63",  "Gloss15", "Gloss16", "Gloss18", "Gloss19"]
@@ -311,7 +335,7 @@
 
 			"date": "2017-2020",
 			"texte": "<p>Présentation de la pièce.</p>",
-			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
 
 			"croquis": ["croqManif4"],
 			"collection": ["Manif1", "Manif2", "Manif3"]
@@ -323,10 +347,10 @@
 			"mode": "superposition",
 
 			"date": "2018",
-			"texte": "<p>Présentation de la pièce.</p>",
-			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+			"texte": "<p>La méthode du laboratoire Désorceler la finance passe par la création de dispositifs générateurs d’imagination qui s’appuient notamment sur la puissance magique et politique des images et du langage. <i>Ré-ouvrir les horizons</i> est une de ces expériences qui reconnaît le rôle fondamental de l’imagination dans la politisation des enjeux économiques et la création d’une puissance d’agir. Il s’agit d’un dispositif de cartomancie collective qui a été décliné, à partir de 2018, à travers trois versions : <i>Dérèglement du jeu de la finance</i> qui traite des marchés financiers (c’est la version présentée ici), <i>Quitter les paradis fiscaux</i> qui traite d’évasion fiscale et <i>“Des fictions qui changent le monde”</i> qui questionne l’intersection du politique, des pratiques sorcières et des pratiques artistiques. Le dispositif réunit entre sept et dix personnes autour d’une table où un·e maître·sse de cérémonie présente les cartes et les dévoile progressivement. La discussion s’engage dès la découverte de la première carte et se construit collectivement, se ré-oriente, se précise au fur et à mesure que d’autres s’ajoutent à la conversation. Avec <i>Dérèglement du jeu de la finance</i>, le point de départ est le marché financier défini par la première carte tirée (marché des céréales, de la dette, des produits dérivés, des métaux, de la terre, etc.). Chaque participant·e est invité·e à partager ce qui le ou la relie à ce marché, ce qu’il ou elle en connaît, ce qu’il ou elle imagine ou fantasme. Les cartes suivantes permettront de préciser la position des participant·e·s face à ce marché et indiquera une voie pour se mobiliser et se donner collectivement de la force. L’objectif du jeu est d’utiliser la divination comme support de réflexion collective sur la finance et ses enjeux, à la fois dans la vie de tous les jours et dans le système économique. Au bout de quarante à cinquante minutes de conversation, les participant·e·s imaginent et rédigent, en commun, une formule incantatoire ou conjuratoire, comme une reprise de pouvoir sur leur horizon. Il peut s’agir, par exemple, d’une incantation prononcée collectivement ou d’un geste, d’une action que les participant·e·s s’engagent à mettre en œuvre un soir de pleine lune. Bien que les expériences et connaissances personnelles de chacun·e soient à l’origine de la discussion, l’imagination est la clé de la réussite du processus : imaginer comment le marché en question nous touche ; imaginer ce que les cartes ont à dire ; imaginer l’incantation ou l’action qu’elles nous conjurent de réaliser ; imaginer des points de rencontre collectifs à la croisée des expériences individuelles.</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
 
-			"croquis": ["croqCarto4"],
+			"croquis": [""],
 			"collection": ["Carte1", "Carte2", "Carte3", "Carte4", "Carte5", "Carte6", "Carte7", "Carte8", "Carte9", "Carte10", "Carte11", "Carte12", "Carte13", "Carte14", "Carte15", "Carte16", "Carte17", "Carte18", "Carte19", "Carte20", "Carte21", "Carte22", "Carte23", "Carte24", "Carte25", "Carte26", "Carte27", "Carte28", "Carte29", "Carte30", "Carte31", "Carte32", "Carte33", "Carte34", "Carte35", "Carte36", "Carte37", "Carte38", "Carte39", "Carte41", "Carte42", "Carte43"]
 		},
 		{
@@ -342,7 +366,33 @@
 			"croquis": [""],
 			"collection": ["potion_Frag1", "potion_Frag2", "potion_Frag3","potion_Frag4","potion_Frag5"]
 		},
+		{
+			"pieceId": "Rituel4",
+			"titre": "<i>Rituels de désenvoûtement de la finance</i>",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "superposition",
 
+			"date": "2019",
+			"texte": "<p>Les <i>Rituels de désenvoûtement de la finance</i> du laboratoire Désorceler la finance sont construits sur une partition dont la partie centrale, qui concerne un marché financier spécifique, s’adapte au contexte et au lieu dans lequel le rituel prend place. À la fin du rituel, après que le lien ait été coupé, les participant·e·s suivent, en procession, les désorceleur·euse·s et les musicien·ne·s vers une zone d’affichage sauvage, à l’extérieur du cercle qu’ils formaient. Le rituel se conclue sur la séquence du collage, par les participant·e·s, des manchettes du « Jour d’après ». Il s’agit de unes de journaux sur lesquelles apparaissent les titres que l’on souhaiterait lire au lendemain du rituel. Ces titres sont également une étape essentielle dans la préparation des rituels puisqu’ils sont imaginés par les désorceleur·euse·s mais surtout par les personnes rencontrées sur le terrain et qui ont nourri de leurs expériences et de leurs luttes le désenvoûtement du marché dont il est question. La puissance mobilisatrice de ce type d’écriture spéculative et collective est telle que la rédaction des titres du « Jour d’après » tend à s’autonomiser et se développer en dehors des rituels, lors d’ateliers organisés des groupes (militants, scolaires) qui se réapproprient la pratique.</p>",
+			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance.",
+
+			"croquis": "",
+			"collection": ["Aurillac_Normand1","Aurillac_Normand2","Aurillac_Normand3","Aurillac_Normand4","Aurillac_Normand5","Aurillac_Normand6","Aurillac_Normand7","Aurillac_Normand8","Aurillac_9","Manchettes5","Manchettes4","Manchettes6","Manchettes3","Manchettes7","Manchettes2","Manchettes8","Manchettes1","Manchettes9" ]
+		},
+
+		{
+			"pieceId": "AlchBrass5",
+			"titre": "<i>Alchimie brassicole</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2017",
+			"texte": "<p>Avec cette série de posters, <i>Alchimie brassicole</i> fait « déborder l’économie » en cartographiant les marques, les personnes, les structures qui composent AB InBev et celles qui résistent à son appétit d’ogre. Mais les images présentées ici mettent moins l’accent sur le contenu des posters que sur le contexte dans lequel ils ont été créés et exposés qui visait également à faire déborder l’information et les questionnements économiques des approches habituelles désincarnées. Réalisés à l'occasion d'un <i>Rituel de désenvoûtement de la finance<i>, sur le thème du marché de la bière, qui a eu lieu au Brass de Bruxelles (ancienne brasserie), les posters étaient affichés dans la salle des machines, à proximité de l’installation où se déroulait le rituel. Lors de la soirée où il eut lieu, le rituel était lui-même précédé d’une conférence gesticulée d’Aline Fares, <i>Chroniques d’une ex-banquière</i>, dans laquelle elle combine le récit de son expérience dans le secteur bancaire et des éléments de vulgarisation sur le fonctionnement du système financier. Ainsi, la conférence, les posters et le rituel offraient chacun une entrée différente et complémentaire pour rendre sensibles des problèmes que posent notamment des groupes industriels financiarisés comme AB InBev, pour rendre visible la finance là où on ne l’attend pas (comme dans notre verre de bière). Enfin, afin de faire déborder ce sujet vers le public, celui-ci pouvait intervenir directement sur les posters en complétant la liste des brasseries indépendantes.</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["Alch2Lum","chroniqueAline", "Alch6Lum","rituelBrass2","Alch13Lum","rituelBrass1","Alch1Lum","rituelBrass3","Alch10Lum","rituelBrass4"]
+		},
 		{
 			"pieceId": "Explore5",
 			"titre": "<i>Explore the lobby network in finance and climate</i>",
@@ -396,6 +446,19 @@
 			"collection": ["rituelVid"]
 		},
 		{
+			"pieceId": "Carto5",
+			"titre": "<i>Cartomancie – Ré-ouvrir les horizons</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2018",
+			"texte": "<p>Quand a-t-on réellement la possibilité de discuter des marchés financiers ou des paradis fiscaux, pas seulement des chiffres incommensurables mais de ce qu’ils représentent pour nous, de ce qu’ils nous font ? Si ces occasions sont rares, c’est probablement que les conditions ne sont pas réunies pour aborder de tels sujets qui peuvent apparaître arides, techniques ou sur lesquels nous ne nous sentons pas légitimes. C’est pourquoi les trois jeux de cartomancie collective <i>Ré-ouvrir les horizons</i> existent en tant qu’objets, dans des versions soigneusement sérigraphiées, accessibles aux individus et aux organisations, mais qu’ils sont, avant tout et plus largement, des dispositifs scénographiques. Lorsque des tirages collectifs sont organisés ou coorganisés par le Laboratoire, une attention particulière est portée sur les conditions sensorielles dans lesquelles se déroulent les conversations : l’espace est éclairé à la bougie et embaumé de vapeurs d’encens sur un fond musical légèrement percussif. L’équilibre au sein du groupe est également soigné, notamment par le ou la maîtresse de cérémonie qui veille à la bonne circulation de la parole et à la légitimation de toutes les expériences. Ainsi abordés dans des lieux (écoles ou universités, centres culturels ou centres d’art, lieux militants, comité de quartiers, etc.) et traités à partir de l’intime, des subjectivités et de l’imaginaire, les enjeux financiers révèlent leur proximité et le besoin de « s’en mêler ». L’écriture d’une incantation qui conclue les versions <i>Dérèglement du jeu de la finance</i> et <i>“Des fictions qui changent le monde”</i> ou la carte postale conjuratoire à destination d’un individu ou d’une entité impliquée dans des processus d’évasion fiscale qui conclue <i>Quitter les paradis fiscaux</i> agissent comme un premier acte de réappropriation du sujet, d’apprentissage et de lutte.<br>La piste sonore est un enregistrement de la soirée <a href='https://www.maisonpop.fr/re-ouvrir-les-horizons-quitter-les-paradis-fiscaux-2119' target='_blank'><i>Ré-ouvrir les horizons - Quitter les paradis fiscaux</i> à la Maison Populaire de Montreuil,</a> le 7 juin 2019 dans le cadre d’une programmation associée à l’exposition  « Ici sont les dragons » (Commissaires : Marie Koch et Vladimir Demoule). Prise de son et montage :  Maison Populaire de Montreuil.</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0. Prise de son et montage : Maison Populaire de Montreuil",
+
+			"croquis": [""],
+			"collection": ["montreuil","Brass1","CartePostaleParadis3","MaisonPop","CP3","Brass2","CP8","CartePostaleParadis2", "CP2","GaiteLyrique","CP7","CartePostaleParadis1", "Lac", "CP4","Buda","CP1","CP6"]
+		},
+		{
 			"pieceId": "Gloss5",
 			"titre": "<i>Glossaire de la finance et de la sorcellerie</i>",
 			"salle": "Faire déborder l'économie",
@@ -403,7 +466,7 @@
 
 			"date": "2020",
 			"texte": "<p>Le <i>Glossaire de la finance et de la sorcellerie</i> n’est pas le résultat figé d’un travail d’écriture solitaire. Il est, à l’inverse, un processus participatif qui change de forme au gré des occasions. Au sein du Laboratoire sauvage de recherches expérimentales Désorceler la finance, il constitue une boîte à outils lexicale, narrative et conceptuelle qui s’augmente lors de séances de travail régulière. L’enregistrement sonore diffusé ici est une captation d’une de ces séances où des chercheur.euse.s du Laboratoire dérivent dans le <i>Glossaire</i> en suivant les renvois d’un mot à l’autre (par exemple, le mot <i>Potion</i> dérive vers <i>S’empotionner, Ingérer, Élixir, Pleine lune</i> et <i>Sasseratou</i>). Mais le caractère libérateur de cette reprise en main des mots de la finance et de la sorcellerie ne s’accomplit réellement que lorsqu’il est partagé. C’est pourquoi le <i>Glossaire</i> prend également la forme d’ateliers participatifs, autour de sujets spécifiques (finance et logement, finance et vieillesse, finance et alimentation, etc) et avec des personnes concernées. Certains d’entre eux donneront lieu à une série d’émissions radio.</p>",
-			"credit": "Labo DLF. Licence CC BY-NC-SA 4.0",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
 
 			"croquis": [""],
 			"collection": ["nommer", "faconner", "infiltrer", "mapGloss","glossBIP", "vidParadisRelanceTaux"]

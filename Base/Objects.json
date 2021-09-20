@@ -1,5 +1,12 @@
 {
-	"datas": [{
+	"datas": [	{
+		"id":"vidFinance",
+		"type":"video",
+		"path": "/video/DLF_V3_FINALE.mp4",
+		"texte": "Pour les vidéos trop grosses pour github",
+		"credit": ""
+	},
+	{
 		"id":"croqDVVD1",
 		"type":"image",
 		"path": "/Img/Croquis/D-ouVientDataviz.jpg",
@@ -501,6 +508,133 @@
 	},
 
 	{
+		"id":"Aurillac_Normand1",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand1.jpg",
+		"texte": "Scénographie des <i>Rituels de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_Normand2",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand2.jpg",
+		"texte": "Séquence de transmission des gestes de l'<i>open outcry</i> au public. <i>Rituels de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_Normand3",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand3.jpg",
+		"texte": "Séquence de désenvoûtement du marché de la dette des agriculteurs et des agricultrices. <i>Rituels de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_Normand4",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand4.jpg",
+		"texte": "Procession qui conclut un <i>Rituel de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_Normand5",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand5.jpg",
+		"texte": "Procession qui conclut un <i>Rituel de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_Normand6",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand6.jpg",
+		"texte": "Collage du « Jour d’après » en conclusion du <i>Rituel de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_Normand7",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand7.jpg",
+		"texte": "Collage du « Jour d’après » en conclusion du <i>Rituel de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_Normand8",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac_Normand8.jpg",
+		"texte": "Collage du « Jour d’après » en conclusion du <i>Rituel de désenvoûtement de la finance</i> au Festival d'Aurillac, 2019.",
+		"credit": "© Sebastien Normand"
+	},
+	{
+		"id":"Aurillac_9",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Aurillac9.jpg",
+		"texte": "Le jour d’après, Festival d'Aurillac, 2019.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Manchettes1",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes1.jpg",
+		"texte": "Manchette du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes2",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes2.jpg",
+		"texte": "Manchette du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes3",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes3.jpg",
+		"texte": "Manchette du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes4",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes4.jpg",
+		"texte": "Manchette du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes5",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes5.jpg",
+		"texte": "Une du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes6",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes6.jpg",
+		"texte": "Une du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes7",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes7.jpg",
+		"texte": "Une du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes8",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes8.jpg",
+		"texte": "Une du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Manchettes9",
+		"type":"image",
+		"path": "/Img/Rituel/Expo4/Manchettes9.jpg",
+		"texte": "Une du « Jour d’après », Festival d'Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+
+	{
 		"id":"budget",
 		"type":"image",
 		"path": "/Img/Budget/Expo1/budget1.jpg",
@@ -806,6 +940,34 @@
 		"texte": "Version imprimée en Riso par Bernadette Éditions",
 		"credit": "Fabrice Sabatier"
 	},
+	{
+		"id":"winLose1",
+		"type":"image",
+		"path": "/Img/WhoWon/Expo1/winners1.jpg",
+		"texte": "<i>Who won and who lost after the crisis?</i>, séquence introductive.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"winLose2",
+		"type":"image",
+		"path": "/Img/WhoWon/Expo1/winners3.jpg",
+		"texte": "<i>Who won and who lost after the crisis?</i>, découverte des données.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"winLose3",
+		"type":"image",
+		"path": "/Img/WhoWon/Expo1/winners4.jpg",
+		"texte": "<i>Who won and who lost after the crisis?</i>, exploration des données.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"winLose4",
+		"type":"image",
+		"path": "/Img/WhoWon/Expo1/winners5.jpg",
+		"texte": "<i>Who won and who lost after the crisis?</i>, exploration des données.",
+		"credit": "Fabrice Sabatier"
+	},
 	
 	{
 		"id":"croqEcoArt1",
@@ -1098,7 +1260,7 @@
 		"id":"videoImgDEco",
 		"type":"video",
 		"path": "/Img/ImgDEco2/Expo4/Imddeco2alix_720.mp4",
-		"texte": "",
+		"texte": "Matériel de l'installation <i>Img d’éco #2 Image manquante</i> et lecture d'<i>Un été rue du mur</i> par Alix Denambride",
 		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
 	},
 
@@ -1228,14 +1390,149 @@
 		"path": "/Img/AlchBrass/Expo3/Alchi-13.jpg",
 		"texte": "Alchimie brassicole",
 		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"chroniqueAline",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/_NJ_3559.JPG",
+		"texte": "<i>Chronique d'une ex-banquière</i>, Aline Fares, au Brass Bruxelles",
+		"credit": "© Bernard Rosenberg"
 	},
 	{
-		"id":"vidFinance",
-		"type":"video",
-		"path": "/video/DLF_V3_FINALE.mp4",
-		"texte": "Désorceler la finance",
+		"id":"rituelBrass1",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/_NJ_3702.JPG",
+		"texte": "Laboratoire Désorceler la finance, <i>Rituel de désenvoûtement de la finance</i>, marché de la bière, au Brass Bruxelles, 2017",
+		"credit": "© Bernard Rosenberg"
+	},
+	{
+		"id":"rituelBrass2",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/_NJ_3710.JPG",
+		"texte": "Laboratoire Désorceler la finance, <i>Rituel de désenvoûtement de la finance</i>, marché de la bière, au Brass Bruxelles, 2017",
+		"credit": "© Bernard Rosenberg"
+	},
+	{
+		"id":"rituelBrass3",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/IMG_20171024_190931.jpg",
+		"texte": "Laboratoire Désorceler la finance, <i>Rituel de désenvoûtement de la finance</i>, marché de la bière, au Brass Bruxelles, 2017",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"rituelBrass4",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/IMG_20171024_191020.jpg",
+		"texte": "Laboratoire Désorceler la finance, <i>Rituel de désenvoûtement de la finance</i>, marché de la bière, au Brass Bruxelles, 2017",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Alch1Lum",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/Alchi-1.jpg",
+		"texte": "Alchimie brassicole",
 		"credit": "Laboratoire Désorceler la finance"
-	},	
+	},
+	{
+		"id":"Alch2Lum",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/Alchi-2.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Alch6Lum",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/Alchi-6.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Alch10Lum",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/Alchi-10.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Alch13Lum",
+		"type":"image",
+		"path": "/Img/AlchBrass/Expo5/Alchi-13.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+
+	{
+		"id":"couvTraiteDLF",
+		"type":"video",
+		"path": "/Img/TraiteDLF/Expo4/lectureTraiteDLF.mp4",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i>. Lu par Brune Campos.",
+		"credit": "Laboratoire Désorceler la finance. Voix : Brune Campos"
+	},
+	{
+		"id":"TxtTraiteDLF",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/TraiteDLF.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF1",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages1.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF2",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages2.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF3",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages3.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF4",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages4.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF5",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages5.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF6",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages6.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF7",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages7.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"TxtTraiteDLF8",
+		"type":"image",
+		"path": "/Img/TraiteDLF/Expo4/textePages8.jpg",
+		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i> extrait de la revue <i>Azimuts</i> n°50, qui l'a publié en 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+
 	{
 		"id":"QuelLob",
 		"type":"image",
@@ -1275,303 +1572,430 @@
 	{
 		"id":"Carte1",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-01.png",
+		"texte": "Première page des règles du jeu de la version <i>Dérèglement du jeu de la finance</i>",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte2",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes2.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-02.png",
+		"texte": "Règles du jeu de la version <i>Dérèglement du jeu de la finance</i>",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte3",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes3.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-03.png",
+		"texte": "Règles du jeu de la version <i>Dérèglement du jeu de la finance</i>",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte4",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes4.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-04.png",
+		"texte": "Verso des « cartes des marchés », première carte dévoilée qui identifie le marché dont il sera question.",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte5",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes5.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-05.png",
+		"texte": "Une « carte des marchés ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte6",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes6.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-06.png",
+		"texte": "Une « carte des marchés ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte7",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes7.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-07.png",
+		"texte": "Une « carte des marchés ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte8",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes8.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-08.png",
+		"texte": "Une « carte des marchés ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte9",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes9.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-09.png",
+		"texte": "Une « carte des marchés ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte10",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes10.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-10.png",
+		"texte": "Une « carte des marchés ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte11",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes11.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-11.png",
+		"texte": "Verso des « cartes image », dont la fonction est de nourrir l'imagination.",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte12",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes12.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-12.png",
+		"texte": "Verso des « cartes énergétique », deuxième carte dévoilée qui renseigne sur l'état d'esprit du groupe, l'atmosphère de la situation.",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte13",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes13.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-13.png",
+		"texte": "Une « carte énergétique ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte14",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes14.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-14.png",
+		"texte": "Une « carte énergétique ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte15",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes15.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-15.png",
+		"texte": "Une « carte énergétique ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte16",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes16.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-16.png",
+		"texte": "Une « carte énergétique ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte17",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes17.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-17.png",
+		"texte": "Une « carte énergétique ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte18",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes18.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-18.png",
+		"texte": "Une « carte énergétique ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte19",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes19.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-19.png",
+		"texte": "Une « carte énergétique ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte20",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes20.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-20.png",
+		"texte": "Une « carte image ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte21",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes21.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-21.png",
+		"texte": "Verso des « cartes finance », troisième carte dévoilée qui représente l'obstacle qui empêche ou la force qui paralyse.",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte22",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes22.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-22.png",
+		"texte": "Une « carte finance ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte23",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes23.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-23.png",
+		"texte": "Une « carte finance ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte24",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes24.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-24.png",
+		"texte": "Une « carte finance ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte25",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes25.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-25.png",
+		"texte": "Une « carte finance ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte26",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes26.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-26.png",
+		"texte": "Une « carte finance ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte27",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes27.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-27.png",
+		"texte": "Une « carte image ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte28",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes28.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-28.png",
+		"texte": "Verso des « cartes essentielle », quatrième carte dévoilée qui évoque des besoins de première nécessité.",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte29",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes29.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-29.png",
+		"texte": "Une « carte essentielle ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte30",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes30.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-30.png",
+		"texte": "Une « carte essentielle ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte31",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes31.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-31.png",
+		"texte": "Une « carte essentielle ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte32",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes32.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-32.png",
+		"texte": "Une « carte essentielle ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte33",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes33.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-33.png",
+		"texte": "Une « carte essentielle ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte34",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes34.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-34.png",
+		"texte": "Une « carte image ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte35",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes35.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-35.png",
+		"texte": "Verso des « cartes Ré-ouvrir les horizons », dernière carte dévoilée qui représente la synthèse et aide à la formulation de l'incantation pour retourner le problème l'avantage des participant·e·s.",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte36",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes36.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-36.png",
+		"texte": "Une « carte Ré-ouvrir les horizons ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte37",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes37.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-37.png",
+		"texte": "Une « carte Ré-ouvrir les horizons ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte38",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes38.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-38.png",
+		"texte": "Une « carte Ré-ouvrir les horizons ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte39",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes39.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-39.png",
+		"texte": "Une « carte Ré-ouvrir les horizons ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte40",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes40.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-40.png",
+		"texte": "Une « carte Ré-ouvrir les horizons ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte41",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes41.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-41.png",
+		"texte": "Une « carte Ré-ouvrir les horizons ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte42",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes42.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-42.png",
+		"texte": "Une « carte image ».",
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
 		"id":"Carte43",
 		"type":"image",
-		"path": "/Img/Cartomancie/Expo4/cartes43.png",
-		"texte": "Cartomancie",
+		"path": "/Img/Cartomancie/Expo4/cartes-43.png",
+		"texte": "La carte, de la taille d'une carte bancaire, sur laquelle sera écrit l'incantation avant d'être rangée dans le portefeuille.",
 		"credit": "Laboratoire Désorceler la finance"
+	},
+
+	{
+		"id":"Brass1",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/Brass1.jpg",
+		"texte": "Soirée <i>Ré-ouvrir les horizons - Dérèglement du jeu de la finance<i>, au Brass, Bruxelles, 2018",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Brass2",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/Brass2.jpg",
+		"texte": "Soirée <i>Ré-ouvrir les horizons - Dérèglement du jeu de la finance<i>, au Brass, Bruxelles, 2018",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CartePostaleParadis1",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/CartePostaleParadis3.jpg",
+		"texte": "Carte postale rédigée durant une soirée <i>Ré-ouvrir les horizons - Quitter les paradis fiscaux<i>, au Brass, Bruxelles, 2018",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CartePostaleParadis2",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/CartePostaleParadis3.jpg",
+		"texte": "Carte postale rédigée durant une soirée <i>Ré-ouvrir les horizons - Quitter les paradis fiscaux<i>, au Brass, Bruxelles, 2018",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CartePostaleParadis3",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/CartePostaleParadis3.jpg",
+		"texte": "Carte postale rédigée durant une soirée <i>Ré-ouvrir les horizons - Quitter les paradis fiscaux<i>, au Brass, Bruxelles, 2018",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Lac",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/Lac.jpg",
+		"texte": "Mise en place du set pour un tirage, au Lac, Bruxelles.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"MaisonPop",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/MaisonPopulaireMontreuil2.jpg",
+		"texte": "Soirée <i>Ré-ouvrir les horizons - Quitter les paradis fiscaux<i>, à la Maison Populaire de Montreuil, 2019.",
+		"credit": "© Maison Populaire Montreuil"
+	},
+	{
+		"id":"GaiteLyrique",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/Mollon.jpg",
+		"texte": "Soirée <i>Ré-ouvrir les horizons - 'Des fictions qui changent le monde'<i>, à la Gaîté Lyrique, Paris, 2018. Le titre du jeu est une formule de Donna Haraway choisie par Tiphaine Kazi-Tani pour intituler la séance du Design Fiction Club qu’elle a organisé à la Gaîté Lyrique le 24 avril 2018 et à l’occasion de laquelle ce jeu a été créé et expérimenté pour la première fois.",
+		"credit": "© Max Mollon"
+	},
+	{
+		"id":"Buda",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/Verbeke.jpg",
+		"texte": "Le jeu <i>Ré-ouvrir les horizons - Dérèglement du jeu de la finance<i>, présenté au Festival Next, Buda, Courtrai, 2018.",
+		"credit": "© Jonas Verbeke"
+	},
+	{
+		"id":"CP1",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/CP1.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CP2",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/CP2.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CP3",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/CP3.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CP4",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/CP4.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CP5",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/baisers-salees.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CP6",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/plouf-plouf.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CP7",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/sommets.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"CP8",
+		"type":"image",
+		"path": "/Img/Cartomancie/Expo5/Tresor-suisse.jpg",
+		"texte": "Une des cartes postales de la série <i>Quitter les paradis fiscaux<i>",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"montreuil",
+		"type":"video",
+		"path": "/Img/Cartomancie/Expo5/montreuil.mp4",
+		"texte": "Captation sonore de la soirée <i>Ré-ouvrir les horizons - Quitter les paradis fiscaux</i> à la Maison Populaire de Montreuil le 7 juin 2019.",
+		"credit": "Prise de son et montage :  Maison Populaire de Montreuil."
 	},
 
 	{
