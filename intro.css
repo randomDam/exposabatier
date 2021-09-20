@@ -55,46 +55,53 @@
 
 	overflow: hidden;
 	
+	/*
 	border-bottom: 1px dashed rgba(255,255,255,0.5);
+	*/
 	margin:0;
 }
 
 
-#intro_p2{
+.intro_p{
 	position: absolute;
 	display: inline-block;
 	
-	left: 0;
-	width: calc( 50% - 100px);
+	width: calc( 50%);
+	top:170px;
 	
 	height: auto;
-
+	
 	overflow: hidden;
-
+	
 	bottom: 0px;
 	border-top: 1px dashed rgba(255,255,255,0);
+
+	/*
+	border: 1px dashed rgba(255,255,0,0.5);
+	*/
 }
 
+#intro_p2{
+	left: 0;
+}
 
 #intro_p3{
-	position: absolute;
-	display: inline-block;
-	
 	left: 50%;
-	width: 50%;
-	
-	overflow: hidden;
-
-	bottom: 0px;
-	border-top: 1px dashed rgba(255,255,255,0);
 }
 
 .intro_inner{
 	position: absolute;
-	top: 20px;
+	top: 40px;
 	bottom: 20px;
-	left: 20px;
+	left: 10px;
 	right: 20px;
+
+	padding-top: 20px;
+	padding-bottom: 30px;
+
+
+	border-top: 1px dashed white;
+	border-bottom: 1px dashed white;
 
 	overflow: auto;
 }
@@ -136,7 +143,7 @@ STYLES
 	padding: 0px;
 	font-size: 5.1em;
 	font-weight: normal;
-	margin-left: 50px;
+	margin-left: 30px;
 	margin-top: 10px;
 	/*text-align: center;*/
 	padding-bottom: 0px;
@@ -148,7 +155,7 @@ STYLES
 	font-size: 2.2em;
 	font-weight: bold;
 	line-height: 1.4em;
-	margin-left: 60px;
+	margin-left: 30px;
 	margin-right: 60px;
 }
 
@@ -158,7 +165,7 @@ STYLES
 	font-size: 1.7em;
 	font-weight: normal;
 	line-height: 1.3em;
-	margin-left: 60px;
+	margin-left: 30px;
 	margin-right: 60px;
 }
 
@@ -168,7 +175,18 @@ STYLES
 	font-size: 1em;
 	font-weight: normal;
 	line-height: 1.2em;
-	margin-left: 60px;
+	margin-left: 30px;
 	margin-right: 60px;
 }
 
+/*---------------------------------------------
+		VERSION ORDINATEUR
+----------------------------------------------*/
+@media only screen and (max-width: 1280px) {
+	#introCadre h1{
+		font-size: 3.1em;
+	}
+	#introCadre h2{
+		font-size: 1.5em;
+	}
+}

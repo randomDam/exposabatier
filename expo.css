@@ -57,12 +57,48 @@
 	
 	top: 0px;
 	left: 50%;
-	width: 50%;
+	width: calc( 50% - 40px );
 	bottom: 0px;	
 	
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
+
+	overflow-y: auto;
 	/*
 	background-color: #00F;
 	*/
 }
+/*----------------------------------------------------------------
+helper navigation
+-----------------------------------------------------------------*/
+#helperNav{
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+
+	width: 120px;
+	height: 120px;
+
+	z-index: inherit;
+
+	background-image: url(ExpliNavigPlan_white.svg);
+	background-size: contain;
+	
+	transform: translate(0px, 20px);
+	
+	/* 
+	background-color: #00F;
+	*/
+}
+
+
+#helperNav img{
+	fill:white;
+
+	/*
+	transform: translate(0px, 200px);
+	*/
+}
+
+
+

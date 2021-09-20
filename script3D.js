@@ -14,11 +14,18 @@ $(document).ready(function () {
 	console.log("ready script 3D");
 	initDataBase();
 	init3D();
+	loadPresentationTest();
 });
 
 
+function loadPresentationTest() {
+	console.log("load presentation test");
+	$("#part_right").load("presentationExpo.html");
+}
+
+
 //-------------------------------------------------------------
-//INIT 
+//INIT 3D 
 //-------------------------------------------------------------
 var container, renderer, stats, scene, camera, gui, guiData;
 
