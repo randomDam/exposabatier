@@ -136,3 +136,46 @@ function fillLegendeWithDiv(object,path) {
 	});
 	//l.load(path);
 }
+//---------------------------------------------
+//remplir la legende with html
+//---------------------------------------------
+function fillGalerie2(path) {
+	var originalPath = path;
+
+	var g = $("#galerieIMG")[0];
+	//console.log(g);
+	g.src = path;
+	//when loading is finnished
+	g.addEventListener('load', (event) => {
+		//console.log('image loaded');
+		//console.log(g);
+		var w = g.naturalWidth;
+		var h = g.naturalHeight;
+
+		var conteneur = $("#subGalerie")[0];
+		//console.log(conteneur);
+		var bouding = conteneur.getBoundingClientRect();
+
+		var rxFrame = 0;
+		var ryFrame = 0;
+		var rwFrame = bouding.width;
+		var rhFrame = bouding.height;
+		//console.log(rxFrame+"   "+ryFrame+"   "+rwFrame+"   "+rhFrame);
+
+		var result = rectFitToRectFit(rxFrame, ryFrame, rwFrame, rhFrame, w, h);
+		//console.log(result);
+
+		//g.style.left = result[0]+"px";
+		g.style.left = 0 + "px";
+		g.style.top = result[1] + "px";
+		g.width = result[2];
+		g.height = result[3];
+
+	});
+}
+
+
+function fillLegendeHTML(html) {
+	var l = $("#legende")[0];
+	$("#legende").html(html);
+}

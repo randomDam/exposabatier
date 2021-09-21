@@ -35,6 +35,9 @@ Switch bt
 	margin: 0;
 	width:100%;
 	height:100%;
+
+	pointer-events: none;
+	cursor: pointer;
 }
 #titreSwitch p{
 	position: absolute;
@@ -49,6 +52,7 @@ Switch bt
 	line-height: 1.1em;
 	font-size: 1.5em;
 	font-weight: normal;
+
 	
 	padding: 0;
 	margin: 0;
@@ -201,4 +205,50 @@ CARTEL
 
 .cartelTexte a:hover{
 	text-decoration:underline; 
+}
+
+/* -----------------------------------------------------
+ABOUT
+------------------------------------------------------- */
+#about {
+	position: absolute;
+	bottom: 40px;
+	width: 30px;
+	height: 40px;
+	z-index:9999;
+
+	cursor: pointer;
+
+	/*
+	background-color: rgba(0,0,0,0.1);
+	*/
+}
+
+#about p{
+	color: #fff;
+	font-family: "FFaune";
+	font-size: 30px;
+
+	text-align: center;
+
+	margin:0px;
+	padding: 0px;
+}
+
+.aboutLeft{
+	left: 10px;
+}
+.aboutRight{
+	right: 10px;
+}
+
+#about:hover{
+	position: absolute;
+	display: block;
+	
+	background-color: #fff;
+}
+
+#about:hover p{
+	color: #000;
 }

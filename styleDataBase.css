@@ -2,12 +2,22 @@
 SUPERPOSITION ELEMENT
 -------------------------------------------------------------  */
 .superpositionElement{
-	width: 303px;
+	transition: 0.5s;
+	width: 299px;
 	height: 10px;
 	border: solid 6px black;
-
+	
 	background-color: rgba(0, 0, 0);
+	filter: brightness(0.8);
+	
+	cursor: pointer;
 }
+
+.superpositionElement:hover{
+	transition: 0.5s;
+	filter: brightness(1);
+}
+
 
 .superpositionElement img{
 	position: absolute;
@@ -26,17 +36,28 @@ SUPERPOSITION ELEMENT
 SUPERPOSITION ELEMENT
 -------------------------------------------------------------  */
 .superpositionElementInvert{
-	width: 340px;
-	height: 40px;
-
+	transition: 0.5s;
+	
+	width: 299px;
+	height: 10px;
+	border: solid 6px black;
+	
 	background-color: rgba(0, 0, 0);
+	
+	filter: brightness(0.8);
+	cursor: pointer;
+}
+
+.superpositionElementInvert:hover {
+	transition: 0.5s;
+	filter: brightness(1);
 }
 
 .superpositionElementInvert img{
 	position: absolute;
 	width: 300px;
-	top: 20px;
-	left: 20px;
+	top: 0px;
+	left: 0px;
 }
 
 .superpositionElementInvert video{
@@ -78,6 +99,7 @@ EXPLORATION ELEMENT
 CLASSQUE ELEMENT
 -------------------------------------------------------------  */
 .classiqueElement{
+	transition: 0.5s;
 	position: relative;	
 	display: inline-block;
 	
@@ -91,6 +113,14 @@ CLASSQUE ELEMENT
 
 	margin-top: 80px;
 	margin-bottom: 80px;
+
+	filter: brightness(0.8);
+	cursor: pointer;
+}
+
+.classiqueElement:hover{
+	transition: 0.5s;
+	filter: brightness(1);
 }
 
 .classiqueElement img{

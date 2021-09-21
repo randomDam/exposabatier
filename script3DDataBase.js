@@ -185,9 +185,22 @@ function createSuperpositionElem_image(index,element,x,y){
 			lastIndex++;
 			if(lastIndex >1000)lastIndex = 0;
 		});
-	//.click(function () {
-	//    $(this).remove();
-	//})
+
+		// add legende data
+		var att = document.createAttribute("legende");
+		att.value = element.texte+"<br>"+element.credit;
+		d.setAttributeNode(att);
+
+		var att2 = document.createAttribute("path");
+		att2.value = element.path;
+		d.setAttributeNode(att2);
+
+		d.addEventListener('click', function (event) {
+			console.log(this);
+			showGalerie();
+			fillGalerie2(this.getAttribute("path"));
+			fillLegendeHTML(this.getAttribute("legende"));
+		});
 }
 
 function createSuperpositionElem_video(index,element,x,y){
@@ -287,9 +300,23 @@ function createSuperpositionInvertElem_image(index,element,x,y){
 			lastIndex++;
 			if(lastIndex >1000)lastIndex = 0;
 		});
-	//.click(function () {
-	//    $(this).remove();
-	//})
+	
+		
+		// add legende data
+		var att = document.createAttribute("legende");
+		att.value = element.texte+"<br>"+element.credit;
+		d.setAttributeNode(att);
+
+		var att2 = document.createAttribute("path");
+		att2.value = element.path;
+		d.setAttributeNode(att2);
+
+		d.addEventListener('click', function (event) {
+			console.log(this);
+			showGalerie();
+			fillGalerie2(this.getAttribute("path"));
+			fillLegendeHTML(this.getAttribute("legende"));
+		});
 }
 
 function createSuperpositionInvertElem_video(index,element,x,y){
@@ -353,7 +380,6 @@ function createClassiqueElem_image(index,element,x,y,maxH){
 	//.css({top:y,left:x,position:'absolute'})
 	.appendTo(target)
 	
-	
 		//console.log(d);
 		var img = document.createElement('img');
 		img.src = element.path;
@@ -362,7 +388,23 @@ function createClassiqueElem_image(index,element,x,y,maxH){
 		
 		var prop=(maxH-20)+"px";
 		img.style.maxHeight=prop;
-	}
+
+		// add legende data
+		var att = document.createAttribute("legende");
+		att.value = element.texte+"<br>"+element.credit;
+		d.setAttributeNode(att);
+
+		var att2 = document.createAttribute("path");
+		att2.value = element.path;
+		d.setAttributeNode(att2);
+
+		d.addEventListener('click', function (event) {
+			console.log(this);
+			showGalerie();
+			fillGalerie2(this.getAttribute("path"));
+			fillLegendeHTML(this.getAttribute("legende"));
+		});
+}
 	
 function createClassiqueElem_video(index,element,x,y,maxH){
 	var target = $("#part_right");

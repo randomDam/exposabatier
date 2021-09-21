@@ -41,6 +41,20 @@ $(document).ready(function () {
 	//deboger gestion
 	//-------------------------------------------------------------
 	document.addEventListener('keydown', switchDebug);
+	
+	//-------------------------------------------------------------
+	//about over
+	//-------------------------------------------------------------
+	$("#about").click(function () {
+		
+		$("#introCadre").removeClass("introCadre_Hide");
+		
+		$("#intro").animate({opacity: "1"},1,function(){
+			$("#intro").css({visibility: "visible"});
+		});
+
+	});
+
 });
 
 
@@ -58,6 +72,9 @@ function changeMode(_mode){
 		//tabExpo_hide
 		
 		$("#switch #titreSwitch p").text("Vers la thèse ↑");
+
+		$("#about").removeClass("aboutRight");
+		$("#about").addClass("aboutLeft");
 	}
 	
 	if(mode=="these"){
@@ -65,10 +82,13 @@ function changeMode(_mode){
 		
 		document.getElementById('expo').classList.remove("expo_show");
 		document.getElementById('expo').classList.add("expo_hide");
-
+		
 		document.getElementById('tabExpo').classList.add("tabExpo_hide");
 		
 		$("#switch #titreSwitch p").text("Vers les Expositions ↓");
+		
+		$("#about").removeClass("aboutLeft");
+		$("#about").addClass("aboutRight");
 	}
 }
 
