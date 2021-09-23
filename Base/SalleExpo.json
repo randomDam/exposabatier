@@ -1,0 +1,7 @@
+{
+	"SalleExpo": [{
+			"name": "Salle de la Conférence",
+			"salleName": "Chercher du regard et trouver par la main",
+			"texte": "<p>Ce poster explore les disciplines ou professions des créateurs et théoriciens qui ont marqué l’histoire de la visualisation de données. Aux 18<sup>e</sup> et 19<sup>e</sup> siècles, visualiser des données sert à penser l’économie, à découvrir les causes de diffusion d’une maladie, à raconter la déroute militaire d’un empereur. Puis progressivement, des méthodes, des techniques, des principes et des théories vont s’accumuler et construire un corpus qui s’applique désormais à la représentation graphique de données ou à la datavisualisation. En 250 ans, la visualisation de données passe de l’outil à la discipline.</p>"
+		}]
+}

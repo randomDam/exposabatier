@@ -430,6 +430,7 @@ function onMouseMove(event) {
 	var canvasTarget = $("#part_left canvas")[0].getBoundingClientRect();
 	
 	var pixelDens = window.devicePixelRatio;
+	
 	mouseRay.x = ((event.clientX*pixelDens - canvasTarget.x*pixelDens) / (renderer.domElement.width)) * 2 - 1;
 	mouseRay.y = -((event.clientY*pixelDens - canvasTarget.y*pixelDens) / (renderer.domElement.height)) * 2 + 1;
 }
@@ -721,8 +722,8 @@ function drawOver2D(refObject){
 		
 		text2.innerHTML = refObject.expoName;
 		text2.setAttribute("class", "textExpo");
-		text2.style.top = pos2D.y + "px";
-		text2.style.left = pos2D.x + 'px';
+		text2.style.top = (pos2D.y/window.devicePixelRatio)+20 + "px";
+		text2.style.left = (pos2D.x/window.devicePixelRatio) + 'px';
 		document.body.appendChild(text2);
 
 		lastRefObject=refObject;
