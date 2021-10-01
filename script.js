@@ -26,6 +26,14 @@ document.onreadystatechange = function () {
 		}else{
 			console.log("intro not found");
 		}
+
+
+		//-------------------------------------------------------
+		$("#mobile").click(function(){
+			$("#mobile").animate({opacity: "0"},1,function(){
+				$("#mobile").css({visibility: "hidden"});
+			});
+		})
 		
 	}
 }

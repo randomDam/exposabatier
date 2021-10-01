@@ -562,7 +562,7 @@ function refreshGraphic() {
 		$(".textExpo").remove();
 
 		//nom de la salle
-		console.log(salleOver[0].salleName);
+		//console.log(salleOver[0].salleName);
 		lightTitre(salleOver[0].salleName);
 
 		lightExpo(salleOver[0].salleName);
@@ -572,9 +572,8 @@ function refreshGraphic() {
 		document.help = expoOver[0];
 
 		expoOver[0].material.color.set(colorHover);
-
 		salleOver[0].children[1].material.opacity = 0.5;
-
+		
 		//drawOver(expoOver[0]);
 		drawOver2D(expoOver[0]);
 
@@ -634,7 +633,7 @@ function lightTitre(titre){
 }
 
 function lightExpo(expo){
-	console.log(ArrayCylinder);
+	//console.log(ArrayCylinder);
 	
 	for(var i=0; i<ArrayCylinder.length; i++){
 		if(ArrayCylinder[i].salleName == expo){
