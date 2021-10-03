@@ -162,7 +162,7 @@ function parseMySVG(url) {
 		for (var i = 0;i<tabOfExpo.length;i++){
 			var paths = parsePathNode(help.getElementById(tabOfExpo[i]));
 			var salleName = help.getElementById("Expo"+(i+1)).getAttribute("salle");
-			traceWall(scene, paths, altitudeTab[i], salleName);
+			traceWall(scene, paths, altitudeTab[i], salleName, tabOfExpo[i]);
 
 			var tabCircle = dom.getElementById("layer"+(i+1)).getElementsByTagName("circle");
 			traceCicle(scene, tabCircle, altitudeTab[i], salleName);
@@ -182,7 +182,7 @@ var ArrayLineWall = [];
 var ArrayWall = [];
 var ArrayTitre = [];
 
-function traceWall(sceneRef, paths, hauteur, salleName) {
+function traceWall(sceneRef, paths, hauteur, salleName, idName) {
 	const matLine = new THREE.LineDashedMaterial({
 		color: defaultColor_linewall,
 		linewidth: 0.2,
@@ -220,27 +220,27 @@ function traceWall(sceneRef, paths, hauteur, salleName) {
 		group.add(line);
 		ArrayLineWall.push(line);
 	}
-
-
+	
+	
 	group.position.x = -50;
 	group.position.z = -25;
 	group.position.y = hauteur;
-
+	
 	group.rotation.z += 3.14 * 2;
 	group.rotation.x += 3.14 / 2;
-
-
+	
+	
 	//-------------------------------------------------------------
 	// géométrie construction
 	// j'en suis la (faire des meshs)
 	//console.log("Shape construct");
 	//console.log(shapesA[0].getPoints());
-
+	
 	var tabOfPoints = shapesA[0].getPoints();
-
+	
 	var forme = new THREE.Shape();
 	forme.moveTo(tabOfPoints[0].x, tabOfPoints[0].y)
-
+	
 	for (var i = 1; i < tabOfPoints.length; i++) {
 		//console.log("POINT > " + tabOfPoints[i].x);
 		forme.lineTo(tabOfPoints[i].x, tabOfPoints[i].y);
@@ -263,6 +263,7 @@ function traceWall(sceneRef, paths, hauteur, salleName) {
 
 	group.type = "wall";
 	group.salleName = salleName;
+	group.idName = idName;
 
 	// géométrie construction
 	//-------------------------------------------------------------
@@ -450,6 +451,11 @@ function onMouseclick(event) {
 	if(expoSelected.length>0){
 		//$("#debug")[0].innerText += expoSelected[0].pieceId + "\n";
 		drawDataBase(expoSelected[0].pieceId);
+	}
+
+	if(expoSelected.length==0 && salleSelected.length>0){
+		console.log("salle : "+salleSelected[0].idName);
+		fillSalleTexte(salleSelected[0].idName);
 	}
 
 	console.log(ArrayTitre);
@@ -754,3 +760,7 @@ function findOffset(element) {
   } 
   return pos;
 } 
+
+function fillSalleTexte(salle){
+	$('#part_right').load("salle_"+salle+".html");
+}
