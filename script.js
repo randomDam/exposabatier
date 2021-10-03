@@ -198,28 +198,34 @@ function initFig() {
 
 	for (var i = 0; i < allFigures.length; i++) {
 		
-		allFigures[i].href=allFigures[i].href.replace("http://www.fabricesabatier.com","");
-		//console.log(allFigures[i].href);
 
-		allFigures[i].ref = allFigures[i].href;
-		allFigures[i].setAttribute("ref", allFigures[i].href);
-		allFigures[i].href = "javascript: void(0)";
+		//console.log(allFigures[i]);
 
+		//exception des note de bas de page
+		if(allFigures[i].parentNode!=undefined && allFigures[i].parentNode.className!="Footnote") {
+			
+			allFigures[i].href=allFigures[i].href.replace("http://www.fabricesabatier.com","");
+			
+			allFigures[i].ref = allFigures[i].href;
+			allFigures[i].setAttribute("ref", allFigures[i].href);
+			allFigures[i].href = "javascript: void(0)";
+		}
+		
 	}
-
+	
 }
 //-------------------------------------------------------
 //GESTION DES FIGURES [ PROCESS GENERAL ]
 //-------------------------------------------------------
 //-------------------------------------------------------
 function refreshFig() {
-
+	
 	findAllFigureOnText();
 	findAllFigureOnScreen();
-
+	
 	compareFig();
 	//createMissingFig();
-
+	
 	//findAllFigure();
 	//figuresIsOnScreen();
 }
@@ -232,25 +238,34 @@ var margeHaute = -1000;
 var margeBasse = 1000;
 
 function findAllFigureOnText() {
+	
+	//exception des note de bas de page
 	var allFigures = $(".Internet20link");
+	
 	var hScreen = window.innerHeight;
 	var lastRef = "";
 	figuresOnText = [];
-
+	
 	for (var i = 0; i < allFigures.length; i++) {
-		var f = allFigures[i];
-		var y = f.getBoundingClientRect().y;
-
-		if (y > margeHaute && y < hScreen + margeBasse) {
-			//create img box
-			//f.href;
-			if (lastRef != f.ref) {
-				//createDivImage(f.href,y);
-				f.y = y;
-				figuresOnText.push(f);
-				lastRef = f.ref;
+		
+		//exception des note de bas de page
+		if(allFigures[i].parentNode!=undefined && allFigures[i].parentNode.className!="Footnote") {
+		
+			var f = allFigures[i];
+			var y = f.getBoundingClientRect().y;
+			
+			if (y > margeHaute && y < hScreen + margeBasse) {
+				//create img box
+				//f.href;
+				if (lastRef != f.ref) {
+					//createDivImage(f.href,y);
+					f.y = y;
+					figuresOnText.push(f);
+					lastRef = f.ref;
+				}
 			}
 		}
+
 	}
 }
 
