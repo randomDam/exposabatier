@@ -379,6 +379,19 @@
 			"croquis": "",
 			"collection": ["Aurillac_Normand1","Aurillac_Normand2","Aurillac_Normand3","Aurillac_Normand4","Aurillac_Normand5","Aurillac_Normand6","Aurillac_Normand7","Aurillac_Normand8","Aurillac_9","Manchettes5","Manchettes4","Manchettes6","Manchettes3","Manchettes7","Manchettes2","Manchettes8","Manchettes1","Manchettes9" ]
 		},
+		{
+			"pieceId": "Microco4",
+			"titre": "<i>Microcosmogramme des forces contraires</i>",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "exploration",
+
+			"date": "2021 - en cours",
+			"texte": "",
+			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance.",
+
+			"croquis": "",
+			"collection": ["microco1" ]
+		},
 
 		{
 			"pieceId": "AlchBrass5",

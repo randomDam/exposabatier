@@ -2488,6 +2488,13 @@
 		"path": "/Img/Gloss/Expo4/Gloss64.jpg",
 		"texte": "Glossaire de la finance et de la sorcellerie",
 		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microco1",
+		"type":"image",
+		"path": "/Img/Microco/Expo4/microcosmogramme.jpg",
+		"texte": "Microcosmogramme des forces contraires",
+		"credit": "Laboratoire Désorceler la finance"
 	}
 	]
 }

@@ -156,7 +156,7 @@ function parseMySVG(url) {
 
 		//console.log(help);
 		
-		var tabOfExpo = ["Expo1","Expo2","Expo3","Expo4","Expo5","Expo6","Expo7"];
+		var tabOfExpo = ["Expo1","Expo2","Expo3","Expo4","Expo5","Expo6"];
 		//var tabOfExpo = ["Expo1","Expo2","Expo3"];
 
 		for (var i = 0;i<tabOfExpo.length;i++){

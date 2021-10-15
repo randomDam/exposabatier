@@ -8,7 +8,7 @@ var debugLog_script =false;
 //------------------------------------------------------------------
 //HTML Chargé
 //------------------------------------------------------------------
-var mainHTML = "TheseFinaleWeb.html";
+var mainHTML = "TheseFinaleWeb2.html";
 
 
 // alternative à load

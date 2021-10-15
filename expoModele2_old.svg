@@ -25,14 +25,14 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.7555567"
-     inkscape:cx="7.9411644"
+     inkscape:cx="148.89683"
      inkscape:cy="384.48471"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer3"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
@@ -753,6 +753,57 @@
      transform="translate(-185.20834,-42.333326)"
      sodipodi:insensitive="true">
     <circle
+       style="display:inline;fill:#6a27dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-51-0"
+       cx="222.38229"
+       cy="217.09062"
+       nom="Traité - Déclaration relative au design et à la visualisation des données"
+       pieceId="Traite6"
+       inkscape:label="p:Traité - Déclaration relative au design et à la visualisation des données"
+       r="5.2916665" />
+    <circle
+       style="display:inline;fill:#6a27dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-18-79"
+       cx="164.17397"
+       cy="116.54896"
+       r="5.2916665"
+       nom="Microcosmogramme des forces contraires"
+       pieceId="Microco6"
+       inkscape:label="p:Microcosmogramme des forces contraires" />
+    <circle
+       style="display:inline;fill:#6a27dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-95-2"
+       cx="164.17397"
+       cy="195.92398"
+       r="5.2916665"
+       nom="Atelier Potions"
+       pieceId="Potion6"
+       inkscape:label="p:Atelier Potions" />
+    <circle
+       style="display:inline;fill:#6a27dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-19-8"
+       cx="164.17397"
+       cy="222.38231"
+       r="5.2916665"
+       nom="Glossaire de la finance et de la sorcellerie"
+       pieceId="Gloss6"
+       inkscape:label="p:Glossaire de la finance et de la sorcellerie" />
+    <path
+       style="fill:none;stroke:#00ba00;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 148.29896,232.96563 h 37.04167 v 37.04166 h 52.91666 V 201.21563 H 185.34063 V 100.67396 h -37.04167 z"
+       id="Expo6"
+       inkscape:label="Quand visualiser c’est faire"
+       salle="Quand visualiser c’est faire"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Expo7"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
+    <circle
        style="display:inline;fill:#6a2732;fill-opacity:1;stroke:#ff44ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="path1131-1-63-51-02"
        cx="222.38229"
@@ -773,7 +824,7 @@
     <path
        style="fill:none;stroke:#bf95f3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 206.5073,206.50729 v 26.45834 h 26.45833 l 59.44685,-39.63123 4.05315,-34.45211 37.48397,6.76069 57.76603,-38.51069 v -26.45833 h -26.45834 z"
-       id="Expo6"
+       id="Expo7"
        inkscape:label="Traité"
        salle="Traité"
        sodipodi:nodetypes="cccccccccc" />
