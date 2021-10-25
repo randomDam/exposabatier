@@ -22,7 +22,7 @@ Override des styles de la these (doc par default)
 	font-family: "FFaune";
 	font-weight: bold;
 	font-style: italic;
-	src: url("/fonts/FauneDisplay_Bold_Italic.ttf") format("truetype");
+	src: url("/fonts/Faune-Display_Bold_Italic.woff") format("woff");
 }
 
 #frameThese .Textbody {
