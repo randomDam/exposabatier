@@ -483,6 +483,19 @@
 
 			"croquis": [""],
 			"collection": ["nommer", "faconner", "infiltrer", "mapGloss","glossBIP", "vidParadisRelanceTaux"]
+		},
+		{
+			"pieceId": "Potion5",
+			"titre": "<i>Atelier Potions</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2019",
+			"texte": "</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
+
+			"croquis": [""],
+			"collection": ["datacenter1","datacenter2","Potion2","Potion1","Potion3","Ingredient1","Ingredient2","Ingredient3","Ingredient4","Potion4","Potion5","Potion6","Potion7","Grimoire1","Grimoire2","Grimoire3"]
 		}
 
 		
