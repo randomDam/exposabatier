@@ -8,8 +8,8 @@
 //MODE LVL
 //-------------------------------------------------------------
 //these or expo
-//var mode="these";
-var mode="expo";
+var mode="these";
+//var mode="expo";
 
 $(document).ready(function () {
 	console.log("ready gestion Tab");

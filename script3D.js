@@ -459,6 +459,10 @@ function onMouseclick(event) {
 		fillSalleTexte(salleSelected[0].idName);
 	}
 
+	if(expoSelected.length==0 && salleSelected.length==0){
+		$("#part_right").load("presentationExpo.html");
+	}
+
 	console.log(ArrayTitre);
 }
 
