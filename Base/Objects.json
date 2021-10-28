@@ -487,7 +487,7 @@
 	{
 		"id":"VOBelO3",
 		"type":"image",
-		"path": "/Img/VO/Expo5/BelOrdinaire_Costes2.jpg",
+		"path": "/Img/VO/Expo5/de-dissimulation_Coste.jpg",
 		"texte": "<i>Vi(c)e organique</i> dans l’exposition <i>Dé-dissimulation</i> de .CORP au Bel ordinaire de Pau, décembre 2018 - Février 2019.",
 		"credit": "© Philippe Costes"
 	},
@@ -1465,9 +1465,9 @@
 	{
 		"id":"couvTraiteDLF",
 		"type":"video",
-		"path": "/Img/TraiteDLF/Expo4/lectureTraiteDLF.mp4",
+		"path": "/Img/TraiteDLF/Expo4/lectureTraiteDLF3.mp4",
 		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i>. Lu par Brune Campos.",
-		"credit": "Laboratoire Désorceler la finance. Voix : Brune Campos"
+		"credit": "Laboratoire Désorceler la finance. Voix : Brune Campos. Prise de son : Vincent Matyn. "
 	},
 	{
 		"id":"TxtTraiteDLF",
@@ -2490,13 +2490,6 @@
 		"credit": "Laboratoire Désorceler la finance"
 	},	
 	{
-		"id":"microco1",
-		"type":"image",
-		"path": "/Img/Microco/Expo4/microcosmogramme.jpg",
-		"texte": "Microcosmogramme des forces contraires",
-		"credit": "Laboratoire Désorceler la finance"
-	},	
-	{
 		"id":"datacenter1",
 		"type":"image",
 		"path": "/Img/Potions/Expo5/datacenter1.jpg",
@@ -2606,6 +2599,161 @@
 		"type":"image",
 		"path": "/Img/Potions/Expo5/potions1200px-12.jpg",
 		"texte": "Grimoire issu de l'<i>Atelier Potions</i>, Festival international de théâtre de rue d’Aurillac, 2019.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+
+	{
+		"id":"microco1",
+		"type":"image",
+		"path": "/Img/Microco/Expo2/microcosmogramme_oct21.jpg",
+		"texte": "Microcosmogramme des forces contraires. Travail en cours - octobre 2021.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"pleineLune1",
+		"type":"image",
+		"path": "/Img/Microco/Expo3/P1020121.JPG",
+		"texte": "Rencontre de la pleine lune - spéciale logement, organisée par le laboratoire Désorceler la finance, le 20 octobre 2021, au Zonneklopper, Bruxelles.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"pleineLune2",
+		"type":"image",
+		"path": "/Img/Microco/Expo3/P1020140.JPG",
+		"texte": "Présentation du <i>Microcosmogramme des forces contraire</i>. Rencontre de la pleine lune - spéciale logement, organisée par le laboratoire Désorceler la finance, le 20 octobre 2021, au Zonneklopper, Bruxelles.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"pleineLune3",
+		"type":"image",
+		"path": "/Img/Microco/Expo3/P1020148.JPG",
+		"texte": "Contributions et discussions autour du <i>Microcosmogramme des forces contraire</i>. Rencontre de la pleine lune - spéciale logement, organisée par le laboratoire Désorceler la finance, le 20 octobre 2021, au Zonneklopper, Bruxelles.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"pleineLune4",
+		"type":"image",
+		"path": "/Img/Microco/Expo3/P1020153.JPG",
+		"texte": "Contributions au <i>Microcosmogramme des forces contraire</i>. Rencontre de la pleine lune - spéciale logement, organisée par le laboratoire Désorceler la finance, le 20 octobre 2021, au Zonneklopper, Bruxelles.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"pleineLune5",
+		"type":"image",
+		"path": "/Img/Microco/Expo3/P1020168.JPG",
+		"texte": "Contributions et discussions autour du <i>Microcosmogramme des forces contraire</i>. Rencontre de la pleine lune - spéciale logement, organisée par le laboratoire Désorceler la finance, le 20 octobre 2021, au Zonneklopper, Bruxelles.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"pleineLune6",
+		"type":"image",
+		"path": "/Img/Microco/Expo3/P1020173.JPG",
+		"texte": "Contributions et discussions autour du <i>Microcosmogramme des forces contraire</i>. Rencontre de la pleine lune - spéciale logement, organisée par le laboratoire Désorceler la finance, le 20 octobre 2021, au Zonneklopper, Bruxelles.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeRecit",
+		"type":"image",
+		"path": "/Img/Microco/Expo4/microcosmogramme_Alliances.jpg",
+		"texte": "Esquisse narrative à partir du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion1",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion2",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question2.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion3",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question3.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion4",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question4.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion5",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question5.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion6",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question6.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion7",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question7.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion8",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question8.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion9",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question9.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcosmogrammeQuestion10",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/question10.jpg",
+		"texte": "Les enjeux du <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"figaro",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/figaro.jpg",
+		"texte": "Une du <i>Figaro Magazine</i>, mars 2021.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcoCroquis3",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/croquis3.jpg",
+		"texte": "Croquis préparatoire pour le <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcoEtat",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/etat.jpg",
+		"texte": "Croquis préparatoire pour le <i>Microcosmogramme des forces contraire</i>.",
+		"credit": "Laboratoire Désorceler la finance"
+	},	
+	{
+		"id":"microcoCroquis1",
+		"type":"image",
+		"path": "/Img/Microco/Expo5/croquis.jpg",
+		"texte": "Croquis préparatoire pour le <i>Microcosmogramme des forces contraire</i>.",
 		"credit": "Laboratoire Désorceler la finance"
 	}
 	]

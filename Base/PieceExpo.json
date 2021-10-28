@@ -169,6 +169,19 @@
 			"croquis": "",
 			"collection": ["QuelLob_notes"]
 		},
+		{
+			"pieceId": "Microco2",
+			"titre": "<i>Microcosmogramme des forces contraires</i>",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "exploration",
+
+			"date": "2021 - en cours",
+			"texte": "<p>Faire des microcosmogrammes, c’est ajouter aux cartes et aux diagrammes économiques ce qu’ils invisibilisent, les relier à ce qui excède leur angle de vue, les connecter aux situations locales ou micro, les rendre palpables en considérant leur dimension narrative et sensible. Le microcosmogramme du logement à Bruxelles, présenté ici, est un travail en cours du laboratoire sauvage Désorceler la finance. Il oppose deux hémisphères comme deux points de vues d’une même situation : une vision capitaliste de l’immobilier contre une vision sociale du logement. Mais si ces « points de vue » s’opposent, les acteur.rice.s et leurs positions ne sont, quant à elles, jamais fixes. Car ce qui intéressent les microcosmogrammes, c’est justement de faire apparaître et localiser les zones de frictions, les passages, les confrontations, les liens et les emprises diverses. Les microcosmogrammes sont traversés par des enjeux de représentation et par des questions d’usage, ils articulent des manières de voir le logement et ils se présentent comme des supports de projection (de stratégies, de luttes, de fictions). Ils ne représentent ni une théorie, ni un espace physique mais tentent de penser, par le dessin à plusieurs mains, une approche sociale et écologique de la ville.</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["microco1"]
+		},
 
 		{
 			"pieceId": "Explore3",
@@ -248,6 +261,19 @@
 			"croquis": "",
 			"collection": ["QuelLob"]
 		},
+		{
+			"pieceId": "Microco3",
+			"titre": "<i>Microcosmogramme des forces contraires</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "superposition",
+
+			"date": "2021 - en cours",
+			"texte": "<p><i>Créer du lien.</i> Si l’objectif du microcosmogramme est de représenter des liens ou faire des liens, il est également celui de créer du lien. Les photos présentées ici témoignent d’une rencontre entre des membres du laboratoire sauvage Désorceler la finance et des personnes touchées par les problématiques du logement à Bruxelles, ou impliquées dans la lutte pour le droit au logement. Le microcosmogramme, en cours de création, fut présenté, à cette occasion, comme un fond de carte, une carte stratégique sur laquelle peuvent être localiser ou déplacer les positions, les alliances, les zones de conflit. Le microcosmogramme trouve là sa fonction principale : combiner savoir, apprentissage et pouvoir d’agir.</p>",
+			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
+
+			"croquis": "",
+			"collection": ["pleineLune1","pleineLune2","pleineLune3","pleineLune4","pleineLune5","pleineLune6"]
+		},
 
 		{
 			"pieceId": "ImgDeco1-4",
@@ -299,7 +325,7 @@
 			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0. Voix : Brune Campos. Prise de son : Vincent Matyn.",
 
 			"croquis": "",
-			"collection": ["couvTraiteDLF","TxtTraiteDLF1","TxtTraiteDLF2","TxtTraiteDLF3","TxtTraiteDLF4","TxtTraiteDLF5","TxtTraiteDLF6","TxtTraiteDLF7","TxtTraiteDLF8"]
+			"collection": ["couvTraiteDLF","TxtTraiteDLF2","TxtTraiteDLF3","TxtTraiteDLF4","TxtTraiteDLF5","TxtTraiteDLF6","TxtTraiteDLF7","TxtTraiteDLF8"]
 		},
 		{
 			"pieceId": "Topo4",
@@ -383,14 +409,14 @@
 			"pieceId": "Microco4",
 			"titre": "<i>Microcosmogramme des forces contraires</i>",
 			"salle": "Désencrouiller l’imaginaire",
-			"mode": "exploration",
+			"mode": "classique",
 
 			"date": "2021 - en cours",
-			"texte": "",
+			"texte": "<p>Si le <i>Microcosmogramme des forces contraires</i> peut être un support de lutte, il est aussi un support d’imagination, le propre des microcosmogrammes étant justement de refuser la séparation entre action et spéculation narrative. L’esquisse trace la trame narrative de la construction d’une tour le bord du canal à Bruxelles, une histoire d’ombre et de vies menacées, une histoire d’alliances multi-spécifiques, une histoire de lutte sociale, politique, écologique.</p>",
 			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance.",
 
 			"croquis": "",
-			"collection": ["microco1" ]
+			"collection": ["microcosmogrammeRecit"]
 		},
 
 		{
@@ -496,6 +522,19 @@
 
 			"croquis": [""],
 			"collection": ["datacenter1","datacenter2","Potion2","Potion1","Potion3","Ingredient1","Ingredient2","Ingredient3","Ingredient4","Potion4","Potion5","Potion6","Potion7","Grimoire1","Grimoire2","Grimoire3"]
+		},
+		{
+			"pieceId": "Microco5",
+			"titre": "<i>Microcosmogramme des forces contraires</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2021 - en cours",
+			"texte": "<p>Pour que la visualisation de données cesse d’ignorer et d’invisibiliser ce qui n’est pas mesurable, il faut lui ajouter de la profondeur, du non calculable, du contextuel ou du narratif. Elle pourrait alors s’attacher à rendre visible les liens multiples et hétérogènes qui traversent et fondent les phénomènes économiques. Elle partirait d’histoires, de situations et de problématiques, locales, proches, finies, du moins circonscrites, pour mieux les faire déborder. Elle dépasserait les données purement économiques pour les associer à des données climatiques, biologiques, historiques, sociologiques ou métaphysiques. Elle dessinerait en somme des microcosmogrammes : des cartes localisées des intersections de l’économie et de ce qui en déborde. Les questions qui sont présentées ici sont celles qui habitent la création du <i>Microcosmogramme des forces contraires</i>.</p>",
+			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance.",
+
+			"croquis": "",
+			"collection": ["microcosmogrammeQuestion1","microcosmogrammeQuestion2","microcosmogrammeQuestion3","microcosmogrammeQuestion4","microcosmogrammeQuestion5", "microcosmogrammeQuestion6","microcosmogrammeQuestion7","microcosmogrammeQuestion8","microcosmogrammeQuestion9","microcosmogrammeQuestion10"]
 		}
 
 		
