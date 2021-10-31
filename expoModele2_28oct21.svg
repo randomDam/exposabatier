@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="641"
+   height="601.00006"
+   viewBox="0 0 169.59792 159.0146"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="expoModele2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#161616"
+     bordercolor="#3d3d3d"
+     borderopacity="1"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0.87843137"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.7555567"
+     inkscape:cx="7.9411644"
+     inkscape:cy="384.48471"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid831"
+       spacingx="5.2916667"
+       spacingy="5.2916667"
+       color="#274d62"
+       opacity="0.1254902"
+       empcolor="#176055"
+       empopacity="0.31372549"
+       originx="-211.53438"
+       originy="-68.659367" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="g1320"
+     inkscape:label="Toutes les pièces sur le meme calque"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63"
+       cx="195.92398"
+       cy="174.75729"
+       r="5.2916665"
+       nom="Vi(c)e organique"
+       pieceId="VO1"
+       inkscape:label="p:Vi(c)e organique" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-51"
+       cx="222.38229"
+       cy="217.09062"
+       nom="Traité - Déclaration relative au design et à la visualisation des données"
+       pieceId="Traite1"
+       inkscape:label="p:Traité - Déclaration relative au design et à la visualisation des données"
+       r="5.2916665" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-18"
+       cx="164.17398"
+       cy="116.54896"
+       r="5.2916665"
+       nom="Microcosmogramme des forces contraires"
+       pieceId="Microco2"
+       inkscape:label="p:Microcosmogramme des forces contraires" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-46"
+       cx="376.36981"
+       cy="114.96146"
+       r="5.2916665"
+       nom="Traité - Déclaration relative au désenvoûtement de la finance [...]"
+       pieceId="TraiteDLF4"
+       inkscape:label="p:Traité - Déclaration relative au désenvoûtement de la finance [...]" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-95"
+       cx="164.17398"
+       cy="195.92397"
+       r="5.2916665"
+       nom="Atelier Potions"
+       pieceId="Potion4"
+       inkscape:label="p:Atelier Potions" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-25"
+       cx="42.465626"
+       cy="143.00729"
+       r="5.2916665"
+       nom="Alchimie brassicole"
+       pieceId="AlchBrass3"
+       inkscape:label="p:Alchimie brassicole" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-45"
+       cx="84.798981"
+       cy="105.96564"
+       r="5.2916665"
+       nom="Cabinet de curiosités"
+       pieceId="Cabinet4"
+       inkscape:label="p:Cabinet de curiosités" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-64"
+       cx="84.798958"
+       cy="143.00729"
+       r="5.2916665"
+       nom="Rituels de désenvoûtement de la finance"
+       pieceId="Rituel3"
+       inkscape:label="p:Rituels de désenvoûtement de la finance" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-8"
+       cx="333.50732"
+       cy="84.798958"
+       r="5.2916665"
+       nom="Manifeste Désorceler la finance"
+       pieceId="Manif4"
+       inkscape:label="p:Manifeste Désorceler la finance" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-3"
+       cx="343.03223"
+       cy="169.46564"
+       r="5.2916665"
+       nom="Cartomancie – La bonne aventure"
+       pieceId="CartoData1"
+       inkscape:label="p:Cartomancie – La bonne aventure" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-3-8"
+       cx="305.99057"
+       cy="169.99487"
+       r="5.2916665"
+       nom="Fragrance budgétaire"
+       pieceId="Budget1"
+       inkscape:label="p:Fragrance budgétaire" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-9"
+       cx="164.17398"
+       cy="248.84062"
+       r="5.2916665"
+       nom="Cartomancie – Ré-ouvrir les horizons"
+       pieceId="Carto4"
+       inkscape:label="p:Cartomancie – Ré-ouvrir les horizons" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-19"
+       cx="164.17398"
+       cy="222.38229"
+       r="5.2916665"
+       nom="Glossaire de la finance et de la sorcellerie"
+       pieceId="Gloss4"
+       inkscape:label="p:Glossaire de la finance et de la sorcellerie" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-6"
+       cx="259.42398"
+       cy="31.882292"
+       r="5.2916665"
+       nom="Études pour Vi(c)e organique"
+       pieceId="Cells2"
+       inkscape:label="p:Études pour Vi(c)e organique" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-1"
+       cx="259.42398"
+       cy="232.96562"
+       r="5.2916665"
+       nom="Img d’éco #2"
+       pieceId="ImgDeco2-4"
+       inkscape:label="p:Img d’éco #2" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-79"
+       cx="164.174"
+       cy="90.090622"
+       r="5.2916665"
+       nom="Img d’éco #1"
+       pieceId="ImgDeco1-2"
+       inkscape:label="p:Img d’éco #1" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-01"
+       cx="132.42397"
+       cy="169.46564"
+       r="5.2916665"
+       nom="Quel lobbyiste es-tu ?"
+       pieceId="QuelLobby2"
+       inkscape:label="p:Quel lobbyiste es-tu ?" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-2"
+       cx="116.54896"
+       cy="58.340626"
+       r="5.2916665"
+       nom="Explore the lobby network in finance and climate"
+       pieceId="Explore2"
+       inkscape:label="p:Explore the lobby network in finance and climate" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-0"
+       cx="291.17392"
+       cy="139.83234"
+       r="5.2916665"
+       nom="Topographie d'une crise"
+       pieceId="Topo1"
+       inkscape:label="p:Topographie d'une crise" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-4"
+       cx="321.8656"
+       cy="188.51566"
+       r="5.2916665"
+       nom="Winners and losers in the financial crisis"
+       pieceId="WinLose1"
+       inkscape:label="p:Winners and losers in the financial crisis" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7"
+       cx="259.42398"
+       cy="90.09063"
+       r="5.2916665"
+       nom="Radiologie"
+       pieceId="Radiolo1"
+       inkscape:label="p:Radiologie" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7-5"
+       cx="291.17392"
+       cy="113.90312"
+       r="5.2916665"
+       nom="Économie de l’art : cartographie d’une collection"
+       pieceId="EcoArt1"
+       inkscape:label="p:Économie de l’art : cartographie d’une collection" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-5"
+       cx="226.61565"
+       cy="58.340622"
+       r="5.2916665"
+       nom="D'où vient la visualisation de données ?"
+       pieceId="DVVD1"
+       inkscape:label="p:D'où vient la visualisation de données ?" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Expo1"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)">
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-33"
+       cx="195.92404"
+       cy="174.75729"
+       r="5.2916665"
+       nom="Vi(c)e organique"
+       pieceId="VO1"
+       inkscape:label="p:Vi(c)e organique" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-3-9"
+       cx="343.03223"
+       cy="169.46564"
+       r="5.2916665"
+       nom="La bonne aventure – le jeu de data-divination"
+       pieceId="CartoData1"
+       inkscape:label="p:La bonne aventure – le jeu de data-divination" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-3-9-9"
+       cx="305.99057"
+       cy="169.99487"
+       r="5.2916665"
+       nom="Fragrance budgétaire"
+       pieceId="Budget1"
+       inkscape:label="p:Fragrance budgétaire" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-0-8"
+       cx="291.17395"
+       cy="139.83234"
+       r="5.2916665"
+       nom="Topographie d'une crise"
+       pieceId="Topo1"
+       inkscape:label="p:Topographie d'une crise" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-4-7"
+       cx="321.86563"
+       cy="188.51566"
+       r="5.2916665"
+       nom="Who won and who lost after the crisis?"
+       pieceId="WinLose1"
+       inkscape:label="p:Who won and who lost after the crisis?" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7-5-4"
+       cx="291.17395"
+       cy="113.90312"
+       r="5.2916665"
+       nom="Économie de l’art : cartographie d’une collection"
+       pieceId="EcoArt1"
+       inkscape:label="p:Économie de l’art : cartographie d’une collection" />
+    <circle
+       style="display:inline;fill:none;stroke:#ff25ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-5-1"
+       cx="226.61571"
+       cy="58.340622"
+       r="5.2916665"
+       nom="D'où vient la visualisation de données ?"
+       pieceId="DVVD1"
+       inkscape:label="p:D'où vient la visualisation de données ?" />
+    <path
+       style="display:inline;fill:none;stroke:#fc00ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.34063,201.21562 169.33333,1e-5 V 100.67396 l -111.125,-10e-6 V 42.465617 h -31.75001 l 1e-5,116.416673 h -26.45833 z"
+       inkscape:label="Visualisation studies"
+       salle="Visualisation studies"
+       id="Expo1"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Expo2"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-13"
+       cx="195.92397"
+       cy="174.75729"
+       r="5.2916665"
+       nom="Vi(c)e organique"
+       pieceId="VO2"
+       inkscape:label="p:Vi(c)e organique" />
+    <circle
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-18-7"
+       cx="164.17397"
+       cy="116.54895"
+       r="5.2916665"
+       nom="Microcosmogramme des forces contraires"
+       pieceId="Microco2"
+       inkscape:label="p:Microcosmogramme des forces contraires" />
+    <circle
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-6-4"
+       cx="259.42395"
+       cy="31.882288"
+       r="5.2916665"
+       nom="Études pour Vi(c)e organique"
+       pieceId="Cells2"
+       inkscape:label="p:Études pour Vi(c)e organique" />
+    <circle
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-79-8"
+       cx="164.17397"
+       cy="90.090622"
+       r="5.2916665"
+       nom="Img d’éco #1"
+       pieceId="ImgDeco1-2"
+       inkscape:label="p:Img d’éco #1" />
+    <circle
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-01-4"
+       cx="132.42395"
+       cy="169.46564"
+       r="5.2916665"
+       nom="Quel lobbyiste es-tu ?"
+       pieceId="QuelLobby2"
+       inkscape:label="p:Quel lobbyiste es-tu ?" />
+    <circle
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-2-9"
+       cx="116.54893"
+       cy="58.340622"
+       r="5.2916665"
+       nom="Explore the lobby network in finance and climate"
+       pieceId="Explore2"
+       inkscape:label="p:Explore the lobby network in finance and climate" />
+    <circle
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7-1"
+       cx="259.42395"
+       cy="90.09063"
+       r="5.2916665"
+       nom="Radiologie"
+       pieceId="Radiolo2"
+       inkscape:label="p:Radiologie" />
+    <path
+       style="fill:none;stroke:#00ffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.67396,185.34063 h 142.875 v 63.49999 h 31.75 l 10e-6,-232.833328 h -31.75001 v 58.208334 h -111.125 v -31.75 l -31.75,-4e-6 z"
+       id="Expo2"
+       inkscape:label="Chercher du regard et trouver par la main"
+       salle="Chercher du regard et trouver par la main"
+       sodipodi:nodetypes="ccccccccccc" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-1-1-7"
+       cx="259.42398"
+       cy="232.96562"
+       r="5.2916665"
+       nom="Img d’éco #2 et #3"
+       pieceId="ImgDeco2-2"
+       inkscape:label="p:Img d’éco #2 et #3" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Expo3"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-48"
+       cx="195.92397"
+       cy="174.75729"
+       r="5.2916665"
+       nom="Vi(c)e organique"
+       pieceId="VO3"
+       inkscape:label="p:Vi(c)e organique" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:0.79375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7-7"
+       cx="259.42404"
+       cy="90.09063"
+       r="5.2916665"
+       nom="Radiologie"
+       pieceId="Radiolo3"
+       inkscape:label="p:Radiologie" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-18-1"
+       cx="164.17397"
+       cy="116.54896"
+       r="5.2916665"
+       nom="Microcosmogramme des forces contraires"
+       pieceId="Microco3"
+       inkscape:label="p:Microcosmogramme des forces contraires" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-25-3"
+       cx="42.465611"
+       cy="143.00729"
+       r="5.2916665"
+       nom="Alchimie brassicole"
+       pieceId="AlchBrass3"
+       inkscape:label="p:Alchimie brassicole" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-64-6"
+       cx="84.798935"
+       cy="143.00729"
+       r="5.2916665"
+       nom="Rituels de désenvoûtement de la finance"
+       pieceId="Rituel3"
+       inkscape:label="p:Rituels de désenvoûtement de la finance" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-01-5"
+       cx="132.42397"
+       cy="169.46564"
+       r="5.2916665"
+       nom="Quel lobbyiste es-tu ?"
+       pieceId="QuelLobby3"
+       inkscape:label="p:Quel lobbyiste es-tu ?" />
+    <circle
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-2-92"
+       cx="116.54893"
+       cy="58.340622"
+       r="5.2916665"
+       nom="Explore the lobby network in finance and climate"
+       pieceId="Explore3"
+       inkscape:label="p:Explore the lobby network in finance and climate" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.590626,185.34063 H 211.79896 v -52.91667 h 63.5 V 79.507293 h -89.95833 l 0.11533,21.166667 h -53.032 V 42.465626 h -31.75 V 127.13229 H 26.590626 Z"
+       id="Expo3"
+       inkscape:label="Réseaux et formes du liable"
+       salle="Réseaux et formes du liable"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Expo4"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-72"
+       cx="195.92397"
+       cy="174.75728"
+       r="5.2916665"
+       nom="Vi(c)e organique"
+       pieceId="VO4"
+       inkscape:label="p:Vi(c)e organique" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-51-5"
+       cx="222.38229"
+       cy="217.09062"
+       nom="Traité - Déclaration relative au design et à la visualisation des données"
+       pieceId="Traite1-4"
+       inkscape:label="p:Traité - Déclaration relative au design et à la visualisation des données"
+       r="5.2916665" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-18-8"
+       cx="164.17397"
+       cy="116.54894"
+       r="5.2916665"
+       nom="Microcosmogramme des forces contraires"
+       pieceId="Microco4"
+       inkscape:label="p:Microcosmogramme des forces contraires" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-46-1"
+       cx="376.36978"
+       cy="114.96146"
+       r="5.2916665"
+       nom="Traité - Déclaration relative au désenvoûtement de la finance [...]"
+       pieceId="TraiteDLF4"
+       inkscape:label="p:Traité - Déclaration relative au désenvoûtement de la finance [...]" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-95-7"
+       cx="164.17397"
+       cy="195.92395"
+       r="5.2916665"
+       nom="Atelier Potions"
+       pieceId="Potion4"
+       inkscape:label="p:Atelier Potions" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-45-3"
+       cx="84.798958"
+       cy="105.96563"
+       r="5.2916665"
+       nom="Cabinet de curiosités"
+       pieceId="Cabinet4"
+       inkscape:label="p:Cabinet de curiosités" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-64-4"
+       cx="84.798935"
+       cy="143.00728"
+       r="5.2916665"
+       nom="Rituels de désenvoûtement de la finance"
+       pieceId="Rituel4"
+       inkscape:label="p:Rituels de désenvoûtement de la finance" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-8-7"
+       cx="333.50729"
+       cy="84.798958"
+       r="5.2916665"
+       nom="Manifeste Désorceler la finance"
+       pieceId="Manif4"
+       inkscape:label="p:Manifeste Désorceler la finance" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-9-0"
+       cx="164.17397"
+       cy="248.84061"
+       r="5.2916665"
+       nom="Cartomancie – Ré-ouvrir les horizons"
+       pieceId="Carto4"
+       inkscape:label="p:Cartomancie – Ré-ouvrir les horizons" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-19-0"
+       cx="164.17397"
+       cy="222.38228"
+       r="5.2916665"
+       nom="Glossaire de la finance et de la sorcellerie"
+       pieceId="Gloss4"
+       inkscape:label="p:Glossaire de la finance et de la sorcellerie" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-1-1"
+       cx="259.42395"
+       cy="232.96561"
+       r="5.2916665"
+       nom="Img d’éco #2 et #3"
+       pieceId="ImgDeco2-4"
+       inkscape:label="p:Img d’éco #2 et #3" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-79-4"
+       cx="164.17397"
+       cy="90.090614"
+       r="5.2916665"
+       nom="Img d’éco #1"
+       pieceId="ImgDeco1-4"
+       inkscape:label="p:Img d’éco #1" />
+    <circle
+       style="display:inline;fill:#e5c6b9;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-0-3"
+       cx="291.17389"
+       cy="139.83232"
+       r="5.2916665"
+       nom="Topographie d'une crise"
+       pieceId="Topo4"
+       inkscape:label="p:Topographie d'une crise" />
+    <path
+       style="fill:none;stroke:#ff2500;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 63.632293,74.215626 V 153.59063 H 148.29896 V 270.00729 H 275.29897 V 158.8823 l 116.41666,-10e-6 V 74.215625 h -74.08334 l 0.10547,39.687505 0.10547,13.22916 H 185.34063 V 74.215626 Z"
+       id="Expo4"
+       inkscape:label="Désencrouiller l’imaginaire"
+       salle="Désencrouiller l’imaginaire"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Expo5"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-18-0"
+       cx="164.17397"
+       cy="116.54895"
+       r="5.2916665"
+       nom="Microcosmogramme des forces contraires"
+       pieceId="Microco5"
+       inkscape:label="p:Microcosmogramme des forces contraires" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-46-9"
+       cx="376.36981"
+       cy="114.96146"
+       r="5.2916665"
+       nom="Traité - Déclaration relative au désenvoûtement de la finance [...]"
+       pieceId="TraiteDLF5"
+       inkscape:label="p:Traité - Déclaration relative au désenvoûtement de la finance [...]" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-95-1"
+       cx="164.17397"
+       cy="195.92397"
+       r="5.2916665"
+       nom="Atelier Potions"
+       pieceId="Potion5"
+       inkscape:label="p:Atelier Potions" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-25-7"
+       cx="42.465611"
+       cy="143.00729"
+       r="5.2916665"
+       nom="Alchimie brassicole"
+       pieceId="AlchBrass5"
+       inkscape:label="p:Alchimie brassicole" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-64-1"
+       cx="84.798943"
+       cy="143.00729"
+       r="5.2916665"
+       nom="Rituels de désenvoûtement de la finance"
+       pieceId="Rituel5"
+       inkscape:label="p:Rituels de désenvoûtement de la finance" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-9-9"
+       cx="164.17397"
+       cy="248.84064"
+       r="5.2916665"
+       nom="Cartomancie – Ré-ouvrir les horizons"
+       pieceId="Carto5"
+       inkscape:label="p:Cartomancie – Ré-ouvrir les horizons" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-19-2"
+       cx="164.17397"
+       cy="222.38229"
+       r="5.2916665"
+       nom="Glossaire de la finance et de la sorcellerie"
+       pieceId="Gloss5"
+       inkscape:label="p:Glossaire de la finance et de la sorcellerie" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-2-1"
+       cx="116.54894"
+       cy="58.340622"
+       r="5.2916665"
+       nom="Explore the lobby network in finance and climate"
+       pieceId="Explore5"
+       inkscape:label="p:Explore the lobby network in finance and climate" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7-5-5"
+       cx="291.17392"
+       cy="113.90312"
+       r="5.2916665"
+       nom="Économie de l’art : cartographie d’une collection"
+       pieceId="EcoArt5"
+       inkscape:label="p:Économie de l’art : cartographie d’une collection" />
+    <circle
+       style="display:inline;fill:#6ac6dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-7-5-5-6"
+       cx="195.92404"
+       cy="174.75729"
+       r="5.2916665"
+       nom="Vi(c)e organique"
+       pieceId="VO5"
+       inkscape:label="p:Vi(c)e organique" />
+    <path
+       style="fill:none;stroke:#f7871b;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.590626,127.13229 v 26.45834 H 148.29896 v 116.41666 h 63.5 v -142.875 h 132.29167 47.625 V 100.67396 H 317.6323 132.42396 V 42.465626 h -31.75 v 84.666664 z"
+       id="Expo5"
+       inkscape:label=" Faire déborder l’économie"
+       salle=" Faire déborder l’économie"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Expo6"
+     style="display:inline"
+     transform="translate(-185.20834,-42.333326)"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#6a2732;fill-opacity:1;stroke:#ff44ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-51-02"
+       cx="222.38229"
+       cy="217.09062"
+       nom="Traité - Déclaration relative au design et à la visualisation des données"
+       pieceId="Traite6"
+       inkscape:label="p:Traité - Déclaration relative au design et à la visualisation des données"
+       r="5.2916665" />
+    <circle
+       style="display:inline;fill:#6a2732;fill-opacity:1;stroke:#ff44ff;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1131-1-63-46-17"
+       cx="376.36978"
+       cy="114.96146"
+       r="5.2916665"
+       nom="Traité - Déclaration relative au désenvoûtement de la finance [...]"
+       pieceId="TraiteDLF6"
+       inkscape:label="p:Traité - Déclaration relative au désenvoûtement de la finance [...]" />
+    <path
+       style="fill:none;stroke:#bf95f3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 206.5073,206.50729 v 26.45834 h 26.45833 l 59.44685,-39.63123 4.05315,-34.45211 37.48397,6.76069 57.76603,-38.51069 v -26.45833 h -26.45834 z"
+       id="Expo6"
+       inkscape:label="Traité"
+       salle="Traité"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

@@ -2755,7 +2755,478 @@
 		"path": "/Img/Microco/Expo5/croquis.jpg",
 		"texte": "Croquis préparatoire pour le <i>Microcosmogramme des forces contraire</i>.",
 		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"Traite1-Son",
+		"type":"video",
+		"path": "/Img/Traite1/Expo6/Traite_part1.mp4",
+		"texte": "Première partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+	},	
+	{
+		"id":"Preambule",
+		"type":"image",
+		"path": "/Img/Traite1/Expo6/Traite-Part1_2.jpg",
+		"texte": "",
+		"credit": ""
+	},	
+	{
+		"id":"Protocole",
+		"type":"image",
+		"path": "/Img/Traite1/Expo6/Traite-Part1_3.jpg",
+		"texte": "",
+		"credit": ""
+	},	
+	{
+		"id":"Titre1",
+		"type":"image",
+		"path": "/Img/Traite1/Expo6/Traite-Part1_4.jpg",
+		"texte": "",
+		"credit": ""
+	},	
+	{
+		"id":"Titre1-conclu1",
+		"type":"image",
+		"path": "/Img/Traite1/Expo6/Traite-Part1_5.jpg",
+		"texte": "",
+		"credit": ""
+	},	
+	{
+		"id":"Titre1-conclu2",
+		"type":"image",
+		"path": "/Img/Traite1/Expo6/Traite-Part1_6.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Traite2-Son",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_1.jpg",
+		"texte": "Deuxième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+	},
+	{
+		"id":"Titre2_2",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_2.jpg",
+		"texte": "Voir l’étude de cas d’un diagramme brandi par Marine Le Pen lors d’un débat télévisé : Chapitre 4.3.4.1.",
+		"credit": "Image : © TF1, Tristan Carné (réalisateur)"
+	},
+	{
+		"id":"Titre2_3",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_3.jpg",
+		"texte": "Voir l’étude de cas sur la représentation des budgets d’État sous forme de camemberts : Chapitre 2.3.1.",
+		"credit": ""
+	},
+	{
+		"id":"Titre2_4",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_4.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre2_5",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_5.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre2_6",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_6.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre2_7",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_7.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre2_8",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_8.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre2_9",
+		"type":"image",
+		"path": "/Img/Traite2/Expo6/Traite-Part2_9.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Traite3-Son",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_1.jpg",
+		"texte": "Troisième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+	},
+	{
+		"id":"Titre3_2",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_2.jpg",
+		"texte": "Voir l’exemple de Stamen et de la Visualisation d’une journée de transactions financières au Nasdaq (présenté au Chapitre 4.2.2).",
+		"credit": "Image : © Stamen"
+	},
+	{
+		"id":"Titre3_3",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_3.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre3_4",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_4.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre3_5",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_5.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre3_6",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_6.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre3_7",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_7.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre3_8",
+		"type":"image",
+		"path": "/Img/Traite3/Expo6/Traite-Part3_8.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Traite4-Son",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_1.jpg",
+		"texte": "Quatrième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+	},
+	{
+		"id":"Titre4_4",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_4.jpg",
+		"texte": "Voir l’étude de cas d’<i>Img d’éco</i> : Chapitre 4.1.4.",
+		"credit": ""
+	},
+	{
+		"id":"Titre4_3",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_3.jpg",
+		"texte": "Voir l’étude de cas des diagrammes de Thomas Piketty : Chapitre 4.3.3.2.",
+		"credit": "Image : © Thomas Piketty"
+	},
+	{
+		"id":"Titre4_2",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_2.jpg",
+		"texte": "Voir notamment la description historique des approches de Quesnay, Smith, Playfair et Quételet : Chapitre 1.3.2.",
+		"credit": ""
+	},
+	{
+		"id":"Titre4_5",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_5.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre4_6",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_6.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre4_7",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_7.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre4_8",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_8.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre4_9",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_9.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre4_10",
+		"type":"image",
+		"path": "/Img/Traite4/Expo6/Traite-Part4_10.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Traite5-Son",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_1.jpg",
+		"texte": "Cinquième et dernière partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+	},
+	{
+		"id":"Titre5_2",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_2.jpg",
+		"texte": "Voir l’étude de cas de <i>The Globe of Economic Complexity</i> : Chapitre 6.2.2.4.",
+		"credit": "Image : © Owen Cornec, Romain Vuillemot"
+	},
+	{
+		"id":"Titre5_3",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_3.jpg",
+		"texte": " Voir l’étude de cas d’une visualisation interactive du New York Times : Chapitre 4.3.4.2.",
+		"credit": "Image : © The New York Times"
+	},
+	{
+		"id":"Titre5_4",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_4.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre5_5",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_5.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre5_6",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_6.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre5_7",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_7.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre5_8",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_8.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"Titre5_9",
+		"type":"image",
+		"path": "/Img/Traite5/Expo6/Traite-Part5_9.jpg",
+		"texte": "",
+		"credit": ""
+	},
+	{
+		"id":"preambule",
+		"type":"image",
+		"path": "/Img/Traite1/Expo1/preambule.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"protocole",
+		"type":"image",
+		"path": "/Img/Traite1/Expo1/protocole.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"titre1",
+		"type":"image",
+		"path": "/Img/Traite1/Expo1/titre1.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art1",
+		"type":"image",
+		"path": "/Img/Traite2/Expo2/Art1.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art2",
+		"type":"image",
+		"path": "/Img/Traite2/Expo2/Art2.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art3",
+		"type":"image",
+		"path": "/Img/Traite3/Expo3/Art3.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art4",
+		"type":"image",
+		"path": "/Img/Traite3/Expo3/Art4.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art5",
+		"type":"image",
+		"path": "/Img/Traite4/Expo4/Art5.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art6",
+		"type":"image",
+		"path": "/Img/Traite4/Expo4/Art6.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art7",
+		"type":"image",
+		"path": "/Img/Traite5/Expo5/Art7.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"Art8",
+		"type":"image",
+		"path": "/Img/Traite5/Expo5/Art8.jpg",
+		"texte": "",
+		"credit": "Fabrice Sabatier"
+	},
+
+	{
+		"id":"Pau1",
+		"type":"image",
+		"path": "/Img/Totem/Expo5/De-dissimulation_©costes_3.jpg",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": "© Costes"
+	},
+	{
+		"id":"Pau3",
+		"type":"image",
+		"path": "/Img/Totem/Expo5/De-dissimulation_©CORP_4.jpg",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": "© Costes"
+	},
+	{
+		"id":"Pau4",
+		"type":"image",
+		"path": "/Img/Totem/Expo5/De-dissimulation_©iso-document.jpg",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": "© iso-document"
+	},
+	{
+		"id":"Pau5",
+		"type":"image",
+		"path": "/Img/Totem/Expo5/De-dissimulation_©costes_4.jpg",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": "© Costes"
+	},
+	{
+		"id":"Pau6",
+		"type":"image",
+		"path": "/Img/Totem/Expo5/De-dissimulation_©iso-document.s_2.jpg",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": "© iso-document"
+	},
+	{
+		"id":"Pau7",
+		"type":"image",
+		"path": "/Img/Totem/Expo5/Dé-dissimulation18.jpg",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": "© iso-document"
+	},
+	{
+		"id":"PauVid1",
+		"type":"video",
+		"path": "/Img/Totem/Expo5/Vid-1.mp4",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": ".CORP"
+	},
+	{
+		"id":"PauVid2",
+		"type":"video",
+		"path": "/Img/Totem/Expo5/Vid-2.mp4",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": ".CORP"
+	},
+	{
+		"id":"PauVid3",
+		"type":"video",
+		"path": "/Img/Totem/Expo5/Vid-3.mp4",
+		"texte": "Vue de l'exposition <i>Dé-Dissimulation</i> de .CORP au Bel Ordinaire de Pau.",
+		"credit": ".CORP"
+	},
+	{
+		"id":"Cabinet1",
+		"type":"image",
+		"path": "/Img/Cabinet/Expo4/Assaut.jpg",
+		"texte": "Le <i>Cabinet de curiosités économiques</i> à l'Assaut de la menuiserie, Saint-Etienne, 2017.",
+		"credit": "© Cyrille Cauvet"
+	},
+	{
+		"id":"Cabinet2",
+		"type":"image",
+		"path": "/Img/Cabinet/Expo4/ERG.JPG",
+		"texte": "Le <i>Cabinet de curiosités économiques</i> à l'ERG, Bruxelles, 2018.",
+		"credit": "© Anna Muchin"
+	},
+	{
+		"id":"Cabinet3",
+		"type":"image",
+		"path": "/Img/Cabinet/Expo4/ERG2.JPG",
+		"texte": "Le <i>Cabinet de curiosités économiques</i> à l'ERG, Bruxelles, 2018.",
+		"credit": "© Anna Muchin"
+	},
+	{
+		"id":"Cabinet4",
+		"type":"image",
+		"path": "/Img/Cabinet/Expo4/Next.jpg",
+		"texte": "Le <i>Cabinet de curiosités économiques</i> au festival Next, Courtrai, 2019.",
+		"credit": "© Jonas Verbeke"
+	},
+	{
+		"id":"Cabinet5",
+		"type":"image",
+		"path": "/Img/Cabinet/Expo4/BIP.JPG",
+		"texte": "Le <i>Cabinet de curiosités économiques</i> à la Biennale de l'Image Possible, Liège, 2020.",
+		"credit": "© Jonas Verbeke"
 	}
+
 	]
 }
 

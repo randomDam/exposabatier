@@ -90,6 +90,19 @@
 			"croquis": "",
 			"collection": ["winLose1", "winLose2", "winLose3", "winLose4"]
 		},
+		{
+			"pieceId": "Traite1-1",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.1</i>",
+			"salle": "Visualisation studies",
+			"mode": "exploration",
+
+			"date": "2021",
+			"texte": "<p>La <i>Déclaration relative au design et à la visualisation des données</i> issue du <i>Traité de désorcèlement économique</i> affirme les principes fondamentaux de la visualisation de données économiques dans le cadre du désorcèlement. La première partie, présentée ici, énumère les êtres, les éléments et les entités sollicité·e·s pour la négociation du Traité,  établit le protocole et énonce les dispositions générales.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0.",
+
+			"croquis": "",
+			"collection": ["preambule","protocole","titre1"]
+		},
 
 		{
 			"pieceId": "Radiolo2",
@@ -181,6 +194,19 @@
 
 			"croquis": "",
 			"collection": ["microco1"]
+		},
+		{
+			"pieceId": "Traite2-2",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.2</i>",
+			"salle": "Chercher du regard et trouver par la main",
+			"mode": "exploration",
+
+			"date": "2021",
+			"texte": "<p>La <i>Déclaration relative au design et à la visualisation des données</i> issue du <i>Traité de désorcèlement économique</i> énonce les principes fondamentaux de la visualisation de données économiques dans le cadre du désorcèlement. Les deux Articles présentés ici traitent du temps et de la scénarisation dans les dispositifs de visualisation de données. Ils font notamment échos à <i>Vi(c)e organique</i> et à ses expérimentations esthétiques et narratives.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0.",
+
+			"croquis": "",
+			"collection": ["Art1","Art2"]
 		},
 
 		{
@@ -274,6 +300,19 @@
 			"croquis": "",
 			"collection": ["pleineLune1","pleineLune2","pleineLune3","pleineLune4","pleineLune5","pleineLune6"]
 		},
+		{
+			"pieceId": "Traite3-3",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.3</i>",
+			"salle": "Réseaux et formes du liable",
+			"mode": "exploration",
+
+			"date": "2021",
+			"texte": "<p><i>Fabuler le lien.</i> La <i>Déclaration relative au design et à la visualisation des données</i> issue du <i>Traité de désorcèlement économique</i> énonce les principes fondamentaux de la visualisation de données économiques dans le cadre du désorcèlement. Les deux Articles présentés ici s’intéressent à l’espace, à l’exploration, aux mouvements, aux positions et aux liens hétérogènes qui se déploient à travers eux.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0.",
+
+			"croquis": "",
+			"collection": ["Art3","Art4"]
+		},
 
 		{
 			"pieceId": "ImgDeco1-4",
@@ -351,7 +390,7 @@
 			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
 
 			"croquis": [""],
-			"collection": ["Gloss37", "Gloss27", "Gloss21", "vidDette", "Gloss3", "Gloss7", "Gloss8", "Gloss9", "Gloss1", "Gloss10", "Gloss12", "Gloss14",  "Gloss38", "vidPotions", "Gloss22", "Gloss25", "Gloss26", "Gloss32",  "Gloss34",  "Gloss35",  "Gloss47", "vidBlob", "Gloss49",  "Gloss53",  "Gloss56",  "Gloss57",  "Gloss2",  "Gloss4",  "Gloss5",  "Gloss6",  "Gloss11",  "Gloss13",  "Gloss17",  "Gloss20",  "Gloss23", "Gloss29", "Gloss33",  "Gloss36",  "Gloss39",  "Gloss40",  "Gloss41",  "Gloss42",  "Gloss43", "vidCapitalo",  "Gloss44",  "Gloss45",  "Gloss46",  "Gloss48",  "Gloss50",  "Gloss51",  "Gloss52",  "Gloss54",  "Gloss59",  "Gloss60",  "Gloss61",  "Gloss62",  "Gloss63",  "Gloss15", "Gloss16", "Gloss18", "Gloss19"]
+			"collection": ["Gloss37", "Gloss27", "Gloss21", "vidDette", "Gloss3", "Gloss7", "Gloss8", "Gloss9", "Gloss1", "Gloss10", "Gloss12", "Gloss14",  "Gloss38", "vidPotions", "Gloss22", "Gloss25", "Gloss26", "Gloss32",  "Gloss34",  "Gloss35",  "Gloss47", "vidBlob", "Gloss49",  "Gloss53",  "Gloss56",  "Gloss57",  "Gloss2",  "Gloss4",  "Gloss5",  "Gloss6",  "Gloss11",  "Gloss13",  "Gloss17",  "Gloss20",  "Gloss23", "Gloss29", "Gloss33",  "Gloss36",  "Gloss39",  "Gloss40",  "Gloss41",  "Gloss42",  "Gloss43", "vidCapitalo",  "Gloss44",  "Gloss45",  "Gloss46",  "Gloss48",  "Gloss50",  "Gloss51",  "Gloss52",  "Gloss54",  "Gloss59",  "Gloss60",  "Gloss61",  "Gloss62",  "Gloss63", "vidParadisRelanceTaux", "Gloss15", "Gloss16", "Gloss18", "Gloss19"]
 		},
 		{
 			"pieceId": "Manif4",
@@ -417,6 +456,32 @@
 
 			"croquis": "",
 			"collection": ["microcosmogrammeRecit"]
+		},
+		{
+			"pieceId": "Traite4-4",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.4</i>",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "exploration",
+
+			"date": "2021",
+			"texte": "<p>La <i>Déclaration relative au design et à la visualisation des données</i> issue du <i>Traité de désorcèlement économique</i> énonce les principes fondamentaux de la visualisation de données économiques dans le cadre du désorcèlement. Les deux Articles présentés ici proclament que les visualisations de données sont des images et affirment le rôle essentiel de l’imagination dans l’approche des enjeux économiques.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0.",
+
+			"croquis": "",
+			"collection": ["Art5","Art6"]
+		},
+		{
+			"pieceId": "Cabinet4",
+			"titre": "<i>Cabinet de curiosités économiques</i>",
+			"salle": "Désencrouiller l’imaginaire",
+			"mode": "superposition",
+
+			"date": "2017-2020",
+			"texte": "<p>Le <i>Cabinet de curiosités économiques</i> est une exposition itinérante du laboratoire Désorceler la finance. On y trouve des « choses rares, nouvelles, singulières » (Littré) dans un mélange hétéroclite. Comme dans un cabinet de curiosités traditionnel, quatre univers se confondent : <i>Naturalia</i>, avec notamment un herbier des paradis fiscaux; <i>Artificialia</i>, avec la collection des objets fabriqués pour le Rituel et encore chargés d’une puissance magique; <i>Scientifica</i>, avec des pièces de chercheur.euse.s sauvages ou d’économistes hétérodoxes, <i>Exotica</i>, avec des dons d’artistes ou d’explorateurs de paradis fiscaux. Ce Cabinet est en évolution permanente et augmente au gré des nouveaux lieux où il s’installe.</p>",
+			"credit": "Laboratoire sauvage de recherches expérimentales Désorceler la finance.",
+
+			"croquis": "",
+			"collection": ["Cabinet1","Cabinet2","Cabinet3","Cabinet4","Cabinet5"]
 		},
 
 		{
@@ -508,7 +573,7 @@
 			"credit": "Laboratoire Désorceler la finance. Licence CC BY-NC-SA 4.0",
 
 			"croquis": [""],
-			"collection": ["nommer", "faconner", "infiltrer", "mapGloss","glossBIP", "vidParadisRelanceTaux"]
+			"collection": ["nommer", "faconner", "infiltrer", "mapGloss","glossBIP"]
 		},
 		{
 			"pieceId": "Potion5",
@@ -535,6 +600,98 @@
 
 			"croquis": "",
 			"collection": ["microcosmogrammeQuestion1","microcosmogrammeQuestion2","microcosmogrammeQuestion3","microcosmogrammeQuestion4","microcosmogrammeQuestion5", "microcosmogrammeQuestion6","microcosmogrammeQuestion7","microcosmogrammeQuestion8","microcosmogrammeQuestion9","microcosmogrammeQuestion10"]
+		},
+		{
+			"pieceId": "Traite5-5",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.5</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "exploration",
+
+			"date": "2021",
+			"texte": "<p>La <i>Déclaration relative au design et à la visualisation des données</i> issue du <i>Traité de désorcèlement économique</i> énonce les principes fondamentaux de la visualisation de données économiques dans le cadre du désorcèlement. Les deux Articles présentés ici remettent les corps au centre du processus de production des données et de leur visualisation. La visualisation déborde ainsi des données pour impliquer ceux et celles qui la font, qui la consulte ou qui en sont le sujet.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0.",
+
+			"croquis": "",
+			"collection": ["Art7","Art8"]
+		},
+		{
+			"pieceId": "Totem5",
+			"titre": "<i>Une relation intime et tout à fait spéciale</i> et <i>Bien mieux que les humains par tous les moyens possibles</i>",
+			"salle": "Faire déborder l'économie",
+			"mode": "superposition",
+
+			"date": "2018",
+			"texte": "<p>Les deux pièces présentées ici ont été produites par le collectif .CORP (Damien Baïs, Vincent Gobber et Fabrice Sabatier – en collaboration avec Gaël Moissonnier pour le son), au Bel Ordinaire de Pau, à l’occasion de l’exposition <i>Dé-dissimulation</i>, en 2018. <br> <i>Une relation intime et tout à fait spéciale</i>, installation numérique, sonore et interactive, émet l’hypothèse que la relation de nos sociétés modernes aux intelligences artificielles relève d’une forme de totémisme et nous interroge sur le type de communion ou de familiarité que nous voulons entretenir avec elles.<br> Quant à <i>Bien mieux que les humains par tous les moyens possibles</i>, série de 8 drapeaux imprimés, elle se sert des structures narratives des mâts totémiques, en particulier ceux du Nord-Ouest Américain, pour schématiser les interactions entre capitalisme, technologie et idéologies. <br>L’intelligence artificielle qui a intéressé .CORP n’est pas celle de la science-fiction dystopique, ce n’est pas non plus celle qui fait l’objet de controverses ou de fantasmes prophétisant la singularité technologique, qu’elle soit imminente ou lointaine, hostile ou providentielle. Plus que des considérations techniques, ce sont les implications politiques et sociales des intelligences artificielles qui sont au cœur de ces deux œuvres. C’est pourquoi le totémisme peut devenir une clé de lecture du phénomène et c’est la raison pour laquelle ces pièces jouent du positionnement individuel et collectif du public vis-à-vis d’elles.</p>",
+			"credit": ".CORP et Gaël Moissonnier",
+
+			"croquis": "",
+			"collection": ["Pau1","PauVid2","Pau3","Pau4","PauVid1","Pau5", "Pau6","PauVid3","Pau7"]
+		},
+
+		{
+			"pieceId": "Traite1-6",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.1</i>",
+			"salle": "Traité",
+			"mode": "superposition",
+
+			"date": "2021",
+			"texte": "<p>La <i>Déclaration relative au design et à la visualisation des données</i> s’ouvre avec un préambule, le protocole et les dispositions générales.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Voix : Alix Denambride.",
+
+			"croquis": "",
+			"collection": ["Traite1-Son","Titre1-conclu1", "Titre1-conclu2"]
+		},
+		{
+			"pieceId": "Traite2-6",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.2</i>",
+			"salle": "Traité",
+			"mode": "superposition",
+
+			"date": "2021",
+			"texte": "<p>Les Dispositions relatives au temps et à la scénarisation, du Titre 2, forment deux articles placés sous l'influence du feu.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Voix : Alix Denambride.",
+
+			"croquis": "",
+			"collection": ["Traite2-Son","Titre2_2", "Titre2_3","Titre2_4","Titre2_6","Titre2_7","Titre2_5","Titre2_8","Titre2_9"]
+		},
+		{
+			"pieceId": "Traite3-6",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.3</i>",
+			"salle": "Traité",
+			"mode": "superposition",
+
+			"date": "2021",
+			"texte": "<p>Les Dispositions relatives à l'espace et à l'exploration, du Titre 3, forment deux articles placés sous l'influence de la terre.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Voix : Alix Denambride.",
+
+			"croquis": "",
+			"collection": ["Traite3-Son","Titre3_2", "Titre3_3","Titre3_5","Titre3_6","Titre3_4","Titre3_7","Titre3_8"]
+		},
+		{
+			"pieceId": "Traite4-6",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.4</i>",
+			"salle": "Traité",
+			"mode": "superposition",
+
+			"date": "2021",
+			"texte": "<p>Les Dispositions relatives aux images et à l’imagination, du Titre 4, forment deux articles placés sous l’influence de l’air.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Voix : Alix Denambride.",
+
+			"croquis": "",
+			"collection": ["Traite4-Son","Titre4_4", "Titre4_3","Titre4_2","Titre4_5","Titre4_7","Titre4_8","Titre4_6","Titre4_9","Titre4_10"]
+		},
+		{
+			"pieceId": "Traite5-6",
+			"titre": "<i>Traité - Déclaration relative au design et à la visualisation des données - Part.5</i>",
+			"salle": "Traité",
+			"mode": "superposition",
+
+			"date": "2021",
+			"texte": "<p>Les Dispositions relatives aux corps et aux implications, du Titre 5, forment deux articles placés sous l’influence de l’eau.</p>",
+			"credit": "Fabrice Sabatier. Licence CC BY-NC-SA 4.0. Voix : Alix Denambride.",
+
+			"croquis": "",
+			"collection": ["Traite5-Son","Titre5_2", "Titre5_3","Titre5_4","Titre5_6","Titre5_7","Titre5_5","Titre5_8","Titre5_9"]
 		}
 
 		
