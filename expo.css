@@ -44,8 +44,8 @@
 	width: 50%;
 	bottom: 0px;
 
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
+	/*border-top: 1px solid black;
+	border-bottom: 1px solid black;*/
 	
 	overflow: hidden;
 	/*background-color: #0FF;*/
@@ -60,8 +60,8 @@
 	width: calc( 50% - 40px );
 	bottom: 0px;	
 	
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
+	/*border-top: 1px solid black;
+	border-bottom: 1px solid black;*/
 
 	overflow-y: auto;
 	/*
