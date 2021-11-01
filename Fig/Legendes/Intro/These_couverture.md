@@ -1,0 +1,1 @@
+Couverture de la thèse, *Saisir l'économie par le(s) sens. Une approche critique et sorcière de la visualisation de données économique par le design*, soutenue le 15 novembre 2021.

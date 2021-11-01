@@ -169,12 +169,12 @@ ul{
 /*----------------------------------------------------------------
 	GESTION DE ECARTS
 ----------------------------------------------------------------*/
-#sommaire .lvl1 {
-	margin-top: 5px;
+#sommaire .Contents1 {
+	margin-top: 24px;
 	margin-bottom: 5px;
 }
-#sommaire .lvl2 {
-	margin-top: 5px;
+#sommaire .Contents2 {
+	margin-top: 14px;
 	margin-bottom: 5px;
 }
 #sommaire .lvl3 {
