@@ -210,7 +210,6 @@ function initFig() {
 			allFigures[i].setAttribute("ref", allFigures[i].href);
 			allFigures[i].href = "javascript: void(0)";
 		}
-		
 	}
 	
 }
@@ -249,8 +248,8 @@ function findAllFigureOnText() {
 	for (var i = 0; i < allFigures.length; i++) {
 		
 		//exception des note de bas de page
-		if(allFigures[i].parentNode!=undefined && allFigures[i].parentNode.className!="Footnote") {
-		
+		if(allFigures[i].parentNode!=undefined && allFigures[i].parentNode.className!="Footnote" && compareNodePos(allFigures[i])) {
+			
 			var f = allFigures[i];
 			var y = f.getBoundingClientRect().y;
 			
@@ -267,6 +266,14 @@ function findAllFigureOnText() {
 		}
 
 	}
+}
+
+function compareNodePos(element){
+	var el = $("#toc203")[0];
+	var position = el.compareDocumentPosition(element);
+	
+	if (position & 0x04) return false;//after
+    if (position & 0x02) return true;//before
 }
 
 //-------------------------------------------------------

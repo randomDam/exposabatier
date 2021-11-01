@@ -476,10 +476,12 @@ function onMouseclick(event) {
 	if(expoSelected.length==0 && salleSelected.length>0){
 		console.log("salle : "+salleSelected[0].idName);
 		fillSalleTexte(salleSelected[0].idName);
+		unFillCartel();
 	}
 
 	if(expoSelected.length==0 && salleSelected.length==0){
 		$("#part_right").load("presentationExpo.html");
+		unFillCartel();
 	}
 
 	console.log(ArrayTitre);
