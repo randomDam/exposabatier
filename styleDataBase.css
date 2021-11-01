@@ -63,8 +63,8 @@ SUPERPOSITION ELEMENT
 .superpositionElementInvert video{
 	position: absolute;
 	width: 300px;
-	top: 20px;
-	left: 20px;
+	top: 0px;
+	left: 0px;
 }
 
 

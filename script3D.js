@@ -27,7 +27,7 @@ function loadPresentationTest() {
 //-------------------------------------------------------------
 //INIT 3D 
 //-------------------------------------------------------------
-var container, renderer, stats, scene, camera, gui, guiData;
+export var container, renderer, stats, scene, camera, gui, guiData;
 
 var fontLoader;
 var fontFaune;
@@ -95,6 +95,23 @@ function init3D() {
 	//-------------------------------------------------------------
 	//window.addEventListener('click', onMouseclick, false);
 	$("#part_left").click(onMouseclick);
+
+	/*
+	{
+		"x": -69.9571585577772,
+		"y": 80.2343278756212,
+		"z": 
+	}
+	
+	{
+    "_x": ,
+    "_y": -0.380563000401648,
+    "_z": -0.18308687942172827,
+    "_order": "XYZ"
+	}
+	*/
+	camera.position.set( -69.9571585577772, 80.2343278756212, 124.65866758551947 );
+	camera.rotation.set( -0.4624381922089351, -0.380563000401648, -0.18308687942172827 );
 }
 
 //-------------------------------------------------------------
@@ -126,6 +143,8 @@ function onWindowResize(){
     
 	renderer.setPixelRatio(window.devicePixelRatio);
 	renderer.setSize(container.offsetWidth, container.offsetHeight);
+
+	console.log(camera);
 }
 
 var help = "lll";
