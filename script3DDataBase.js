@@ -503,6 +503,11 @@ function fillCartel() {
 		.appendTo(target)
 
 }
+
+function unFillCartel(){
+	var target = $("#textExpo");
+	target.html("");
+}
 //-------------------------------------------------------------
 //fonction utils
 //-------------------------------------------------------------
