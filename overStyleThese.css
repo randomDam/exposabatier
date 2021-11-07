@@ -153,7 +153,7 @@ Override des styles de la these (doc par default)
 #frameThese .Footnote {
 	color: DarkSlateGrey;
 	font-family: "FFaune";
-	font-size: 0.9em;
+	font-size: 1.0em;
 	font-weight: normal;
 	margin-left: 100px;
 	padding-bottom: 10px;

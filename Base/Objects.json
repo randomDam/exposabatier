@@ -635,10 +635,31 @@
 	},
 
 	{
-		"id":"budget",
+		"id":"budget1",
 		"type":"image",
 		"path": "/Img/Budget/Expo1/budget1.jpg",
 		"texte": "Les cent premières images de la recherche Google « budget état ». Captures du 6 mai 2017.",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"budget2",
+		"type":"image",
+		"path": "/Img/Budget/Expo1/budget2.jpg",
+		"texte": "À partir de la capture des cent premiers résultats de la recherche « budget état », délimitation des surfaces en fonction du type d'images (visualisation de données quali- ou quantitatives).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"budget3",
+		"type":"image",
+		"path": "/Img/Budget/Expo1/budget3.jpg",
+		"texte": "À partir de la capture des cent premiers résultats de la recherche « budget état », délimitation des surfaces en fonction des données représentées par les camemberts (dépenses ou recettes).",
+		"credit": "Fabrice Sabatier"
+	},
+	{
+		"id":"budget4",
+		"type":"image",
+		"path": "/Img/Budget/Expo1/budget4.jpg",
+		"texte": "À partir de la capture des cent premiers résultats de la recherche « budget état », délimitation des surfaces en fonction de la provenance des images (sites de presse, blogs économiques ou sites gérés par des autorités publiques).",
 		"credit": "Fabrice Sabatier"
 	},
 
@@ -1267,37 +1288,44 @@
 	{
 		"id":"potion_Frag1",
 		"type":"video",
-		"path": "/Img/Potions/Expo4/PotionFragment1_720.mp4",
+		"path": "/Img/Potions/Expo5/PotionFragment1_720.mp4",
 		"texte": "",
 		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
 	},
 	{
 		"id":"potion_Frag2",
 		"type":"video",
-		"path": "/Img/Potions/Expo4/PotionFragment2_720.mp4",
+		"path": "/Img/Potions/Expo5/PotionFragment2_720.mp4",
 		"texte": "",
 		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
 	},
 	{
 		"id":"potion_Frag3",
 		"type":"video",
-		"path": "/Img/Potions/Expo4/PotionFragment3_720.mp4",
+		"path": "/Img/Potions/Expo5/PotionFragment3_720.mp4",
 		"texte": "",
 		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
 	},
 	{
 		"id":"potion_Frag4",
 		"type":"video",
-		"path": "/Img/Potions/Expo4/PotionFragment4_720.mp4",
+		"path": "/Img/Potions/Expo5/PotionFragment4_720.mp4",
 		"texte": "",
 		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
 	},
 	{
 		"id":"potion_Frag5",
 		"type":"video",
-		"path": "/Img/Potions/Expo4/PotionFragment5_720.mp4",
-		"texte": "",
-		"credit": "Mendori Productions, Arthur David et Sebastien Houllemare."
+		"path": "/Img/Potions/Expo5/PotionFragment5_720.mp4",
+		"texte": "Exercice de focalisation énergétique avant réalisation de votre propre potion.",
+		"credit": "Laboratoire Désorceler la finance"
+	},
+	{
+		"id":"exerciceImagination",
+		"type":"image",
+		"path": "/Img/Potions/Expo4/exVert.jpg",
+		"texte": "Alchimie brassicole",
+		"credit": "Laboratoire Désorceler la finance"
 	},
 
 	{
@@ -1467,7 +1495,7 @@
 		"type":"video",
 		"path": "/Img/TraiteDLF/Expo4/lectureTraiteDLF3.mp4",
 		"texte": "<i>Traité - Déclaration relative au désenvoûtement de la finance et aux conditions d'existence des alternatives (draft version)</i>. Lu par Brune Campos.",
-		"credit": "Laboratoire Désorceler la finance. Voix : Brune Campos. Prise de son : Vincent Matyn. "
+		"credit": "Laboratoire Désorceler la finance. Voix : Brune Campos. Prise de son : Vincent Matyn."
 	},
 	{
 		"id":"TxtTraiteDLF",
@@ -2032,6 +2060,13 @@
 		"path": "/Img/Gloss/Expo5/GlossaireBIP_GregoryEdelein.jpg",
 		"texte": "Glossaire de la finance et de la sorcellerie dans l'exposition <i>Le Cabinet de curiosités économiques</i>, du Laboratoire sauvage Désorceler la Finance, à la Biennale de l'Image Possible (BIP), Liège, 2020.",
 		"credit": "© GregoryEdelein"
+	},
+	{
+		"id":"glossSon",
+		"type":"video",
+		"path": "/Img/Gloss/Expo5/glossaireExtrait.mp4",
+		"texte": "Lecture de quelques mots du Glossaire lors d'une séance de travail.",
+		"credit": "Laboratoire Désorceler la finance. Prise de son et montage : Vincent Matyn. "
 	},
 
 	{
@@ -2760,8 +2795,8 @@
 		"id":"Traite1-Son",
 		"type":"video",
 		"path": "/Img/Traite1/Expo6/Traite_part1.mp4",
-		"texte": "Première partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
-		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+		"texte": "Première partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride. Montage sonore : Alix Denambride et Madame Patate."
 	},	
 	{
 		"id":"Preambule",
@@ -2800,10 +2835,10 @@
 	},
 	{
 		"id":"Traite2-Son",
-		"type":"image",
-		"path": "/Img/Traite2/Expo6/Traite-Part2_1.jpg",
-		"texte": "Deuxième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
-		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+		"type":"video",
+		"path": "/Img/Traite2/Expo6/Traite_part2.mp4",
+		"texte": "Deuxième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride. Montage sonore : Alix Denambride et Madame Patate."
 	},
 	{
 		"id":"Titre2_2",
@@ -2863,10 +2898,10 @@
 	},
 	{
 		"id":"Traite3-Son",
-		"type":"image",
-		"path": "/Img/Traite3/Expo6/Traite-Part3_1.jpg",
-		"texte": "Troisième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
-		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+		"type":"video",
+		"path": "/Img/Traite3/Expo6/Traite_part3.mp4",
+		"texte": "Troisième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride. Montage sonore : Alix Denambride et Madame Patate."
 	},
 	{
 		"id":"Titre3_2",
@@ -2919,10 +2954,10 @@
 	},
 	{
 		"id":"Traite4-Son",
-		"type":"image",
-		"path": "/Img/Traite4/Expo6/Traite-Part4_1.jpg",
-		"texte": "Quatrième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
-		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+		"type":"video",
+		"path": "/Img/Traite4/Expo6/Traite_part4.mp4",
+		"texte": "Quatrième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride. Montage sonore : Alix Denambride et Madame Patate."
 	},
 	{
 		"id":"Titre4_4",
@@ -2989,10 +3024,10 @@
 	},
 	{
 		"id":"Traite5-Son",
-		"type":"image",
-		"path": "/Img/Traite5/Expo6/Traite-Part5_1.jpg",
-		"texte": "Cinquième et dernière partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>. Lecture Alix Denambride.",
-		"credit": "Fabrice Sabatier. Voix : Alix Denambride"
+		"type":"video",
+		"path": "/Img/Traite5/Expo6/Traite_part5.mp4",
+		"texte": "Cinquième partie de la <i>Déclaration relative au design et à la visualisation des données</i> du <i>Traité de désorcèlement économique</i>.",
+		"credit": "Fabrice Sabatier. Voix : Alix Denambride. Montage sonore : Alix Denambride et Madame Patate."
 	},
 	{
 		"id":"Titre5_2",

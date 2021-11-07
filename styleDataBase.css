@@ -75,8 +75,8 @@ EXPLORATION ELEMENT
 	position: relative;
 	display: inline-block;
 	
-	left: calc(10%);
-	width: 80%;
+	left: calc(5%);
+	width: 90%;
 	height: auto;
 	
 	min-height: 50px;

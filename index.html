@@ -70,6 +70,22 @@
 	<!--
 	<script src="/scriptP5.js" defer></script>
 	-->
+
+	<!-- Matomo -->
+	<script>
+		var _paq = window._paq = window._paq || [];
+		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function() {
+		var u="//www.fabricesabatier.com/analytics/";
+		_paq.push(['setTrackerUrl', u+'matomo.php']);
+		_paq.push(['setSiteId', '1']);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+		})();
+	</script>
+	<!-- End Matomo Code -->
 </head>
 <!--⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅
 	BODY
@@ -235,13 +251,13 @@
 				<div class="intro_inner">
 					<h3>À propos du site</h3>
 					<p>
-						Ce site est développé en HTML5 et JavaScript et utilise les bibliothèques Three.js, jQuery et Panzoom. <br> Il n’est, à ce jour, pas adapté à la navigation sur tablette et smartphone. <br> Le code source du site est placé sous licence libre CC BY-NC-SA 4.0. <br>Ce site a été développé par Damien Baïs que je remercie chaleureusement pour son aide précieuse.
+						Ce site est développé en HTML5 et JavaScript et utilise les bibliothèques Three.js, Markdown.js, jQuery et Panzoom. <br> Il n’est, à ce jour, pas adapté à la navigation sur tablette et smartphone. <br> Le code source du site est placé sous licence libre <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank" style="color: white">CC BY-NC-SA 4.0</a>. <br>Ce site a été développé par Damien Baïs (damien@corp-lab (dot) com). Je le remercie chaleureusement pour cette aide précieuse, ainsi que le Random(lab), dans le cadre duquel il a travaillé.
 					</p>
 					<p>
 						Les documents iconographiques présents sur ce site sont mobilisés à des fins de documentation ou de démonstration, hors toute exploitation commerciale. Les auteurs sont en droit de demander de supprimer les éléments qui leurs appartiennent. 
 					</p>
 					<p>
-					Contact : fabrice @ corp-lab (dot) com
+					Contact : fabrice@corp-lab (dot) com
 					</p>
 					
 					<br>

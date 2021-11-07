@@ -340,7 +340,7 @@ function traceCicle(sceneRef, paths, hauteur, salleName) {
 	group.scale.multiplyScalar(0.2);
 
 	for (var i = 0; i < paths.length; i++) {
-		const geometry = new THREE.CylinderGeometry(10, 10, 3, 16);
+		const geometry = new THREE.CylinderGeometry(8, 8, 3, 16);
 		//const geometry = new THREE.BoxGeometry( 10,10,10 );
 		const material = new THREE.MeshBasicMaterial({
 			color: defaultColor_point
